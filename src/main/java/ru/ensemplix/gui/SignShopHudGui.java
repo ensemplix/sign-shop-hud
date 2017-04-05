@@ -3,22 +3,33 @@ package ru.ensemplix.gui;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.GuiScreen;
 import net.minecraft.client.gui.ScaledResolution;
+import org.lwjgl.opengl.GL11;
 import ru.ensemplix.SignShop;
 
 public class SignShopHudGui extends GuiScreen {
 
     private static final Minecraft minecraft = Minecraft.getMinecraft();
-    private final SignShop shop;
-    private final int width;
-    private final int height;
 
     public SignShopHudGui(SignShop shop) {
-        this.shop = shop;
         ScaledResolution scaled = new ScaledResolution(minecraft, minecraft.displayWidth, minecraft.displayHeight);
-        this.width = scaled.getScaledWidth();
-        this.height = scaled.getScaledHeight();
+        int width = scaled.getScaledWidth();
+        int height = scaled.getScaledHeight();
+        int factor = scaled.getScaleFactor();
 
-        drawCenteredString(minecraft.fontRenderer, shop.getOwner(), width / 2, (height / 2) - 4, Integer.parseInt("FFAA00", 16));
+        int centerX = width / 2;
+
+        int backgroundXL = centerX - 170 / factor;
+        int backgroundXR = centerX + 170 / factor;
+        int backgroundYT = 60 / factor;
+        int backgroundYB = backgroundYT + 300 / factor;
+
+        GL11.glColor4f(1.0F, 1.0F, 1.0F, 1.0F);
+
+        drawGradientRect(backgroundXL, backgroundYT, backgroundXR, backgroundYB, 0xC0101010, 0xD0101010);
+        drawHorizontalLine(backgroundXL, backgroundXR - 1, backgroundYT, 0xFFFFFFFF);
+        drawHorizontalLine(backgroundXL, backgroundXR - 1, backgroundYB - 1, 0xFFFFFFFF);
+        drawVerticalLine(backgroundXL, backgroundYT, backgroundYB, 0xFFFFFFFF);
+        drawVerticalLine(backgroundXR - 1, backgroundYT, backgroundYB, 0xFFFFFFFF);
     }
 
 }
