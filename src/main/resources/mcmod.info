@@ -1,0 +1,8 @@
+[{
+  "modid": "sign-shop-hud",
+  "name": "SignShopHud",
+  "description": "Displays sign shop info",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "authors": [ "Ensemplix" ],
+}]
