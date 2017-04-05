@@ -34,7 +34,7 @@ public class SignShopHudRender {
 
         Vec3 position = player.getPosition(0);
         Vec3 look = player.getLook(0);
-        Vec3 distance = position.addVector(look.xCoord * 2, look.yCoord * 2, look.zCoord * 2);
+        Vec3 distance = position.addVector(look.xCoord * 3, look.yCoord * 3, look.zCoord * 3);
 
         MovingObjectPosition mop = world.rayTraceBlocks(position, distance, true);
 
