@@ -15,7 +15,6 @@ public class SignShopHudGui extends GuiScreen {
         int width = scaled.getScaledWidth();
         int height = scaled.getScaledHeight();
         int factor = scaled.getScaleFactor();
-
         int centerX = width / 2;
 
         int backgroundXL = centerX - 170 / factor;
@@ -23,13 +22,21 @@ public class SignShopHudGui extends GuiScreen {
         int backgroundYT = 60 / factor;
         int backgroundYB = backgroundYT + 300 / factor;
 
-        GL11.glColor4f(1.0F, 1.0F, 1.0F, 1.0F);
-
         drawGradientRect(backgroundXL, backgroundYT, backgroundXR, backgroundYB, 0xC0101010, 0xD0101010);
         drawHorizontalLine(backgroundXL, backgroundXR - 1, backgroundYT, 0xFFFFFFFF);
         drawHorizontalLine(backgroundXL, backgroundXR - 1, backgroundYB - 1, 0xFFFFFFFF);
         drawVerticalLine(backgroundXL, backgroundYT, backgroundYB, 0xFFFFFFFF);
         drawVerticalLine(backgroundXR - 1, backgroundYT, backgroundYB, 0xFFFFFFFF);
+
+        GL11.glPushMatrix();
+        GL11.glEnable(GL11.GL_LIGHTING);
+        GL11.glEnable(GL11.GL_DEPTH_TEST);
+        GL11.glScalef(2.0f, 2.0f, 1.0f);
+        itemRender.renderItemAndEffectIntoGUI(minecraft.fontRenderer, minecraft.getTextureManager(), shop.getStack(), (centerX - 15) / 2, 75 / factor / 2);
+        itemRender.renderItemIntoGUI(minecraft.fontRenderer, minecraft.getTextureManager(), shop.getStack(), (centerX - 15) / 2, 75 / factor / 2);
+        GL11.glDisable(GL11.GL_LIGHTING);
+        GL11.glDisable(GL11.GL_DEPTH_TEST);
+        GL11.glPopMatrix();
     }
 
 }
