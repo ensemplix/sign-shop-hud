@@ -1,6 +1,5 @@
 apply plugin: 'forge'
 apply plugin: 'java'
-apply plugin: 'idea'
 
 group = 'ru.ensemplix'
 version = '1.0-SNAPSHOT'
@@ -26,4 +25,13 @@ buildscript {
 
 minecraft {
     version = '1.7.10-10.13.4.1558-1.7.10'
+    mappings = 'stable_12'
+}
+
+task setup {
+    dependsOn 'setupDecompWorkspace'
+    dependsOn 'setupDevWorkspace'
+    dependsOn 'idea'
+    tasks.findByName('setupDevWorkspace').mustRunAfter 'setupDecompWorkspace'
+    tasks.findByName('idea').mustRunAfter 'setupDevWorkspace'
 }
