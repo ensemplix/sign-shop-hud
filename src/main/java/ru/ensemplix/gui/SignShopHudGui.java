@@ -17,25 +17,24 @@ public class SignShopHudGui extends GuiScreen {
     private static final Minecraft minecraft = Minecraft.getMinecraft();
     private static final TextureManager textureManager = minecraft.getTextureManager();
     private static final FontRenderer fontRenderer = minecraft.fontRendererObj;
-    private static final TextRenderer textRenderer = new TextRenderer(24);
+    private static final TextRenderer textRenderer = new TextRenderer(20);
 
     private static final int BACKGROUND_TOP_PADDING = 60;
-    private static final int BACKGROUND_WIDTH = 340;
-    private static final int BACKGROUND_HEIGHT = 300;
+    private static final int BACKGROUND_WIDTH = 320;
+    private static final int BACKGROUND_HEIGHT = 250;
 
-    private final int width;
     private final int scale;
     private final int centerX;
 
     public SignShopHudGui(SignShop shop) {
         ScaledResolution scaled = new ScaledResolution(minecraft, minecraft.displayWidth, minecraft.displayHeight);
-        width = scaled.getScaledWidth();
         scale = scaled.getScaleFactor();
-        centerX = width / 2;
+        centerX = scaled.getScaledWidth() / 2;
 
         drawBackground();
         drawItem(shop.getStack());
-        drawText(shop.getOwner());
+        drawHeader(shop.getOwner(), shop.getStack().getDisplayName(), shop.getQuantity());
+        drawPrices(shop.getBuyPrice(), shop.getSellPrice());
     }
 
     private void drawBackground() {
@@ -77,10 +76,29 @@ public class SignShopHudGui extends GuiScreen {
         glPopMatrix();
     }
 
-    private void drawText(String owner) {
-        textRenderer.drawCenteredString(owner, centerX, 150 / scale, 0xFF5DE8ED, false);
-        textRenderer.drawCenteredString("АЛМАЗНАЯ БРОНЯ", centerX, 175 / scale, 0xFFFFFFFF, false);
-        textRenderer.drawCenteredString("X 64", centerX, 200 / scale, 0xFFFFFFFF, false);
+    private void drawHeader(String owner, String itemName, int quantity) {
+        textRenderer.drawCenteredString(owner.toUpperCase(), centerX, 140 / scale, 0xFF5DE8ED, false);
+        textRenderer.drawCenteredString(itemName.toUpperCase(), centerX, 175 / scale, 0xFFFFFFFF, false);
+        textRenderer.drawCenteredString(quantity + " ШТ.", centerX, 200 / scale, 0xFFFFFFFF, false);
+    }
+
+    private void drawPrices(int buy, int sell) {
+        drawHorizontalLine(centerX - 120 / scale, centerX + 120 / scale, 230 / scale, 0xFFFFFFFF);
+
+        if(buy > 0 && sell > 0) {
+            drawVerticalLine(centerX, 240 / scale, 290 / scale, 0xFFFFFFFF);
+            drawPrice("КУПИТЬ", centerX - 60 / scale, 250 / scale, buy, 0xFF15F745);
+            drawPrice("ПРОДАТЬ", centerX + 70 / scale, 250 / scale, sell, 0xFFF7E415);
+        } else if(buy > 0) {
+            drawPrice("КУПИТЬ", centerX,250 / scale, buy, 0xFF15F745);
+        } else if(sell > 0) {
+            drawPrice("ПРОДАТЬ", centerX,250 / scale, sell, 0xFFF7E415);
+        }
+    }
+
+    private void drawPrice(String title, int x, int y, int price, int color) {
+        textRenderer.drawCenteredString(title, x, y, color, false);
+        textRenderer.drawCenteredString(String.valueOf(price), x, y + 25 / scale, 0xFFFFFFFF, false);
     }
 
 }
