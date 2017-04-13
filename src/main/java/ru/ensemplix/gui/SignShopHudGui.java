@@ -77,7 +77,7 @@ public class SignShopHudGui extends GuiScreen {
     }
 
     private void drawHeader(String owner, String itemName, int quantity) {
-        textRenderer.drawCenteredString(owner.toUpperCase(), centerX, 140 / scale, 0xFF5DE8ED, false);
+        textRenderer.drawCenteredString(owner.toUpperCase(), centerX, 148 / scale, 0xFF5DE8ED, false);
         textRenderer.drawCenteredString(itemName.toUpperCase(), centerX, 175 / scale, 0xFFFFFFFF, false);
         textRenderer.drawCenteredString(quantity + " ШТ.", centerX, 200 / scale, 0xFFFFFFFF, false);
     }
