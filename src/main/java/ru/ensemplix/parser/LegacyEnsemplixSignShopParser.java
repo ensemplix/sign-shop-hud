@@ -26,7 +26,7 @@ public class LegacyEnsemplixSignShopParser implements SignShopParser {
 
         try(BufferedReader reader = new BufferedReader(new InputStreamReader(resourceManager.getResource(resource).getInputStream(), "UTF-8"))) {
             while ((line = reader.readLine()) != null) {
-                String[] args = line.split(",");
+                String[] args = line.replaceAll("\"", "").split(",");
                 String name = args[0];
                 int id = Integer.parseInt(args[1]);
                 int data = Integer.parseInt(args[2]);
@@ -43,7 +43,7 @@ public class LegacyEnsemplixSignShopParser implements SignShopParser {
                 items.put(name, new ItemInfo(id, data));
             }
         } catch(Exception e) {
-            throw new RuntimeException(e);
+            throw new RuntimeException("Failed to parse legacy items", e);
         }
     }
 
