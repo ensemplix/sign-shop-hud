@@ -11,12 +11,12 @@ import net.minecraft.util.Vec3;
 import net.minecraftforge.client.event.RenderGameOverlayEvent;
 import net.minecraftforge.client.event.RenderGameOverlayEvent.ElementType;
 import ru.ensemplix.gui.SignShopHudGui;
-import ru.ensemplix.parser.EnsemplixSignShopParser;
+import ru.ensemplix.parser.LegacyEnsemplixSignShopParser;
 import ru.ensemplix.parser.SignShopParser;
 
 public class SignShopHudRender {
 
-    private static final SignShopParser parser = new EnsemplixSignShopParser();
+    private static final SignShopParser parser = new LegacyEnsemplixSignShopParser();
     private static final Minecraft minecraft = Minecraft.getMinecraft();
 
     @SubscribeEvent
