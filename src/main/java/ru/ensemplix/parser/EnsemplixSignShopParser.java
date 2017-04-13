@@ -9,7 +9,7 @@ public class EnsemplixSignShopParser implements SignShopParser {
     @Override
     public SignShop parse(String[] lines) {
         if(lines[0] != null) {
-            return new SignShop(lines[0], 1, new ItemStack(Items.diamond, 1), 15 ,25);
+            return new SignShop("СИРИУС", 1, new ItemStack(Items.diamond, 1), 15 ,25);
         }
 
         return null;

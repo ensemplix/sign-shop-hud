@@ -7,6 +7,7 @@ import net.minecraft.client.gui.ScaledResolution;
 import net.minecraft.client.renderer.texture.TextureManager;
 import net.minecraft.item.ItemStack;
 import ru.ensemplix.SignShop;
+import ru.ensemplix.gui.text.TextRenderer;
 
 import static org.lwjgl.opengl.GL11.*;
 
@@ -16,6 +17,7 @@ public class SignShopHudGui extends GuiScreen {
     private static final Minecraft minecraft = Minecraft.getMinecraft();
     private static final TextureManager textureManager = minecraft.getTextureManager();
     private static final FontRenderer fontRenderer = minecraft.fontRendererObj;
+    private static final TextRenderer textRenderer = new TextRenderer(24);
 
     private static final int BACKGROUND_TOP_PADDING = 60;
     private static final int BACKGROUND_WIDTH = 340;
@@ -33,6 +35,7 @@ public class SignShopHudGui extends GuiScreen {
 
         drawBackground();
         drawItem(shop.getStack());
+        drawText(shop.getOwner());
     }
 
     private void drawBackground() {
@@ -49,8 +52,8 @@ public class SignShopHudGui extends GuiScreen {
     }
 
     private void drawItem(ItemStack stack) {
-        int itemScale = 0;
-        int itemSize = 0;
+        int itemScale;
+        int itemSize;
 
         switch(scale) {
             case 1:
@@ -72,6 +75,12 @@ public class SignShopHudGui extends GuiScreen {
         glDisable(GL_LIGHTING);
         glDisable(GL_DEPTH_TEST);
         glPopMatrix();
+    }
+
+    private void drawText(String owner) {
+        textRenderer.drawCenteredString(owner, centerX, 150 / scale, 0xFF5DE8ED, false);
+        textRenderer.drawCenteredString("АЛМАЗНАЯ БРОНЯ", centerX, 175 / scale, 0xFFFFFFFF, false);
+        textRenderer.drawCenteredString("X 64", centerX, 200 / scale, 0xFFFFFFFF, false);
     }
 
 }
