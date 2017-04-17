@@ -87,8 +87,8 @@ public class SignShopHudGui extends GuiScreen {
 
         if(buy > 0 && sell > 0) {
             drawVerticalLine(centerX, 240 / scale, 290 / scale, 0xFFFFFFFF);
-            drawPrice("КУПИТЬ", centerX - 60 / scale, 250 / scale, buy, 0xFF15F745);
-            drawPrice("ПРОДАТЬ", centerX + 70 / scale, 250 / scale, sell, 0xFFF7E415);
+            drawPrice("ПРОДАТЬ", centerX - 70 / scale, 250 / scale, sell, 0xFFF7E415);
+            drawPrice("КУПИТЬ", centerX + 60 / scale, 250 / scale, buy, 0xFF15F745);
         } else if(buy > 0) {
             drawPrice("КУПИТЬ", centerX,250 / scale, buy, 0xFF15F745);
         } else if(sell > 0) {
