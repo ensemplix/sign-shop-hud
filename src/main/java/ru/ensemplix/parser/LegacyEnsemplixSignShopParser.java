@@ -93,9 +93,12 @@ public class LegacyEnsemplixSignShopParser implements SignShopParser {
 
         ItemInfo itemInfo = items.get(lines[3]);
         Item item = Item.getItemById(itemInfo.id);
-        ItemStack stack = new ItemStack(item, itemInfo.data, amount);
 
-        return new SignShop(owner, amount, stack, buy, sell);
+        if(item == null) {
+            return null;
+        }
+
+        return new SignShop(owner, amount, new ItemStack(item, amount, itemInfo.data), buy, sell);
     }
 
     private static class ItemInfo {
