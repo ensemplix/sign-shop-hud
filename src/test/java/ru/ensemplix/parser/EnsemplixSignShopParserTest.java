@@ -61,6 +61,16 @@ public class EnsemplixSignShopParserTest {
     }
 
     @Test
+    public void testParseDualPriceBuyLeft() {
+        assertNull(parser.parse(new String[] {"ensiriuswOw", "64", "П100:К150", "КАМЕНЬ"}));
+    }
+
+    @Test
+    public void testParseDualPriceSellRight() {
+        assertNull(parser.parse(new String[] {"ensiriuswOw", "64", "К100:К150", "КАМЕНЬ"}));
+    }
+
+    @Test
     public void testParseSinglePriceSuccess() {
         SignShop signShop = parser.parse(new String[] {"ensiriuswOw", "64", "К60", "КАМЕНЬ"});
 
