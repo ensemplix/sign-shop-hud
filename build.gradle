@@ -23,6 +23,37 @@ buildscript {
     }
 }
 
+repositories {
+    mavenCentral()
+
+    maven {
+        url 'http://maven.ensemplix.ru/artifactory/Ensemplix/'
+    }
+}
+
+configurations {
+    shade
+    compile.extendsFrom shade
+}
+
+dependencies {
+    shade 'ru.ensemplix.shop:sign-shop-data-importer:1.0-SNAPSHOT'
+    shade 'ru.ensemplix.shop:sign-shop-data-core:1.0-SNAPSHOT'
+
+    testCompile 'org.mockito:mockito-core:2.3.0'
+    testCompile 'junit:junit:4.12'
+}
+
+jar {
+    baseName = 'SignShopHud'
+
+    configurations.shade.each { dep ->
+        from(project.zipTree(dep)){
+            exclude 'META-INF', 'META-INF/**'
+        }
+    }
+}
+
 minecraft {
     version = '1.7.10-10.13.4.1558-1.7.10'
     mappings = 'stable_12'
