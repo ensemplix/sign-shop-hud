@@ -72,13 +72,13 @@ public class EnsemplixSignShopParserTest {
 
     @Test
     public void testParseSinglePriceSuccess() {
-        SignShop signShop = parser.parse(new String[] {"ensiriuswOw", "64", "К60", "КАМЕНЬ"});
+        SignShop signShop = parser.parse(new String[] {"ensiriuswOw", "64", "П60", "КАМЕНЬ"});
 
         assertNotNull(signShop);
         assertEquals("ensiriuswOw", signShop.getOwner());
         assertEquals(64, signShop.getQuantity());
         assertEquals(60, signShop.getSellPrice());
-        assertEquals(0, signShop.getBuyPrice());
+        assertEquals(-1, signShop.getBuyPrice());
     }
 
     @Test
@@ -88,8 +88,8 @@ public class EnsemplixSignShopParserTest {
         assertNotNull(signShop);
         assertEquals("ensiriuswOw", signShop.getOwner());
         assertEquals(64, signShop.getQuantity());
-        assertEquals(60, signShop.getSellPrice());
-        assertEquals(15, signShop.getBuyPrice());
+        assertEquals(15, signShop.getSellPrice());
+        assertEquals(60, signShop.getBuyPrice());
     }
 
 }

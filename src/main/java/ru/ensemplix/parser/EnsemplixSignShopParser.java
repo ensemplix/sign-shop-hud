@@ -4,9 +4,9 @@ import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.util.RegistryNamespaced;
 import ru.ensemplix.SignShop;
-import ru.ensemplix.shop.ShopItem;
-import ru.ensemplix.shop.ShopItemRegistry;
-import ru.ensemplix.shop.ShopItemStack;
+import ru.ensemplix.shop.*;
+
+import static ru.ensemplix.shop.ShopPrice.Result.SUCCESS;
 
 public class EnsemplixSignShopParser implements SignShopParser {
 
@@ -48,44 +48,14 @@ public class EnsemplixSignShopParser implements SignShopParser {
             return null;
         }
 
-        boolean sellProvided = false, buyProvided = false;
-        int sellPrice = 0, buyPrice = 0;
+        ShopPrice price = ShopPriceParser.parse(priceLine);
 
-        if(priceLine.contains(":")) {
-            String[] args = priceLine.split(":");
-
-            if(args.length == 1) {
-                return null;
-            }
-
-            // Покупка товара должна быть слева.
-            if(!args[0].startsWith("К")) {
-                return null;
-            }
-
-            // Продажа товара должна быть справа.
-            if(!args[1].startsWith("П")) {
-                return null;
-            }
-
-            sellPrice = getPrice(args[0]);
-            buyPrice = getPrice(args[1]);
-            buyProvided = true;
-            sellProvided = true;
-        } else if(priceLine.startsWith("К")) {
-            sellPrice = getPrice(priceLine);
-            sellProvided = true;
-        } else if(priceLine.startsWith("П")) {
-            buyPrice = getPrice(priceLine);
-            buyProvided = true;
-        }
-
-        if((sellPrice <= 0 && sellProvided) || (buyPrice <= 0 && buyProvided)) {
+        if(price.getResult() != SUCCESS) {
             return null;
         }
 
         ItemStack stack = new ItemStack(item, quantity, shopStack.getData());
-        return new SignShop(ownerNameLine, quantity, stack, buyPrice, sellPrice);
+        return new SignShop(ownerNameLine, quantity, stack, price.getBuyPrice(), price.getSellPrice());
     }
 
     private int getInt(String text) {
