@@ -1,4 +1,4 @@
-package ru.ensemplix.gui.text.internal;
+package ru.ensemplix.render.text.internal;
 
 import net.minecraft.client.renderer.GLAllocation;
 import org.lwjgl.opengl.GL11;

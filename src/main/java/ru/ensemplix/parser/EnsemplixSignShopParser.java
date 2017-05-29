@@ -66,8 +66,4 @@ public class EnsemplixSignShopParser implements SignShopParser {
         }
     }
 
-    private int getPrice(String price) {
-        return getInt(price.substring(1).trim());
-    }
-
 }

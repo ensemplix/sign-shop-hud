@@ -1,4 +1,4 @@
-package ru.ensemplix;
+package ru.ensemplix.render;
 
 import cpw.mods.fml.common.eventhandler.SubscribeEvent;
 import net.minecraft.client.Minecraft;
@@ -10,7 +10,8 @@ import net.minecraft.util.MovingObjectPosition;
 import net.minecraft.util.Vec3;
 import net.minecraftforge.client.event.RenderGameOverlayEvent;
 import net.minecraftforge.client.event.RenderGameOverlayEvent.ElementType;
-import ru.ensemplix.gui.SignShopHudGui;
+import ru.ensemplix.SignShop;
+import ru.ensemplix.render.gui.SignShopHudGuiRender;
 import ru.ensemplix.parser.EnsemplixSignShopParser;
 import ru.ensemplix.parser.SignShopParser;
 import ru.ensemplix.shop.ShopItemRegistry;
@@ -24,11 +25,7 @@ public class SignShopHudRender {
 
     @SubscribeEvent
     public void onRender(RenderGameOverlayEvent.Post event) {
-        if(event.isCancelable()) {
-            return;
-        }
-
-        if(event.type != ElementType.EXPERIENCE) {
+        if(event.isCanceled() || event.type != ElementType.EXPERIENCE) {
             return;
         }
 
@@ -62,7 +59,7 @@ public class SignShopHudRender {
             return;
         }
 
-        new SignShopHudGui(shop);
+        new SignShopHudGuiRender(shop);
     }
 
 }

@@ -1,4 +1,4 @@
-package ru.ensemplix.gui;
+package ru.ensemplix.render.gui;
 
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.FontRenderer;
@@ -7,12 +7,12 @@ import net.minecraft.client.gui.ScaledResolution;
 import net.minecraft.client.renderer.texture.TextureManager;
 import net.minecraft.item.ItemStack;
 import ru.ensemplix.SignShop;
-import ru.ensemplix.gui.text.TextRenderer;
+import ru.ensemplix.render.text.TextRenderer;
 
 import static org.lwjgl.opengl.GL11.*;
 
-// Данный класс занимается отрисовкой всплывающего окна.
-public class SignShopHudGui extends GuiScreen {
+// Занимается отрисовкой всплывающего окна.
+public class SignShopHudGuiRender extends GuiScreen {
 
     private static final Minecraft minecraft = Minecraft.getMinecraft();
     private static final TextureManager textureManager = minecraft.getTextureManager();
@@ -26,7 +26,7 @@ public class SignShopHudGui extends GuiScreen {
     private final int scale;
     private final int centerX;
 
-    public SignShopHudGui(SignShop shop) {
+    public SignShopHudGuiRender(SignShop shop) {
         ScaledResolution scaled = new ScaledResolution(minecraft, minecraft.displayWidth, minecraft.displayHeight);
         scale = scaled.getScaleFactor();
         centerX = scaled.getScaledWidth() / 2;
