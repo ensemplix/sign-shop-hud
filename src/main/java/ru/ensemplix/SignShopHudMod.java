@@ -22,8 +22,6 @@ public class SignShopHudMod {
     @EventHandler
     public void preInit(FMLPreInitializationEvent event) {
         modPath = event.getSourceFile().toPath();
-
-        System.out.println(modPath.toAbsolutePath().toString());
     }
 
     @EventHandler
