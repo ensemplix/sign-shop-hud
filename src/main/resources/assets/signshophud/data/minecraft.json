@@ -1,0 +1,5373 @@
+[
+  {
+    "name": "КАМЕНЬ",
+    "itemStack": {
+      "id": "minecraft:stone",
+      "data": 0
+    }
+  },
+  {
+    "name": "БЛОК_ТРАВЫ",
+    "itemStack": {
+      "id": "minecraft:grass",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗЕМЛЯ",
+    "itemStack": {
+      "id": "minecraft:dirt",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПОДЗОЛ",
+    "itemStack": {
+      "id": "minecraft:dirt",
+      "data": 2
+    }
+  },
+  {
+    "name": "БУЛЫЖНИК",
+    "itemStack": {
+      "id": "minecraft:cobblestone",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДУБОВЫЕ_ДОСКИ",
+    "itemStack": {
+      "id": "minecraft:planks",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЕЛОВЫЕ_ДОСКИ",
+    "itemStack": {
+      "id": "minecraft:planks",
+      "data": 1
+    }
+  },
+  {
+    "name": "БЕРЁЗОВЫЕ_ДОСКИ",
+    "itemStack": {
+      "id": "minecraft:planks",
+      "data": 2
+    }
+  },
+  {
+    "name": "ДОСКИ_ИЗ_ТР_ДЕР",
+    "itemStack": {
+      "id": "minecraft:planks",
+      "data": 3
+    }
+  },
+  {
+    "name": "ДОСКИ_ИЗ_АКАЦИИ",
+    "itemStack": {
+      "id": "minecraft:planks",
+      "data": 4
+    }
+  },
+  {
+    "name": "ДОС_ИЗ_ТЁМН_ДУБА",
+    "itemStack": {
+      "id": "minecraft:planks",
+      "data": 5
+    }
+  },
+  {
+    "name": "БЕДРОК",
+    "itemStack": {
+      "id": "minecraft:bedrock",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЕСОК",
+    "itemStack": {
+      "id": "minecraft:sand",
+      "data": 0
+    }
+  },
+  {
+    "name": "КРАСНЫЙ_ПЕСОК",
+    "itemStack": {
+      "id": "minecraft:sand",
+      "data": 1
+    }
+  },
+  {
+    "name": "ГРАВИЙ",
+    "itemStack": {
+      "id": "minecraft:gravel",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗОЛОТАЯ_РУДА",
+    "itemStack": {
+      "id": "minecraft:gold_ore",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЖЕЛЕЗНАЯ_РУДА",
+    "itemStack": {
+      "id": "minecraft:iron_ore",
+      "data": 0
+    }
+  },
+  {
+    "name": "УГОЛЬНАЯ_РУДА",
+    "itemStack": {
+      "id": "minecraft:coal_ore",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДУБОВЫЕ_БРЁВНА",
+    "itemStack": {
+      "id": "minecraft:log",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЕЛОВЫЕ_БРЁВНА",
+    "itemStack": {
+      "id": "minecraft:log",
+      "data": 1
+    }
+  },
+  {
+    "name": "БЕРЁЗОВЫЕ_БРЁВНА",
+    "itemStack": {
+      "id": "minecraft:log",
+      "data": 2
+    }
+  },
+  {
+    "name": "ТРОПИЧЕСК_БРЁВНА",
+    "itemStack": {
+      "id": "minecraft:log",
+      "data": 3
+    }
+  },
+  {
+    "name": "ГУБКА",
+    "itemStack": {
+      "id": "minecraft:sponge",
+      "data": 0
+    }
+  },
+  {
+    "name": "СТЕКЛО",
+    "itemStack": {
+      "id": "minecraft:glass",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛАЗУРИТОВАЯ_РУДА",
+    "itemStack": {
+      "id": "minecraft:lapis_ore",
+      "data": 0
+    }
+  },
+  {
+    "name": "БЛОК_ЛАЗУРИТА",
+    "itemStack": {
+      "id": "minecraft:lapis_block",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЕСЧАНИК",
+    "itemStack": {
+      "id": "minecraft:sandstone",
+      "data": 0
+    }
+  },
+  {
+    "name": "РЕЗНОЙ_ПЕСЧАНИК",
+    "itemStack": {
+      "id": "minecraft:sandstone",
+      "data": 1
+    }
+  },
+  {
+    "name": "ГЛАДКИЙ_ПЕСЧАНИК",
+    "itemStack": {
+      "id": "minecraft:sandstone",
+      "data": 2
+    }
+  },
+  {
+    "name": "БЕЛАЯ_ШЕРСТЬ",
+    "itemStack": {
+      "id": "minecraft:wool",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОРАНЖЕВАЯ_ШЕРСТЬ",
+    "itemStack": {
+      "id": "minecraft:wool",
+      "data": 1
+    }
+  },
+  {
+    "name": "ПУРПУРНАЯ_ШЕРСТЬ",
+    "itemStack": {
+      "id": "minecraft:wool",
+      "data": 2
+    }
+  },
+  {
+    "name": "ГОЛУБАЯ_ШЕРСТЬ",
+    "itemStack": {
+      "id": "minecraft:wool",
+      "data": 3
+    }
+  },
+  {
+    "name": "ЖЁЛТАЯ_ШЕРСТЬ",
+    "itemStack": {
+      "id": "minecraft:wool",
+      "data": 4
+    }
+  },
+  {
+    "name": "ЛАЙМОВАЯ_ШЕРСТЬ",
+    "itemStack": {
+      "id": "minecraft:wool",
+      "data": 5
+    }
+  },
+  {
+    "name": "РОЗОВАЯ_ШЕРСТЬ",
+    "itemStack": {
+      "id": "minecraft:wool",
+      "data": 6
+    }
+  },
+  {
+    "name": "СЕРАЯ_ШЕРСТЬ",
+    "itemStack": {
+      "id": "minecraft:wool",
+      "data": 7
+    }
+  },
+  {
+    "name": "СВЕТЛ_СЕР_ШЕРСТЬ",
+    "itemStack": {
+      "id": "minecraft:wool",
+      "data": 8
+    }
+  },
+  {
+    "name": "БИРЮЗОВАЯ_ШЕРСТЬ",
+    "itemStack": {
+      "id": "minecraft:wool",
+      "data": 9
+    }
+  },
+  {
+    "name": "ФИОЛЕТОВ_ШЕРСТЬ",
+    "itemStack": {
+      "id": "minecraft:wool",
+      "data": 10
+    }
+  },
+  {
+    "name": "СИНЯЯ_ШЕРСТЬ",
+    "itemStack": {
+      "id": "minecraft:wool",
+      "data": 11
+    }
+  },
+  {
+    "name": "КОРИЧНЕВ_ШЕРСТЬ",
+    "itemStack": {
+      "id": "minecraft:wool",
+      "data": 12
+    }
+  },
+  {
+    "name": "ЗЕЛЁНАЯ_ШЕРСТЬ",
+    "itemStack": {
+      "id": "minecraft:wool",
+      "data": 13
+    }
+  },
+  {
+    "name": "КРАСНАЯ_ШЕРСТЬ",
+    "itemStack": {
+      "id": "minecraft:wool",
+      "data": 14
+    }
+  },
+  {
+    "name": "ЧЁРНАЯ_ШЕРСТЬ",
+    "itemStack": {
+      "id": "minecraft:wool",
+      "data": 15
+    }
+  },
+  {
+    "name": "ЗОЛОТОЙ_БЛОК",
+    "itemStack": {
+      "id": "minecraft:gold_block",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЖЕЛЕЗНЫЙ_БЛОК",
+    "itemStack": {
+      "id": "minecraft:iron_block",
+      "data": 0
+    }
+  },
+  {
+    "name": "КАМЕННАЯ_ПЛИТА",
+    "itemStack": {
+      "id": "minecraft:stone_slab",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛИТА_ИЗ_ПЕСЧАН",
+    "itemStack": {
+      "id": "minecraft:stone_slab",
+      "data": 1
+    }
+  },
+  {
+    "name": "ПЛИТА_ИЗ_БУЛЫЖН",
+    "itemStack": {
+      "id": "minecraft:stone_slab",
+      "data": 3
+    }
+  },
+  {
+    "name": "КИРПИЧНАЯ_ПЛИТА",
+    "itemStack": {
+      "id": "minecraft:stone_slab",
+      "data": 4
+    }
+  },
+  {
+    "name": "ПЛИТА_ИЗ_К_КИРП",
+    "itemStack": {
+      "id": "minecraft:stone_slab",
+      "data": 5
+    }
+  },
+  {
+    "name": "ПЛ_ИЗ_АДСК_КИРП",
+    "itemStack": {
+      "id": "minecraft:stone_slab",
+      "data": 6
+    }
+  },
+  {
+    "name": "КВАРЦЕВАЯ_ПЛИТА",
+    "itemStack": {
+      "id": "minecraft:stone_slab",
+      "data": 7
+    }
+  },
+  {
+    "name": "КИРПИЧНЫЙ_БЛОК",
+    "itemStack": {
+      "id": "minecraft:brick_block",
+      "data": 0
+    }
+  },
+  {
+    "name": "КНИЖНАЯ_ПОЛКА",
+    "itemStack": {
+      "id": "minecraft:bookshelf",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗАМШЕЛ_БУЛЫЖНИК",
+    "itemStack": {
+      "id": "minecraft:mossy_cobblestone",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОБСИДИАН",
+    "itemStack": {
+      "id": "minecraft:obsidian",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДУБОВ_СТУПЕНЬКИ",
+    "itemStack": {
+      "id": "minecraft:oak_stairs",
+      "data": 0
+    }
+  },
+  {
+    "name": "АЛМАЗНАЯ_РУДА",
+    "itemStack": {
+      "id": "minecraft:diamond_ore",
+      "data": 0
+    }
+  },
+  {
+    "name": "АЛМАЗНЫЙ_БЛОК",
+    "itemStack": {
+      "id": "minecraft:diamond_block",
+      "data": 0
+    }
+  },
+  {
+    "name": "СТУПЕН_ИЗ_БУЛЫЖН",
+    "itemStack": {
+      "id": "minecraft:stone_stairs",
+      "data": 0
+    }
+  },
+  {
+    "name": "КРАСНАЯ_РУДА",
+    "itemStack": {
+      "id": "minecraft:redstone_ore",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛЁД",
+    "itemStack": {
+      "id": "minecraft:ice",
+      "data": 0
+    }
+  },
+  {
+    "name": "СНЕГ",
+    "itemStack": {
+      "id": "minecraft:snow",
+      "data": 0
+    }
+  },
+  {
+    "name": "ГЛИНА",
+    "itemStack": {
+      "id": "minecraft:clay",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТЫКВА",
+    "itemStack": {
+      "id": "minecraft:pumpkin",
+      "data": 0
+    }
+  },
+  {
+    "name": "АДСКИЙ_КАМЕНЬ",
+    "itemStack": {
+      "id": "minecraft:netherrack",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЕСОК_ДУШ",
+    "itemStack": {
+      "id": "minecraft:soul_sand",
+      "data": 0
+    }
+  },
+  {
+    "name": "СВЕТЯЩИЙС_КАМЕНЬ",
+    "itemStack": {
+      "id": "minecraft:glowstone",
+      "data": 0
+    }
+  },
+  {
+    "name": "СВЕТИЛЬНИК_ДЖЕКА",
+    "itemStack": {
+      "id": "minecraft:lit_pumpkin",
+      "data": 0
+    }
+  },
+  {
+    "name": "БЕЛОЕ_СТЕКЛО",
+    "itemStack": {
+      "id": "minecraft:stained_glass",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОРАНЖЕВОЕ_СТЕКЛО",
+    "itemStack": {
+      "id": "minecraft:stained_glass",
+      "data": 1
+    }
+  },
+  {
+    "name": "ПУРПУРНОЕ_СТЕКЛО",
+    "itemStack": {
+      "id": "minecraft:stained_glass",
+      "data": 2
+    }
+  },
+  {
+    "name": "ГОЛУБОЕ_СТЕКЛО",
+    "itemStack": {
+      "id": "minecraft:stained_glass",
+      "data": 3
+    }
+  },
+  {
+    "name": "ЖЁЛТОЕ_СТЕКЛО",
+    "itemStack": {
+      "id": "minecraft:stained_glass",
+      "data": 4
+    }
+  },
+  {
+    "name": "ЛАЙМОВОЕ_СТЕКЛО",
+    "itemStack": {
+      "id": "minecraft:stained_glass",
+      "data": 5
+    }
+  },
+  {
+    "name": "РОЗОВОЕ_СТЕКЛО",
+    "itemStack": {
+      "id": "minecraft:stained_glass",
+      "data": 6
+    }
+  },
+  {
+    "name": "СЕРОЕ_СТЕКЛО",
+    "itemStack": {
+      "id": "minecraft:stained_glass",
+      "data": 7
+    }
+  },
+  {
+    "name": "СВЕТЛ_СЕР_СТЕКЛО",
+    "itemStack": {
+      "id": "minecraft:stained_glass",
+      "data": 8
+    }
+  },
+  {
+    "name": "БИРЮЗОВОЕ_СТЕКЛО",
+    "itemStack": {
+      "id": "minecraft:stained_glass",
+      "data": 9
+    }
+  },
+  {
+    "name": "ФИОЛЕТОВ_СТЕКЛО",
+    "itemStack": {
+      "id": "minecraft:stained_glass",
+      "data": 10
+    }
+  },
+  {
+    "name": "СИНЕЕ_СТЕКЛО",
+    "itemStack": {
+      "id": "minecraft:stained_glass",
+      "data": 11
+    }
+  },
+  {
+    "name": "КОРИЧНЕВ_СТЕКЛО",
+    "itemStack": {
+      "id": "minecraft:stained_glass",
+      "data": 12
+    }
+  },
+  {
+    "name": "ЗЕЛЁНОЕ_СТЕКЛО",
+    "itemStack": {
+      "id": "minecraft:stained_glass",
+      "data": 13
+    }
+  },
+  {
+    "name": "КРАСНОЕ_СТЕКЛО",
+    "itemStack": {
+      "id": "minecraft:stained_glass",
+      "data": 14
+    }
+  },
+  {
+    "name": "ЧЁРНОЕ_СТЕКЛО",
+    "itemStack": {
+      "id": "minecraft:stained_glass",
+      "data": 15
+    }
+  },
+  {
+    "name": "КАМЕННЫЕ_КИРПИЧИ",
+    "itemStack": {
+      "id": "minecraft:stonebrick",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗАМШ_КАМЕНН_КИРП",
+    "itemStack": {
+      "id": "minecraft:stonebrick",
+      "data": 1
+    }
+  },
+  {
+    "name": "ПОТР_КАМЕНН_КИРП",
+    "itemStack": {
+      "id": "minecraft:stonebrick",
+      "data": 2
+    }
+  },
+  {
+    "name": "РЕЗН_КАМЕНН_КИРП",
+    "itemStack": {
+      "id": "minecraft:stonebrick",
+      "data": 3
+    }
+  },
+  {
+    "name": "АРБУЗ",
+    "itemStack": {
+      "id": "minecraft:melon_block",
+      "data": 0
+    }
+  },
+  {
+    "name": "КИРПИЧН_СТУПЕНЬК",
+    "itemStack": {
+      "id": "minecraft:brick_stairs",
+      "data": 0
+    }
+  },
+  {
+    "name": "СТ_ИЗ_КАМЕН_КИРП",
+    "itemStack": {
+      "id": "minecraft:stone_brick_stairs",
+      "data": 0
+    }
+  },
+  {
+    "name": "МИЦЕЛИЙ",
+    "itemStack": {
+      "id": "minecraft:mycelium",
+      "data": 0
+    }
+  },
+  {
+    "name": "АДСКИЕ_КИРПИЧИ",
+    "itemStack": {
+      "id": "minecraft:nether_brick",
+      "data": 0
+    }
+  },
+  {
+    "name": "АДСКИЕ_СТУПЕНЬКИ",
+    "itemStack": {
+      "id": "minecraft:nether_brick_stairs",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЭНДЕРНЯК",
+    "itemStack": {
+      "id": "minecraft:end_stone",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДУБОВАЯ_ПЛИТА",
+    "itemStack": {
+      "id": "minecraft:wooden_slab",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЕЛОВАЯ_ПЛИТА",
+    "itemStack": {
+      "id": "minecraft:wooden_slab",
+      "data": 1
+    }
+  },
+  {
+    "name": "БЕРЁЗОВАЯ_ПЛИТА",
+    "itemStack": {
+      "id": "minecraft:wooden_slab",
+      "data": 2
+    }
+  },
+  {
+    "name": "ПЛИТА_ИЗ_ТР_ДЕР",
+    "itemStack": {
+      "id": "minecraft:wooden_slab",
+      "data": 3
+    }
+  },
+  {
+    "name": "ПЛИТА_ИЗ_АКАЦИИ",
+    "itemStack": {
+      "id": "minecraft:wooden_slab",
+      "data": 4
+    }
+  },
+  {
+    "name": "ПЛ_ИЗ_ТЁМН_ДУБА",
+    "itemStack": {
+      "id": "minecraft:wooden_slab",
+      "data": 5
+    }
+  },
+  {
+    "name": "СТУПЕНЬК_ИЗ_ПЕСЧ",
+    "itemStack": {
+      "id": "minecraft:sandstone_stairs",
+      "data": 0
+    }
+  },
+  {
+    "name": "ИЗУМРУДНАЯ_РУДА",
+    "itemStack": {
+      "id": "minecraft:emerald_ore",
+      "data": 0
+    }
+  },
+  {
+    "name": "ИЗУМРУДНЫЙ_БЛОК",
+    "itemStack": {
+      "id": "minecraft:emerald_block",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЕЛОВЫЕ_СТУПЕНЬКИ",
+    "itemStack": {
+      "id": "minecraft:spruce_stairs",
+      "data": 0
+    }
+  },
+  {
+    "name": "БЕРЁЗ_СТУПЕНЬКИ",
+    "itemStack": {
+      "id": "minecraft:birch_stairs",
+      "data": 0
+    }
+  },
+  {
+    "name": "СТУПЕНЬ_ИЗ_ТР_ДР",
+    "itemStack": {
+      "id": "minecraft:jungle_stairs",
+      "data": 0
+    }
+  },
+  {
+    "name": "КАМЕННАЯ_ОГРАДА",
+    "itemStack": {
+      "id": "minecraft:cobblestone_wall",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОГР_ИЗ_ЗАМШ_БУЛ",
+    "itemStack": {
+      "id": "minecraft:cobblestone_wall",
+      "data": 1
+    }
+  },
+  {
+    "name": "КВАРЦЕВАЯ_РУДА",
+    "itemStack": {
+      "id": "minecraft:quartz_ore",
+      "data": 0
+    }
+  },
+  {
+    "name": "КВАРЦЕВЫЙ_БЛОК",
+    "itemStack": {
+      "id": "minecraft:quartz_block",
+      "data": 0
+    }
+  },
+  {
+    "name": "РЕЗН_КВАРЦ_БЛОК",
+    "itemStack": {
+      "id": "minecraft:quartz_block",
+      "data": 1
+    }
+  },
+  {
+    "name": "КВАРЦЕВ_КОЛОННА",
+    "itemStack": {
+      "id": "minecraft:quartz_block",
+      "data": 2
+    }
+  },
+  {
+    "name": "КВАРЦ_СТУПЕНЬКИ",
+    "itemStack": {
+      "id": "minecraft:quartz_stairs",
+      "data": 0
+    }
+  },
+  {
+    "name": "БЕЛ_ОБОЖЖ_ГЛИНА",
+    "itemStack": {
+      "id": "minecraft:stained_hardened_clay",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОРАН_ОБОЖЖ_ГЛИНА",
+    "itemStack": {
+      "id": "minecraft:stained_hardened_clay",
+      "data": 1
+    }
+  },
+  {
+    "name": "ПУРП_ОБОЖЖ_ГЛИНА",
+    "itemStack": {
+      "id": "minecraft:stained_hardened_clay",
+      "data": 2
+    }
+  },
+  {
+    "name": "ГОЛ_ОБОЖЖ_ГЛИНА",
+    "itemStack": {
+      "id": "minecraft:stained_hardened_clay",
+      "data": 3
+    }
+  },
+  {
+    "name": "ЖЁЛТ_ОБОЖЖ_ГЛИНА",
+    "itemStack": {
+      "id": "minecraft:stained_hardened_clay",
+      "data": 4
+    }
+  },
+  {
+    "name": "ЛАЙМ_ОБОЖЖ_ГЛИНА",
+    "itemStack": {
+      "id": "minecraft:stained_hardened_clay",
+      "data": 5
+    }
+  },
+  {
+    "name": "РОЗ_ОБОЖЖ_ГЛИНА",
+    "itemStack": {
+      "id": "minecraft:stained_hardened_clay",
+      "data": 6
+    }
+  },
+  {
+    "name": "СЕР_ОБОЖЖ_ГЛИНА",
+    "itemStack": {
+      "id": "minecraft:stained_hardened_clay",
+      "data": 7
+    }
+  },
+  {
+    "name": "СВ_С_ОБОЖЖ_ГЛИНА",
+    "itemStack": {
+      "id": "minecraft:stained_hardened_clay",
+      "data": 8
+    }
+  },
+  {
+    "name": "БИР_ОБОЖЖ_ГЛИНА",
+    "itemStack": {
+      "id": "minecraft:stained_hardened_clay",
+      "data": 9
+    }
+  },
+  {
+    "name": "Ф_ОБОЖЖЁНН_ГЛИНА",
+    "itemStack": {
+      "id": "minecraft:stained_hardened_clay",
+      "data": 10
+    }
+  },
+  {
+    "name": "СИН_ОБОЖЖ_ГЛИНА",
+    "itemStack": {
+      "id": "minecraft:stained_hardened_clay",
+      "data": 11
+    }
+  },
+  {
+    "name": "КОР_ОБОЖЖ_ГЛИНА",
+    "itemStack": {
+      "id": "minecraft:stained_hardened_clay",
+      "data": 12
+    }
+  },
+  {
+    "name": "ЗЕЛ_ОБОЖЖ_ГЛИНА",
+    "itemStack": {
+      "id": "minecraft:stained_hardened_clay",
+      "data": 13
+    }
+  },
+  {
+    "name": "КРАС_ОБОЖЖ_ГЛИНА",
+    "itemStack": {
+      "id": "minecraft:stained_hardened_clay",
+      "data": 14
+    }
+  },
+  {
+    "name": "ЧЁРН_ОБОЖЖ_ГЛИНА",
+    "itemStack": {
+      "id": "minecraft:stained_hardened_clay",
+      "data": 15
+    }
+  },
+  {
+    "name": "ДРЕВЕСИНА_АКАЦИИ",
+    "itemStack": {
+      "id": "minecraft:log2",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДР_ТЁМНОГО_ДУБА",
+    "itemStack": {
+      "id": "minecraft:log2",
+      "data": 1
+    }
+  },
+  {
+    "name": "СТУПЕНЬ_ИЗ_АКАЦ",
+    "itemStack": {
+      "id": "minecraft:acacia_stairs",
+      "data": 0
+    }
+  },
+  {
+    "name": "СТ_ИЗ_ТЁМН_ДУБА",
+    "itemStack": {
+      "id": "minecraft:dark_oak_stairs",
+      "data": 0
+    }
+  },
+  {
+    "name": "СНОП_СЕНА",
+    "itemStack": {
+      "id": "minecraft:hay_block",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОБОЖЖЁННАЯ_ГЛИНА",
+    "itemStack": {
+      "id": "minecraft:hardened_clay",
+      "data": 0
+    }
+  },
+  {
+    "name": "УГОЛЬНЫЙ_БЛОК",
+    "itemStack": {
+      "id": "minecraft:coal_block",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛОТНЫЙ_ЛЁД",
+    "itemStack": {
+      "id": "minecraft:packed_ice",
+      "data": 0
+    }
+  },
+  {
+    "name": "САЖЕНЕЦ_ДУБА",
+    "itemStack": {
+      "id": "minecraft:sapling",
+      "data": 0
+    }
+  },
+  {
+    "name": "САЖЕНЕЦ_ЕЛИ",
+    "itemStack": {
+      "id": "minecraft:sapling",
+      "data": 1
+    }
+  },
+  {
+    "name": "САЖЕНЕЦ_БЕРЁЗЫ",
+    "itemStack": {
+      "id": "minecraft:sapling",
+      "data": 2
+    }
+  },
+  {
+    "name": "САЖ_ТРОП_ДЕРЕВА",
+    "itemStack": {
+      "id": "minecraft:sapling",
+      "data": 3
+    }
+  },
+  {
+    "name": "САЖЕНЕЦ_АКАЦИИ",
+    "itemStack": {
+      "id": "minecraft:sapling",
+      "data": 4
+    }
+  },
+  {
+    "name": "САЖЕН_ТЁМН_ДУБА",
+    "itemStack": {
+      "id": "minecraft:sapling",
+      "data": 5
+    }
+  },
+  {
+    "name": "ДУБОВЫЕ_ЛИСТЬЯ",
+    "itemStack": {
+      "id": "minecraft:leaves",
+      "data": 0
+    }
+  },
+  {
+    "name": "ХВОЯ",
+    "itemStack": {
+      "id": "minecraft:leaves",
+      "data": 1
+    }
+  },
+  {
+    "name": "БЕРЁЗОВЫЕ_ЛИСТЬЯ",
+    "itemStack": {
+      "id": "minecraft:leaves",
+      "data": 2
+    }
+  },
+  {
+    "name": "ЛИСТЬЯ_ТР_ДЕРЕВА",
+    "itemStack": {
+      "id": "minecraft:leaves",
+      "data": 3
+    }
+  },
+  {
+    "name": "ПАУТИНА",
+    "itemStack": {
+      "id": "minecraft:web",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВЫСОКАЯ_ТРАВА",
+    "itemStack": {
+      "id": "minecraft:tallgrass",
+      "data": 1
+    }
+  },
+  {
+    "name": "ПАПОРОТНИК",
+    "itemStack": {
+      "id": "minecraft:tallgrass",
+      "data": 2
+    }
+  },
+  {
+    "name": "СУХОЙ_КУСТ",
+    "itemStack": {
+      "id": "minecraft:deadbush",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОДУВАНЧИК",
+    "itemStack": {
+      "id": "minecraft:yellow_flower",
+      "data": 0
+    }
+  },
+  {
+    "name": "МАК",
+    "itemStack": {
+      "id": "minecraft:red_flower",
+      "data": 0
+    }
+  },
+  {
+    "name": "СИНЯЯ_ОРХИДЕЯ",
+    "itemStack": {
+      "id": "minecraft:red_flower",
+      "data": 1
+    }
+  },
+  {
+    "name": "ЛУКОВИЦА",
+    "itemStack": {
+      "id": "minecraft:red_flower",
+      "data": 2
+    }
+  },
+  {
+    "name": "ГОЛУБОЙ_ВАСИЛЕК",
+    "itemStack": {
+      "id": "minecraft:red_flower",
+      "data": 3
+    }
+  },
+  {
+    "name": "КРАСНЫЙ_ТЮЛЬПАН",
+    "itemStack": {
+      "id": "minecraft:red_flower",
+      "data": 4
+    }
+  },
+  {
+    "name": "ОРАНЖЕВ_ТЮЛЬПАН",
+    "itemStack": {
+      "id": "minecraft:red_flower",
+      "data": 5
+    }
+  },
+  {
+    "name": "БЕЛЫЙ_ТЮЛЬПАН",
+    "itemStack": {
+      "id": "minecraft:red_flower",
+      "data": 6
+    }
+  },
+  {
+    "name": "РОЗОВЫЙ_ТЮЛЬПАН",
+    "itemStack": {
+      "id": "minecraft:red_flower",
+      "data": 7
+    }
+  },
+  {
+    "name": "РОМАШКА",
+    "itemStack": {
+      "id": "minecraft:red_flower",
+      "data": 8
+    }
+  },
+  {
+    "name": "КОРИЧНЕВЫЙ_ГРИБ",
+    "itemStack": {
+      "id": "minecraft:brown_mushroom",
+      "data": 0
+    }
+  },
+  {
+    "name": "КРАСНЫЙ_ГРИБ",
+    "itemStack": {
+      "id": "minecraft:red_mushroom",
+      "data": 0
+    }
+  },
+  {
+    "name": "ФАКЕЛ",
+    "itemStack": {
+      "id": "minecraft:torch",
+      "data": 0
+    }
+  },
+  {
+    "name": "СУНДУК",
+    "itemStack": {
+      "id": "minecraft:chest",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВЕРСТАК",
+    "itemStack": {
+      "id": "minecraft:crafting_table",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЕЧЬ",
+    "itemStack": {
+      "id": "minecraft:furnace",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛЕСТНИЦА",
+    "itemStack": {
+      "id": "minecraft:ladder",
+      "data": 0
+    }
+  },
+  {
+    "name": "СЛОЙ_СНЕГА",
+    "itemStack": {
+      "id": "minecraft:snow_layer",
+      "data": 0
+    }
+  },
+  {
+    "name": "КАКТУС",
+    "itemStack": {
+      "id": "minecraft:cactus",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПРОИГРЫВАТЕЛЬ",
+    "itemStack": {
+      "id": "minecraft:jukebox",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗАБОР",
+    "itemStack": {
+      "id": "minecraft:fence",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЖЕЛЕЗНЫЕ_ПРУТЬЯ",
+    "itemStack": {
+      "id": "minecraft:iron_bars",
+      "data": 0
+    }
+  },
+  {
+    "name": "СТЕКЛЯНН_ПАНЕЛЬ",
+    "itemStack": {
+      "id": "minecraft:glass_pane",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛОЗА",
+    "itemStack": {
+      "id": "minecraft:vine",
+      "data": 0
+    }
+  },
+  {
+    "name": "КУВШИНКА",
+    "itemStack": {
+      "id": "minecraft:waterlily",
+      "data": 0
+    }
+  },
+  {
+    "name": "АДСКИЙ_ЗАБОР",
+    "itemStack": {
+      "id": "minecraft:nether_brick_fence",
+      "data": 0
+    }
+  },
+  {
+    "name": "СТОЛ_ЗАЧАРОВАНИЙ",
+    "itemStack": {
+      "id": "minecraft:enchanting_table",
+      "data": 0
+    }
+  },
+  {
+    "name": "РАМКА_ПОР_В_КРАЙ",
+    "itemStack": {
+      "id": "minecraft:end_portal_frame",
+      "data": 0
+    }
+  },
+  {
+    "name": "СУНДУК_ЭНДЕРА",
+    "itemStack": {
+      "id": "minecraft:ender_chest",
+      "data": 0
+    }
+  },
+  {
+    "name": "НАКОВАЛЬНЯ",
+    "itemStack": {
+      "id": "minecraft:anvil",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПОВРЕЖД_НАКОВАЛЬ",
+    "itemStack": {
+      "id": "minecraft:anvil",
+      "data": 1
+    }
+  },
+  {
+    "name": "СИЛЬНО_ПОВР_НАК",
+    "itemStack": {
+      "id": "minecraft:anvil",
+      "data": 2
+    }
+  },
+  {
+    "name": "СУНДУК_ЛОВУШКА",
+    "itemStack": {
+      "id": "minecraft:trapped_chest",
+      "data": 0
+    }
+  },
+  {
+    "name": "БЕЛ_СТЕКЛ_ПАНЕЛЬ",
+    "itemStack": {
+      "id": "minecraft:stained_glass_pane",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОРАНЖ_СТЕКЛ_ПАН",
+    "itemStack": {
+      "id": "minecraft:stained_glass_pane",
+      "data": 1
+    }
+  },
+  {
+    "name": "ПУРП_СТЕКЛ_ПАНЕЛ",
+    "itemStack": {
+      "id": "minecraft:stained_glass_pane",
+      "data": 2
+    }
+  },
+  {
+    "name": "ГОЛ_СТЕКЛ_ПАНЕЛЬ",
+    "itemStack": {
+      "id": "minecraft:stained_glass_pane",
+      "data": 3
+    }
+  },
+  {
+    "name": "ЖЁЛТ_СТЕКЛ_ПАНЕЛ",
+    "itemStack": {
+      "id": "minecraft:stained_glass_pane",
+      "data": 4
+    }
+  },
+  {
+    "name": "ЛАЙМ_СТЕКЛ_ПАНЕЛ",
+    "itemStack": {
+      "id": "minecraft:stained_glass_pane",
+      "data": 5
+    }
+  },
+  {
+    "name": "РОЗ_СТЕКЛ_ПАНЕЛЬ",
+    "itemStack": {
+      "id": "minecraft:stained_glass_pane",
+      "data": 6
+    }
+  },
+  {
+    "name": "СЕР_СТЕКЛ_ПАНЕЛЬ",
+    "itemStack": {
+      "id": "minecraft:stained_glass_pane",
+      "data": 7
+    }
+  },
+  {
+    "name": "СВЕТЛ_С_СТЕКЛ_П",
+    "itemStack": {
+      "id": "minecraft:stained_glass_pane",
+      "data": 8
+    }
+  },
+  {
+    "name": "БИР_СТЕКЛ_ПАНЕЛЬ",
+    "itemStack": {
+      "id": "minecraft:stained_glass_pane",
+      "data": 9
+    }
+  },
+  {
+    "name": "Ф_СТЕКЛЯН_ПАНЕЛЬ",
+    "itemStack": {
+      "id": "minecraft:stained_glass_pane",
+      "data": 10
+    }
+  },
+  {
+    "name": "СИН_СТЕКЛ_ПАНЕЛЬ",
+    "itemStack": {
+      "id": "minecraft:stained_glass_pane",
+      "data": 11
+    }
+  },
+  {
+    "name": "КОР_СТЕКЛ_ПАНЕЛЬ",
+    "itemStack": {
+      "id": "minecraft:stained_glass_pane",
+      "data": 12
+    }
+  },
+  {
+    "name": "ЗЕЛ_СТЕКЛ_ПАНЕЛЬ",
+    "itemStack": {
+      "id": "minecraft:stained_glass_pane",
+      "data": 13
+    }
+  },
+  {
+    "name": "КРАСН_СТЕКЛ_ПАН",
+    "itemStack": {
+      "id": "minecraft:stained_glass_pane",
+      "data": 14
+    }
+  },
+  {
+    "name": "ЧЁРН_СТЕКЛ_ПАНЕЛ",
+    "itemStack": {
+      "id": "minecraft:stained_glass_pane",
+      "data": 15
+    }
+  },
+  {
+    "name": "ЛИСТВА_АКАЦИИ",
+    "itemStack": {
+      "id": "minecraft:leaves2",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛИСТВА_ТЁМН_ДУБА",
+    "itemStack": {
+      "id": "minecraft:leaves2",
+      "data": 1
+    }
+  },
+  {
+    "name": "БЕЛЫЙ_КОВЁР",
+    "itemStack": {
+      "id": "minecraft:carpet",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОРАНЖЕВЫЙ_КОВЁР",
+    "itemStack": {
+      "id": "minecraft:carpet",
+      "data": 1
+    }
+  },
+  {
+    "name": "ПУРПУРНЫЙ_КОВЁР",
+    "itemStack": {
+      "id": "minecraft:carpet",
+      "data": 2
+    }
+  },
+  {
+    "name": "ГОЛУБОЙ_КОВЁР",
+    "itemStack": {
+      "id": "minecraft:carpet",
+      "data": 3
+    }
+  },
+  {
+    "name": "ЖЁЛТЫЙ_КОВЁР",
+    "itemStack": {
+      "id": "minecraft:carpet",
+      "data": 4
+    }
+  },
+  {
+    "name": "ЛАЙМОВЫЙ_КОВЁР",
+    "itemStack": {
+      "id": "minecraft:carpet",
+      "data": 5
+    }
+  },
+  {
+    "name": "РОЗОВЫЙ_КОВЁР",
+    "itemStack": {
+      "id": "minecraft:carpet",
+      "data": 6
+    }
+  },
+  {
+    "name": "СЕРЫЙ_КОВЁР",
+    "itemStack": {
+      "id": "minecraft:carpet",
+      "data": 7
+    }
+  },
+  {
+    "name": "СВЕТЛО_СЕР_КОВЁР",
+    "itemStack": {
+      "id": "minecraft:carpet",
+      "data": 8
+    }
+  },
+  {
+    "name": "БИРЮЗОВЫЙ_КОВЁР",
+    "itemStack": {
+      "id": "minecraft:carpet",
+      "data": 9
+    }
+  },
+  {
+    "name": "ФИОЛЕТОВЫЙ_КОВЁР",
+    "itemStack": {
+      "id": "minecraft:carpet",
+      "data": 10
+    }
+  },
+  {
+    "name": "СИНИЙ_КОВЁР",
+    "itemStack": {
+      "id": "minecraft:carpet",
+      "data": 11
+    }
+  },
+  {
+    "name": "КОРИЧНЕВЫЙ_КОВЁР",
+    "itemStack": {
+      "id": "minecraft:carpet",
+      "data": 12
+    }
+  },
+  {
+    "name": "ЗЕЛЁНЫЙ_КОВЁР",
+    "itemStack": {
+      "id": "minecraft:carpet",
+      "data": 13
+    }
+  },
+  {
+    "name": "КРАСНЫЙ_КОВЁР",
+    "itemStack": {
+      "id": "minecraft:carpet",
+      "data": 14
+    }
+  },
+  {
+    "name": "ЧЁРНЫЙ_КОВЁР",
+    "itemStack": {
+      "id": "minecraft:carpet",
+      "data": 15
+    }
+  },
+  {
+    "name": "ПОДСОЛНУХ",
+    "itemStack": {
+      "id": "minecraft:double_plant",
+      "data": 0
+    }
+  },
+  {
+    "name": "СИРЕНЬ",
+    "itemStack": {
+      "id": "minecraft:double_plant",
+      "data": 1
+    }
+  },
+  {
+    "name": "ДВОЙН_ВЫС_ТРАВА",
+    "itemStack": {
+      "id": "minecraft:double_plant",
+      "data": 2
+    }
+  },
+  {
+    "name": "РАСКИД_ПАПОРОТН",
+    "itemStack": {
+      "id": "minecraft:double_plant",
+      "data": 3
+    }
+  },
+  {
+    "name": "КУСТ_РОЗЫ",
+    "itemStack": {
+      "id": "minecraft:double_plant",
+      "data": 4
+    }
+  },
+  {
+    "name": "ПИОН",
+    "itemStack": {
+      "id": "minecraft:double_plant",
+      "data": 5
+    }
+  },
+  {
+    "name": "КАРТИНА",
+    "itemStack": {
+      "id": "minecraft:painting",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТАБЛИЧКА",
+    "itemStack": {
+      "id": "minecraft:sign",
+      "data": 0
+    }
+  },
+  {
+    "name": "КРОВАТЬ",
+    "itemStack": {
+      "id": "minecraft:bed",
+      "data": 0
+    }
+  },
+  {
+    "name": "РАМКА",
+    "itemStack": {
+      "id": "minecraft:item_frame",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЦВЕТОЧНЫЙ_ГОРШОК",
+    "itemStack": {
+      "id": "minecraft:flower_pot",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЧЕРЕП_СКЕЛЕТА",
+    "itemStack": {
+      "id": "minecraft:skull",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЧЕР_СКЕЛЕТ_ИССУШ",
+    "itemStack": {
+      "id": "minecraft:skull",
+      "data": 1
+    }
+  },
+  {
+    "name": "ГОЛОВА_ЗОМБИ",
+    "itemStack": {
+      "id": "minecraft:skull",
+      "data": 2
+    }
+  },
+  {
+    "name": "ГОЛОВА",
+    "itemStack": {
+      "id": "minecraft:skull",
+      "data": 3
+    }
+  },
+  {
+    "name": "ГОЛОВА_КРИПЕРА",
+    "itemStack": {
+      "id": "minecraft:skull",
+      "data": 4
+    }
+  },
+  {
+    "name": "РАЗДАТЧИК",
+    "itemStack": {
+      "id": "minecraft:dispenser",
+      "data": 0
+    }
+  },
+  {
+    "name": "НОТНЫЙ_БЛОК",
+    "itemStack": {
+      "id": "minecraft:noteblock",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛИПКИЙ_ПОРШЕНЬ",
+    "itemStack": {
+      "id": "minecraft:sticky_piston",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПОРШЕНЬ",
+    "itemStack": {
+      "id": "minecraft:piston",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДИНАМИТ",
+    "itemStack": {
+      "id": "minecraft:tnt",
+      "data": 0
+    }
+  },
+  {
+    "name": "РЫЧАГ",
+    "itemStack": {
+      "id": "minecraft:lever",
+      "data": 0
+    }
+  },
+  {
+    "name": "КАМЕН_НАЖ_ПЛИТА",
+    "itemStack": {
+      "id": "minecraft:stone_pressure_plate",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДЕРЕВ_НАЖ_ПЛИТА",
+    "itemStack": {
+      "id": "minecraft:wooden_pressure_plate",
+      "data": 0
+    }
+  },
+  {
+    "name": "КРАСНЫЙ_ФАКЕЛ",
+    "itemStack": {
+      "id": "minecraft:redstone_torch",
+      "data": 0
+    }
+  },
+  {
+    "name": "КАМЕННАЯ_КНОПКА",
+    "itemStack": {
+      "id": "minecraft:stone_button",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛЮК",
+    "itemStack": {
+      "id": "minecraft:trapdoor",
+      "data": 0
+    }
+  },
+  {
+    "name": "КАЛИТКА",
+    "itemStack": {
+      "id": "minecraft:fence_gate",
+      "data": 0
+    }
+  },
+  {
+    "name": "РЕДСТОУН_ЛАМПА",
+    "itemStack": {
+      "id": "minecraft:redstone_lamp",
+      "data": 0
+    }
+  },
+  {
+    "name": "КРЮК",
+    "itemStack": {
+      "id": "minecraft:tripwire_hook",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДЕРЕВЯНН_КНОПКА",
+    "itemStack": {
+      "id": "minecraft:wooden_button",
+      "data": 0
+    }
+  },
+  {
+    "name": "УТ_Н_ПЛАСТ_ЛЁГК",
+    "itemStack": {
+      "id": "minecraft:light_weighted_pressure_plate",
+      "data": 0
+    }
+  },
+  {
+    "name": "УТ_НАЖ_ПЛАСТ_ТЯЖ",
+    "itemStack": {
+      "id": "minecraft:heavy_weighted_pressure_plate",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДАТЧ_ДНЕВН_СВЕТА",
+    "itemStack": {
+      "id": "minecraft:daylight_detector",
+      "data": 0
+    }
+  },
+  {
+    "name": "БЛОК_КРАСН_КАМНЯ",
+    "itemStack": {
+      "id": "minecraft:redstone_block",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВОРОНКА",
+    "itemStack": {
+      "id": "minecraft:hopper",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВЫБРАСЫВАТЕЛЬ",
+    "itemStack": {
+      "id": "minecraft:dropper",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДЕРЕВЯННАЯ_ДВЕРЬ",
+    "itemStack": {
+      "id": "minecraft:wooden_door",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЖЕЛЕЗНАЯ_ДВЕРЬ",
+    "itemStack": {
+      "id": "minecraft:iron_door",
+      "data": 0
+    }
+  },
+  {
+    "name": "КРАСНАЯ_ПЫЛЬ",
+    "itemStack": {
+      "id": "minecraft:redstone",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПОВТОРИТЕЛЬ",
+    "itemStack": {
+      "id": "minecraft:repeater",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОМПАРАТОР",
+    "itemStack": {
+      "id": "minecraft:comparator",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЭНЕРГОРЕЛЬСЫ",
+    "itemStack": {
+      "id": "minecraft:golden_rail",
+      "data": 0
+    }
+  },
+  {
+    "name": "РЕЛЬСЫ_С_ДАТЧИК",
+    "itemStack": {
+      "id": "minecraft:detector_rail",
+      "data": 0
+    }
+  },
+  {
+    "name": "РЕЛЬСЫ",
+    "itemStack": {
+      "id": "minecraft:rail",
+      "data": 0
+    }
+  },
+  {
+    "name": "АКТИВИР_РЕЛЬСЫ",
+    "itemStack": {
+      "id": "minecraft:activator_rail",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВАГОНЕТКА",
+    "itemStack": {
+      "id": "minecraft:minecart",
+      "data": 0
+    }
+  },
+  {
+    "name": "СЕДЛО",
+    "itemStack": {
+      "id": "minecraft:saddle",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛОДКА",
+    "itemStack": {
+      "id": "minecraft:boat",
+      "data": 0
+    }
+  },
+  {
+    "name": "ГРУЗОВ_ВАГОНЕТКА",
+    "itemStack": {
+      "id": "minecraft:chest_minecart",
+      "data": 0
+    }
+  },
+  {
+    "name": "САМОХОД_ВАГОНЕТК",
+    "itemStack": {
+      "id": "minecraft:furnace_minecart",
+      "data": 0
+    }
+  },
+  {
+    "name": "УДОЧКА_С_МОРКОВЬ",
+    "itemStack": {
+      "id": "minecraft:carrot_on_a_stick",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВАГОНЕТКА_С_ТНТ",
+    "itemStack": {
+      "id": "minecraft:tnt_minecart",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВАГОНЕТ_С_ВОРОНК",
+    "itemStack": {
+      "id": "minecraft:hopper_minecart",
+      "data": 0
+    }
+  },
+  {
+    "name": "МАЯК",
+    "itemStack": {
+      "id": "minecraft:beacon",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВЕДРО",
+    "itemStack": {
+      "id": "minecraft:bucket",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВЕДРО_ВОДЫ",
+    "itemStack": {
+      "id": "minecraft:water_bucket",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВЕДРО_ЛАВЫ",
+    "itemStack": {
+      "id": "minecraft:lava_bucket",
+      "data": 0
+    }
+  },
+  {
+    "name": "СНЕЖОК",
+    "itemStack": {
+      "id": "minecraft:snowball",
+      "data": 0
+    }
+  },
+  {
+    "name": "МОЛОКО",
+    "itemStack": {
+      "id": "minecraft:milk_bucket",
+      "data": 0
+    }
+  },
+  {
+    "name": "БУМАГА",
+    "itemStack": {
+      "id": "minecraft:paper",
+      "data": 0
+    }
+  },
+  {
+    "name": "КНИГА",
+    "itemStack": {
+      "id": "minecraft:book",
+      "data": 0
+    }
+  },
+  {
+    "name": "СГУСТОК_СЛИЗИ",
+    "itemStack": {
+      "id": "minecraft:slime_ball",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОСТЬ",
+    "itemStack": {
+      "id": "minecraft:bone",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЖЕМЧУГ_ЭНДЕРА",
+    "itemStack": {
+      "id": "minecraft:ender_pearl",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОКО_ЭНДЕРА",
+    "itemStack": {
+      "id": "minecraft:ender_eye",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЯЙЦО_ПР_СВИНЬЯ",
+    "itemStack": {
+      "id": "minecraft:spawn_egg",
+      "data": 90
+    }
+  },
+  {
+    "name": "ЯЙЦО_ПР_ОВЦА",
+    "itemStack": {
+      "id": "minecraft:spawn_egg",
+      "data": 91
+    }
+  },
+  {
+    "name": "ЯЙЦО_ПР_КОРОВА",
+    "itemStack": {
+      "id": "minecraft:spawn_egg",
+      "data": 92
+    }
+  },
+  {
+    "name": "ЯЙЦО_ПР_КУРИЦА",
+    "itemStack": {
+      "id": "minecraft:spawn_egg",
+      "data": 93
+    }
+  },
+  {
+    "name": "ЯЙЦО_ПР_ВОЛК",
+    "itemStack": {
+      "id": "minecraft:spawn_egg",
+      "data": 95
+    }
+  },
+  {
+    "name": "ЯЙЦО_ПР_ГРИБ_КОР",
+    "itemStack": {
+      "id": "minecraft:spawn_egg",
+      "data": 96
+    }
+  },
+  {
+    "name": "ЯЙЦО_ПР_ОЦЕЛОТ",
+    "itemStack": {
+      "id": "minecraft:spawn_egg",
+      "data": 98
+    }
+  },
+  {
+    "name": "ЯЙЦО_ПР_ЛОШАДЬ",
+    "itemStack": {
+      "id": "minecraft:spawn_egg",
+      "data": 100
+    }
+  },
+  {
+    "name": "ЯЙЦО_ПР_ЖИТЕЛЬ",
+    "itemStack": {
+      "id": "minecraft:spawn_egg",
+      "data": 120
+    }
+  },
+  {
+    "name": "ПУЗЫРЁК_ОПЫТА",
+    "itemStack": {
+      "id": "minecraft:experience_bottle",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОГНЕННЫЙ_ШАР",
+    "itemStack": {
+      "id": "minecraft:fire_charge",
+      "data": 0
+    }
+  },
+  {
+    "name": "КНИГА_И_ПЕРО",
+    "itemStack": {
+      "id": "minecraft:writable_book",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЧИСТАЯ_КАРТА",
+    "itemStack": {
+      "id": "minecraft:map",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗВЁЗДОЧКА",
+    "itemStack": {
+      "id": "minecraft:firework_charge",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЖЕЛ_КОНСК_БРОНЯ",
+    "itemStack": {
+      "id": "minecraft:iron_horse_armor",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗОЛ_КОНСК_БРОНЯ",
+    "itemStack": {
+      "id": "minecraft:golden_horse_armor",
+      "data": 0
+    }
+  },
+  {
+    "name": "АЛМ_КОНСК_БРОНЯ",
+    "itemStack": {
+      "id": "minecraft:diamond_horse_armor",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛАСТИНКА_13",
+    "itemStack": {
+      "id": "minecraft:record_13",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛАСТИНКА_CAT",
+    "itemStack": {
+      "id": "minecraft:record_cat",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛАСТИНКА_BLOCKS",
+    "itemStack": {
+      "id": "minecraft:record_blocks",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛАСТИНКА_CHIRP",
+    "itemStack": {
+      "id": "minecraft:record_chirp",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛАСТИНКА_FAR",
+    "itemStack": {
+      "id": "minecraft:record_far",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛАСТИНКА_MALL",
+    "itemStack": {
+      "id": "minecraft:record_mall",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛАСТИНКА_MELLOH",
+    "itemStack": {
+      "id": "minecraft:record_mellohi",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛАСТИНКА_STAL",
+    "itemStack": {
+      "id": "minecraft:record_stal",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛАСТИНКА_STRAD",
+    "itemStack": {
+      "id": "minecraft:record_strad",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛАСТИНКА_WARD",
+    "itemStack": {
+      "id": "minecraft:record_ward",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛАСТИНКА_11",
+    "itemStack": {
+      "id": "minecraft:record_11",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛАСТИНКА_WAIT",
+    "itemStack": {
+      "id": "minecraft:record_wait",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЯБЛОКО",
+    "itemStack": {
+      "id": "minecraft:apple",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТУШЁНЫЕ_ГРИБЫ",
+    "itemStack": {
+      "id": "minecraft:mushroom_stew",
+      "data": 0
+    }
+  },
+  {
+    "name": "ХЛЕБ",
+    "itemStack": {
+      "id": "minecraft:bread",
+      "data": 0
+    }
+  },
+  {
+    "name": "СЫРАЯ_СВИНИНА",
+    "itemStack": {
+      "id": "minecraft:porkchop",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЖАРЕНАЯ_СВИНИНА",
+    "itemStack": {
+      "id": "minecraft:cooked_porkchop",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗОЛОТОЕ_ЯБЛ_СЛИТ",
+    "itemStack": {
+      "id": "minecraft:golden_apple",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗОЛОТОЕ_ЯБЛ_БЛОК",
+    "itemStack": {
+      "id": "minecraft:golden_apple",
+      "data": 1
+    }
+  },
+  {
+    "name": "СЫРАЯ_РЫБА",
+    "itemStack": {
+      "id": "minecraft:fish",
+      "data": 0
+    }
+  },
+  {
+    "name": "СЫРОЙ_ЛОСОСЬ",
+    "itemStack": {
+      "id": "minecraft:fish",
+      "data": 1
+    }
+  },
+  {
+    "name": "РЫБА_КЛОУН",
+    "itemStack": {
+      "id": "minecraft:fish",
+      "data": 2
+    }
+  },
+  {
+    "name": "РЫБА_ФУГУ",
+    "itemStack": {
+      "id": "minecraft:fish",
+      "data": 3
+    }
+  },
+  {
+    "name": "ПРИГОТОВЛЕН_РЫБА",
+    "itemStack": {
+      "id": "minecraft:cooked_fished",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПРИГОТОВЛ_ЛОСОСЬ",
+    "itemStack": {
+      "id": "minecraft:cooked_fished",
+      "data": 1
+    }
+  },
+  {
+    "name": "ТОРТ",
+    "itemStack": {
+      "id": "minecraft:cake",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЕЧЕНЬЕ",
+    "itemStack": {
+      "id": "minecraft:cookie",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДОЛЬКА_АРБУЗА",
+    "itemStack": {
+      "id": "minecraft:melon",
+      "data": 0
+    }
+  },
+  {
+    "name": "СЫРАЯ_ГОВЯДИНА",
+    "itemStack": {
+      "id": "minecraft:beef",
+      "data": 0
+    }
+  },
+  {
+    "name": "СТЕЙК",
+    "itemStack": {
+      "id": "minecraft:cooked_beef",
+      "data": 0
+    }
+  },
+  {
+    "name": "СЫРАЯ_КУРЯТИНА",
+    "itemStack": {
+      "id": "minecraft:chicken",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЖАРЕНАЯ_КУРИЦА",
+    "itemStack": {
+      "id": "minecraft:cooked_chicken",
+      "data": 0
+    }
+  },
+  {
+    "name": "ГНИЛАЯ_ПЛОТЬ",
+    "itemStack": {
+      "id": "minecraft:rotten_flesh",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПАУЧИЙ_ГЛАЗ",
+    "itemStack": {
+      "id": "minecraft:spider_eye",
+      "data": 0
+    }
+  },
+  {
+    "name": "МОРКОВЬ",
+    "itemStack": {
+      "id": "minecraft:carrot",
+      "data": 0
+    }
+  },
+  {
+    "name": "КАРТОФЕЛЬ",
+    "itemStack": {
+      "id": "minecraft:potato",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЕЧЁН_КАРТОФЕЛЬ",
+    "itemStack": {
+      "id": "minecraft:baked_potato",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЯДОВИТ_КАРТОФЕЛЬ",
+    "itemStack": {
+      "id": "minecraft:poisonous_potato",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗОЛОТАЯ_МОРКОВЬ",
+    "itemStack": {
+      "id": "minecraft:golden_carrot",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТЫКВЕННЫЙ_ПИРОГ",
+    "itemStack": {
+      "id": "minecraft:pumpkin_pie",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЖЕЛЕЗНАЯ_ЛОПАТА",
+    "itemStack": {
+      "id": "minecraft:iron_shovel",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЖЕЛЕЗНАЯ_КИРКА",
+    "itemStack": {
+      "id": "minecraft:iron_pickaxe",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЖЕЛЕЗНЫЙ_ТОПОР",
+    "itemStack": {
+      "id": "minecraft:iron_axe",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОГНИВО",
+    "itemStack": {
+      "id": "minecraft:flint_and_steel",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДЕРЕВЯНН_ЛОПАТА",
+    "itemStack": {
+      "id": "minecraft:wooden_shovel",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДЕРЕВЯННАЯ_КИРКА",
+    "itemStack": {
+      "id": "minecraft:wooden_pickaxe",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДЕРЕВЯННЫЙ_ТОПОР",
+    "itemStack": {
+      "id": "minecraft:wooden_axe",
+      "data": 0
+    }
+  },
+  {
+    "name": "КАМЕННАЯ_ЛОПАТА",
+    "itemStack": {
+      "id": "minecraft:stone_shovel",
+      "data": 0
+    }
+  },
+  {
+    "name": "КАМЕННАЯ_КИРКА",
+    "itemStack": {
+      "id": "minecraft:stone_pickaxe",
+      "data": 0
+    }
+  },
+  {
+    "name": "КАМЕННЫЙ_ТОПОР",
+    "itemStack": {
+      "id": "minecraft:stone_axe",
+      "data": 0
+    }
+  },
+  {
+    "name": "АЛМАЗНАЯ_ЛОПАТА",
+    "itemStack": {
+      "id": "minecraft:diamond_shovel",
+      "data": 0
+    }
+  },
+  {
+    "name": "АЛМАЗНАЯ_КИРКА",
+    "itemStack": {
+      "id": "minecraft:diamond_pickaxe",
+      "data": 0
+    }
+  },
+  {
+    "name": "АЛМАЗНЫЙ_ТОПОР",
+    "itemStack": {
+      "id": "minecraft:diamond_axe",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗОЛОТАЯ_ЛОПАТА",
+    "itemStack": {
+      "id": "minecraft:golden_shovel",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗОЛОТАЯ_КИРКА",
+    "itemStack": {
+      "id": "minecraft:golden_pickaxe",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗОЛОТОЙ_ТОПОР",
+    "itemStack": {
+      "id": "minecraft:golden_axe",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДЕРЕВЯНН_МОТЫГА",
+    "itemStack": {
+      "id": "minecraft:wooden_hoe",
+      "data": 0
+    }
+  },
+  {
+    "name": "КАМЕННАЯ_МОТЫГА",
+    "itemStack": {
+      "id": "minecraft:stone_hoe",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЖЕЛЕЗНАЯ_МОТЫГА",
+    "itemStack": {
+      "id": "minecraft:iron_hoe",
+      "data": 0
+    }
+  },
+  {
+    "name": "АЛМАЗНАЯ_МОТЫГА",
+    "itemStack": {
+      "id": "minecraft:diamond_hoe",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗОЛОТАЯ_МОТЫГА",
+    "itemStack": {
+      "id": "minecraft:golden_hoe",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОМПАС",
+    "itemStack": {
+      "id": "minecraft:compass",
+      "data": 0
+    }
+  },
+  {
+    "name": "УДОЧКА",
+    "itemStack": {
+      "id": "minecraft:fishing_rod",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЧАСЫ",
+    "itemStack": {
+      "id": "minecraft:clock",
+      "data": 0
+    }
+  },
+  {
+    "name": "НОЖНИЦЫ",
+    "itemStack": {
+      "id": "minecraft:shears",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПОВОДОК",
+    "itemStack": {
+      "id": "minecraft:lead",
+      "data": 0
+    }
+  },
+  {
+    "name": "БИРКА",
+    "itemStack": {
+      "id": "minecraft:name_tag",
+      "data": 0
+    }
+  },
+  {
+    "name": "КНИГА_ЭФФЕКТИВ_5",
+    "itemStack": {
+      "id": "minecraft:enchanted_book",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        16,
+        10,
+        46,
+        -55,
+        47,
+        74,
+        77,
+        113,
+        -51,
+        75,
+        -50,
+        72,
+        -52,
+        43,
+        -55,
+        77,
+        -51,
+        43,
+        41,
+        -26,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        97,
+        96,
+        101,
+        98,
+        96,
+        -54,
+        76,
+        97,
+        80,
+        96,
+        96,
+        0,
+        0,
+        -93,
+        41,
+        -59,
+        -49,
+        46,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "КНИГА_ШЁЛК_КАСАН",
+    "itemStack": {
+      "id": "minecraft:enchanted_book",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        16,
+        10,
+        46,
+        -55,
+        47,
+        74,
+        77,
+        113,
+        -51,
+        75,
+        -50,
+        72,
+        -52,
+        43,
+        -55,
+        77,
+        -51,
+        43,
+        41,
+        -26,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        1,
+        -47,
+        76,
+        -103,
+        41,
+        12,
+        -118,
+        12,
+        12,
+        0,
+        -18,
+        -29,
+        -20,
+        -57,
+        46,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "КНИГА_ПРОЧНОСТ_3",
+    "itemStack": {
+      "id": "minecraft:enchanted_book",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        16,
+        10,
+        46,
+        -55,
+        47,
+        74,
+        77,
+        113,
+        -51,
+        75,
+        -50,
+        72,
+        -52,
+        43,
+        -55,
+        77,
+        -51,
+        43,
+        41,
+        -26,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        97,
+        96,
+        102,
+        98,
+        96,
+        -54,
+        76,
+        97,
+        80,
+        98,
+        96,
+        0,
+        0,
+        -118,
+        -115,
+        95,
+        -63,
+        46,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "КНИГА_УДАЧА_3",
+    "itemStack": {
+      "id": "minecraft:enchanted_book",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        16,
+        10,
+        46,
+        -55,
+        47,
+        74,
+        77,
+        113,
+        -51,
+        75,
+        -50,
+        72,
+        -52,
+        43,
+        -55,
+        77,
+        -51,
+        43,
+        41,
+        -26,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        97,
+        96,
+        102,
+        98,
+        96,
+        -54,
+        76,
+        97,
+        80,
+        102,
+        96,
+        0,
+        0,
+        -67,
+        -25,
+        -99,
+        -64,
+        46,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "КНИГА_МОР_УДАЧ_3",
+    "itemStack": {
+      "id": "minecraft:enchanted_book",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        16,
+        10,
+        46,
+        -55,
+        47,
+        74,
+        77,
+        113,
+        -51,
+        75,
+        -50,
+        72,
+        -52,
+        43,
+        -55,
+        77,
+        -51,
+        43,
+        41,
+        -26,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        97,
+        96,
+        102,
+        98,
+        96,
+        -54,
+        76,
+        97,
+        -80,
+        101,
+        96,
+        0,
+        0,
+        -57,
+        105,
+        37,
+        -42,
+        46,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "КНИГА_ПРИМАНКА_3",
+    "itemStack": {
+      "id": "minecraft:enchanted_book",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        16,
+        10,
+        46,
+        -55,
+        47,
+        74,
+        77,
+        113,
+        -51,
+        75,
+        -50,
+        72,
+        -52,
+        43,
+        -55,
+        77,
+        -51,
+        43,
+        41,
+        -26,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        97,
+        96,
+        102,
+        98,
+        96,
+        -54,
+        76,
+        97,
+        -80,
+        99,
+        96,
+        0,
+        0,
+        -98,
+        -41,
+        99,
+        -44,
+        46,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "ЛУК",
+    "itemStack": {
+      "id": "minecraft:bow",
+      "data": 0
+    }
+  },
+  {
+    "name": "СТРЕЛА",
+    "itemStack": {
+      "id": "minecraft:arrow",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЖЕЛЕЗНЫЙ_МЕЧ",
+    "itemStack": {
+      "id": "minecraft:iron_sword",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДЕРЕВЯННЫЙ_МЕЧ",
+    "itemStack": {
+      "id": "minecraft:wooden_sword",
+      "data": 0
+    }
+  },
+  {
+    "name": "КАМЕННЫЙ_МЕЧ",
+    "itemStack": {
+      "id": "minecraft:stone_sword",
+      "data": 0
+    }
+  },
+  {
+    "name": "АЛМАЗНЫЙ_МЕЧ",
+    "itemStack": {
+      "id": "minecraft:diamond_sword",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗОЛОТОЙ_МЕЧ",
+    "itemStack": {
+      "id": "minecraft:golden_sword",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОЖАНЫЙ_ШЛЕМ",
+    "itemStack": {
+      "id": "minecraft:leather_helmet",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОЖАНАЯ_КУРТКА",
+    "itemStack": {
+      "id": "minecraft:leather_chestplate",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОЖАНЫЕ_ШТАНЫ",
+    "itemStack": {
+      "id": "minecraft:leather_leggings",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОЖАНЫЕ_БОТИНКИ",
+    "itemStack": {
+      "id": "minecraft:leather_boots",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОЛЬЧУЖНЫЙ_ШЛЕМ",
+    "itemStack": {
+      "id": "minecraft:chainmail_helmet",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОЛЬЧУЖН_НАГРУДН",
+    "itemStack": {
+      "id": "minecraft:chainmail_chestplate",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОЛЬЧУЖН_ПОНОЖИ",
+    "itemStack": {
+      "id": "minecraft:chainmail_leggings",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОЛЬЧУЖН_БОТИНКИ",
+    "itemStack": {
+      "id": "minecraft:chainmail_boots",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЖЕЛЕЗНЫЙ_ШЛЕМ",
+    "itemStack": {
+      "id": "minecraft:iron_helmet",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЖЕЛЕЗНЫЙ_НАГРУДН",
+    "itemStack": {
+      "id": "minecraft:iron_chestplate",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЖЕЛЕЗНЫЕ_ПОНОЖИ",
+    "itemStack": {
+      "id": "minecraft:iron_leggings",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЖЕЛЕЗНЫЕ_БОТИНКИ",
+    "itemStack": {
+      "id": "minecraft:iron_boots",
+      "data": 0
+    }
+  },
+  {
+    "name": "АЛМАЗНЫЙ_ШЛЕМ",
+    "itemStack": {
+      "id": "minecraft:diamond_helmet",
+      "data": 0
+    }
+  },
+  {
+    "name": "АЛМАЗНЫЙ_НАГРУДН",
+    "itemStack": {
+      "id": "minecraft:diamond_chestplate",
+      "data": 0
+    }
+  },
+  {
+    "name": "АЛМАЗНЫЕ_ПОНОЖИ",
+    "itemStack": {
+      "id": "minecraft:diamond_leggings",
+      "data": 0
+    }
+  },
+  {
+    "name": "АЛМАЗНЫЕ_БОТИНКИ",
+    "itemStack": {
+      "id": "minecraft:diamond_boots",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗОЛОТОЙ_ШЛЕМ",
+    "itemStack": {
+      "id": "minecraft:golden_helmet",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗОЛОТОЙ_НАГРУДН",
+    "itemStack": {
+      "id": "minecraft:golden_chestplate",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗОЛОТЫЕ_ПОНОЖИ",
+    "itemStack": {
+      "id": "minecraft:golden_leggings",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗОЛОТЫЕ_БОТИНКИ",
+    "itemStack": {
+      "id": "minecraft:golden_boots",
+      "data": 0
+    }
+  },
+  {
+    "name": "КНИГА_ЗАЩИТА_4",
+    "itemStack": {
+      "id": "minecraft:enchanted_book",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        16,
+        10,
+        46,
+        -55,
+        47,
+        74,
+        77,
+        113,
+        -51,
+        75,
+        -50,
+        72,
+        -52,
+        43,
+        -55,
+        77,
+        -51,
+        43,
+        41,
+        -26,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        97,
+        96,
+        97,
+        98,
+        96,
+        -54,
+        76,
+        1,
+        10,
+        48,
+        0,
+        0,
+        125,
+        4,
+        74,
+        24,
+        46,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "КНИГА_ОГНЕУПОР_4",
+    "itemStack": {
+      "id": "minecraft:enchanted_book",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        16,
+        10,
+        46,
+        -55,
+        47,
+        74,
+        77,
+        113,
+        -51,
+        75,
+        -50,
+        72,
+        -52,
+        43,
+        -55,
+        77,
+        -51,
+        43,
+        41,
+        -26,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        97,
+        96,
+        97,
+        98,
+        96,
+        -54,
+        76,
+        97,
+        96,
+        100,
+        96,
+        0,
+        0,
+        74,
+        110,
+        -120,
+        25,
+        46,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "КНИГА_НЕВЕСОМ_4",
+    "itemStack": {
+      "id": "minecraft:enchanted_book",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        16,
+        10,
+        46,
+        -55,
+        47,
+        74,
+        77,
+        113,
+        -51,
+        75,
+        -50,
+        72,
+        -52,
+        43,
+        -55,
+        77,
+        -51,
+        43,
+        41,
+        -26,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        97,
+        96,
+        97,
+        98,
+        96,
+        -54,
+        76,
+        97,
+        96,
+        98,
+        96,
+        0,
+        0,
+        19,
+        -48,
+        -50,
+        27,
+        46,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "КНИГА_ВЗРЫВОУС_4",
+    "itemStack": {
+      "id": "minecraft:enchanted_book",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        16,
+        10,
+        46,
+        -55,
+        47,
+        74,
+        77,
+        113,
+        -51,
+        75,
+        -50,
+        72,
+        -52,
+        43,
+        -55,
+        77,
+        -51,
+        43,
+        41,
+        -26,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        97,
+        96,
+        97,
+        98,
+        96,
+        -54,
+        76,
+        97,
+        96,
+        102,
+        96,
+        0,
+        0,
+        36,
+        -70,
+        12,
+        26,
+        46,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "КНИГА_З_ОТ_СН_4",
+    "itemStack": {
+      "id": "minecraft:enchanted_book",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        16,
+        10,
+        46,
+        -55,
+        47,
+        74,
+        77,
+        113,
+        -51,
+        75,
+        -50,
+        72,
+        -52,
+        43,
+        -55,
+        77,
+        -51,
+        43,
+        41,
+        -26,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        97,
+        96,
+        97,
+        98,
+        96,
+        -54,
+        76,
+        97,
+        96,
+        97,
+        96,
+        0,
+        0,
+        -95,
+        -84,
+        67,
+        31,
+        46,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "КНИГА_ПОДВ_ДЫХ_3",
+    "itemStack": {
+      "id": "minecraft:enchanted_book",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        16,
+        10,
+        46,
+        -55,
+        47,
+        74,
+        77,
+        113,
+        -51,
+        75,
+        -50,
+        72,
+        -52,
+        43,
+        -55,
+        77,
+        -51,
+        43,
+        41,
+        -26,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        97,
+        96,
+        102,
+        98,
+        96,
+        -54,
+        76,
+        97,
+        96,
+        101,
+        96,
+        0,
+        0,
+        -17,
+        -35,
+        93,
+        -4,
+        46,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "КНИГА_ПОДВОДНИК",
+    "itemStack": {
+      "id": "minecraft:enchanted_book",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        16,
+        10,
+        46,
+        -55,
+        47,
+        74,
+        77,
+        113,
+        -51,
+        75,
+        -50,
+        72,
+        -52,
+        43,
+        -55,
+        77,
+        -51,
+        43,
+        41,
+        -26,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        1,
+        -47,
+        76,
+        -103,
+        41,
+        12,
+        108,
+        12,
+        12,
+        0,
+        -117,
+        -77,
+        -18,
+        -6,
+        46,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "КНИГА_ШИПЫ_3",
+    "itemStack": {
+      "id": "minecraft:enchanted_book",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        16,
+        10,
+        46,
+        -55,
+        47,
+        74,
+        77,
+        113,
+        -51,
+        75,
+        -50,
+        72,
+        -52,
+        43,
+        -55,
+        77,
+        -51,
+        43,
+        41,
+        -26,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        97,
+        96,
+        102,
+        98,
+        96,
+        -54,
+        76,
+        97,
+        96,
+        103,
+        96,
+        0,
+        0,
+        -127,
+        9,
+        -39,
+        -1,
+        46,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "КНИГА_ОСТРОТА_5",
+    "itemStack": {
+      "id": "minecraft:enchanted_book",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        16,
+        10,
+        46,
+        -55,
+        47,
+        74,
+        77,
+        113,
+        -51,
+        75,
+        -50,
+        72,
+        -52,
+        43,
+        -55,
+        77,
+        -51,
+        43,
+        41,
+        -26,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        97,
+        96,
+        101,
+        98,
+        96,
+        -54,
+        76,
+        97,
+        16,
+        96,
+        96,
+        0,
+        0,
+        51,
+        -52,
+        -82,
+        -21,
+        46,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "КНИГА_НЕБ_КАРА_5",
+    "itemStack": {
+      "id": "minecraft:enchanted_book",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        16,
+        10,
+        46,
+        -55,
+        47,
+        74,
+        77,
+        113,
+        -51,
+        75,
+        -50,
+        72,
+        -52,
+        43,
+        -55,
+        77,
+        -51,
+        43,
+        41,
+        -26,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        97,
+        96,
+        101,
+        98,
+        96,
+        -54,
+        76,
+        97,
+        16,
+        100,
+        96,
+        0,
+        0,
+        4,
+        -90,
+        108,
+        -22,
+        46,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "КНИГА_ГИБ_НАС_5",
+    "itemStack": {
+      "id": "minecraft:enchanted_book",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        16,
+        10,
+        46,
+        -55,
+        47,
+        74,
+        77,
+        113,
+        -51,
+        75,
+        -50,
+        72,
+        -52,
+        43,
+        -55,
+        77,
+        -51,
+        43,
+        41,
+        -26,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        97,
+        96,
+        101,
+        98,
+        96,
+        -54,
+        76,
+        97,
+        16,
+        98,
+        96,
+        0,
+        0,
+        93,
+        24,
+        42,
+        -24,
+        46,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "КНИГА_ОТДАЧА_2",
+    "itemStack": {
+      "id": "minecraft:enchanted_book",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        16,
+        10,
+        46,
+        -55,
+        47,
+        74,
+        77,
+        113,
+        -51,
+        75,
+        -50,
+        72,
+        -52,
+        43,
+        -55,
+        77,
+        -51,
+        43,
+        41,
+        -26,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        97,
+        96,
+        98,
+        98,
+        96,
+        -54,
+        76,
+        97,
+        16,
+        102,
+        96,
+        0,
+        0,
+        19,
+        105,
+        52,
+        11,
+        46,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "КНИГА_ЗАГ_ОГНЯ_2",
+    "itemStack": {
+      "id": "minecraft:enchanted_book",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        16,
+        10,
+        46,
+        -55,
+        47,
+        74,
+        77,
+        113,
+        -51,
+        75,
+        -50,
+        72,
+        -52,
+        43,
+        -55,
+        77,
+        -51,
+        43,
+        41,
+        -26,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        97,
+        96,
+        98,
+        98,
+        96,
+        -54,
+        76,
+        97,
+        16,
+        97,
+        96,
+        0,
+        0,
+        -106,
+        127,
+        123,
+        14,
+        46,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "КНИГА_ДОБЫЧА_3",
+    "itemStack": {
+      "id": "minecraft:enchanted_book",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        16,
+        10,
+        46,
+        -55,
+        47,
+        74,
+        77,
+        113,
+        -51,
+        75,
+        -50,
+        72,
+        -52,
+        43,
+        -55,
+        77,
+        -51,
+        43,
+        41,
+        -26,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        97,
+        96,
+        102,
+        98,
+        96,
+        -54,
+        76,
+        97,
+        16,
+        101,
+        96,
+        0,
+        0,
+        -97,
+        126,
+        123,
+        -32,
+        46,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "КНИГА_СИЛА_5",
+    "itemStack": {
+      "id": "minecraft:enchanted_book",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        16,
+        10,
+        46,
+        -55,
+        47,
+        74,
+        77,
+        113,
+        -51,
+        75,
+        -50,
+        72,
+        -52,
+        43,
+        -55,
+        77,
+        -51,
+        43,
+        41,
+        -26,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        97,
+        96,
+        101,
+        98,
+        96,
+        -54,
+        76,
+        97,
+        48,
+        96,
+        96,
+        0,
+        0,
+        -45,
+        -118,
+        -29,
+        -45,
+        46,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "КНИГА_ОТКИДЫВ_2",
+    "itemStack": {
+      "id": "minecraft:enchanted_book",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        16,
+        10,
+        46,
+        -55,
+        47,
+        74,
+        77,
+        113,
+        -51,
+        75,
+        -50,
+        72,
+        -52,
+        43,
+        -55,
+        77,
+        -51,
+        43,
+        41,
+        -26,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        97,
+        96,
+        98,
+        98,
+        96,
+        -54,
+        76,
+        97,
+        48,
+        100,
+        96,
+        0,
+        0,
+        -99,
+        -5,
+        -3,
+        48,
+        46,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "КНИГА_ГОР_СТРЕЛА",
+    "itemStack": {
+      "id": "minecraft:enchanted_book",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        16,
+        10,
+        46,
+        -55,
+        47,
+        74,
+        77,
+        113,
+        -51,
+        75,
+        -50,
+        72,
+        -52,
+        43,
+        -55,
+        77,
+        -51,
+        43,
+        41,
+        -26,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        1,
+        -47,
+        76,
+        -103,
+        41,
+        12,
+        70,
+        12,
+        12,
+        0,
+        -57,
+        -2,
+        -116,
+        -39,
+        46,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "КНИГА_БЕСКОНЕЧН",
+    "itemStack": {
+      "id": "minecraft:enchanted_book",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        16,
+        10,
+        46,
+        -55,
+        47,
+        74,
+        77,
+        113,
+        -51,
+        75,
+        -50,
+        72,
+        -52,
+        43,
+        -55,
+        77,
+        -51,
+        43,
+        41,
+        -26,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        1,
+        -47,
+        76,
+        -103,
+        41,
+        12,
+        -58,
+        12,
+        12,
+        0,
+        -16,
+        -108,
+        78,
+        -40,
+        46,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "СЛЕЗА_ГАСТА",
+    "itemStack": {
+      "id": "minecraft:ghast_tear",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПУЗЫРЁК_ВОДЫ",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 0
+    }
+  },
+  {
+    "name": "РЕГЕНЕР_I_0:45",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 8193
+    }
+  },
+  {
+    "name": "РЕГЕНЕР_II_0:22",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 8225
+    }
+  },
+  {
+    "name": "РЕГЕНЕР_I_2:00",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 8257
+    }
+  },
+  {
+    "name": "ВЗР_РЕГ_I_0:33",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 16385
+    }
+  },
+  {
+    "name": "ВЗР_РЕГ_II_0:16",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 16417
+    }
+  },
+  {
+    "name": "ВЗР_РЕГ_I_1:30",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 16449
+    }
+  },
+  {
+    "name": "СКОРОСТЬ_I_3:00",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 8194
+    }
+  },
+  {
+    "name": "СКОРОСТ_II_1:30",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 8226
+    }
+  },
+  {
+    "name": "СКОРОСТЬ_I_8:00",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 8258
+    }
+  },
+  {
+    "name": "ВЗР_СКОР_I_2:15",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 16386
+    }
+  },
+  {
+    "name": "ВЗ_СКОР_II_1:07",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 16418
+    }
+  },
+  {
+    "name": "ВЗР_СКОР_I_6:00",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 16450
+    }
+  },
+  {
+    "name": "ОГНЕСТОЙК_3:00",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 8227
+    }
+  },
+  {
+    "name": "ОГНЕСТОЙК_8:00",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 8259
+    }
+  },
+  {
+    "name": "ВЗР_ОГНЕСТ_2:15",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 16419
+    }
+  },
+  {
+    "name": "ВЗР_ОГНЕСТ_6:00",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 16451
+    }
+  },
+  {
+    "name": "ОТРАВЛЕНИЕ_0:45",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 8196
+    }
+  },
+  {
+    "name": "ОТРАВЛЕНИЕ_0:22",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 8228
+    }
+  },
+  {
+    "name": "ОТРАВЛЕНИЕ_2:00",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 8260
+    }
+  },
+  {
+    "name": "ВЗР_ОТРАВЛ_0:33",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 16388
+    }
+  },
+  {
+    "name": "ВЗР_ОТР_II_0:16",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 16420
+    }
+  },
+  {
+    "name": "ВЗР_ОТРАВЛ_1:30",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 16452
+    }
+  },
+  {
+    "name": "ЛЕЧЕНИЕ_I",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 8261
+    }
+  },
+  {
+    "name": "ЛЕЧЕНИЕ_II",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 8229
+    }
+  },
+  {
+    "name": "ВЗР_ЛЕЧЕНИЕ_I",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 16453
+    }
+  },
+  {
+    "name": "ВЗР_ЛЕЧЕНИЕ_II",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 16421
+    }
+  },
+  {
+    "name": "НОЧН_ЗРЕН_3:00",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 8230
+    }
+  },
+  {
+    "name": "НОЧН_ЗРЕН_8:00",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 8262
+    }
+  },
+  {
+    "name": "ВЗР_НОЧ_ЗР_2:15",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 16422
+    }
+  },
+  {
+    "name": "ВЗР_НОЧ_ЗР_6:00",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 16454
+    }
+  },
+  {
+    "name": "СЛАБОСТЬ_1:30",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 8232
+    }
+  },
+  {
+    "name": "СЛАБОСТЬ_4:00",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 8264
+    }
+  },
+  {
+    "name": "ВЗР_СЛАБ_2_1:07",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 16424
+    }
+  },
+  {
+    "name": "ВЗР_СЛАБ_3:00",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 16456
+    }
+  },
+  {
+    "name": "СИЛА_I_3:00",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 8201
+    }
+  },
+  {
+    "name": "СИЛА_II_1:30",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 8233
+    }
+  },
+  {
+    "name": "СИЛА_I_8:00",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 8265
+    }
+  },
+  {
+    "name": "ВЗР_СИЛА_I_2:15",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 16393
+    }
+  },
+  {
+    "name": "ВЗ_СИЛА_II_1:07",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 16425
+    }
+  },
+  {
+    "name": "ВЗР_СИЛА_I_6:00",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 16457
+    }
+  },
+  {
+    "name": "ЗАМЕДЛЕН_1:30",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 8234
+    }
+  },
+  {
+    "name": "ЗАМЕДЛЕН_4:00",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 8266
+    }
+  },
+  {
+    "name": "ВЗР_ЗАМЕД2_1:07",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 16426
+    }
+  },
+  {
+    "name": "ВЗР_ЗАМЕДЛ_3:00",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 16458
+    }
+  },
+  {
+    "name": "ВРЕД_I_2",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 8268
+    }
+  },
+  {
+    "name": "ВРЕД_II",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 8236
+    }
+  },
+  {
+    "name": "ВЗР_ВРЕД_2_I",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 16460
+    }
+  },
+  {
+    "name": "ВЗР_ВРЕД_II",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 16428
+    }
+  },
+  {
+    "name": "ПОДВОД_ДЫХ_3:00",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 8237
+    }
+  },
+  {
+    "name": "ПОДВОД_ДЫХ_8:00",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 8269
+    }
+  },
+  {
+    "name": "ВЗР_ПВ_ДЫХ_2:15",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 16429
+    }
+  },
+  {
+    "name": "ВЗР_ПВ_ДЫХ_6:00",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 16461
+    }
+  },
+  {
+    "name": "НЕВИДИМ_3:00",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 8238
+    }
+  },
+  {
+    "name": "НЕВИДИМ_8:00",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 8270
+    }
+  },
+  {
+    "name": "ВЗР_НЕВИД_2:15",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 16430
+    }
+  },
+  {
+    "name": "ВЗР_НЕВИД_6:00",
+    "itemStack": {
+      "id": "minecraft:potion",
+      "data": 16462
+    }
+  },
+  {
+    "name": "ПУЗЫРЁК",
+    "itemStack": {
+      "id": "minecraft:glass_bottle",
+      "data": 0
+    }
+  },
+  {
+    "name": "МАРИНОВАН_П_ГЛАЗ",
+    "itemStack": {
+      "id": "minecraft:fermented_spider_eye",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОГНЕННЫЙ_ПОРОШОК",
+    "itemStack": {
+      "id": "minecraft:blaze_powder",
+      "data": 0
+    }
+  },
+  {
+    "name": "СГУСТОК_МАГМЫ",
+    "itemStack": {
+      "id": "minecraft:magma_cream",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВАРОЧНАЯ_СТОЙКА",
+    "itemStack": {
+      "id": "minecraft:brewing_stand",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОТЁЛ",
+    "itemStack": {
+      "id": "minecraft:cauldron",
+      "data": 0
+    }
+  },
+  {
+    "name": "СВЕРКАЮЩИЙ_АРБУЗ",
+    "itemStack": {
+      "id": "minecraft:speckled_melon",
+      "data": 0
+    }
+  },
+  {
+    "name": "УГОЛЬ",
+    "itemStack": {
+      "id": "minecraft:coal",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДРЕВЕСНЫЙ_УГОЛЬ",
+    "itemStack": {
+      "id": "minecraft:coal",
+      "data": 1
+    }
+  },
+  {
+    "name": "АЛМАЗ",
+    "itemStack": {
+      "id": "minecraft:diamond",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЖЕЛЕЗНЫЙ_СЛИТОК",
+    "itemStack": {
+      "id": "minecraft:iron_ingot",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗОЛОТОЙ_СЛИТОК",
+    "itemStack": {
+      "id": "minecraft:gold_ingot",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПАЛКА",
+    "itemStack": {
+      "id": "minecraft:stick",
+      "data": 0
+    }
+  },
+  {
+    "name": "МИСКА",
+    "itemStack": {
+      "id": "minecraft:bowl",
+      "data": 0
+    }
+  },
+  {
+    "name": "НИТЬ",
+    "itemStack": {
+      "id": "minecraft:string",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЕРО",
+    "itemStack": {
+      "id": "minecraft:feather",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПОРОХ",
+    "itemStack": {
+      "id": "minecraft:gunpowder",
+      "data": 0
+    }
+  },
+  {
+    "name": "СЕМЕНА_ПШЕНИЦЫ",
+    "itemStack": {
+      "id": "minecraft:wheat_seeds",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПШЕНИЦА",
+    "itemStack": {
+      "id": "minecraft:wheat",
+      "data": 0
+    }
+  },
+  {
+    "name": "КРЕМЕНЬ",
+    "itemStack": {
+      "id": "minecraft:flint",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОЖА",
+    "itemStack": {
+      "id": "minecraft:leather",
+      "data": 0
+    }
+  },
+  {
+    "name": "КИРПИЧ",
+    "itemStack": {
+      "id": "minecraft:brick",
+      "data": 0
+    }
+  },
+  {
+    "name": "ШАРИК_ГЛИНЫ",
+    "itemStack": {
+      "id": "minecraft:clay_ball",
+      "data": 0
+    }
+  },
+  {
+    "name": "САХАРН_ТРОСТНИК",
+    "itemStack": {
+      "id": "minecraft:reeds",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЯЙЦО",
+    "itemStack": {
+      "id": "minecraft:egg",
+      "data": 0
+    }
+  },
+  {
+    "name": "СВЕТЯЩАЯСЯ_ПЫЛЬ",
+    "itemStack": {
+      "id": "minecraft:glowstone_dust",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЧЕРНИЛЬНЫЙ_МЕШОК",
+    "itemStack": {
+      "id": "minecraft:dye",
+      "data": 0
+    }
+  },
+  {
+    "name": "КРАСН_КРАСИТЕЛЬ",
+    "itemStack": {
+      "id": "minecraft:dye",
+      "data": 1
+    }
+  },
+  {
+    "name": "ЗЕЛЕН_КРАСИТЕЛЬ",
+    "itemStack": {
+      "id": "minecraft:dye",
+      "data": 2
+    }
+  },
+  {
+    "name": "КАКАО_БОБЫ",
+    "itemStack": {
+      "id": "minecraft:dye",
+      "data": 3
+    }
+  },
+  {
+    "name": "ЛАЗУРИТ",
+    "itemStack": {
+      "id": "minecraft:dye",
+      "data": 4
+    }
+  },
+  {
+    "name": "ФИОЛЕТ_КРАСИТЕЛЬ",
+    "itemStack": {
+      "id": "minecraft:dye",
+      "data": 5
+    }
+  },
+  {
+    "name": "БИРЮЗ_КРАСИТЕЛЬ",
+    "itemStack": {
+      "id": "minecraft:dye",
+      "data": 6
+    }
+  },
+  {
+    "name": "СВЕТЛО_СЕР_КРАС",
+    "itemStack": {
+      "id": "minecraft:dye",
+      "data": 7
+    }
+  },
+  {
+    "name": "СЕРЫЙ_КРАСИТЕЛЬ",
+    "itemStack": {
+      "id": "minecraft:dye",
+      "data": 8
+    }
+  },
+  {
+    "name": "РОЗОВ_КРАСИТЕЛЬ",
+    "itemStack": {
+      "id": "minecraft:dye",
+      "data": 9
+    }
+  },
+  {
+    "name": "ЛАЙМОВ_КРАСИТЕЛЬ",
+    "itemStack": {
+      "id": "minecraft:dye",
+      "data": 10
+    }
+  },
+  {
+    "name": "ЖЁЛТЫЙ_КРАСИТЕЛЬ",
+    "itemStack": {
+      "id": "minecraft:dye",
+      "data": 11
+    }
+  },
+  {
+    "name": "ГОЛУБ_КРАСИТЕЛЬ",
+    "itemStack": {
+      "id": "minecraft:dye",
+      "data": 12
+    }
+  },
+  {
+    "name": "ПУРПУРН_КРАСИТЕЛ",
+    "itemStack": {
+      "id": "minecraft:dye",
+      "data": 13
+    }
+  },
+  {
+    "name": "ОРАНЖ_КРАСИТЕЛЬ",
+    "itemStack": {
+      "id": "minecraft:dye",
+      "data": 14
+    }
+  },
+  {
+    "name": "КОСТНАЯ_МУКА",
+    "itemStack": {
+      "id": "minecraft:dye",
+      "data": 15
+    }
+  },
+  {
+    "name": "САХАР",
+    "itemStack": {
+      "id": "minecraft:sugar",
+      "data": 0
+    }
+  },
+  {
+    "name": "СЕМЕНА_ТЫКВЫ",
+    "itemStack": {
+      "id": "minecraft:pumpkin_seeds",
+      "data": 0
+    }
+  },
+  {
+    "name": "СЕМЕНА_АРБУЗА",
+    "itemStack": {
+      "id": "minecraft:melon_seeds",
+      "data": 0
+    }
+  },
+  {
+    "name": "СТЕРЖЕНЬ_ИФРИТА",
+    "itemStack": {
+      "id": "minecraft:blaze_rod",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗОЛОТОЙ_САМОРОД",
+    "itemStack": {
+      "id": "minecraft:gold_nugget",
+      "data": 0
+    }
+  },
+  {
+    "name": "АДСКИЙ_НАРОСТ",
+    "itemStack": {
+      "id": "minecraft:nether_wart",
+      "data": 0
+    }
+  },
+  {
+    "name": "ИЗУМРУД",
+    "itemStack": {
+      "id": "minecraft:emerald",
+      "data": 0
+    }
+  },
+  {
+    "name": "АДСКАЯ_ЗВЕЗДА",
+    "itemStack": {
+      "id": "minecraft:nether_star",
+      "data": 0
+    }
+  },
+  {
+    "name": "АДСКИЙ_КИРПИЧ",
+    "itemStack": {
+      "id": "minecraft:netherbrick",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЯЙЦО_ДРАКОНА",
+    "itemStack": {
+      "id": "minecraft:dragon_egg",
+      "data": 0
+    }
+  },
+  {
+    "name": "БЛОК_КОРИЧ_ГРИБА",
+    "itemStack": {
+      "id": "minecraft:brown_mushroom_block",
+      "data": 0
+    }
+  },
+  {
+    "name": "БЛОК_КРАСН_ГРИБА",
+    "itemStack": {
+      "id": "minecraft:red_mushroom_block",
+      "data": 0
+    }
+  },
+  {
+    "name": "КВАРЦ",
+    "itemStack": {
+      "id": "minecraft:quartz",
+      "data": 0
+    }
+  }
+]

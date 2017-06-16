@@ -1,0 +1,121 @@
+[
+  {
+    "name": "ЖЕЛЕЗНЫЙ_СУНДУК",
+    "itemStack": {
+      "id": "IronChest:BlockIronChest",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗОЛОТОЙ_СУНДУК",
+    "itemStack": {
+      "id": "IronChest:BlockIronChest",
+      "data": 1
+    }
+  },
+  {
+    "name": "АЛМАЗНЫЙ_СУНДУК",
+    "itemStack": {
+      "id": "IronChest:BlockIronChest",
+      "data": 2
+    }
+  },
+  {
+    "name": "МЕДНЫЙ_СУНДУК",
+    "itemStack": {
+      "id": "IronChest:BlockIronChest",
+      "data": 3
+    }
+  },
+  {
+    "name": "СЕРЕБРЯН_СУНДУК",
+    "itemStack": {
+      "id": "IronChest:BlockIronChest",
+      "data": 4
+    }
+  },
+  {
+    "name": "КРИСТАЛЬН_СУНДУК",
+    "itemStack": {
+      "id": "IronChest:BlockIronChest",
+      "data": 5
+    }
+  },
+  {
+    "name": "ОБСИДИАН_СУНДУК",
+    "itemStack": {
+      "id": "IronChest:BlockIronChest",
+      "data": 6
+    }
+  },
+  {
+    "name": "ЗЕМЛЯНОЙ_СУНДУК",
+    "itemStack": {
+      "id": "IronChest:BlockIronChest",
+      "data": 7
+    }
+  },
+  {
+    "name": "ЖЕЛ->ЗОЛ_СУНД",
+    "itemStack": {
+      "id": "IronChest:ironGoldUpgrade",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗОЛ->АЛМ_СУНД",
+    "itemStack": {
+      "id": "IronChest:goldDiamondUpgrade",
+      "data": 0
+    }
+  },
+  {
+    "name": "МЕД->СЕР_СУНД",
+    "itemStack": {
+      "id": "IronChest:copperSilverUpgrade",
+      "data": 0
+    }
+  },
+  {
+    "name": "СЕР->ЗОЛ_СУНД",
+    "itemStack": {
+      "id": "IronChest:silverGoldUpgrade",
+      "data": 0
+    }
+  },
+  {
+    "name": "МЕД->ЖЕЛ_СУНД",
+    "itemStack": {
+      "id": "IronChest:copperIronUpgrade",
+      "data": 0
+    }
+  },
+  {
+    "name": "АЛМ->КРИС_СУНД",
+    "itemStack": {
+      "id": "IronChest:diamondCrystalUpgrade",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДЕР->ЖЕЛ_СУНД",
+    "itemStack": {
+      "id": "IronChest:woodIronUpgrade",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДЕР->МЕД_СУНД",
+    "itemStack": {
+      "id": "IronChest:woodCopperUpgrade",
+      "data": 0
+    }
+  },
+  {
+    "name": "АЛМ->ОБС_СУНД",
+    "itemStack": {
+      "id": "IronChest:diamondObsidianUpgrade",
+      "data": 0
+    }
+  }
+]

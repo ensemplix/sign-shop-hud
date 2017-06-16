@@ -20,8 +20,12 @@ import static net.minecraft.item.Item.itemRegistry;
 
 public class SignShopHudRender {
 
-    private static final SignShopParser parser = new EnsemplixSignShopParser(new ShopItemRegistry(), itemRegistry);
     private static final Minecraft minecraft = Minecraft.getMinecraft();
+    private final SignShopParser parser;
+
+    public SignShopHudRender(ShopItemRegistry shopItemRegistry) {
+        parser = new EnsemplixSignShopParser(shopItemRegistry, itemRegistry);
+    }
 
     @SubscribeEvent
     public void onRender(RenderGameOverlayEvent.Post event) {
