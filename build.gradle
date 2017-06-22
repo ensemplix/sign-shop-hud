@@ -2,7 +2,7 @@ apply plugin: 'forge'
 apply plugin: 'java'
 
 group = 'ru.ensemplix'
-version = '1.0'
+version = '1.0.1'
 
 [compileJava, compileTestJava]*.options*.encoding = 'UTF-8'
 

@@ -14,7 +14,7 @@ import ru.ensemplix.shop.importer.ZipShopItemImporter;
 
 import java.nio.file.Path;
 
-@Mod(modid = "signshophud", name = "SignShopHud", version = "1.0", acceptedMinecraftVersions = "[1.7.10]", acceptableRemoteVersions = "*")
+@Mod(modid = "signshophud", name = "SignShopHud", version = "1.0.1", acceptedMinecraftVersions = "[1.7.10]", acceptableRemoteVersions = "*")
 public class SignShopHudMod {
 
     private Path modPath;
