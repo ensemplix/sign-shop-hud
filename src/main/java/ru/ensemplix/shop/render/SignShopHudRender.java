@@ -1,4 +1,4 @@
-package ru.ensemplix.render;
+package ru.ensemplix.shop.render;
 
 import cpw.mods.fml.common.eventhandler.SubscribeEvent;
 import net.minecraft.client.Minecraft;
@@ -10,10 +10,10 @@ import net.minecraft.util.MovingObjectPosition;
 import net.minecraft.util.Vec3;
 import net.minecraftforge.client.event.RenderGameOverlayEvent;
 import net.minecraftforge.client.event.RenderGameOverlayEvent.ElementType;
-import ru.ensemplix.SignShop;
-import ru.ensemplix.render.gui.SignShopHudGuiRender;
-import ru.ensemplix.parser.EnsemplixSignShopParser;
-import ru.ensemplix.parser.SignShopParser;
+import ru.ensemplix.shop.SignShop;
+import ru.ensemplix.shop.render.gui.SignShopHudGuiRender;
+import ru.ensemplix.shop.parser.EnsemplixSignShopParser;
+import ru.ensemplix.shop.parser.SignShopParser;
 import ru.ensemplix.shop.ShopItemRegistry;
 
 import static net.minecraft.item.Item.itemRegistry;

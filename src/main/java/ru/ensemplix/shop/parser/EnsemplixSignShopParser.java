@@ -1,9 +1,9 @@
-package ru.ensemplix.parser;
+package ru.ensemplix.shop.parser;
 
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.util.RegistryNamespaced;
-import ru.ensemplix.SignShop;
+import ru.ensemplix.shop.SignShop;
 import ru.ensemplix.shop.*;
 
 import static ru.ensemplix.shop.ShopPrice.Result.SUCCESS;

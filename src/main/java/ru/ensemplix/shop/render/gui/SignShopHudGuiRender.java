@@ -1,4 +1,4 @@
-package ru.ensemplix.render.gui;
+package ru.ensemplix.shop.render.gui;
 
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.FontRenderer;
@@ -6,8 +6,8 @@ import net.minecraft.client.gui.GuiScreen;
 import net.minecraft.client.gui.ScaledResolution;
 import net.minecraft.client.renderer.texture.TextureManager;
 import net.minecraft.item.ItemStack;
-import ru.ensemplix.SignShop;
-import ru.ensemplix.render.text.TextRenderer;
+import ru.ensemplix.shop.SignShop;
+import ru.ensemplix.shop.render.text.TextRenderer;
 
 import static org.lwjgl.opengl.GL11.*;
 

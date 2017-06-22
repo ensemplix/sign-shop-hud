@@ -1,4 +1,4 @@
-package ru.ensemplix;
+package ru.ensemplix.shop;
 
 import net.minecraft.item.ItemStack;
 

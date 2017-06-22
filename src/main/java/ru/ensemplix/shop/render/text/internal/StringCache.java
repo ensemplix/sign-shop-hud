@@ -1,4 +1,4 @@
-package ru.ensemplix.render.text.internal;
+package ru.ensemplix.shop.render.text.internal;
 
 import net.minecraft.client.renderer.Tessellator;
 import org.lwjgl.opengl.GL11;

@@ -1,10 +1,10 @@
-package ru.ensemplix.parser;
+package ru.ensemplix.shop.parser;
 
 import net.minecraft.item.Item;
 import net.minecraft.util.RegistryNamespaced;
 import org.junit.Before;
 import org.junit.Test;
-import ru.ensemplix.SignShop;
+import ru.ensemplix.shop.SignShop;
 import ru.ensemplix.shop.ShopItem;
 import ru.ensemplix.shop.ShopItemRegistry;
 import ru.ensemplix.shop.ShopItemStack;

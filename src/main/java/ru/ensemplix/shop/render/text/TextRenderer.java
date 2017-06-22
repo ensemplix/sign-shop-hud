@@ -1,9 +1,9 @@
-package ru.ensemplix.render.text;
+package ru.ensemplix.shop.render.text;
 
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.resources.IResourceManager;
 import net.minecraft.util.ResourceLocation;
-import ru.ensemplix.render.text.internal.StringCache;
+import ru.ensemplix.shop.render.text.internal.StringCache;
 
 import java.awt.*;
 

@@ -1,6 +1,6 @@
-package ru.ensemplix.parser;
+package ru.ensemplix.shop.parser;
 
-import ru.ensemplix.SignShop;
+import ru.ensemplix.shop.SignShop;
 
 public interface SignShopParser {
 
