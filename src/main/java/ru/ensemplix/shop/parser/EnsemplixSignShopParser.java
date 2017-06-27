@@ -2,8 +2,8 @@ package ru.ensemplix.shop.parser;
 
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
-import net.minecraft.util.RegistryNamespaced;
-import ru.ensemplix.shop.SignShop;
+import net.minecraft.util.ResourceLocation;
+import net.minecraft.util.registry.RegistryNamespaced;
 import ru.ensemplix.shop.*;
 
 import static ru.ensemplix.shop.ShopPrice.Result.SUCCESS;
@@ -11,9 +11,9 @@ import static ru.ensemplix.shop.ShopPrice.Result.SUCCESS;
 public class EnsemplixSignShopParser implements SignShopParser {
 
     private final ShopItemRegistry shopItemRegistry;
-    private final RegistryNamespaced itemRegistry;
+    private final RegistryNamespaced<ResourceLocation, Item> itemRegistry;
 
-    public EnsemplixSignShopParser(ShopItemRegistry shopItemRegistry, RegistryNamespaced itemRegistry) {
+    public EnsemplixSignShopParser(ShopItemRegistry shopItemRegistry, RegistryNamespaced<ResourceLocation, Item> itemRegistry) {
         this.shopItemRegistry = shopItemRegistry;
         this.itemRegistry = itemRegistry;
     }
@@ -36,7 +36,7 @@ public class EnsemplixSignShopParser implements SignShopParser {
         }
 
         ShopItemStack shopStack = shopItem.getItemStack();
-        Item item = (Item) itemRegistry.getObject(shopStack.getId());
+        Item item = itemRegistry.getObject(new ResourceLocation(shopStack.getId()));
 
         if(item == null) {
             return null;

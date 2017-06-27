@@ -1,10 +1,8 @@
 package ru.ensemplix.shop.render.gui;
 
 import net.minecraft.client.Minecraft;
-import net.minecraft.client.gui.FontRenderer;
 import net.minecraft.client.gui.GuiScreen;
 import net.minecraft.client.gui.ScaledResolution;
-import net.minecraft.client.renderer.texture.TextureManager;
 import net.minecraft.item.ItemStack;
 import ru.ensemplix.shop.SignShop;
 import ru.ensemplix.shop.render.text.TextRenderer;
@@ -14,10 +12,8 @@ import static org.lwjgl.opengl.GL11.*;
 // Занимается отрисовкой всплывающего окна.
 public class SignShopHudGuiRender extends GuiScreen {
 
-    private static final Minecraft minecraft = Minecraft.getMinecraft();
-    private static final TextureManager textureManager = minecraft.getTextureManager();
-    private static final FontRenderer fontRenderer = minecraft.fontRendererObj;
     private static final TextRenderer textRenderer = new TextRenderer(20);
+    private static final Minecraft minecraft = Minecraft.getMinecraft();
 
     private static final int BACKGROUND_TOP_PADDING = 60;
     private static final int BACKGROUND_WIDTH = 320;
@@ -27,7 +23,7 @@ public class SignShopHudGuiRender extends GuiScreen {
     private final int centerX;
 
     public SignShopHudGuiRender(SignShop shop) {
-        ScaledResolution scaled = new ScaledResolution(minecraft, minecraft.displayWidth, minecraft.displayHeight);
+        ScaledResolution scaled = new ScaledResolution(minecraft);
         scale = scaled.getScaleFactor();
         centerX = scaled.getScaledWidth() / 2;
 
@@ -69,8 +65,8 @@ public class SignShopHudGuiRender extends GuiScreen {
         glEnable(GL_LIGHTING);
         glEnable(GL_DEPTH_TEST);
         glScalef(itemScale, itemScale, 1.0F);
-        itemRender.renderItemAndEffectIntoGUI(fontRenderer, textureManager, stack, (centerX - itemSize) / itemScale, 75 / scale / itemScale);
-        itemRender.renderItemIntoGUI(fontRenderer, textureManager, stack, (centerX - itemSize) / itemScale, 75 / scale / itemScale);
+        itemRender.renderItemAndEffectIntoGUI(stack, (centerX - itemSize) / itemScale, 75 / scale / itemScale);
+        itemRender.renderItemIntoGUI(stack, (centerX - itemSize) / itemScale, 75 / scale / itemScale);
         glDisable(GL_LIGHTING);
         glDisable(GL_DEPTH_TEST);
         glPopMatrix();
