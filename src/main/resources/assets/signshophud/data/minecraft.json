@@ -1,1938 +1,1938 @@
 [
   {
-    "name": " ¿Ã≈Õ‹",
+    "name": "–ö–ê–ú–ï–ù–¨",
     "itemStack": {
       "id": "minecraft:stone",
       "data": 0
     }
   },
   {
-    "name": "√–¿Õ»“",
+    "name": "–ì–†–ê–ù–ò–¢",
     "itemStack": {
       "id": "minecraft:stone",
       "data": 1
     }
   },
   {
-    "name": "√À¿ƒ »…_√–¿Õ»“",
+    "name": "–ì–õ–ê–î–ö–ò–ô_–ì–†–ê–ù–ò–¢",
     "itemStack": {
       "id": "minecraft:stone",
       "data": 2
     }
   },
   {
-    "name": "ƒ»Œ–»“",
+    "name": "–î–ò–û–†–ò–¢",
     "itemStack": {
       "id": "minecraft:stone",
       "data": 3
     }
   },
   {
-    "name": "√À¿ƒ »…_ƒ»Œ–»“",
+    "name": "–ì–õ–ê–î–ö–ò–ô_–î–ò–û–†–ò–¢",
     "itemStack": {
       "id": "minecraft:stone",
       "data": 4
     }
   },
   {
-    "name": "¿Õƒ≈«»“",
+    "name": "–ê–ù–î–ï–ó–ò–¢",
     "itemStack": {
       "id": "minecraft:stone",
       "data": 5
     }
   },
   {
-    "name": "√À¿ƒ »…_¿Õƒ≈«»“",
+    "name": "–ì–õ–ê–î–ö–ò–ô_–ê–ù–î–ï–ó–ò–¢",
     "itemStack": {
       "id": "minecraft:stone",
       "data": 6
     }
   },
   {
-    "name": "ƒ®–Õ",
+    "name": "–î–Å–†–ù",
     "itemStack": {
       "id": "minecraft:grass",
       "data": 0
     }
   },
   {
-    "name": "«≈ÃÀﬂ",
+    "name": "–ó–ï–ú–õ–Ø",
     "itemStack": {
       "id": "minecraft:dirt",
       "data": 0
     }
   },
   {
-    "name": " ¿Ã≈Õ»—“¿ﬂ_«≈ÃÀﬂ",
+    "name": "–ö–ê–ú–ï–ù–ò–°–¢–ê–Ø_–ó–ï–ú–õ–Ø",
     "itemStack": {
       "id": "minecraft:dirt",
       "data": 1
     }
   },
   {
-    "name": "œŒƒ«ŒÀ",
+    "name": "–ü–û–î–ó–û–õ",
     "itemStack": {
       "id": "minecraft:dirt",
       "data": 2
     }
   },
   {
-    "name": "¡”À€∆Õ» ",
+    "name": "–ë–£–õ–´–ñ–ù–ò–ö",
     "itemStack": {
       "id": "minecraft:cobblestone",
       "data": 0
     }
   },
   {
-    "name": "ƒ”¡Œ¬€≈_ƒŒ— »",
+    "name": "–î–£–ë–û–í–´–ï_–î–û–°–ö–ò",
     "itemStack": {
       "id": "minecraft:planks",
       "data": 0
     }
   },
   {
-    "name": "≈ÀŒ¬€≈_ƒŒ— »",
+    "name": "–ï–õ–û–í–´–ï_–î–û–°–ö–ò",
     "itemStack": {
       "id": "minecraft:planks",
       "data": 1
     }
   },
   {
-    "name": "¡≈–®«Œ¬€≈_ƒŒ— »",
+    "name": "–ë–ï–†–Å–ó–û–í–´–ï_–î–û–°–ö–ò",
     "itemStack": {
       "id": "minecraft:planks",
       "data": 2
     }
   },
   {
-    "name": "ƒŒ— »_»«_“–_ƒ≈–",
+    "name": "–î–û–°–ö–ò_–ò–ó_–¢–†_–î–ï–†",
     "itemStack": {
       "id": "minecraft:planks",
       "data": 3
     }
   },
   {
-    "name": "ƒŒ— »_»«_¿ ¿÷»»",
+    "name": "–î–û–°–ö–ò_–ò–ó_–ê–ö–ê–¶–ò–ò",
     "itemStack": {
       "id": "minecraft:planks",
       "data": 4
     }
   },
   {
-    "name": "ƒŒ—_»«_“®ÃÕ_ƒ”¡¿",
+    "name": "–î–û–°_–ò–ó_–¢–Å–ú–ù_–î–£–ë–ê",
     "itemStack": {
       "id": "minecraft:planks",
       "data": 5
     }
   },
   {
-    "name": " Œ–≈ÕÕ¿ﬂ_œŒ–Œƒ¿",
+    "name": "–ö–û–†–ï–ù–ù–ê–Ø_–ü–û–†–û–î–ê",
     "itemStack": {
       "id": "minecraft:bedrock",
       "data": 0
     }
   },
   {
-    "name": "œ≈—Œ ",
+    "name": "–ü–ï–°–û–ö",
     "itemStack": {
       "id": "minecraft:sand",
       "data": 0
     }
   },
   {
-    "name": " –¿—Õ€…_œ≈—Œ ",
+    "name": "–ö–†–ê–°–ù–´–ô_–ü–ï–°–û–ö",
     "itemStack": {
       "id": "minecraft:sand",
       "data": 1
     }
   },
   {
-    "name": "√–¿¬»…",
+    "name": "–ì–†–ê–í–ò–ô",
     "itemStack": {
       "id": "minecraft:gravel",
       "data": 0
     }
   },
   {
-    "name": "«ŒÀŒ“¿ﬂ_–”ƒ¿",
+    "name": "–ó–û–õ–û–¢–ê–Ø_–†–£–î–ê",
     "itemStack": {
       "id": "minecraft:gold_ore",
       "data": 0
     }
   },
   {
-    "name": "∆≈À≈«Õ¿ﬂ_–”ƒ¿",
+    "name": "–ñ–ï–õ–ï–ó–ù–ê–Ø_–†–£–î–ê",
     "itemStack": {
       "id": "minecraft:iron_ore",
       "data": 0
     }
   },
   {
-    "name": "”√ŒÀ‹Õ¿ﬂ_–”ƒ¿",
+    "name": "–£–ì–û–õ–¨–ù–ê–Ø_–†–£–î–ê",
     "itemStack": {
       "id": "minecraft:coal_ore",
       "data": 0
     }
   },
   {
-    "name": "ƒ”¡",
+    "name": "–î–£–ë",
     "itemStack": {
       "id": "minecraft:log",
       "data": 0
     }
   },
   {
-    "name": "≈À‹",
+    "name": "–ï–õ–¨",
     "itemStack": {
       "id": "minecraft:log",
       "data": 1
     }
   },
   {
-    "name": "¡≈–®«¿",
+    "name": "–ë–ï–†–Å–ó–ê",
     "itemStack": {
       "id": "minecraft:log",
       "data": 2
     }
   },
   {
-    "name": "“–Œœ»◊≈— _ƒ≈–≈¬Œ",
+    "name": "–¢–†–û–ü–ò–ß–ï–°–ö_–î–ï–†–ï–í–û",
     "itemStack": {
       "id": "minecraft:log",
       "data": 3
     }
   },
   {
-    "name": "√”¡ ¿",
+    "name": "–ì–£–ë–ö–ê",
     "itemStack": {
       "id": "minecraft:sponge",
       "data": 0
     }
   },
   {
-    "name": "ÃŒ –¿ﬂ_√”¡ ¿",
+    "name": "–ú–û–ö–†–ê–Ø_–ì–£–ë–ö–ê",
     "itemStack": {
       "id": "minecraft:sponge",
       "data": 1
     }
   },
   {
-    "name": "—“≈ ÀŒ",
+    "name": "–°–¢–ï–ö–õ–û",
     "itemStack": {
       "id": "minecraft:glass",
       "data": 0
     }
   },
   {
-    "name": "À¿«”–»“Œ¬¿ﬂ_–”ƒ¿",
+    "name": "–õ–ê–ó–£–†–ò–¢–û–í–ê–Ø_–†–£–î–ê",
     "itemStack": {
       "id": "minecraft:lapis_ore",
       "data": 0
     }
   },
   {
-    "name": "¡ÀŒ _À¿«”–»“¿",
+    "name": "–ë–õ–û–ö_–õ–ê–ó–£–†–ò–¢–ê",
     "itemStack": {
       "id": "minecraft:lapis_block",
       "data": 0
     }
   },
   {
-    "name": "œ≈—◊¿Õ» ",
+    "name": "–ü–ï–°–ß–ê–ù–ò–ö",
     "itemStack": {
       "id": "minecraft:sandstone",
       "data": 0
     }
   },
   {
-    "name": "–≈«ÕŒ…_œ≈—◊¿Õ» ",
+    "name": "–†–ï–ó–ù–û–ô_–ü–ï–°–ß–ê–ù–ò–ö",
     "itemStack": {
       "id": "minecraft:sandstone",
       "data": 1
     }
   },
   {
-    "name": "√À¿ƒ »…_œ≈—◊¿Õ» ",
+    "name": "–ì–õ–ê–î–ö–ò–ô_–ü–ï–°–ß–ê–ù–ò–ö",
     "itemStack": {
       "id": "minecraft:sandstone",
       "data": 2
     }
   },
   {
-    "name": "ÿ≈–—“‹",
+    "name": "–®–ï–†–°–¢–¨",
     "itemStack": {
       "id": "minecraft:wool",
       "data": 0
     }
   },
   {
-    "name": "Œ–¿Õ∆≈¬¿ﬂ_ÿ≈–—“‹",
+    "name": "–û–†–ê–ù–ñ–ï–í–ê–Ø_–®–ï–†–°–¢–¨",
     "itemStack": {
       "id": "minecraft:wool",
       "data": 1
     }
   },
   {
-    "name": "œ”–œ”–Õ¿ﬂ_ÿ≈–—“‹",
+    "name": "–ü–£–†–ü–£–†–ù–ê–Ø_–®–ï–†–°–¢–¨",
     "itemStack": {
       "id": "minecraft:wool",
       "data": 2
     }
   },
   {
-    "name": "√ŒÀ”¡¿ﬂ_ÿ≈–—“‹",
+    "name": "–ì–û–õ–£–ë–ê–Ø_–®–ï–†–°–¢–¨",
     "itemStack": {
       "id": "minecraft:wool",
       "data": 3
     }
   },
   {
-    "name": "∆®À“¿ﬂ_ÿ≈–—“‹",
+    "name": "–ñ–Å–õ–¢–ê–Ø_–®–ï–†–°–¢–¨",
     "itemStack": {
       "id": "minecraft:wool",
       "data": 4
     }
   },
   {
-    "name": "À¿…ÃŒ¬¿ﬂ_ÿ≈–—“‹",
+    "name": "–õ–ê–ô–ú–û–í–ê–Ø_–®–ï–†–°–¢–¨",
     "itemStack": {
       "id": "minecraft:wool",
       "data": 5
     }
   },
   {
-    "name": "–Œ«Œ¬¿ﬂ_ÿ≈–—“‹",
+    "name": "–†–û–ó–û–í–ê–Ø_–®–ï–†–°–¢–¨",
     "itemStack": {
       "id": "minecraft:wool",
       "data": 6
     }
   },
   {
-    "name": "—≈–¿ﬂ_ÿ≈–—“‹",
+    "name": "–°–ï–†–ê–Ø_–®–ï–†–°–¢–¨",
     "itemStack": {
       "id": "minecraft:wool",
       "data": 7
     }
   },
   {
-    "name": "—¬_—≈–¿ﬂ_ÿ≈–—“‹",
+    "name": "–°–í_–°–ï–†–ê–Ø_–®–ï–†–°–¢–¨",
     "itemStack": {
       "id": "minecraft:wool",
       "data": 8
     }
   },
   {
-    "name": "¡»–ﬁ«Œ¬¿ﬂ_ÿ≈–—“‹",
+    "name": "–ë–ò–†–Æ–ó–û–í–ê–Ø_–®–ï–†–°–¢–¨",
     "itemStack": {
       "id": "minecraft:wool",
       "data": 9
     }
   },
   {
-    "name": "‘»ŒÀ≈“Œ¬_ÿ≈–—“‹",
+    "name": "–§–ò–û–õ–ï–¢–û–í_–®–ï–†–°–¢–¨",
     "itemStack": {
       "id": "minecraft:wool",
       "data": 10
     }
   },
   {
-    "name": "—»Õﬂﬂ_ÿ≈–—“‹",
+    "name": "–°–ò–ù–Ø–Ø_–®–ï–†–°–¢–¨",
     "itemStack": {
       "id": "minecraft:wool",
       "data": 11
     }
   },
   {
-    "name": " Œ–»◊Õ≈¬_ÿ≈–—“‹",
+    "name": "–ö–û–†–ò–ß–ù–ï–í_–®–ï–†–°–¢–¨",
     "itemStack": {
       "id": "minecraft:wool",
       "data": 12
     }
   },
   {
-    "name": "«≈À®Õ¿ﬂ_ÿ≈–—“‹",
+    "name": "–ó–ï–õ–Å–ù–ê–Ø_–®–ï–†–°–¢–¨",
     "itemStack": {
       "id": "minecraft:wool",
       "data": 13
     }
   },
   {
-    "name": " –¿—Õ¿ﬂ_ÿ≈–—“‹",
+    "name": "–ö–†–ê–°–ù–ê–Ø_–®–ï–†–°–¢–¨",
     "itemStack": {
       "id": "minecraft:wool",
       "data": 14
     }
   },
   {
-    "name": "◊®–Õ¿ﬂ_ÿ≈–—“‹",
+    "name": "–ß–Å–†–ù–ê–Ø_–®–ï–†–°–¢–¨",
     "itemStack": {
       "id": "minecraft:wool",
       "data": 15
     }
   },
   {
-    "name": "«ŒÀŒ“Œ…_¡ÀŒ ",
+    "name": "–ó–û–õ–û–¢–û–ô_–ë–õ–û–ö",
     "itemStack": {
       "id": "minecraft:gold_block",
       "data": 0
     }
   },
   {
-    "name": "∆≈À≈«Õ€…_¡ÀŒ ",
+    "name": "–ñ–ï–õ–ï–ó–ù–´–ô_–ë–õ–û–ö",
     "itemStack": {
       "id": "minecraft:iron_block",
       "data": 0
     }
   },
   {
-    "name": " ¿Ã≈ÕÕ¿ﬂ_œÀ»“¿",
+    "name": "–ö–ê–ú–ï–ù–ù–ê–Ø_–ü–õ–ò–¢–ê",
     "itemStack": {
       "id": "minecraft:stone_slab",
       "data": 0
     }
   },
   {
-    "name": "œ≈—◊¿Õ» Œ¬_œÀ»“¿",
+    "name": "–ü–ï–°–ß–ê–ù–ò–ö–û–í_–ü–õ–ò–¢–ê",
     "itemStack": {
       "id": "minecraft:stone_slab",
       "data": 1
     }
   },
   {
-    "name": "¡”À€∆Õ» Œ¬_œÀ»“¿",
+    "name": "–ë–£–õ–´–ñ–ù–ò–ö–û–í_–ü–õ–ò–¢–ê",
     "itemStack": {
       "id": "minecraft:stone_slab",
       "data": 3
     }
   },
   {
-    "name": " »–œ»◊Õ¿ﬂ_œÀ»“¿",
+    "name": "–ö–ò–†–ü–ò–ß–ù–ê–Ø_–ü–õ–ò–¢–ê",
     "itemStack": {
       "id": "minecraft:stone_slab",
       "data": 4
     }
   },
   {
-    "name": "œÀ»“¿_»«_ ¿Ã_ »–",
+    "name": "–ü–õ–ò–¢–ê_–ò–ó_–ö–ê–ú_–ö–ò–†",
     "itemStack": {
       "id": "minecraft:stone_slab",
       "data": 5
     }
   },
   {
-    "name": "œÀ»“¿_»«_¿ƒ_ »–œ",
+    "name": "–ü–õ–ò–¢–ê_–ò–ó_–ê–î_–ö–ò–†–ü",
     "itemStack": {
       "id": "minecraft:stone_slab",
       "data": 6
     }
   },
   {
-    "name": " ¬¿–÷≈¬¿ﬂ_œÀ»“¿",
+    "name": "–ö–í–ê–†–¶–ï–í–ê–Ø_–ü–õ–ò–¢–ê",
     "itemStack": {
       "id": "minecraft:stone_slab",
       "data": 7
     }
   },
   {
-    "name": " »–œ»◊»",
+    "name": "–ö–ò–†–ü–ò–ß–ò",
     "itemStack": {
       "id": "minecraft:brick_block",
       "data": 0
     }
   },
   {
-    "name": " Õ»∆Õ¿ﬂ_œŒÀ ¿",
+    "name": "–ö–ù–ò–ñ–ù–ê–Ø_–ü–û–õ–ö–ê",
     "itemStack": {
       "id": "minecraft:bookshelf",
       "data": 0
     }
   },
   {
-    "name": "«¿Ãÿ≈À_¡”À€∆Õ» ",
+    "name": "–ó–ê–ú–®–ï–õ_–ë–£–õ–´–ñ–ù–ò–ö",
     "itemStack": {
       "id": "minecraft:mossy_cobblestone",
       "data": 0
     }
   },
   {
-    "name": "Œ¡—»ƒ»¿Õ",
+    "name": "–û–ë–°–ò–î–ò–ê–ù",
     "itemStack": {
       "id": "minecraft:obsidian",
       "data": 0
     }
   },
   {
-    "name": "ƒ”¡Œ¬_—“”œ≈Õ‹ »",
+    "name": "–î–£–ë–û–í_–°–¢–£–ü–ï–ù–¨–ö–ò",
     "itemStack": {
       "id": "minecraft:oak_stairs",
       "data": 0
     }
   },
   {
-    "name": "¿ÀÃ¿«Õ¿ﬂ_–”ƒ¿",
+    "name": "–ê–õ–ú–ê–ó–ù–ê–Ø_–†–£–î–ê",
     "itemStack": {
       "id": "minecraft:diamond_ore",
       "data": 0
     }
   },
   {
-    "name": "¿ÀÃ¿«Õ€…_¡ÀŒ ",
+    "name": "–ê–õ–ú–ê–ó–ù–´–ô_–ë–õ–û–ö",
     "itemStack": {
       "id": "minecraft:diamond_block",
       "data": 0
     }
   },
   {
-    "name": "¡”À€∆Õ_—“”œ≈Õ‹ »",
+    "name": "–ë–£–õ–´–ñ–ù_–°–¢–£–ü–ï–ù–¨–ö–ò",
     "itemStack": {
       "id": "minecraft:stone_stairs",
       "data": 0
     }
   },
   {
-    "name": " –¿—Õ¿ﬂ_–”ƒ¿",
+    "name": "–ö–†–ê–°–ù–ê–Ø_–†–£–î–ê",
     "itemStack": {
       "id": "minecraft:redstone_ore",
       "data": 0
     }
   },
   {
-    "name": "À®ƒ",
+    "name": "–õ–Å–î",
     "itemStack": {
       "id": "minecraft:ice",
       "data": 0
     }
   },
   {
-    "name": "—Õ≈∆Õ€…_¡ÀŒ ",
+    "name": "–°–ù–ï–ñ–ù–´–ô_–ë–õ–û–ö",
     "itemStack": {
       "id": "minecraft:snow",
       "data": 0
     }
   },
   {
-    "name": "√À»Õ¿",
+    "name": "–ì–õ–ò–ù–ê",
     "itemStack": {
       "id": "minecraft:clay",
       "data": 0
     }
   },
   {
-    "name": "“€ ¬¿",
+    "name": "–¢–´–ö–í–ê",
     "itemStack": {
       "id": "minecraft:pumpkin",
       "data": 0
     }
   },
   {
-    "name": "¿ƒ— »…_ ¿Ã≈Õ‹",
+    "name": "–ê–î–°–ö–ò–ô_–ö–ê–ú–ï–ù–¨",
     "itemStack": {
       "id": "minecraft:netherrack",
       "data": 0
     }
   },
   {
-    "name": "œ≈—Œ _ƒ”ÿ",
+    "name": "–ü–ï–°–û–ö_–î–£–®",
     "itemStack": {
       "id": "minecraft:soul_sand",
       "data": 0
     }
   },
   {
-    "name": "—¬≈“Œ ¿Ã≈Õ‹",
+    "name": "–°–í–ï–¢–û–ö–ê–ú–ï–ù–¨",
     "itemStack": {
       "id": "minecraft:glowstone",
       "data": 0
     }
   },
   {
-    "name": "—¬≈“»À‹Õ» _ƒ∆≈ ¿",
+    "name": "–°–í–ï–¢–ò–õ–¨–ù–ò–ö_–î–ñ–ï–ö–ê",
     "itemStack": {
       "id": "minecraft:lit_pumpkin",
       "data": 0
     }
   },
   {
-    "name": "¡≈ÀŒ≈_—“≈ ÀŒ",
+    "name": "–ë–ï–õ–û–ï_–°–¢–ï–ö–õ–û",
     "itemStack": {
       "id": "minecraft:stained_glass",
       "data": 0
     }
   },
   {
-    "name": "Œ–¿Õ∆≈¬Œ≈_—“≈ ÀŒ",
+    "name": "–û–†–ê–ù–ñ–ï–í–û–ï_–°–¢–ï–ö–õ–û",
     "itemStack": {
       "id": "minecraft:stained_glass",
       "data": 1
     }
   },
   {
-    "name": "œ”–œ”–ÕŒ≈_—“≈ ÀŒ",
+    "name": "–ü–£–†–ü–£–†–ù–û–ï_–°–¢–ï–ö–õ–û",
     "itemStack": {
       "id": "minecraft:stained_glass",
       "data": 2
     }
   },
   {
-    "name": "√ŒÀ”¡Œ≈_—“≈ ÀŒ",
+    "name": "–ì–û–õ–£–ë–û–ï_–°–¢–ï–ö–õ–û",
     "itemStack": {
       "id": "minecraft:stained_glass",
       "data": 3
     }
   },
   {
-    "name": "∆®À“Œ≈_—“≈ ÀŒ",
+    "name": "–ñ–Å–õ–¢–û–ï_–°–¢–ï–ö–õ–û",
     "itemStack": {
       "id": "minecraft:stained_glass",
       "data": 4
     }
   },
   {
-    "name": "À¿…ÃŒ¬Œ≈_—“≈ ÀŒ",
+    "name": "–õ–ê–ô–ú–û–í–û–ï_–°–¢–ï–ö–õ–û",
     "itemStack": {
       "id": "minecraft:stained_glass",
       "data": 5
     }
   },
   {
-    "name": "–Œ«Œ¬Œ≈_—“≈ ÀŒ",
+    "name": "–†–û–ó–û–í–û–ï_–°–¢–ï–ö–õ–û",
     "itemStack": {
       "id": "minecraft:stained_glass",
       "data": 6
     }
   },
   {
-    "name": "—≈–Œ≈_—“≈ ÀŒ",
+    "name": "–°–ï–†–û–ï_–°–¢–ï–ö–õ–û",
     "itemStack": {
       "id": "minecraft:stained_glass",
       "data": 7
     }
   },
   {
-    "name": "—¬_—≈–Œ≈_—“≈ ÀŒ",
+    "name": "–°–í_–°–ï–†–û–ï_–°–¢–ï–ö–õ–û",
     "itemStack": {
       "id": "minecraft:stained_glass",
       "data": 8
     }
   },
   {
-    "name": "¡»–ﬁ«Œ¬Œ≈_—“≈ ÀŒ",
+    "name": "–ë–ò–†–Æ–ó–û–í–û–ï_–°–¢–ï–ö–õ–û",
     "itemStack": {
       "id": "minecraft:stained_glass",
       "data": 9
     }
   },
   {
-    "name": "‘»ŒÀ≈“Œ¬_—“≈ ÀŒ",
+    "name": "–§–ò–û–õ–ï–¢–û–í_–°–¢–ï–ö–õ–û",
     "itemStack": {
       "id": "minecraft:stained_glass",
       "data": 10
     }
   },
   {
-    "name": "—»Õ≈≈_—“≈ ÀŒ",
+    "name": "–°–ò–ù–ï–ï_–°–¢–ï–ö–õ–û",
     "itemStack": {
       "id": "minecraft:stained_glass",
       "data": 11
     }
   },
   {
-    "name": " Œ–»◊Õ≈¬_—“≈ ÀŒ",
+    "name": "–ö–û–†–ò–ß–ù–ï–í_–°–¢–ï–ö–õ–û",
     "itemStack": {
       "id": "minecraft:stained_glass",
       "data": 12
     }
   },
   {
-    "name": "«≈À®ÕŒ≈_—“≈ ÀŒ",
+    "name": "–ó–ï–õ–Å–ù–û–ï_–°–¢–ï–ö–õ–û",
     "itemStack": {
       "id": "minecraft:stained_glass",
       "data": 13
     }
   },
   {
-    "name": " –¿—ÕŒ≈_—“≈ ÀŒ",
+    "name": "–ö–†–ê–°–ù–û–ï_–°–¢–ï–ö–õ–û",
     "itemStack": {
       "id": "minecraft:stained_glass",
       "data": 14
     }
   },
   {
-    "name": "◊®–ÕŒ≈_—“≈ ÀŒ",
+    "name": "–ß–Å–†–ù–û–ï_–°–¢–ï–ö–õ–û",
     "itemStack": {
       "id": "minecraft:stained_glass",
       "data": 15
     }
   },
   {
-    "name": " ¿Ã≈ÕÕ€≈_ »–œ»◊»",
+    "name": "–ö–ê–ú–ï–ù–ù–´–ï_–ö–ò–†–ü–ò–ß–ò",
     "itemStack": {
       "id": "minecraft:stonebrick",
       "data": 0
     }
   },
   {
-    "name": "«¿Ãÿ_ ¿Ã_ »–œ»◊»",
+    "name": "–ó–ê–ú–®_–ö–ê–ú_–ö–ò–†–ü–ò–ß–ò",
     "itemStack": {
       "id": "minecraft:stonebrick",
       "data": 1
     }
   },
   {
-    "name": "œŒ“–_ ¿Ã_ »–œ»◊»",
+    "name": "–ü–û–¢–†_–ö–ê–ú_–ö–ò–†–ü–ò–ß–ò",
     "itemStack": {
       "id": "minecraft:stonebrick",
       "data": 2
     }
   },
   {
-    "name": "–≈«Õ_ ¿Ã_ »–œ»◊»",
+    "name": "–†–ï–ó–ù_–ö–ê–ú_–ö–ò–†–ü–ò–ß–ò",
     "itemStack": {
       "id": "minecraft:stonebrick",
       "data": 3
     }
   },
   {
-    "name": "¿–¡”«",
+    "name": "–ê–†–ë–£–ó",
     "itemStack": {
       "id": "minecraft:melon_block",
       "data": 0
     }
   },
   {
-    "name": " »–œ»◊_—“”œ≈Õ‹ »",
+    "name": "–ö–ò–†–ü–ò–ß_–°–¢–£–ü–ï–ù–¨–ö–ò",
     "itemStack": {
       "id": "minecraft:brick_stairs",
       "data": 0
     }
   },
   {
-    "name": "—“”œ_»«_ ¿Ã_ »–œ",
+    "name": "–°–¢–£–ü_–ò–ó_–ö–ê–ú_–ö–ò–†–ü",
     "itemStack": {
       "id": "minecraft:stone_brick_stairs",
       "data": 0
     }
   },
   {
-    "name": "Ã»÷≈À»…",
+    "name": "–ú–ò–¶–ï–õ–ò–ô",
     "itemStack": {
       "id": "minecraft:mycelium",
       "data": 0
     }
   },
   {
-    "name": "¿ƒ— »≈_ »–œ»◊»",
+    "name": "–ê–î–°–ö–ò–ï_–ö–ò–†–ü–ò–ß–ò",
     "itemStack": {
       "id": "minecraft:nether_brick",
       "data": 0
     }
   },
   {
-    "name": "¿ƒ— »≈_—“”œ≈Õ‹ »",
+    "name": "–ê–î–°–ö–ò–ï_–°–¢–£–ü–ï–ù–¨–ö–ò",
     "itemStack": {
       "id": "minecraft:nether_brick_stairs",
       "data": 0
     }
   },
   {
-    "name": " ¿Ã≈Õ‹_ –¿ﬂ",
+    "name": "–ö–ê–ú–ï–ù–¨_–ö–†–ê–Ø",
     "itemStack": {
       "id": "minecraft:end_stone",
       "data": 0
     }
   },
   {
-    "name": "ƒ”¡Œ¬¿ﬂ_œÀ»“¿",
+    "name": "–î–£–ë–û–í–ê–Ø_–ü–õ–ò–¢–ê",
     "itemStack": {
       "id": "minecraft:wooden_slab",
       "data": 0
     }
   },
   {
-    "name": "≈ÀŒ¬¿ﬂ_œÀ»“¿",
+    "name": "–ï–õ–û–í–ê–Ø_–ü–õ–ò–¢–ê",
     "itemStack": {
       "id": "minecraft:wooden_slab",
       "data": 1
     }
   },
   {
-    "name": "¡≈–®«Œ¬¿ﬂ_œÀ»“¿",
+    "name": "–ë–ï–†–Å–ó–û–í–ê–Ø_–ü–õ–ò–¢–ê",
     "itemStack": {
       "id": "minecraft:wooden_slab",
       "data": 2
     }
   },
   {
-    "name": "œÀ»“¿_»«_“–_ƒ≈–",
+    "name": "–ü–õ–ò–¢–ê_–ò–ó_–¢–†_–î–ï–†",
     "itemStack": {
       "id": "minecraft:wooden_slab",
       "data": 3
     }
   },
   {
-    "name": "¿ ¿÷»≈¬¿ﬂ_œÀ»“¿",
+    "name": "–ê–ö–ê–¶–ò–ï–í–ê–Ø_–ü–õ–ò–¢–ê",
     "itemStack": {
       "id": "minecraft:wooden_slab",
       "data": 4
     }
   },
   {
-    "name": "œÀ_»«_“®ÃÕ_ƒ”¡¿",
+    "name": "–ü–õ_–ò–ó_–¢–Å–ú–ù_–î–£–ë–ê",
     "itemStack": {
       "id": "minecraft:wooden_slab",
       "data": 5
     }
   },
   {
-    "name": "œ≈—◊¿Õ_—“”œ≈Õ‹ »",
+    "name": "–ü–ï–°–ß–ê–ù_–°–¢–£–ü–ï–ù–¨–ö–ò",
     "itemStack": {
       "id": "minecraft:sandstone_stairs",
       "data": 0
     }
   },
   {
-    "name": "»«”Ã–”ƒÕ¿ﬂ_–”ƒ¿",
+    "name": "–ò–ó–£–ú–†–£–î–ù–ê–Ø_–†–£–î–ê",
     "itemStack": {
       "id": "minecraft:emerald_ore",
       "data": 0
     }
   },
   {
-    "name": "»«”Ã–”ƒÕ€…_¡ÀŒ ",
+    "name": "–ò–ó–£–ú–†–£–î–ù–´–ô_–ë–õ–û–ö",
     "itemStack": {
       "id": "minecraft:emerald_block",
       "data": 0
     }
   },
   {
-    "name": "≈ÀŒ¬€≈_—“”œ≈Õ‹ »",
+    "name": "–ï–õ–û–í–´–ï_–°–¢–£–ü–ï–ù–¨–ö–ò",
     "itemStack": {
       "id": "minecraft:spruce_stairs",
       "data": 0
     }
   },
   {
-    "name": "¡≈–®«_—“”œ≈Õ‹ »",
+    "name": "–ë–ï–†–Å–ó_–°–¢–£–ü–ï–ù–¨–ö–ò",
     "itemStack": {
       "id": "minecraft:birch_stairs",
       "data": 0
     }
   },
   {
-    "name": "—“”œ_»«_“–Œœ_ƒ≈–",
+    "name": "–°–¢–£–ü_–ò–ó_–¢–†–û–ü_–î–ï–†",
     "itemStack": {
       "id": "minecraft:jungle_stairs",
       "data": 0
     }
   },
   {
-    "name": " ¿Ã≈ÕÕ¿ﬂ_Œ√–¿ƒ¿",
+    "name": "–ö–ê–ú–ï–ù–ù–ê–Ø_–û–ì–†–ê–î–ê",
     "itemStack": {
       "id": "minecraft:cobblestone_wall",
       "data": 0
     }
   },
   {
-    "name": "«¿Ãÿ_ ¿Ã_Œ√–¿ƒ¿",
+    "name": "–ó–ê–ú–®_–ö–ê–ú_–û–ì–†–ê–î–ê",
     "itemStack": {
       "id": "minecraft:cobblestone_wall",
       "data": 1
     }
   },
   {
-    "name": " ¬¿–÷≈¬¿ﬂ_–”ƒ¿",
+    "name": "–ö–í–ê–†–¶–ï–í–ê–Ø_–†–£–î–ê",
     "itemStack": {
       "id": "minecraft:quartz_ore",
       "data": 0
     }
   },
   {
-    "name": " ¬¿–÷≈¬€…_¡ÀŒ ",
+    "name": "–ö–í–ê–†–¶–ï–í–´–ô_–ë–õ–û–ö",
     "itemStack": {
       "id": "minecraft:quartz_block",
       "data": 0
     }
   },
   {
-    "name": "–≈«Õ_ ¬¿–÷_¡ÀŒ ",
+    "name": "–†–ï–ó–ù_–ö–í–ê–†–¶_–ë–õ–û–ö",
     "itemStack": {
       "id": "minecraft:quartz_block",
       "data": 1
     }
   },
   {
-    "name": " ¬¿–÷_ ŒÀŒÕÕ¿",
+    "name": "–ö–í–ê–†–¶_–ö–û–õ–û–ù–ù–ê",
     "itemStack": {
       "id": "minecraft:quartz_block",
       "data": 2
     }
   },
   {
-    "name": " ¬¿–÷_—“”œ≈Õ‹ »",
+    "name": "–ö–í–ê–†–¶_–°–¢–£–ü–ï–ù–¨–ö–ò",
     "itemStack": {
       "id": "minecraft:quartz_stairs",
       "data": 0
     }
   },
   {
-    "name": "¡≈À¿ﬂ_√À»Õ¿",
+    "name": "–ë–ï–õ–ê–Ø_–ì–õ–ò–ù–ê",
     "itemStack": {
       "id": "minecraft:stained_hardened_clay",
       "data": 0
     }
   },
   {
-    "name": "Œ–¿Õ∆≈¬¿ﬂ_√À»Õ¿",
+    "name": "–û–†–ê–ù–ñ–ï–í–ê–Ø_–ì–õ–ò–ù–ê",
     "itemStack": {
       "id": "minecraft:stained_hardened_clay",
       "data": 1
     }
   },
   {
-    "name": "œ”–œ”–Õ¿ﬂ_√À»Õ¿",
+    "name": "–ü–£–†–ü–£–†–ù–ê–Ø_–ì–õ–ò–ù–ê",
     "itemStack": {
       "id": "minecraft:stained_hardened_clay",
       "data": 2
     }
   },
   {
-    "name": "√ŒÀ”¡¿ﬂ_√À»Õ¿",
+    "name": "–ì–û–õ–£–ë–ê–Ø_–ì–õ–ò–ù–ê",
     "itemStack": {
       "id": "minecraft:stained_hardened_clay",
       "data": 3
     }
   },
   {
-    "name": "∆®À“¿ﬂ_√À»Õ¿",
+    "name": "–ñ–Å–õ–¢–ê–Ø_–ì–õ–ò–ù–ê",
     "itemStack": {
       "id": "minecraft:stained_hardened_clay",
       "data": 4
     }
   },
   {
-    "name": "À¿…ÃŒ¬¿ﬂ_√À»Õ¿",
+    "name": "–õ–ê–ô–ú–û–í–ê–Ø_–ì–õ–ò–ù–ê",
     "itemStack": {
       "id": "minecraft:stained_hardened_clay",
       "data": 5
     }
   },
   {
-    "name": "–Œ«Œ¬¿ﬂ_√À»Õ¿",
+    "name": "–†–û–ó–û–í–ê–Ø_–ì–õ–ò–ù–ê",
     "itemStack": {
       "id": "minecraft:stained_hardened_clay",
       "data": 6
     }
   },
   {
-    "name": "—≈–¿ﬂ_√À»Õ¿",
+    "name": "–°–ï–†–ê–Ø_–ì–õ–ò–ù–ê",
     "itemStack": {
       "id": "minecraft:stained_hardened_clay",
       "data": 7
     }
   },
   {
-    "name": "—¬_—≈–¿ﬂ_√À»Õ¿",
+    "name": "–°–í_–°–ï–†–ê–Ø_–ì–õ–ò–ù–ê",
     "itemStack": {
       "id": "minecraft:stained_hardened_clay",
       "data": 8
     }
   },
   {
-    "name": "¡»–ﬁ«Œ¬¿ﬂ_√À»Õ¿",
+    "name": "–ë–ò–†–Æ–ó–û–í–ê–Ø_–ì–õ–ò–ù–ê",
     "itemStack": {
       "id": "minecraft:stained_hardened_clay",
       "data": 9
     }
   },
   {
-    "name": "‘»ŒÀ≈“Œ¬¿ﬂ_√À»Õ¿",
+    "name": "–§–ò–û–õ–ï–¢–û–í–ê–Ø_–ì–õ–ò–ù–ê",
     "itemStack": {
       "id": "minecraft:stained_hardened_clay",
       "data": 10
     }
   },
   {
-    "name": "—»Õﬂﬂ_√À»Õ¿",
+    "name": "–°–ò–ù–Ø–Ø_–ì–õ–ò–ù–ê",
     "itemStack": {
       "id": "minecraft:stained_hardened_clay",
       "data": 11
     }
   },
   {
-    "name": " Œ–»◊Õ≈¬¿ﬂ_√À»Õ¿",
+    "name": "–ö–û–†–ò–ß–ù–ï–í–ê–Ø_–ì–õ–ò–ù–ê",
     "itemStack": {
       "id": "minecraft:stained_hardened_clay",
       "data": 12
     }
   },
   {
-    "name": "«≈À®Õ¿ﬂ_√À»Õ¿",
+    "name": "–ó–ï–õ–Å–ù–ê–Ø_–ì–õ–ò–ù–ê",
     "itemStack": {
       "id": "minecraft:stained_hardened_clay",
       "data": 13
     }
   },
   {
-    "name": " –¿—Õ¿ﬂ_√À»Õ¿",
+    "name": "–ö–†–ê–°–ù–ê–Ø_–ì–õ–ò–ù–ê",
     "itemStack": {
       "id": "minecraft:stained_hardened_clay",
       "data": 14
     }
   },
   {
-    "name": "◊®–Õ¿ﬂ_√À»Õ¿",
+    "name": "–ß–Å–†–ù–ê–Ø_–ì–õ–ò–ù–ê",
     "itemStack": {
       "id": "minecraft:stained_hardened_clay",
       "data": 15
     }
   },
   {
-    "name": "¿ ¿÷»ﬂ",
+    "name": "–ê–ö–ê–¶–ò–Ø",
     "itemStack": {
       "id": "minecraft:log2",
       "data": 0
     }
   },
   {
-    "name": "“®ÃÕ€…_ƒ”¡",
+    "name": "–¢–Å–ú–ù–´–ô_–î–£–ë",
     "itemStack": {
       "id": "minecraft:log2",
       "data": 1
     }
   },
   {
-    "name": "¿ ¿÷_—“”œ≈Õ‹ »",
+    "name": "–ê–ö–ê–¶_–°–¢–£–ü–ï–ù–¨–ö–ò",
     "itemStack": {
       "id": "minecraft:acacia_stairs",
       "data": 0
     }
   },
   {
-    "name": "—“_»«_“®ÃÕ_ƒ”¡¿",
+    "name": "–°–¢_–ò–ó_–¢–Å–ú–ù_–î–£–ë–ê",
     "itemStack": {
       "id": "minecraft:dark_oak_stairs",
       "data": 0
     }
   },
   {
-    "name": "œ–»«Ã¿–»Õ",
+    "name": "–ü–†–ò–ó–ú–ê–†–ò–ù",
     "itemStack": {
       "id": "minecraft:prismarine",
       "data": 0
     }
   },
   {
-    "name": "œ–»«Ã¿–»Õ_ »–œ»◊",
+    "name": "–ü–†–ò–ó–ú–ê–†–ò–ù_–ö–ò–†–ü–ò–ß",
     "itemStack": {
       "id": "minecraft:prismarine",
       "data": 1
     }
   },
   {
-    "name": "“®ÃÕ€…_œ–»«Ã¿–»Õ",
+    "name": "–¢–Å–ú–ù–´–ô_–ü–†–ò–ó–ú–ê–†–ò–ù",
     "itemStack": {
       "id": "minecraft:prismarine",
       "data": 2
     }
   },
   {
-    "name": "ÃŒ–— Œ…_‘ŒÕ¿–‹",
+    "name": "–ú–û–†–°–ö–û–ô_–§–û–ù–ê–†–¨",
     "itemStack": {
       "id": "minecraft:sea_lantern",
       "data": 0
     }
   },
   {
-    "name": "—ÕŒœ_—≈Õ¿",
+    "name": "–°–ù–û–ü_–°–ï–ù–ê",
     "itemStack": {
       "id": "minecraft:hay_block",
       "data": 0
     }
   },
   {
-    "name": "Œ¡Œ∆∆®Õ¿ﬂ_√À»Õ¿",
+    "name": "–û–ë–û–ñ–ñ–Å–ù–ê–Ø_–ì–õ–ò–ù–ê",
     "itemStack": {
       "id": "minecraft:hardened_clay",
       "data": 0
     }
   },
   {
-    "name": "”√ŒÀ‹Õ€…_¡ÀŒ ",
+    "name": "–£–ì–û–õ–¨–ù–´–ô_–ë–õ–û–ö",
     "itemStack": {
       "id": "minecraft:coal_block",
       "data": 0
     }
   },
   {
-    "name": "œÀŒ“Õ€…_À®ƒ",
+    "name": "–ü–õ–û–¢–ù–´–ô_–õ–Å–î",
     "itemStack": {
       "id": "minecraft:packed_ice",
       "data": 0
     }
   },
   {
-    "name": " –¿—Õ€…_œ≈—◊¿Õ» ",
+    "name": "–ö–†–ê–°–ù–´–ô_–ü–ï–°–ß–ê–ù–ò–ö",
     "itemStack": {
       "id": "minecraft:red_sandstone",
       "data": 0
     }
   },
   {
-    "name": "–≈«Õ_ –¿—Õ_œ≈—◊",
+    "name": "–†–ï–ó–ù_–ö–†–ê–°–ù_–ü–ï–°–ß",
     "itemStack": {
       "id": "minecraft:red_sandstone",
       "data": 1
     }
   },
   {
-    "name": "√À¿ƒ _ –¿—Õ_œ≈—◊",
+    "name": "–ì–õ–ê–î–ö_–ö–†–ê–°–ù_–ü–ï–°–ß",
     "itemStack": {
       "id": "minecraft:red_sandstone",
       "data": 2
     }
   },
   {
-    "name": "—“_»«_ –¿—Õ_œ≈—◊",
+    "name": "–°–¢_–ò–ó_–ö–†–ê–°–ù_–ü–ï–°–ß",
     "itemStack": {
       "id": "minecraft:red_sandstone_stairs",
       "data": 0
     }
   },
   {
-    "name": "œÀ_»«_ –¿—Õ_œ≈—◊",
+    "name": "–ü–õ_–ò–ó_–ö–†–ê–°–ù_–ü–ï–°–ß",
     "itemStack": {
       "id": "minecraft:stone_slab2",
       "data": 0
     }
   },
   {
-    "name": "œ”–œ”–Õ€…_¡ÀŒ ",
+    "name": "–ü–£–†–ü–£–†–ù–´–ô_–ë–õ–û–ö",
     "itemStack": {
       "id": "minecraft:purpur_block",
       "data": 0
     }
   },
   {
-    "name": "œ”–œ”–Õ€…_œ»ÀŒÕ",
+    "name": "–ü–£–†–ü–£–†–ù–´–ô_–ü–ò–õ–û–ù",
     "itemStack": {
       "id": "minecraft:purpur_pillar",
       "data": 0
     }
   },
   {
-    "name": "œ”–œ”–_—“”œ≈Õ‹ »",
+    "name": "–ü–£–†–ü–£–†_–°–¢–£–ü–ï–ù–¨–ö–ò",
     "itemStack": {
       "id": "minecraft:purpur_stairs",
       "data": 0
     }
   },
   {
-    "name": "œ”–œ”–Õ¿ﬂ_œÀ»“¿",
+    "name": "–ü–£–†–ü–£–†–ù–ê–Ø_–ü–õ–ò–¢–ê",
     "itemStack": {
       "id": "minecraft:purpur_slab",
       "data": 0
     }
   },
   {
-    "name": " »–œ»◊»_ –¿ﬂ",
+    "name": "–ö–ò–†–ü–ò–ß–ò_–ö–†–ê–Ø",
     "itemStack": {
       "id": "minecraft:end_bricks",
       "data": 0
     }
   },
   {
-    "name": "—¿∆≈Õ≈÷_ƒ”¡¿",
+    "name": "–°–ê–ñ–ï–ù–ï–¶_–î–£–ë–ê",
     "itemStack": {
       "id": "minecraft:sapling",
       "data": 0
     }
   },
   {
-    "name": "≈ÀŒ¬€…_—¿∆≈Õ≈÷",
+    "name": "–ï–õ–û–í–´–ô_–°–ê–ñ–ï–ù–ï–¶",
     "itemStack": {
       "id": "minecraft:sapling",
       "data": 1
     }
   },
   {
-    "name": "—¿∆≈Õ≈÷_¡≈–®«€",
+    "name": "–°–ê–ñ–ï–ù–ï–¶_–ë–ï–†–Å–ó–´",
     "itemStack": {
       "id": "minecraft:sapling",
       "data": 2
     }
   },
   {
-    "name": "—¿∆_“–Œœ_ƒ≈–≈¬¿",
+    "name": "–°–ê–ñ_–¢–†–û–ü_–î–ï–†–ï–í–ê",
     "itemStack": {
       "id": "minecraft:sapling",
       "data": 3
     }
   },
   {
-    "name": "—¿∆≈Õ≈÷_¿ ¿÷»»",
+    "name": "–°–ê–ñ–ï–ù–ï–¶_–ê–ö–ê–¶–ò–ò",
     "itemStack": {
       "id": "minecraft:sapling",
       "data": 4
     }
   },
   {
-    "name": "—¿∆≈Õ≈÷_“®Ã_ƒ”¡¿",
+    "name": "–°–ê–ñ–ï–ù–ï–¶_–¢–Å–ú_–î–£–ë–ê",
     "itemStack": {
       "id": "minecraft:sapling",
       "data": 5
     }
   },
   {
-    "name": "ƒ”¡Œ¬€≈_À»—“‹ﬂ",
+    "name": "–î–£–ë–û–í–´–ï_–õ–ò–°–¢–¨–Ø",
     "itemStack": {
       "id": "minecraft:leaves",
       "data": 0
     }
   },
   {
-    "name": "’¬Œﬂ",
+    "name": "–•–í–û–Ø",
     "itemStack": {
       "id": "minecraft:leaves",
       "data": 1
     }
   },
   {
-    "name": "¡≈–®«Œ¬€≈_À»—“‹ﬂ",
+    "name": "–ë–ï–†–Å–ó–û–í–´–ï_–õ–ò–°–¢–¨–Ø",
     "itemStack": {
       "id": "minecraft:leaves",
       "data": 2
     }
   },
   {
-    "name": "À»—“‹ﬂ_“–_ƒ≈–≈¬¿",
+    "name": "–õ–ò–°–¢–¨–Ø_–¢–†_–î–ï–†–ï–í–ê",
     "itemStack": {
       "id": "minecraft:leaves",
       "data": 3
     }
   },
   {
-    "name": "œ¿”“»Õ¿",
+    "name": "–ü–ê–£–¢–ò–ù–ê",
     "itemStack": {
       "id": "minecraft:web",
       "data": 0
     }
   },
   {
-    "name": "“–¿¬¿",
+    "name": "–¢–†–ê–í–ê",
     "itemStack": {
       "id": "minecraft:tallgrass",
       "data": 1
     }
   },
   {
-    "name": "œ¿œŒ–Œ“Õ» ",
+    "name": "–ü–ê–ü–û–†–û–¢–ù–ò–ö",
     "itemStack": {
       "id": "minecraft:tallgrass",
       "data": 2
     }
   },
   {
-    "name": "—”’Œ…_ ”—“",
+    "name": "–°–£–•–û–ô_–ö–£–°–¢",
     "itemStack": {
       "id": "minecraft:deadbush",
       "data": 0
     }
   },
   {
-    "name": "Œƒ”¬¿Õ◊» ",
+    "name": "–û–î–£–í–ê–ù–ß–ò–ö",
     "itemStack": {
       "id": "minecraft:yellow_flower",
       "data": 0
     }
   },
   {
-    "name": "Ã¿ ",
+    "name": "–ú–ê–ö",
     "itemStack": {
       "id": "minecraft:red_flower",
       "data": 0
     }
   },
   {
-    "name": "—»Õﬂﬂ_Œ–’»ƒ≈ﬂ",
+    "name": "–°–ò–ù–Ø–Ø_–û–†–•–ò–î–ï–Ø",
     "itemStack": {
       "id": "minecraft:red_flower",
       "data": 1
     }
   },
   {
-    "name": "À” _¡¿“”Õ",
+    "name": "–õ–£–ö_–ë–ê–¢–£–ù",
     "itemStack": {
       "id": "minecraft:red_flower",
       "data": 2
     }
   },
   {
-    "name": "√ŒÀ”¡Œ…_¬¿—»À® ",
+    "name": "–ì–û–õ–£–ë–û–ô_–í–ê–°–ò–õ–Å–ö",
     "itemStack": {
       "id": "minecraft:red_flower",
       "data": 3
     }
   },
   {
-    "name": " –¿—Õ€…_“ﬁÀ‹œ¿Õ",
+    "name": "–ö–†–ê–°–ù–´–ô_–¢–Æ–õ–¨–ü–ê–ù",
     "itemStack": {
       "id": "minecraft:red_flower",
       "data": 4
     }
   },
   {
-    "name": "Œ–¿Õ∆≈¬_“ﬁÀ‹œ¿Õ",
+    "name": "–û–†–ê–ù–ñ–ï–í_–¢–Æ–õ–¨–ü–ê–ù",
     "itemStack": {
       "id": "minecraft:red_flower",
       "data": 5
     }
   },
   {
-    "name": "¡≈À€…_“ﬁÀ‹œ¿Õ",
+    "name": "–ë–ï–õ–´–ô_–¢–Æ–õ–¨–ü–ê–ù",
     "itemStack": {
       "id": "minecraft:red_flower",
       "data": 6
     }
   },
   {
-    "name": "–Œ«Œ¬€…_“ﬁÀ‹œ¿Õ",
+    "name": "–†–û–ó–û–í–´–ô_–¢–Æ–õ–¨–ü–ê–ù",
     "itemStack": {
       "id": "minecraft:red_flower",
       "data": 7
     }
   },
   {
-    "name": "–ŒÃ¿ÿ ¿",
+    "name": "–†–û–ú–ê–®–ö–ê",
     "itemStack": {
       "id": "minecraft:red_flower",
       "data": 8
     }
   },
   {
-    "name": "√–»¡",
+    "name": "–ì–†–ò–ë",
     "itemStack": {
       "id": "minecraft:brown_mushroom",
       "data": 0
     }
   },
   {
-    "name": "Ã”’ŒÃŒ–",
+    "name": "–ú–£–•–û–ú–û–†",
     "itemStack": {
       "id": "minecraft:red_mushroom",
       "data": 0
     }
   },
   {
-    "name": "‘¿ ≈À",
+    "name": "–§–ê–ö–ï–õ",
     "itemStack": {
       "id": "minecraft:torch",
       "data": 0
     }
   },
   {
-    "name": "—”Õƒ” ",
+    "name": "–°–£–ù–î–£–ö",
     "itemStack": {
       "id": "minecraft:chest",
       "data": 0
     }
   },
   {
-    "name": "¬≈–—“¿ ",
+    "name": "–í–ï–†–°–¢–ê–ö",
     "itemStack": {
       "id": "minecraft:crafting_table",
       "data": 0
     }
   },
   {
-    "name": "œ≈◊‹",
+    "name": "–ü–ï–ß–¨",
     "itemStack": {
       "id": "minecraft:furnace",
       "data": 0
     }
   },
   {
-    "name": "À≈—“Õ»÷¿",
+    "name": "–õ–ï–°–¢–ù–ò–¶–ê",
     "itemStack": {
       "id": "minecraft:ladder",
       "data": 0
     }
   },
   {
-    "name": "—Õ≈√",
+    "name": "–°–ù–ï–ì",
     "itemStack": {
       "id": "minecraft:snow_layer",
       "data": 0
     }
   },
   {
-    "name": " ¿ “”—",
+    "name": "–ö–ê–ö–¢–£–°",
     "itemStack": {
       "id": "minecraft:cactus",
       "data": 0
     }
   },
   {
-    "name": "œ–Œ»√–€¬¿“≈À‹",
+    "name": "–ü–†–û–ò–ì–†–´–í–ê–¢–ï–õ–¨",
     "itemStack": {
       "id": "minecraft:jukebox",
       "data": 0
     }
   },
   {
-    "name": "ƒ”¡Œ¬€…_«¿¡Œ–",
+    "name": "–î–£–ë–û–í–´–ô_–ó–ê–ë–û–†",
     "itemStack": {
       "id": "minecraft:fence",
       "data": 0
     }
   },
   {
-    "name": " ¿Ã≈Õ‹_—_ÃŒÕ—“–",
+    "name": "–ö–ê–ú–ï–ù–¨_–°_–ú–û–ù–°–¢–†",
     "itemStack": {
       "id": "minecraft:monster_egg",
       "data": 0
     }
   },
   {
-    "name": "¡”À€∆Õ_—_ÃŒÕ—“–",
+    "name": "–ë–£–õ–´–ñ–ù_–°_–ú–û–ù–°–¢–†",
     "itemStack": {
       "id": "minecraft:monster_egg",
       "data": 1
     }
   },
   {
-    "name": " _ »–œ_—_ÃŒÕ—“–",
+    "name": "–ö_–ö–ò–†–ü_–°_–ú–û–ù–°–¢–†",
     "itemStack": {
       "id": "minecraft:monster_egg",
       "data": 2
     }
   },
   {
-    "name": "«_ _ »–œ_—_ÃŒÕ—",
+    "name": "–ó_–ö_–ö–ò–†–ü_–°_–ú–û–ù–°",
     "itemStack": {
       "id": "minecraft:monster_egg",
       "data": 3
     }
   },
   {
-    "name": "œ_ _ »–œ_—_ÃŒÕ—",
+    "name": "–ü_–ö_–ö–ò–†–ü_–°_–ú–û–ù–°",
     "itemStack": {
       "id": "minecraft:monster_egg",
       "data": 4
     }
   },
   {
-    "name": "–_ _ »–œ_—_ÃŒÕ—",
+    "name": "–†_–ö_–ö–ò–†–ü_–°_–ú–û–ù–°",
     "itemStack": {
       "id": "minecraft:monster_egg",
       "data": 5
     }
   },
   {
-    "name": "∆≈À≈«Õ€≈_œ–”“‹ﬂ",
+    "name": "–ñ–ï–õ–ï–ó–ù–´–ï_–ü–†–£–¢–¨–Ø",
     "itemStack": {
       "id": "minecraft:iron_bars",
       "data": 0
     }
   },
   {
-    "name": "—“≈ ÀﬂÕÕ_œ¿Õ≈À‹",
+    "name": "–°–¢–ï–ö–õ–Ø–ù–ù_–ü–ê–ù–ï–õ–¨",
     "itemStack": {
       "id": "minecraft:glass_pane",
       "data": 0
     }
   },
   {
-    "name": "À»¿Õ¿",
+    "name": "–õ–ò–ê–ù–ê",
     "itemStack": {
       "id": "minecraft:vine",
       "data": 0
     }
   },
   {
-    "name": " ”¬ÿ»Õ ¿",
+    "name": "–ö–£–í–®–ò–ù–ö–ê",
     "itemStack": {
       "id": "minecraft:waterlily",
       "data": 0
     }
   },
   {
-    "name": "¿ƒ— »…_«¿¡Œ–",
+    "name": "–ê–î–°–ö–ò–ô_–ó–ê–ë–û–†",
     "itemStack": {
       "id": "minecraft:nether_brick_fence",
       "data": 0
     }
   },
   {
-    "name": "—“ŒÀ_«¿◊¿–Œ¬¿Õ»…",
+    "name": "–°–¢–û–õ_–ó–ê–ß–ê–†–û–í–ê–ù–ò–ô",
     "itemStack": {
       "id": "minecraft:enchanting_table",
       "data": 0
     }
   },
   {
-    "name": "œŒ–“¿À_¬_ –¿…",
+    "name": "–ü–û–†–¢–ê–õ_–í_–ö–†–ê–ô",
     "itemStack": {
       "id": "minecraft:end_portal_frame",
       "data": 0
     }
   },
   {
-    "name": "›Õƒ≈–_—”Õƒ” ",
+    "name": "–≠–ù–î–ï–†_–°–£–ù–î–£–ö",
     "itemStack": {
       "id": "minecraft:ender_chest",
       "data": 0
     }
   },
   {
-    "name": "Õ¿ Œ¬¿À‹Õﬂ",
+    "name": "–ù–ê–ö–û–í–ê–õ–¨–ù–Ø",
     "itemStack": {
       "id": "minecraft:anvil",
       "data": 0
     }
   },
   {
-    "name": "œŒ¬–_Õ¿ Œ¬¿À‹Õﬂ",
+    "name": "–ü–û–í–†_–ù–ê–ö–û–í–ê–õ–¨–ù–Ø",
     "itemStack": {
       "id": "minecraft:anvil",
       "data": 1
     }
   },
   {
-    "name": "—»À‹ÕŒ_œŒ¬–_Õ¿ ",
+    "name": "–°–ò–õ–¨–ù–û_–ü–û–í–†_–ù–ê–ö",
     "itemStack": {
       "id": "minecraft:anvil",
       "data": 2
     }
   },
   {
-    "name": "¡≈À¿ﬂ_—“≈ _œ¿Õ",
+    "name": "–ë–ï–õ–ê–Ø_–°–¢–ï–ö_–ü–ê–ù",
     "itemStack": {
       "id": "minecraft:stained_glass_pane",
       "data": 0
     }
   },
   {
-    "name": "Œ–¿Õ∆≈¬_—“≈ _œ¿Õ",
+    "name": "–û–†–ê–ù–ñ–ï–í_–°–¢–ï–ö_–ü–ê–ù",
     "itemStack": {
       "id": "minecraft:stained_glass_pane",
       "data": 1
     }
   },
   {
-    "name": "œ”–œÕ¿ﬂ_—“≈ _œ¿Õ",
+    "name": "–ü–£–†–ü–ù–ê–Ø_–°–¢–ï–ö_–ü–ê–ù",
     "itemStack": {
       "id": "minecraft:stained_glass_pane",
       "data": 2
     }
   },
   {
-    "name": "√ŒÀ”¡¿ﬂ_—“≈ _œ¿Õ",
+    "name": "–ì–û–õ–£–ë–ê–Ø_–°–¢–ï–ö_–ü–ê–ù",
     "itemStack": {
       "id": "minecraft:stained_glass_pane",
       "data": 3
     }
   },
   {
-    "name": "∆®À“¿ﬂ_—“≈ _œ¿Õ",
+    "name": "–ñ–Å–õ–¢–ê–Ø_–°–¢–ï–ö_–ü–ê–ù",
     "itemStack": {
       "id": "minecraft:stained_glass_pane",
       "data": 4
     }
   },
   {
-    "name": "À¿…ÃŒ¬_—“≈ _œ¿Õ",
+    "name": "–õ–ê–ô–ú–û–í_–°–¢–ï–ö_–ü–ê–ù",
     "itemStack": {
       "id": "minecraft:stained_glass_pane",
       "data": 5
     }
   },
   {
-    "name": "–Œ«Œ¬¿ﬂ_—“≈ _œ¿Õ",
+    "name": "–†–û–ó–û–í–ê–Ø_–°–¢–ï–ö_–ü–ê–ù",
     "itemStack": {
       "id": "minecraft:stained_glass_pane",
       "data": 6
     }
   },
   {
-    "name": "—≈–¿ﬂ_—“≈ _œ¿Õ",
+    "name": "–°–ï–†–ê–Ø_–°–¢–ï–ö_–ü–ê–ù",
     "itemStack": {
       "id": "minecraft:stained_glass_pane",
       "data": 7
     }
   },
   {
-    "name": "—¬_—≈–_—“≈ _œ¿Õ",
+    "name": "–°–í_–°–ï–†_–°–¢–ï–ö_–ü–ê–ù",
     "itemStack": {
       "id": "minecraft:stained_glass_pane",
       "data": 8
     }
   },
   {
-    "name": "¡»–ﬁ«Œ¬_—“≈ _œ¿Õ",
+    "name": "–ë–ò–†–Æ–ó–û–í_–°–¢–ï–ö_–ü–ê–ù",
     "itemStack": {
       "id": "minecraft:stained_glass_pane",
       "data": 9
     }
   },
   {
-    "name": "‘»ŒÀ≈“_—“≈ _œ¿Õ",
+    "name": "–§–ò–û–õ–ï–¢_–°–¢–ï–ö_–ü–ê–ù",
     "itemStack": {
       "id": "minecraft:stained_glass_pane",
       "data": 10
     }
   },
   {
-    "name": "—»Õﬂﬂ_—“≈ _œ¿Õ",
+    "name": "–°–ò–ù–Ø–Ø_–°–¢–ï–ö_–ü–ê–ù",
     "itemStack": {
       "id": "minecraft:stained_glass_pane",
       "data": 11
     }
   },
   {
-    "name": " Œ–»◊Õ_—“≈ _œ¿Õ",
+    "name": "–ö–û–†–ò–ß–ù_–°–¢–ï–ö_–ü–ê–ù",
     "itemStack": {
       "id": "minecraft:stained_glass_pane",
       "data": 12
     }
   },
   {
-    "name": "«≈À≈Õ¿ﬂ_—“≈ _œ¿Õ",
+    "name": "–ó–ï–õ–ï–ù–ê–Ø_–°–¢–ï–ö_–ü–ê–ù",
     "itemStack": {
       "id": "minecraft:stained_glass_pane",
       "data": 13
     }
   },
   {
-    "name": " –¿—Õ¿ﬂ_—“≈ _œ¿Õ",
+    "name": "–ö–†–ê–°–ù–ê–Ø_–°–¢–ï–ö_–ü–ê–ù",
     "itemStack": {
       "id": "minecraft:stained_glass_pane",
       "data": 14
     }
   },
   {
-    "name": "◊®–Õ¿ﬂ_—“≈ _œ¿Õ",
+    "name": "–ß–Å–†–ù–ê–Ø_–°–¢–ï–ö_–ü–ê–ù",
     "itemStack": {
       "id": "minecraft:stained_glass_pane",
       "data": 15
     }
   },
   {
-    "name": "À»—“‹ﬂ_¿ ¿÷»»",
+    "name": "–õ–ò–°–¢–¨–Ø_–ê–ö–ê–¶–ò–ò",
     "itemStack": {
       "id": "minecraft:leaves2",
       "data": 0
     }
   },
   {
-    "name": "À»—“‹ﬂ_“®ÃÕ_ƒ”¡¿",
+    "name": "–õ–ò–°–¢–¨–Ø_–¢–Å–ú–ù_–î–£–ë–ê",
     "itemStack": {
       "id": "minecraft:leaves2",
       "data": 1
     }
   },
   {
-    "name": "¡ÀŒ _—À»«»",
+    "name": "–ë–õ–û–ö_–°–õ–ò–ó–ò",
     "itemStack": {
       "id": "minecraft:slime",
       "data": 0
     }
   },
   {
-    "name": " Œ¬®–",
+    "name": "–ö–û–í–Å–†",
     "itemStack": {
       "id": "minecraft:carpet",
       "data": 0
     }
   },
   {
-    "name": "Œ–¿Õ∆≈¬€…_ Œ¬®–",
+    "name": "–û–†–ê–ù–ñ–ï–í–´–ô_–ö–û–í–Å–†",
     "itemStack": {
       "id": "minecraft:carpet",
       "data": 1
     }
   },
   {
-    "name": "œ”–œ”–Õ€…_ Œ¬®–",
+    "name": "–ü–£–†–ü–£–†–ù–´–ô_–ö–û–í–Å–†",
     "itemStack": {
       "id": "minecraft:carpet",
       "data": 2
     }
   },
   {
-    "name": "√ŒÀ”¡Œ…_ Œ¬®–",
+    "name": "–ì–û–õ–£–ë–û–ô_–ö–û–í–Å–†",
     "itemStack": {
       "id": "minecraft:carpet",
       "data": 3
     }
   },
   {
-    "name": "∆®À“€…_ Œ¬®–",
+    "name": "–ñ–Å–õ–¢–´–ô_–ö–û–í–Å–†",
     "itemStack": {
       "id": "minecraft:carpet",
       "data": 4
     }
   },
   {
-    "name": "À¿…ÃŒ¬€…_ Œ¬®–",
+    "name": "–õ–ê–ô–ú–û–í–´–ô_–ö–û–í–Å–†",
     "itemStack": {
       "id": "minecraft:carpet",
       "data": 5
     }
   },
   {
-    "name": "–Œ«Œ¬€…_ Œ¬®–",
+    "name": "–†–û–ó–û–í–´–ô_–ö–û–í–Å–†",
     "itemStack": {
       "id": "minecraft:carpet",
       "data": 6
     }
   },
   {
-    "name": "—≈–€…_ Œ¬®–",
+    "name": "–°–ï–†–´–ô_–ö–û–í–Å–†",
     "itemStack": {
       "id": "minecraft:carpet",
       "data": 7
     }
   },
   {
-    "name": "—¬_—≈–€…_ Œ¬®–",
+    "name": "–°–í_–°–ï–†–´–ô_–ö–û–í–Å–†",
     "itemStack": {
       "id": "minecraft:carpet",
       "data": 8
     }
   },
   {
-    "name": "¡»–ﬁ«Œ¬€…_ Œ¬®–",
+    "name": "–ë–ò–†–Æ–ó–û–í–´–ô_–ö–û–í–Å–†",
     "itemStack": {
       "id": "minecraft:carpet",
       "data": 9
     }
   },
   {
-    "name": "‘»ŒÀ≈“Œ¬€…_ Œ¬®–",
+    "name": "–§–ò–û–õ–ï–¢–û–í–´–ô_–ö–û–í–Å–†",
     "itemStack": {
       "id": "minecraft:carpet",
       "data": 10
     }
   },
   {
-    "name": "—»Õ»…_ Œ¬®–",
+    "name": "–°–ò–ù–ò–ô_–ö–û–í–Å–†",
     "itemStack": {
       "id": "minecraft:carpet",
       "data": 11
     }
   },
   {
-    "name": " Œ–»◊Õ≈¬€…_ Œ¬®–",
+    "name": "–ö–û–†–ò–ß–ù–ï–í–´–ô_–ö–û–í–Å–†",
     "itemStack": {
       "id": "minecraft:carpet",
       "data": 12
     }
   },
   {
-    "name": "«≈À®Õ€…_ Œ¬®–",
+    "name": "–ó–ï–õ–Å–ù–´–ô_–ö–û–í–Å–†",
     "itemStack": {
       "id": "minecraft:carpet",
       "data": 13
     }
   },
   {
-    "name": " –¿—Õ€…_ Œ¬®–",
+    "name": "–ö–†–ê–°–ù–´–ô_–ö–û–í–Å–†",
     "itemStack": {
       "id": "minecraft:carpet",
       "data": 14
     }
   },
   {
-    "name": "◊®–Õ€…_ Œ¬®–",
+    "name": "–ß–Å–†–ù–´–ô_–ö–û–í–Å–†",
     "itemStack": {
       "id": "minecraft:carpet",
       "data": 15
     }
   },
   {
-    "name": "œŒƒ—ŒÀÕ”’",
+    "name": "–ü–û–î–°–û–õ–ù–£–•",
     "itemStack": {
       "id": "minecraft:double_plant",
       "data": 0
     }
   },
   {
-    "name": "—»–≈Õ‹",
+    "name": "–°–ò–†–ï–ù–¨",
     "itemStack": {
       "id": "minecraft:double_plant",
       "data": 1
     }
   },
   {
-    "name": "¬€—Œ ¿ﬂ_“–¿¬¿",
+    "name": "–í–´–°–û–ö–ê–Ø_–¢–†–ê–í–ê",
     "itemStack": {
       "id": "minecraft:double_plant",
       "data": 2
     }
   },
   {
-    "name": "–¿— »ƒ_œ¿œŒ–Œ“Õ",
+    "name": "–†–ê–°–ö–ò–î_–ü–ê–ü–û–†–û–¢–ù",
     "itemStack": {
       "id": "minecraft:double_plant",
       "data": 3
     }
   },
   {
-    "name": "–Œ«Œ¬€…_ ”—“",
+    "name": "–†–û–ó–û–í–´–ô_–ö–£–°–¢",
     "itemStack": {
       "id": "minecraft:double_plant",
       "data": 4
     }
   },
   {
-    "name": "œ»ŒÕ",
+    "name": "–ü–ò–û–ù",
     "itemStack": {
       "id": "minecraft:double_plant",
       "data": 5
     }
   },
   {
-    "name": "≈ÀŒ¬€…_«¿¡Œ–",
+    "name": "–ï–õ–û–í–´–ô_–ó–ê–ë–û–†",
     "itemStack": {
       "id": "minecraft:spruce_fence",
       "data": 0
     }
   },
   {
-    "name": "¡≈–®«Œ¬€…_«¿¡Œ–",
+    "name": "–ë–ï–†–Å–ó–û–í–´–ô_–ó–ê–ë–û–†",
     "itemStack": {
       "id": "minecraft:birch_fence",
       "data": 0
     }
   },
   {
-    "name": "«¿¡_»«_“–Œœ_ƒ≈–",
+    "name": "–ó–ê–ë_–ò–ó_–¢–†–û–ü_–î–ï–†",
     "itemStack": {
       "id": "minecraft:jungle_fence",
       "data": 0
     }
   },
   {
-    "name": "«¿¡_»«_“≈ÃÕ_ƒ”¡¿",
+    "name": "–ó–ê–ë_–ò–ó_–¢–ï–ú–ù_–î–£–ë–ê",
     "itemStack": {
       "id": "minecraft:dark_oak_fence",
       "data": 0
     }
   },
   {
-    "name": "¿ ¿÷»≈¬€…_«¿¡Œ–",
+    "name": "–ê–ö–ê–¶–ò–ï–í–´–ô_–ó–ê–ë–û–†",
     "itemStack": {
       "id": "minecraft:acacia_fence",
       "data": 0
     }
   },
   {
-    "name": "—“≈–∆≈Õ‹_ –¿ﬂ",
+    "name": "–°–¢–ï–†–ñ–ï–ù–¨_–ö–†–ê–Ø",
     "itemStack": {
       "id": "minecraft:end_rod",
       "data": 0
     }
   },
   {
-    "name": " Œ–”—",
+    "name": "–ö–û–†–£–°",
     "itemStack": {
       "id": "minecraft:chorus_plant",
       "data": 0
     }
   },
   {
-    "name": "÷¬≈“Œ _ Œ–”—¿",
+    "name": "–¶–í–ï–¢–û–ö_–ö–û–†–£–°–ê",
     "itemStack": {
       "id": "minecraft:chorus_flower",
       "data": 0
     }
   },
   {
-    "name": " ¿–“»Õ¿",
+    "name": "–ö–ê–†–¢–ò–ù–ê",
     "itemStack": {
       "id": "minecraft:painting",
       "data": 0
     }
   },
   {
-    "name": "“¿¡À»◊ ¿",
+    "name": "–¢–ê–ë–õ–ò–ß–ö–ê",
     "itemStack": {
       "id": "minecraft:sign",
       "data": 0
     }
   },
   {
-    "name": " –Œ¬¿“‹",
+    "name": "–ö–†–û–í–ê–¢–¨",
     "itemStack": {
       "id": "minecraft:bed",
       "data": 0
     }
   },
   {
-    "name": "–¿Ã ¿",
+    "name": "–†–ê–ú–ö–ê",
     "itemStack": {
       "id": "minecraft:item_frame",
       "data": 0
     }
   },
   {
-    "name": "÷¬≈“Œ◊Õ€…_√Œ–ÿŒ ",
+    "name": "–¶–í–ï–¢–û–ß–ù–´–ô_–ì–û–†–®–û–ö",
     "itemStack": {
       "id": "minecraft:flower_pot",
       "data": 0
     }
   },
   {
-    "name": "◊≈–≈œ_— ≈À≈“¿",
+    "name": "–ß–ï–†–ï–ü_–°–ö–ï–õ–ï–¢–ê",
     "itemStack": {
       "id": "minecraft:skull",
       "data": 0
     }
   },
   {
-    "name": "◊≈–≈œ_»——”ÿ»“≈Àﬂ",
+    "name": "–ß–ï–†–ï–ü_–ò–°–°–£–®–ò–¢–ï–õ–Ø",
     "itemStack": {
       "id": "minecraft:skull",
       "data": 1
     }
   },
   {
-    "name": "√ŒÀŒ¬¿_«ŒÃ¡»",
+    "name": "–ì–û–õ–û–í–ê_–ó–û–ú–ë–ò",
     "itemStack": {
       "id": "minecraft:skull",
       "data": 2
     }
   },
   {
-    "name": "√ŒÀŒ¬¿",
+    "name": "–ì–û–õ–û–í–ê",
     "itemStack": {
       "id": "minecraft:skull",
       "data": 3
     }
   },
   {
-    "name": "√ŒÀŒ¬¿_ –»œ≈–¿",
+    "name": "–ì–û–õ–û–í–ê_–ö–†–ò–ü–ï–†–ê",
     "itemStack": {
       "id": "minecraft:skull",
       "data": 4
     }
   },
   {
-    "name": "√ŒÀŒ¬¿_ƒ–¿ ŒÕ¿",
+    "name": "–ì–û–õ–û–í–ê_–î–†–ê–ö–û–ù–ê",
     "itemStack": {
       "id": "minecraft:skull",
       "data": 5
     }
   },
   {
-    "name": "—“Œ… ¿_ƒÀﬂ_¡–ŒÕ»",
+    "name": "–°–¢–û–ô–ö–ê_–î–õ–Ø_–ë–†–û–ù–ò",
     "itemStack": {
       "id": "minecraft:armor_stand",
       "data": 0
     }
   },
   {
-    "name": "¡≈À€…_‘À¿√",
+    "name": "–ë–ï–õ–´–ô_–§–õ–ê–ì",
     "itemStack": {
       "id": "minecraft:banner",
       "data": 15,
@@ -1994,7 +1994,7 @@
     }
   },
   {
-    "name": "Œ–¿Õ∆≈¬€…_‘À¿√",
+    "name": "–û–†–ê–ù–ñ–ï–í–´–ô_–§–õ–ê–ì",
     "itemStack": {
       "id": "minecraft:banner",
       "data": 14,
@@ -2056,7 +2056,7 @@
     }
   },
   {
-    "name": "œ”–œ”–Õ€…_‘À¿√",
+    "name": "–ü–£–†–ü–£–†–ù–´–ô_–§–õ–ê–ì",
     "itemStack": {
       "id": "minecraft:banner",
       "data": 13,
@@ -2118,7 +2118,7 @@
     }
   },
   {
-    "name": "√ŒÀ”¡Œ…_‘À¿√",
+    "name": "–ì–û–õ–£–ë–û–ô_–§–õ–ê–ì",
     "itemStack": {
       "id": "minecraft:banner",
       "data": 12,
@@ -2180,7 +2180,7 @@
     }
   },
   {
-    "name": "∆®À“€…_‘À¿√",
+    "name": "–ñ–Å–õ–¢–´–ô_–§–õ–ê–ì",
     "itemStack": {
       "id": "minecraft:banner",
       "data": 11,
@@ -2242,7 +2242,7 @@
     }
   },
   {
-    "name": "À¿…ÃŒ¬€…_‘À¿√",
+    "name": "–õ–ê–ô–ú–û–í–´–ô_–§–õ–ê–ì",
     "itemStack": {
       "id": "minecraft:banner",
       "data": 10,
@@ -2302,7 +2302,7 @@
     }
   },
   {
-    "name": "–Œ«Œ¬€…_‘À¿√",
+    "name": "–†–û–ó–û–í–´–ô_–§–õ–ê–ì",
     "itemStack": {
       "id": "minecraft:banner",
       "data": 9,
@@ -2364,7 +2364,7 @@
     }
   },
   {
-    "name": "—≈–€…_‘À¿√",
+    "name": "–°–ï–†–´–ô_–§–õ–ê–ì",
     "itemStack": {
       "id": "minecraft:banner",
       "data": 8,
@@ -2426,7 +2426,7 @@
     }
   },
   {
-    "name": "—¬_—≈–€…_‘À¿√",
+    "name": "–°–í_–°–ï–†–´–ô_–§–õ–ê–ì",
     "itemStack": {
       "id": "minecraft:banner",
       "data": 7,
@@ -2488,7 +2488,7 @@
     }
   },
   {
-    "name": "¡»–ﬁ«Œ¬€…_‘À¿√",
+    "name": "–ë–ò–†–Æ–ó–û–í–´–ô_–§–õ–ê–ì",
     "itemStack": {
       "id": "minecraft:banner",
       "data": 6,
@@ -2550,7 +2550,7 @@
     }
   },
   {
-    "name": "‘»ŒÀ≈“Œ¬€…_‘À¿√",
+    "name": "–§–ò–û–õ–ï–¢–û–í–´–ô_–§–õ–ê–ì",
     "itemStack": {
       "id": "minecraft:banner",
       "data": 5,
@@ -2612,7 +2612,7 @@
     }
   },
   {
-    "name": "—»Õ»…_‘À¿√",
+    "name": "–°–ò–ù–ò–ô_–§–õ–ê–ì",
     "itemStack": {
       "id": "minecraft:banner",
       "data": 4,
@@ -2674,7 +2674,7 @@
     }
   },
   {
-    "name": " Œ–»◊Õ≈¬€…_‘À¿√",
+    "name": "–ö–û–†–ò–ß–ù–ï–í–´–ô_–§–õ–ê–ì",
     "itemStack": {
       "id": "minecraft:banner",
       "data": 3,
@@ -2736,7 +2736,7 @@
     }
   },
   {
-    "name": "«≈À®Õ€…_‘À¿√",
+    "name": "–ó–ï–õ–Å–ù–´–ô_–§–õ–ê–ì",
     "itemStack": {
       "id": "minecraft:banner",
       "data": 2,
@@ -2798,7 +2798,7 @@
     }
   },
   {
-    "name": " –¿—Õ€…_‘À¿√",
+    "name": "–ö–†–ê–°–ù–´–ô_–§–õ–ê–ì",
     "itemStack": {
       "id": "minecraft:banner",
       "data": 1,
@@ -2860,7 +2860,7 @@
     }
   },
   {
-    "name": "◊®–Õ€…_‘À¿√",
+    "name": "–ß–Å–†–ù–´–ô_–§–õ–ê–ì",
     "itemStack": {
       "id": "minecraft:banner",
       "data": 0,
@@ -2918,490 +2918,490 @@
     }
   },
   {
-    "name": " –»—“¿ÀÀ_ –¿ﬂ",
+    "name": "–ö–†–ò–°–¢–ê–õ–õ_–ö–†–ê–Ø",
     "itemStack": {
       "id": "minecraft:end_crystal",
       "data": 0
     }
   },
   {
-    "name": "–¿«ƒ¿“◊» ",
+    "name": "–†–ê–ó–î–ê–¢–ß–ò–ö",
     "itemStack": {
       "id": "minecraft:dispenser",
       "data": 0
     }
   },
   {
-    "name": "ÕŒ“Õ€…_¡ÀŒ ",
+    "name": "–ù–û–¢–ù–´–ô_–ë–õ–û–ö",
     "itemStack": {
       "id": "minecraft:noteblock",
       "data": 0
     }
   },
   {
-    "name": "À»œ »…_œŒ–ÿ≈Õ‹",
+    "name": "–õ–ò–ü–ö–ò–ô_–ü–û–†–®–ï–ù–¨",
     "itemStack": {
       "id": "minecraft:sticky_piston",
       "data": 0
     }
   },
   {
-    "name": "œŒ–ÿ≈Õ‹",
+    "name": "–ü–û–†–®–ï–ù–¨",
     "itemStack": {
       "id": "minecraft:piston",
       "data": 0
     }
   },
   {
-    "name": "ƒ»Õ¿Ã»“",
+    "name": "–î–ò–ù–ê–ú–ò–¢",
     "itemStack": {
       "id": "minecraft:tnt",
       "data": 0
     }
   },
   {
-    "name": "–€◊¿√",
+    "name": "–†–´–ß–ê–ì",
     "itemStack": {
       "id": "minecraft:lever",
       "data": 0
     }
   },
   {
-    "name": " ¿Ã_Õ¿∆»ÃÕ_œÀ»“¿",
+    "name": "–ö–ê–ú_–ù–ê–ñ–ò–ú–ù_–ü–õ–ò–¢–ê",
     "itemStack": {
       "id": "minecraft:stone_pressure_plate",
       "data": 0
     }
   },
   {
-    "name": "ƒ≈–_Õ¿∆»ÃÕ_œÀ»“¿",
+    "name": "–î–ï–†_–ù–ê–ñ–ò–ú–ù_–ü–õ–ò–¢–ê",
     "itemStack": {
       "id": "minecraft:wooden_pressure_plate",
       "data": 0
     }
   },
   {
-    "name": " –¿—Õ€…_‘¿ ≈À",
+    "name": "–ö–†–ê–°–ù–´–ô_–§–ê–ö–ï–õ",
     "itemStack": {
       "id": "minecraft:redstone_torch",
       "data": 0
     }
   },
   {
-    "name": " ¿Ã≈ÕÕ¿ﬂ_ ÕŒœ ¿",
+    "name": "–ö–ê–ú–ï–ù–ù–ê–Ø_–ö–ù–û–ü–ö–ê",
     "itemStack": {
       "id": "minecraft:stone_button",
       "data": 0
     }
   },
   {
-    "name": "Àﬁ ",
+    "name": "–õ–Æ–ö",
     "itemStack": {
       "id": "minecraft:trapdoor",
       "data": 0
     }
   },
   {
-    "name": "ƒ”¡Œ¬¿ﬂ_ ¿À»“ ¿",
+    "name": "–î–£–ë–û–í–ê–Ø_–ö–ê–õ–ò–¢–ö–ê",
     "itemStack": {
       "id": "minecraft:fence_gate",
       "data": 0
     }
   },
   {
-    "name": "À¿Ãœ¿",
+    "name": "–õ–ê–ú–ü–ê",
     "itemStack": {
       "id": "minecraft:redstone_lamp",
       "data": 0
     }
   },
   {
-    "name": " –ﬁ ",
+    "name": "–ö–†–Æ–ö",
     "itemStack": {
       "id": "minecraft:tripwire_hook",
       "data": 0
     }
   },
   {
-    "name": "ƒ≈–≈¬ﬂÕ_ ÕŒœ ¿",
+    "name": "–î–ï–†–ï–í–Ø–ù_–ö–ù–û–ü–ö–ê",
     "itemStack": {
       "id": "minecraft:wooden_button",
       "data": 0
     }
   },
   {
-    "name": "—”Õƒ” _ÀŒ¬”ÿ ¿",
+    "name": "–°–£–ù–î–£–ö_–õ–û–í–£–®–ö–ê",
     "itemStack": {
       "id": "minecraft:trapped_chest",
       "data": 0
     }
   },
   {
-    "name": "¬≈—_Õ¿∆_œÀ¿—_À≈√",
+    "name": "–í–ï–°_–ù–ê–ñ_–ü–õ–ê–°_–õ–ï–ì",
     "itemStack": {
       "id": "minecraft:light_weighted_pressure_plate",
       "data": 0
     }
   },
   {
-    "name": "¬≈—_Õ¿∆_œÀ¿—_“ﬂ∆",
+    "name": "–í–ï–°_–ù–ê–ñ_–ü–õ–ê–°_–¢–Ø–ñ",
     "itemStack": {
       "id": "minecraft:heavy_weighted_pressure_plate",
       "data": 0
     }
   },
   {
-    "name": "ƒ¿“◊_ƒÕ≈¬Õ_—¬≈“¿",
+    "name": "–î–ê–¢–ß_–î–ù–ï–í–ù_–°–í–ï–¢–ê",
     "itemStack": {
       "id": "minecraft:daylight_detector",
       "data": 0
     }
   },
   {
-    "name": "¡ÀŒ _ –¿—Õ_ ¿ÃÕﬂ",
+    "name": "–ë–õ–û–ö_–ö–†–ê–°–ù_–ö–ê–ú–ù–Ø",
     "itemStack": {
       "id": "minecraft:redstone_block",
       "data": 0
     }
   },
   {
-    "name": "¬Œ–ŒÕ ¿",
+    "name": "–í–û–†–û–ù–ö–ê",
     "itemStack": {
       "id": "minecraft:hopper",
       "data": 0
     }
   },
   {
-    "name": "¬€¡–¿—€¬¿“≈À‹",
+    "name": "–í–´–ë–†–ê–°–´–í–ê–¢–ï–õ–¨",
     "itemStack": {
       "id": "minecraft:dropper",
       "data": 0
     }
   },
   {
-    "name": "∆≈À≈«Õ€…_Àﬁ ",
+    "name": "–ñ–ï–õ–ï–ó–ù–´–ô_–õ–Æ–ö",
     "itemStack": {
       "id": "minecraft:iron_trapdoor",
       "data": 0
     }
   },
   {
-    "name": "≈ÀŒ¬¿ﬂ_ ¿À»“ ¿",
+    "name": "–ï–õ–û–í–ê–Ø_–ö–ê–õ–ò–¢–ö–ê",
     "itemStack": {
       "id": "minecraft:spruce_fence_gate",
       "data": 0
     }
   },
   {
-    "name": "¡≈–≈«Œ¬_ ¿À»“ ¿",
+    "name": "–ë–ï–†–ï–ó–û–í_–ö–ê–õ–ò–¢–ö–ê",
     "itemStack": {
       "id": "minecraft:birch_fence_gate",
       "data": 0
     }
   },
   {
-    "name": " ¿À»“_»«_“–_ƒ≈–",
+    "name": "–ö–ê–õ–ò–¢_–ò–ó_–¢–†_–î–ï–†",
     "itemStack": {
       "id": "minecraft:jungle_fence_gate",
       "data": 0
     }
   },
   {
-    "name": " ¿À»“_»«_“®Ã_ƒ”¡",
+    "name": "–ö–ê–õ–ò–¢_–ò–ó_–¢–Å–ú_–î–£–ë",
     "itemStack": {
       "id": "minecraft:dark_oak_fence_gate",
       "data": 0
     }
   },
   {
-    "name": "¿ ¿÷»≈¬_ ¿À»“ ¿",
+    "name": "–ê–ö–ê–¶–ò–ï–í_–ö–ê–õ–ò–¢–ö–ê",
     "itemStack": {
       "id": "minecraft:acacia_fence_gate",
       "data": 0
     }
   },
   {
-    "name": "ƒ”¡Œ¬¿ﬂ_ƒ¬≈–‹",
+    "name": "–î–£–ë–û–í–ê–Ø_–î–í–ï–†–¨",
     "itemStack": {
       "id": "minecraft:wooden_door",
       "data": 0
     }
   },
   {
-    "name": "∆≈À≈«Õ¿ﬂ_ƒ¬≈–‹",
+    "name": "–ñ–ï–õ–ï–ó–ù–ê–Ø_–î–í–ï–†–¨",
     "itemStack": {
       "id": "minecraft:iron_door",
       "data": 0
     }
   },
   {
-    "name": " –¿—Õ¿ﬂ_œ€À‹",
+    "name": "–ö–†–ê–°–ù–ê–Ø_–ü–´–õ–¨",
     "itemStack": {
       "id": "minecraft:redstone",
       "data": 0
     }
   },
   {
-    "name": "œŒ¬“Œ–»“≈À‹",
+    "name": "–ü–û–í–¢–û–†–ò–¢–ï–õ–¨",
     "itemStack": {
       "id": "minecraft:repeater",
       "data": 0
     }
   },
   {
-    "name": " ŒÃœ¿–¿“Œ–",
+    "name": "–ö–û–ú–ü–ê–†–ê–¢–û–†",
     "itemStack": {
       "id": "minecraft:comparator",
       "data": 0
     }
   },
   {
-    "name": "≈ÀŒ¬¿ﬂ_ƒ¬≈–‹",
+    "name": "–ï–õ–û–í–ê–Ø_–î–í–ï–†–¨",
     "itemStack": {
       "id": "minecraft:spruce_door",
       "data": 0
     }
   },
   {
-    "name": "¡≈–®«Œ¬¿ﬂ_ƒ¬≈–‹",
+    "name": "–ë–ï–†–Å–ó–û–í–ê–Ø_–î–í–ï–†–¨",
     "itemStack": {
       "id": "minecraft:birch_door",
       "data": 0
     }
   },
   {
-    "name": "ƒ¬≈–‹_»«_“–_ƒ≈–",
+    "name": "–î–í–ï–†–¨_–ò–ó_–¢–†_–î–ï–†",
     "itemStack": {
       "id": "minecraft:jungle_door",
       "data": 0
     }
   },
   {
-    "name": "¿ ¿÷»≈¬¿ﬂ_ƒ¬≈–‹",
+    "name": "–ê–ö–ê–¶–ò–ï–í–ê–Ø_–î–í–ï–†–¨",
     "itemStack": {
       "id": "minecraft:acacia_door",
       "data": 0
     }
   },
   {
-    "name": "ƒ¬≈–‹_»«_“®Ã_ƒ”¡",
+    "name": "–î–í–ï–†–¨_–ò–ó_–¢–Å–ú_–î–£–ë",
     "itemStack": {
       "id": "minecraft:dark_oak_door",
       "data": 0
     }
   },
   {
-    "name": "›Õ≈–√Œ–≈À‹—€",
+    "name": "–≠–ù–ï–†–ì–û–†–ï–õ–¨–°–´",
     "itemStack": {
       "id": "minecraft:golden_rail",
       "data": 0
     }
   },
   {
-    "name": "–≈À‹—€_—_ƒ¿“◊» ",
+    "name": "–†–ï–õ–¨–°–´_–°_–î–ê–¢–ß–ò–ö",
     "itemStack": {
       "id": "minecraft:detector_rail",
       "data": 0
     }
   },
   {
-    "name": "–≈À‹—€",
+    "name": "–†–ï–õ–¨–°–´",
     "itemStack": {
       "id": "minecraft:rail",
       "data": 0
     }
   },
   {
-    "name": "¿ “»¬»–_–≈À‹—€",
+    "name": "–ê–ö–¢–ò–í–ò–†_–†–ï–õ–¨–°–´",
     "itemStack": {
       "id": "minecraft:activator_rail",
       "data": 0
     }
   },
   {
-    "name": "¬¿√ŒÕ≈“ ¿",
+    "name": "–í–ê–ì–û–ù–ï–¢–ö–ê",
     "itemStack": {
       "id": "minecraft:minecart",
       "data": 0
     }
   },
   {
-    "name": "—≈ƒÀŒ",
+    "name": "–°–ï–î–õ–û",
     "itemStack": {
       "id": "minecraft:saddle",
       "data": 0
     }
   },
   {
-    "name": "ƒ”¡Œ¬¿ﬂ_ÀŒƒ ¿",
+    "name": "–î–£–ë–û–í–ê–Ø_–õ–û–î–ö–ê",
     "itemStack": {
       "id": "minecraft:boat",
       "data": 0
     }
   },
   {
-    "name": "√–”«Œ¬_¬¿√ŒÕ≈“ ¿",
+    "name": "–ì–†–£–ó–û–í_–í–ê–ì–û–ù–ï–¢–ö–ê",
     "itemStack": {
       "id": "minecraft:chest_minecart",
       "data": 0
     }
   },
   {
-    "name": "—¿ÃŒ’Œƒ_¬¿√ŒÕ≈“ ",
+    "name": "–°–ê–ú–û–•–û–î_–í–ê–ì–û–ù–ï–¢–ö",
     "itemStack": {
       "id": "minecraft:furnace_minecart",
       "data": 0
     }
   },
   {
-    "name": "”ƒŒ◊ ¿_—_ÃŒ– Œ¬ ",
+    "name": "–£–î–û–ß–ö–ê_–°_–ú–û–†–ö–û–í–ö",
     "itemStack": {
       "id": "minecraft:carrot_on_a_stick",
       "data": 0
     }
   },
   {
-    "name": "¬¿√ŒÕ≈“ ¿_—_TNT",
+    "name": "–í–ê–ì–û–ù–ï–¢–ö–ê_–°_TNT",
     "itemStack": {
       "id": "minecraft:tnt_minecart",
       "data": 0
     }
   },
   {
-    "name": "¬¿√_—_«¿√–_¬Œ–",
+    "name": "–í–ê–ì_–°_–ó–ê–ì–†_–í–û–†",
     "itemStack": {
       "id": "minecraft:hopper_minecart",
       "data": 0
     }
   },
   {
-    "name": "›À»“–€",
+    "name": "–≠–õ–ò–¢–†–´",
     "itemStack": {
       "id": "minecraft:elytra",
       "data": 0
     }
   },
   {
-    "name": "≈ÀŒ¬¿ﬂ_ÀŒƒ ¿",
+    "name": "–ï–õ–û–í–ê–Ø_–õ–û–î–ö–ê",
     "itemStack": {
       "id": "minecraft:spruce_boat",
       "data": 0
     }
   },
   {
-    "name": "¡≈–®«Œ¬¿ﬂ_ÀŒƒ ¿",
+    "name": "–ë–ï–†–Å–ó–û–í–ê–Ø_–õ–û–î–ö–ê",
     "itemStack": {
       "id": "minecraft:birch_boat",
       "data": 0
     }
   },
   {
-    "name": "ÀŒƒ ¿_»«_“–_ƒ≈–",
+    "name": "–õ–û–î–ö–ê_–ò–ó_–¢–†_–î–ï–†",
     "itemStack": {
       "id": "minecraft:jungle_boat",
       "data": 0
     }
   },
   {
-    "name": "¿ ¿÷»≈¬¿ﬂ_ÀŒƒ ¿",
+    "name": "–ê–ö–ê–¶–ò–ï–í–ê–Ø_–õ–û–î–ö–ê",
     "itemStack": {
       "id": "minecraft:acacia_boat",
       "data": 0
     }
   },
   {
-    "name": "ÀŒƒ ¿_»«_“®Ã_ƒ”¡",
+    "name": "–õ–û–î–ö–ê_–ò–ó_–¢–Å–ú_–î–£–ë",
     "itemStack": {
       "id": "minecraft:dark_oak_boat",
       "data": 0
     }
   },
   {
-    "name": "Ã¿ﬂ ",
+    "name": "–ú–ê–Ø–ö",
     "itemStack": {
       "id": "minecraft:beacon",
       "data": 0
     }
   },
   {
-    "name": "¬≈ƒ–Œ",
+    "name": "–í–ï–î–†–û",
     "itemStack": {
       "id": "minecraft:bucket",
       "data": 0
     }
   },
   {
-    "name": "¬≈ƒ–Œ_¬Œƒ€",
+    "name": "–í–ï–î–†–û_–í–û–î–´",
     "itemStack": {
       "id": "minecraft:water_bucket",
       "data": 0
     }
   },
   {
-    "name": "¬≈ƒ–Œ_À¿¬€",
+    "name": "–í–ï–î–†–û_–õ–ê–í–´",
     "itemStack": {
       "id": "minecraft:lava_bucket",
       "data": 0
     }
   },
   {
-    "name": "—Õ≈∆Œ ",
+    "name": "–°–ù–ï–ñ–û–ö",
     "itemStack": {
       "id": "minecraft:snowball",
       "data": 0
     }
   },
   {
-    "name": "ÃŒÀŒ Œ",
+    "name": "–ú–û–õ–û–ö–û",
     "itemStack": {
       "id": "minecraft:milk_bucket",
       "data": 0
     }
   },
   {
-    "name": "¡”Ã¿√¿",
+    "name": "–ë–£–ú–ê–ì–ê",
     "itemStack": {
       "id": "minecraft:paper",
       "data": 0
     }
   },
   {
-    "name": " Õ»√¿",
+    "name": "–ö–ù–ò–ì–ê",
     "itemStack": {
       "id": "minecraft:book",
       "data": 0
     }
   },
   {
-    "name": "—√”—“Œ _—À»«»",
+    "name": "–°–ì–£–°–¢–û–ö_–°–õ–ò–ó–ò",
     "itemStack": {
       "id": "minecraft:slime_ball",
       "data": 0
     }
   },
   {
-    "name": " Œ—“‹",
+    "name": "–ö–û–°–¢–¨",
     "itemStack": {
       "id": "minecraft:bone",
       "data": 0
     }
   },
   {
-    "name": "∆≈Ã◊”√_ –¿ﬂ",
+    "name": "–ñ–ï–ú–ß–£–ì_–ö–†–ê–Ø",
     "itemStack": {
       "id": "minecraft:ender_pearl",
       "data": 0
     }
   },
   {
-    "name": "Œ Œ_ –¿ﬂ",
+    "name": "–û–ö–û_–ö–†–ê–Ø",
     "itemStack": {
       "id": "minecraft:ender_eye",
       "data": 0
     }
   },
   {
-    "name": "ﬂ…÷Œ_œ–»«_ –»œ≈–",
+    "name": "–Ø–ô–¶–û_–ü–†–ò–ó_–ö–†–ò–ü–ï–†",
     "itemStack": {
       "id": "minecraft:spawn_egg",
       "data": 0,
@@ -3461,7 +3461,7 @@
     }
   },
   {
-    "name": "ﬂ…÷Œ_œ–»«_— ≈À≈“",
+    "name": "–Ø–ô–¶–û_–ü–†–ò–ó_–°–ö–ï–õ–ï–¢",
     "itemStack": {
       "id": "minecraft:spawn_egg",
       "data": 0,
@@ -3522,7 +3522,7 @@
     }
   },
   {
-    "name": "ﬂ…÷Œ_œ–»«_œ¿” ",
+    "name": "–Ø–ô–¶–û_–ü–†–ò–ó_–ü–ê–£–ö",
     "itemStack": {
       "id": "minecraft:spawn_egg",
       "data": 0,
@@ -3581,7 +3581,7 @@
     }
   },
   {
-    "name": "ﬂ…÷Œ_œ–»«_«ŒÃ¡»",
+    "name": "–Ø–ô–¶–û_–ü–†–ò–ó_–ó–û–ú–ë–ò",
     "itemStack": {
       "id": "minecraft:spawn_egg",
       "data": 0,
@@ -3640,7 +3640,7 @@
     }
   },
   {
-    "name": "ﬂ…÷Œ_œ–_—À»«≈Õ‹",
+    "name": "–Ø–ô–¶–û_–ü–†_–°–õ–ò–ó–ï–ù–¨",
     "itemStack": {
       "id": "minecraft:spawn_egg",
       "data": 0,
@@ -3698,7 +3698,7 @@
     }
   },
   {
-    "name": "ﬂ…÷Œ_œ–»«_√¿—“",
+    "name": "–Ø–ô–¶–û_–ü–†–ò–ó_–ì–ê–°–¢",
     "itemStack": {
       "id": "minecraft:spawn_egg",
       "data": 0,
@@ -3756,7 +3756,7 @@
     }
   },
   {
-    "name": "ﬂ…÷Œ_œ–_—¬»ÕŒ«ŒÃ",
+    "name": "–Ø–ô–¶–û_–ü–†_–°–í–ò–ù–û–ó–û–ú",
     "itemStack": {
       "id": "minecraft:spawn_egg",
       "data": 0,
@@ -3818,7 +3818,7 @@
     }
   },
   {
-    "name": "ﬂ…÷Œ_œ–_›Õƒ≈–Ã≈Õ",
+    "name": "–Ø–ô–¶–û_–ü–†_–≠–ù–î–ï–†–ú–ï–ù",
     "itemStack": {
       "id": "minecraft:spawn_egg",
       "data": 0,
@@ -3879,7 +3879,7 @@
     }
   },
   {
-    "name": "ﬂ…÷Œ_œ–_œ≈Ÿ_œ¿” ",
+    "name": "–Ø–ô–¶–û_–ü–†_–ü–ï–©_–ü–ê–£–ö",
     "itemStack": {
       "id": "minecraft:spawn_egg",
       "data": 0,
@@ -3942,7 +3942,7 @@
     }
   },
   {
-    "name": "ﬂ…÷Œ_œ–»«_◊≈ÿ”…Õ",
+    "name": "–Ø–ô–¶–û_–ü–†–ò–ó_–ß–ï–®–£–ô–ù",
     "itemStack": {
       "id": "minecraft:spawn_egg",
       "data": 0,
@@ -4005,7 +4005,7 @@
     }
   },
   {
-    "name": "ﬂ…÷Œ_œ–»«_»‘–»“",
+    "name": "–Ø–ô–¶–û_–ü–†–ò–ó_–ò–§–†–ò–¢",
     "itemStack": {
       "id": "minecraft:spawn_egg",
       "data": 0,
@@ -4063,7 +4063,7 @@
     }
   },
   {
-    "name": "ﬂ…÷Œ_œ–_Ã¿√Ã_ ”¡",
+    "name": "–Ø–ô–¶–û_–ü–†_–ú–ê–ì–ú_–ö–£–ë",
     "itemStack": {
       "id": "minecraft:spawn_egg",
       "data": 0,
@@ -4125,7 +4125,7 @@
     }
   },
   {
-    "name": "ﬂ…÷Œ_œ–_À≈“_Ã€ÿ‹",
+    "name": "–Ø–ô–¶–û_–ü–†_–õ–ï–¢_–ú–´–®–¨",
     "itemStack": {
       "id": "minecraft:spawn_egg",
       "data": 0,
@@ -4181,7 +4181,7 @@
     }
   },
   {
-    "name": "ﬂ…÷Œ_œ–»«_¬≈ƒ‹Ã¿",
+    "name": "–Ø–ô–¶–û_–ü–†–ò–ó_–í–ï–î–¨–ú–ê",
     "itemStack": {
       "id": "minecraft:spawn_egg",
       "data": 0,
@@ -4239,7 +4239,7 @@
     }
   },
   {
-    "name": "ﬂ…÷Œ_œ–_›Õƒ≈–Ã»“",
+    "name": "–Ø–ô–¶–û_–ü–†_–≠–ù–î–ï–†–ú–ò–¢",
     "itemStack": {
       "id": "minecraft:spawn_egg",
       "data": 0,
@@ -4298,7 +4298,7 @@
     }
   },
   {
-    "name": "ﬂ…÷Œ_œ–»«_—“–¿∆",
+    "name": "–Ø–ô–¶–û_–ü–†–ò–ó_–°–¢–†–ê–ñ",
     "itemStack": {
       "id": "minecraft:spawn_egg",
       "data": 0,
@@ -4359,7 +4359,7 @@
     }
   },
   {
-    "name": "ﬂ…÷Œ_œ–»«_ÿ¿À ≈–",
+    "name": "–Ø–ô–¶–û_–ü–†–ò–ó_–®–ê–õ–ö–ï–†",
     "itemStack": {
       "id": "minecraft:spawn_egg",
       "data": 0,
@@ -4419,7 +4419,7 @@
     }
   },
   {
-    "name": "ﬂ…÷Œ_œ–»«_—¬»Õ‹ﬂ",
+    "name": "–Ø–ô–¶–û_–ü–†–ò–ó_–°–í–ò–ù–¨–Ø",
     "itemStack": {
       "id": "minecraft:spawn_egg",
       "data": 0,
@@ -4475,7 +4475,7 @@
     }
   },
   {
-    "name": "ﬂ…÷Œ_œ–»«_Œ¬÷¿",
+    "name": "–Ø–ô–¶–û_–ü–†–ò–ó_–û–í–¶–ê",
     "itemStack": {
       "id": "minecraft:spawn_egg",
       "data": 0,
@@ -4533,7 +4533,7 @@
     }
   },
   {
-    "name": "ﬂ…÷Œ_œ–»«_ Œ–Œ¬¿",
+    "name": "–Ø–ô–¶–û_–ü–†–ò–ó_–ö–û–†–û–í–ê",
     "itemStack": {
       "id": "minecraft:spawn_egg",
       "data": 0,
@@ -4589,7 +4589,7 @@
     }
   },
   {
-    "name": "ﬂ…÷Œ_œ–»«_ ”–»÷¿",
+    "name": "–Ø–ô–¶–û_–ü–†–ò–ó_–ö–£–†–ò–¶–ê",
     "itemStack": {
       "id": "minecraft:spawn_egg",
       "data": 0,
@@ -4649,7 +4649,7 @@
     }
   },
   {
-    "name": "ﬂ…÷Œ_œ–»«_—œ–”“",
+    "name": "–Ø–ô–¶–û_–ü–†–ò–ó_–°–ü–†–£–¢",
     "itemStack": {
       "id": "minecraft:spawn_egg",
       "data": 0,
@@ -4705,7 +4705,7 @@
     }
   },
   {
-    "name": "ﬂ…÷Œ_œ–»«_¬ŒÀ ",
+    "name": "–Ø–ô–¶–û_–ü–†–ò–ó_–í–û–õ–ö",
     "itemStack": {
       "id": "minecraft:spawn_egg",
       "data": 0,
@@ -4762,7 +4762,7 @@
     }
   },
   {
-    "name": "ﬂ…÷Œ_œ–_√–»¡_ Œ–",
+    "name": "–Ø–ô–¶–û_–ü–†_–ì–†–ò–ë_–ö–û–†",
     "itemStack": {
       "id": "minecraft:spawn_egg",
       "data": 0,
@@ -4826,7 +4826,7 @@
     }
   },
   {
-    "name": "ﬂ…÷Œ_œ–»«_Œ÷≈ÀŒ“",
+    "name": "–Ø–ô–¶–û_–ü–†–ò–ó_–û–¶–ï–õ–û–¢",
     "itemStack": {
       "id": "minecraft:spawn_egg",
       "data": 0,
@@ -4885,7 +4885,7 @@
     }
   },
   {
-    "name": "ﬂ…÷Œ_œ–»«_ÀŒÿ¿ƒ‹",
+    "name": "–Ø–ô–¶–û_–ü–†–ò–ó_–õ–û–®–ê–î–¨",
     "itemStack": {
       "id": "minecraft:spawn_egg",
       "data": 0,
@@ -4944,7 +4944,7 @@
     }
   },
   {
-    "name": "ﬂ…÷Œ_œ–»«_ –ŒÀ» ",
+    "name": "–Ø–ô–¶–û_–ü–†–ò–ó_–ö–†–û–õ–ò–ö",
     "itemStack": {
       "id": "minecraft:spawn_egg",
       "data": 0,
@@ -5003,7 +5003,7 @@
     }
   },
   {
-    "name": "ﬂ…÷Œ_œ–»«_∆»“≈À‹",
+    "name": "–Ø–ô–¶–û_–ü–†–ò–ó_–ñ–ò–¢–ï–õ–¨",
     "itemStack": {
       "id": "minecraft:spawn_egg",
       "data": 0,
@@ -5064,574 +5064,574 @@
     }
   },
   {
-    "name": "œ”«€–® _Œœ€“¿",
+    "name": "–ü–£–ó–´–†–Å–ö_–û–ü–´–¢–ê",
     "itemStack": {
       "id": "minecraft:experience_bottle",
       "data": 0
     }
   },
   {
-    "name": "Œ√Õ≈ÕÕ€…_«¿–ﬂƒ",
+    "name": "–û–ì–ù–ï–ù–ù–´–ô_–ó–ê–†–Ø–î",
     "itemStack": {
       "id": "minecraft:fire_charge",
       "data": 0
     }
   },
   {
-    "name": " Õ»√¿_»_œ≈–Œ",
+    "name": "–ö–ù–ò–ì–ê_–ò_–ü–ï–†–û",
     "itemStack": {
       "id": "minecraft:writable_book",
       "data": 0
     }
   },
   {
-    "name": "◊»—“¿ﬂ_ ¿–“¿",
+    "name": "–ß–ò–°–¢–ê–Ø_–ö–ê–†–¢–ê",
     "itemStack": {
       "id": "minecraft:map",
       "data": 0
     }
   },
   {
-    "name": "œ»–Œ“≈’Õ_«¬≈«ƒ¿",
+    "name": "–ü–ò–†–û–¢–ï–•–ù_–ó–í–ï–ó–î–ê",
     "itemStack": {
       "id": "minecraft:firework_charge",
       "data": 0
     }
   },
   {
-    "name": "∆≈À_ ŒÕ— _¡–ŒÕﬂ",
+    "name": "–ñ–ï–õ_–ö–û–ù–°–ö_–ë–†–û–ù–Ø",
     "itemStack": {
       "id": "minecraft:iron_horse_armor",
       "data": 0
     }
   },
   {
-    "name": "«ŒÀ_ ŒÕ— _¡–ŒÕﬂ",
+    "name": "–ó–û–õ_–ö–û–ù–°–ö_–ë–†–û–ù–Ø",
     "itemStack": {
       "id": "minecraft:golden_horse_armor",
       "data": 0
     }
   },
   {
-    "name": "¿ÀÃ_ ŒÕ— _¡–ŒÕﬂ",
+    "name": "–ê–õ–ú_–ö–û–ù–°–ö_–ë–†–û–ù–Ø",
     "itemStack": {
       "id": "minecraft:diamond_horse_armor",
       "data": 0
     }
   },
   {
-    "name": "œÀ¿—“»Õ ¿_13",
+    "name": "–ü–õ–ê–°–¢–ò–ù–ö–ê_13",
     "itemStack": {
       "id": "minecraft:record_13",
       "data": 0
     }
   },
   {
-    "name": "œÀ¿—“»Õ ¿_CAT",
+    "name": "–ü–õ–ê–°–¢–ò–ù–ö–ê_CAT",
     "itemStack": {
       "id": "minecraft:record_cat",
       "data": 0
     }
   },
   {
-    "name": "œÀ¿—“»Õ ¿_BLOCKS",
+    "name": "–ü–õ–ê–°–¢–ò–ù–ö–ê_BLOCKS",
     "itemStack": {
       "id": "minecraft:record_blocks",
       "data": 0
     }
   },
   {
-    "name": "œÀ¿—“»Õ ¿_CHIRP",
+    "name": "–ü–õ–ê–°–¢–ò–ù–ö–ê_CHIRP",
     "itemStack": {
       "id": "minecraft:record_chirp",
       "data": 0
     }
   },
   {
-    "name": "œÀ¿—“»Õ ¿_FAR",
+    "name": "–ü–õ–ê–°–¢–ò–ù–ö–ê_FAR",
     "itemStack": {
       "id": "minecraft:record_far",
       "data": 0
     }
   },
   {
-    "name": "œÀ¿—“»Õ ¿_MALL",
+    "name": "–ü–õ–ê–°–¢–ò–ù–ö–ê_MALL",
     "itemStack": {
       "id": "minecraft:record_mall",
       "data": 0
     }
   },
   {
-    "name": "œÀ¿—“»Õ ¿_MELOHI",
+    "name": "–ü–õ–ê–°–¢–ò–ù–ö–ê_MELOHI",
     "itemStack": {
       "id": "minecraft:record_mellohi",
       "data": 0
     }
   },
   {
-    "name": "œÀ¿—“»Õ ¿_STAL",
+    "name": "–ü–õ–ê–°–¢–ò–ù–ö–ê_STAL",
     "itemStack": {
       "id": "minecraft:record_stal",
       "data": 0
     }
   },
   {
-    "name": "œÀ¿—“»Õ ¿_STRAD",
+    "name": "–ü–õ–ê–°–¢–ò–ù–ö–ê_STRAD",
     "itemStack": {
       "id": "minecraft:record_strad",
       "data": 0
     }
   },
   {
-    "name": "œÀ¿—“»Õ ¿_WARD",
+    "name": "–ü–õ–ê–°–¢–ò–ù–ö–ê_WARD",
     "itemStack": {
       "id": "minecraft:record_ward",
       "data": 0
     }
   },
   {
-    "name": "œÀ¿—“»Õ ¿_11",
+    "name": "–ü–õ–ê–°–¢–ò–ù–ö–ê_11",
     "itemStack": {
       "id": "minecraft:record_11",
       "data": 0
     }
   },
   {
-    "name": "œÀ¿—“»Õ ¿_WAIT",
+    "name": "–ü–õ–ê–°–¢–ò–ù–ö–ê_WAIT",
     "itemStack": {
       "id": "minecraft:record_wait",
       "data": 0
     }
   },
   {
-    "name": "ﬂ¡ÀŒ Œ",
+    "name": "–Ø–ë–õ–û–ö–û",
     "itemStack": {
       "id": "minecraft:apple",
       "data": 0
     }
   },
   {
-    "name": "“”ÿ≈Õ€≈_√–»¡€",
+    "name": "–¢–£–®–ï–ù–´–ï_–ì–†–ò–ë–´",
     "itemStack": {
       "id": "minecraft:mushroom_stew",
       "data": 0
     }
   },
   {
-    "name": "’À≈¡",
+    "name": "–•–õ–ï–ë",
     "itemStack": {
       "id": "minecraft:bread",
       "data": 0
     }
   },
   {
-    "name": "—€–¿ﬂ_—¬»Õ»Õ¿",
+    "name": "–°–´–†–ê–Ø_–°–í–ò–ù–ò–ù–ê",
     "itemStack": {
       "id": "minecraft:porkchop",
       "data": 0
     }
   },
   {
-    "name": "∆¿–≈Õ¿ﬂ_—¬»Õ»Õ¿",
+    "name": "–ñ–ê–†–ï–ù–ê–Ø_–°–í–ò–ù–ò–ù–ê",
     "itemStack": {
       "id": "minecraft:cooked_porkchop",
       "data": 0
     }
   },
   {
-    "name": "«ŒÀŒ“Œ≈_ﬂ¡ÀŒ Œ",
+    "name": "–ó–û–õ–û–¢–û–ï_–Ø–ë–õ–û–ö–û",
     "itemStack": {
       "id": "minecraft:golden_apple",
       "data": 0
     }
   },
   {
-    "name": "«¿◊¿–_«ŒÀ_ﬂ¡ÀŒ Œ",
+    "name": "–ó–ê–ß–ê–†_–ó–û–õ_–Ø–ë–õ–û–ö–û",
     "itemStack": {
       "id": "minecraft:golden_apple",
       "data": 1
     }
   },
   {
-    "name": "—€–¿ﬂ_–€¡¿",
+    "name": "–°–´–†–ê–Ø_–†–´–ë–ê",
     "itemStack": {
       "id": "minecraft:fish",
       "data": 0
     }
   },
   {
-    "name": "—€–Œ…_ÀŒ—Œ—‹",
+    "name": "–°–´–†–û–ô_–õ–û–°–û–°–¨",
     "itemStack": {
       "id": "minecraft:fish",
       "data": 1
     }
   },
   {
-    "name": "–€¡¿_ ÀŒ”Õ",
+    "name": "–†–´–ë–ê_–ö–õ–û–£–ù",
     "itemStack": {
       "id": "minecraft:fish",
       "data": 2
     }
   },
   {
-    "name": "»√ÀŒ¡–ﬁ’",
+    "name": "–ò–ì–õ–û–ë–†–Æ–•",
     "itemStack": {
       "id": "minecraft:fish",
       "data": 3
     }
   },
   {
-    "name": "∆¿–≈Õ¿ﬂ_–€¡¿",
+    "name": "–ñ–ê–†–ï–ù–ê–Ø_–†–´–ë–ê",
     "itemStack": {
       "id": "minecraft:cooked_fish",
       "data": 0
     }
   },
   {
-    "name": "∆¿–≈Õ€…_ÀŒ—Œ—‹",
+    "name": "–ñ–ê–†–ï–ù–´–ô_–õ–û–°–û–°–¨",
     "itemStack": {
       "id": "minecraft:cooked_fish",
       "data": 1
     }
   },
   {
-    "name": "“Œ–“",
+    "name": "–¢–û–†–¢",
     "itemStack": {
       "id": "minecraft:cake",
       "data": 0
     }
   },
   {
-    "name": "œ≈◊≈Õ‹≈",
+    "name": "–ü–ï–ß–ï–ù–¨–ï",
     "itemStack": {
       "id": "minecraft:cookie",
       "data": 0
     }
   },
   {
-    "name": "ƒŒÀ‹ ¿_¿–¡”«¿",
+    "name": "–î–û–õ–¨–ö–ê_–ê–†–ë–£–ó–ê",
     "itemStack": {
       "id": "minecraft:melon",
       "data": 0
     }
   },
   {
-    "name": "—€–¿ﬂ_√Œ¬ﬂƒ»Õ¿",
+    "name": "–°–´–†–ê–Ø_–ì–û–í–Ø–î–ò–ù–ê",
     "itemStack": {
       "id": "minecraft:beef",
       "data": 0
     }
   },
   {
-    "name": "—“≈… ",
+    "name": "–°–¢–ï–ô–ö",
     "itemStack": {
       "id": "minecraft:cooked_beef",
       "data": 0
     }
   },
   {
-    "name": " ”–ﬂ“»Õ¿",
+    "name": "–ö–£–†–Ø–¢–ò–ù–ê",
     "itemStack": {
       "id": "minecraft:chicken",
       "data": 0
     }
   },
   {
-    "name": "∆¿–≈Õ¿ﬂ_ ”–»÷¿",
+    "name": "–ñ–ê–†–ï–ù–ê–Ø_–ö–£–†–ò–¶–ê",
     "itemStack": {
       "id": "minecraft:cooked_chicken",
       "data": 0
     }
   },
   {
-    "name": "√Õ»À¿ﬂ_œÀŒ“‹",
+    "name": "–ì–ù–ò–õ–ê–Ø_–ü–õ–û–¢–¨",
     "itemStack": {
       "id": "minecraft:rotten_flesh",
       "data": 0
     }
   },
   {
-    "name": "œ¿”◊»…_√À¿«",
+    "name": "–ü–ê–£–ß–ò–ô_–ì–õ–ê–ó",
     "itemStack": {
       "id": "minecraft:spider_eye",
       "data": 0
     }
   },
   {
-    "name": "ÃŒ– Œ¬‹",
+    "name": "–ú–û–†–ö–û–í–¨",
     "itemStack": {
       "id": "minecraft:carrot",
       "data": 0
     }
   },
   {
-    "name": " ¿–“Œ‘≈À‹",
+    "name": "–ö–ê–†–¢–û–§–ï–õ–¨",
     "itemStack": {
       "id": "minecraft:potato",
       "data": 0
     }
   },
   {
-    "name": "œ≈◊®Õ_ ¿–“Œ‘≈À‹",
+    "name": "–ü–ï–ß–Å–ù_–ö–ê–†–¢–û–§–ï–õ–¨",
     "itemStack": {
       "id": "minecraft:baked_potato",
       "data": 0
     }
   },
   {
-    "name": "ﬂƒŒ¬»“_ ¿–“Œ‘≈À‹",
+    "name": "–Ø–î–û–í–ò–¢_–ö–ê–†–¢–û–§–ï–õ–¨",
     "itemStack": {
       "id": "minecraft:poisonous_potato",
       "data": 0
     }
   },
   {
-    "name": "“€ ¬≈ÕÕ€…_œ»–Œ√",
+    "name": "–¢–´–ö–í–ï–ù–ù–´–ô_–ü–ò–†–û–ì",
     "itemStack": {
       "id": "minecraft:pumpkin_pie",
       "data": 0
     }
   },
   {
-    "name": "—€–¿ﬂ_ –ŒÀ‹◊¿“»Õ",
+    "name": "–°–´–†–ê–Ø_–ö–†–û–õ–¨–ß–ê–¢–ò–ù",
     "itemStack": {
       "id": "minecraft:rabbit",
       "data": 0
     }
   },
   {
-    "name": "∆¿–≈Õ_ –ŒÀ‹◊¿“»Õ",
+    "name": "–ñ–ê–†–ï–ù_–ö–†–û–õ–¨–ß–ê–¢–ò–ù",
     "itemStack": {
       "id": "minecraft:cooked_rabbit",
       "data": 0
     }
   },
   {
-    "name": "“”ÿ®Õ€…_ –ŒÀ» ",
+    "name": "–¢–£–®–Å–ù–´–ô_–ö–†–û–õ–ò–ö",
     "itemStack": {
       "id": "minecraft:rabbit_stew",
       "data": 0
     }
   },
   {
-    "name": "—€–¿ﬂ_¡¿–¿Õ»Õ¿",
+    "name": "–°–´–†–ê–Ø_–ë–ê–†–ê–ù–ò–ù–ê",
     "itemStack": {
       "id": "minecraft:mutton",
       "data": 0
     }
   },
   {
-    "name": "∆¿–≈Õ¿ﬂ_¡¿–¿Õ»Õ¿",
+    "name": "–ñ–ê–†–ï–ù–ê–Ø_–ë–ê–†–ê–ù–ò–ù–ê",
     "itemStack": {
       "id": "minecraft:cooked_mutton",
       "data": 0
     }
   },
   {
-    "name": "—¬® À¿",
+    "name": "–°–í–Å–ö–õ–ê",
     "itemStack": {
       "id": "minecraft:beetroot",
       "data": 0
     }
   },
   {
-    "name": "—¬≈ ŒÀ‹Õ€…_—”œ",
+    "name": "–°–í–ï–ö–û–õ–¨–ù–´–ô_–°–£–ü",
     "itemStack": {
       "id": "minecraft:beetroot_soup",
       "data": 0
     }
   },
   {
-    "name": "∆≈À≈«Õ¿ﬂ_ÀŒœ¿“¿",
+    "name": "–ñ–ï–õ–ï–ó–ù–ê–Ø_–õ–û–ü–ê–¢–ê",
     "itemStack": {
       "id": "minecraft:iron_shovel",
       "data": 0
     }
   },
   {
-    "name": "∆≈À≈«Õ¿ﬂ_ »– ¿",
+    "name": "–ñ–ï–õ–ï–ó–ù–ê–Ø_–ö–ò–†–ö–ê",
     "itemStack": {
       "id": "minecraft:iron_pickaxe",
       "data": 0
     }
   },
   {
-    "name": "∆≈À≈«Õ€…_“ŒœŒ–",
+    "name": "–ñ–ï–õ–ï–ó–ù–´–ô_–¢–û–ü–û–†",
     "itemStack": {
       "id": "minecraft:iron_axe",
       "data": 0
     }
   },
   {
-    "name": "Œ√Õ»¬Œ",
+    "name": "–û–ì–ù–ò–í–û",
     "itemStack": {
       "id": "minecraft:flint_and_steel",
       "data": 0
     }
   },
   {
-    "name": "ƒ≈–≈¬ﬂÕÕ_ÀŒœ¿“¿",
+    "name": "–î–ï–†–ï–í–Ø–ù–ù_–õ–û–ü–ê–¢–ê",
     "itemStack": {
       "id": "minecraft:wooden_shovel",
       "data": 0
     }
   },
   {
-    "name": "ƒ≈–≈¬ﬂÕÕ¿ﬂ_ »– ¿",
+    "name": "–î–ï–†–ï–í–Ø–ù–ù–ê–Ø_–ö–ò–†–ö–ê",
     "itemStack": {
       "id": "minecraft:wooden_pickaxe",
       "data": 0
     }
   },
   {
-    "name": "ƒ≈–≈¬ﬂÕÕ€…_“ŒœŒ–",
+    "name": "–î–ï–†–ï–í–Ø–ù–ù–´–ô_–¢–û–ü–û–†",
     "itemStack": {
       "id": "minecraft:wooden_axe",
       "data": 0
     }
   },
   {
-    "name": " ¿Ã≈ÕÕ¿ﬂ_ÀŒœ¿“¿",
+    "name": "–ö–ê–ú–ï–ù–ù–ê–Ø_–õ–û–ü–ê–¢–ê",
     "itemStack": {
       "id": "minecraft:stone_shovel",
       "data": 0
     }
   },
   {
-    "name": " ¿Ã≈ÕÕ¿ﬂ_ »– ¿",
+    "name": "–ö–ê–ú–ï–ù–ù–ê–Ø_–ö–ò–†–ö–ê",
     "itemStack": {
       "id": "minecraft:stone_pickaxe",
       "data": 0
     }
   },
   {
-    "name": " ¿Ã≈ÕÕ€…_“ŒœŒ–",
+    "name": "–ö–ê–ú–ï–ù–ù–´–ô_–¢–û–ü–û–†",
     "itemStack": {
       "id": "minecraft:stone_axe",
       "data": 0
     }
   },
   {
-    "name": "¿ÀÃ¿«Õ¿ﬂ_ÀŒœ¿“¿",
+    "name": "–ê–õ–ú–ê–ó–ù–ê–Ø_–õ–û–ü–ê–¢–ê",
     "itemStack": {
       "id": "minecraft:diamond_shovel",
       "data": 0
     }
   },
   {
-    "name": "¿ÀÃ¿«Õ¿ﬂ_ »– ¿",
+    "name": "–ê–õ–ú–ê–ó–ù–ê–Ø_–ö–ò–†–ö–ê",
     "itemStack": {
       "id": "minecraft:diamond_pickaxe",
       "data": 0
     }
   },
   {
-    "name": "¿ÀÃ¿«Õ€…_“ŒœŒ–",
+    "name": "–ê–õ–ú–ê–ó–ù–´–ô_–¢–û–ü–û–†",
     "itemStack": {
       "id": "minecraft:diamond_axe",
       "data": 0
     }
   },
   {
-    "name": "«ŒÀŒ“¿ﬂ_ÀŒœ¿“¿",
+    "name": "–ó–û–õ–û–¢–ê–Ø_–õ–û–ü–ê–¢–ê",
     "itemStack": {
       "id": "minecraft:golden_shovel",
       "data": 0
     }
   },
   {
-    "name": "«ŒÀŒ“¿ﬂ_ »– ¿",
+    "name": "–ó–û–õ–û–¢–ê–Ø_–ö–ò–†–ö–ê",
     "itemStack": {
       "id": "minecraft:golden_pickaxe",
       "data": 0
     }
   },
   {
-    "name": "«ŒÀŒ“Œ…_“ŒœŒ–",
+    "name": "–ó–û–õ–û–¢–û–ô_–¢–û–ü–û–†",
     "itemStack": {
       "id": "minecraft:golden_axe",
       "data": 0
     }
   },
   {
-    "name": "ƒ≈–≈¬ﬂÕÕ_ÃŒ“€√¿",
+    "name": "–î–ï–†–ï–í–Ø–ù–ù_–ú–û–¢–´–ì–ê",
     "itemStack": {
       "id": "minecraft:wooden_hoe",
       "data": 0
     }
   },
   {
-    "name": " ¿Ã≈ÕÕ¿ﬂ_ÃŒ“€√¿",
+    "name": "–ö–ê–ú–ï–ù–ù–ê–Ø_–ú–û–¢–´–ì–ê",
     "itemStack": {
       "id": "minecraft:stone_hoe",
       "data": 0
     }
   },
   {
-    "name": "∆≈À≈«Õ¿ﬂ_ÃŒ“€√¿",
+    "name": "–ñ–ï–õ–ï–ó–ù–ê–Ø_–ú–û–¢–´–ì–ê",
     "itemStack": {
       "id": "minecraft:iron_hoe",
       "data": 0
     }
   },
   {
-    "name": "¿ÀÃ¿«Õ¿ﬂ_ÃŒ“€√¿",
+    "name": "–ê–õ–ú–ê–ó–ù–ê–Ø_–ú–û–¢–´–ì–ê",
     "itemStack": {
       "id": "minecraft:diamond_hoe",
       "data": 0
     }
   },
   {
-    "name": "«ŒÀŒ“¿ﬂ_ÃŒ“€√¿",
+    "name": "–ó–û–õ–û–¢–ê–Ø_–ú–û–¢–´–ì–ê",
     "itemStack": {
       "id": "minecraft:golden_hoe",
       "data": 0
     }
   },
   {
-    "name": " ŒÃœ¿—",
+    "name": "–ö–û–ú–ü–ê–°",
     "itemStack": {
       "id": "minecraft:compass",
       "data": 0
     }
   },
   {
-    "name": "”ƒŒ◊ ¿",
+    "name": "–£–î–û–ß–ö–ê",
     "itemStack": {
       "id": "minecraft:fishing_rod",
       "data": 0
     }
   },
   {
-    "name": "◊¿—€",
+    "name": "–ß–ê–°–´",
     "itemStack": {
       "id": "minecraft:clock",
       "data": 0
     }
   },
   {
-    "name": "ÕŒ∆Õ»÷€",
+    "name": "–ù–û–ñ–ù–ò–¶–´",
     "itemStack": {
       "id": "minecraft:shears",
       "data": 0
     }
   },
   {
-    "name": "œŒ¬ŒƒŒ ",
+    "name": "–ü–û–í–û–î–û–ö",
     "itemStack": {
       "id": "minecraft:lead",
       "data": 0
     }
   },
   {
-    "name": "¡»– ¿",
+    "name": "–ë–ò–†–ö–ê",
     "itemStack": {
       "id": "minecraft:name_tag",
       "data": 0
     }
   },
   {
-    "name": " Õ»√¿_›‘‘≈ “»¬_5",
+    "name": "–ö–ù–ò–ì–ê_–≠–§–§–ï–ö–¢–ò–í_5",
     "itemStack": {
       "id": "minecraft:enchanted_book",
       "data": 0,
@@ -5706,7 +5706,7 @@
     }
   },
   {
-    "name": " Õ»√¿_ÿ®À _ ¿—¿Õ",
+    "name": "–ö–ù–ò–ì–ê_–®–Å–õ–ö_–ö–ê–°–ê–ù",
     "itemStack": {
       "id": "minecraft:enchanted_book",
       "data": 0,
@@ -5778,7 +5778,7 @@
     }
   },
   {
-    "name": " Õ»√¿_œ–Œ◊ÕŒ—“_3",
+    "name": "–ö–ù–ò–ì–ê_–ü–†–û–ß–ù–û–°–¢_3",
     "itemStack": {
       "id": "minecraft:enchanted_book",
       "data": 0,
@@ -5853,7 +5853,7 @@
     }
   },
   {
-    "name": " Õ»√¿_”ƒ¿◊¿_3",
+    "name": "–ö–ù–ò–ì–ê_–£–î–ê–ß–ê_3",
     "itemStack": {
       "id": "minecraft:enchanted_book",
       "data": 0,
@@ -5928,7 +5928,7 @@
     }
   },
   {
-    "name": " Õ»√¿_¬≈«_–€¡_3",
+    "name": "–ö–ù–ò–ì–ê_–í–ï–ó_–†–´–ë_3",
     "itemStack": {
       "id": "minecraft:enchanted_book",
       "data": 0,
@@ -6003,7 +6003,7 @@
     }
   },
   {
-    "name": " Õ»√¿_œ–»Ã¿Õ ¿_3",
+    "name": "–ö–ù–ò–ì–ê_–ü–†–ò–ú–ê–ù–ö–ê_3",
     "itemStack": {
       "id": "minecraft:enchanted_book",
       "data": 0,
@@ -6078,7 +6078,7 @@
     }
   },
   {
-    "name": " Õ»√¿_œŒ◊»Õ ¿",
+    "name": "–ö–ù–ò–ì–ê_–ü–û–ß–ò–ù–ö–ê",
     "itemStack": {
       "id": "minecraft:enchanted_book",
       "data": 0,
@@ -6150,203 +6150,203 @@
     }
   },
   {
-    "name": "À” ",
+    "name": "–õ–£–ö",
     "itemStack": {
       "id": "minecraft:bow",
       "data": 0
     }
   },
   {
-    "name": "—“–≈À¿",
+    "name": "–°–¢–†–ï–õ–ê",
     "itemStack": {
       "id": "minecraft:arrow",
       "data": 0
     }
   },
   {
-    "name": "∆≈À≈«Õ€…_Ã≈◊",
+    "name": "–ñ–ï–õ–ï–ó–ù–´–ô_–ú–ï–ß",
     "itemStack": {
       "id": "minecraft:iron_sword",
       "data": 0
     }
   },
   {
-    "name": "ƒ≈–≈¬ﬂÕÕ€…_Ã≈◊",
+    "name": "–î–ï–†–ï–í–Ø–ù–ù–´–ô_–ú–ï–ß",
     "itemStack": {
       "id": "minecraft:wooden_sword",
       "data": 0
     }
   },
   {
-    "name": " ¿Ã≈ÕÕ€…_Ã≈◊",
+    "name": "–ö–ê–ú–ï–ù–ù–´–ô_–ú–ï–ß",
     "itemStack": {
       "id": "minecraft:stone_sword",
       "data": 0
     }
   },
   {
-    "name": "¿ÀÃ¿«Õ€…_Ã≈◊",
+    "name": "–ê–õ–ú–ê–ó–ù–´–ô_–ú–ï–ß",
     "itemStack": {
       "id": "minecraft:diamond_sword",
       "data": 0
     }
   },
   {
-    "name": "«ŒÀŒ“Œ…_Ã≈◊",
+    "name": "–ó–û–õ–û–¢–û–ô_–ú–ï–ß",
     "itemStack": {
       "id": "minecraft:golden_sword",
       "data": 0
     }
   },
   {
-    "name": " Œ∆¿Õ€…_ÿÀ≈Ã",
+    "name": "–ö–û–ñ–ê–ù–´–ô_–®–õ–ï–ú",
     "itemStack": {
       "id": "minecraft:leather_helmet",
       "data": 0
     }
   },
   {
-    "name": " Œ∆¿Õ¿ﬂ_ ”–“ ¿",
+    "name": "–ö–û–ñ–ê–ù–ê–Ø_–ö–£–†–¢–ö–ê",
     "itemStack": {
       "id": "minecraft:leather_chestplate",
       "data": 0
     }
   },
   {
-    "name": " Œ∆¿Õ€≈_ÿ“¿Õ€",
+    "name": "–ö–û–ñ–ê–ù–´–ï_–®–¢–ê–ù–´",
     "itemStack": {
       "id": "minecraft:leather_leggings",
       "data": 0
     }
   },
   {
-    "name": " Œ∆¿Õ€≈_¡Œ“»Õ »",
+    "name": "–ö–û–ñ–ê–ù–´–ï_–ë–û–¢–ò–ù–ö–ò",
     "itemStack": {
       "id": "minecraft:leather_boots",
       "data": 0
     }
   },
   {
-    "name": " Œ…‘",
+    "name": "–ö–û–ô–§",
     "itemStack": {
       "id": "minecraft:chainmail_helmet",
       "data": 0
     }
   },
   {
-    "name": " ŒÀ‹◊”√¿",
+    "name": "–ö–û–õ–¨–ß–£–ì–ê",
     "itemStack": {
       "id": "minecraft:chainmail_chestplate",
       "data": 0
     }
   },
   {
-    "name": " ŒÀ‹◊”∆Õ_œŒÕŒ∆»",
+    "name": "–ö–û–õ–¨–ß–£–ñ–ù_–ü–û–ù–û–ñ–ò",
     "itemStack": {
       "id": "minecraft:chainmail_leggings",
       "data": 0
     }
   },
   {
-    "name": " ŒÀ‹◊”∆Õ_¡Œ“»Õ »",
+    "name": "–ö–û–õ–¨–ß–£–ñ–ù_–ë–û–¢–ò–ù–ö–ò",
     "itemStack": {
       "id": "minecraft:chainmail_boots",
       "data": 0
     }
   },
   {
-    "name": "∆≈À≈«Õ€…_ÿÀ≈Ã",
+    "name": "–ñ–ï–õ–ï–ó–ù–´–ô_–®–õ–ï–ú",
     "itemStack": {
       "id": "minecraft:iron_helmet",
       "data": 0
     }
   },
   {
-    "name": "∆≈À≈«Õ€…_Õ¿√–”ƒÕ",
+    "name": "–ñ–ï–õ–ï–ó–ù–´–ô_–ù–ê–ì–†–£–î–ù",
     "itemStack": {
       "id": "minecraft:iron_chestplate",
       "data": 0
     }
   },
   {
-    "name": "∆≈À≈«Õ€≈_œŒÕŒ∆»",
+    "name": "–ñ–ï–õ–ï–ó–ù–´–ï_–ü–û–ù–û–ñ–ò",
     "itemStack": {
       "id": "minecraft:iron_leggings",
       "data": 0
     }
   },
   {
-    "name": "∆≈À≈«Õ€≈_¡Œ“»Õ »",
+    "name": "–ñ–ï–õ–ï–ó–ù–´–ï_–ë–û–¢–ò–ù–ö–ò",
     "itemStack": {
       "id": "minecraft:iron_boots",
       "data": 0
     }
   },
   {
-    "name": "¿ÀÃ¿«Õ€…_ÿÀ≈Ã",
+    "name": "–ê–õ–ú–ê–ó–ù–´–ô_–®–õ–ï–ú",
     "itemStack": {
       "id": "minecraft:diamond_helmet",
       "data": 0
     }
   },
   {
-    "name": "¿ÀÃ¿«Õ€…_Õ¿√–”ƒÕ",
+    "name": "–ê–õ–ú–ê–ó–ù–´–ô_–ù–ê–ì–†–£–î–ù",
     "itemStack": {
       "id": "minecraft:diamond_chestplate",
       "data": 0
     }
   },
   {
-    "name": "¿ÀÃ¿«Õ€≈_œŒÕŒ∆»",
+    "name": "–ê–õ–ú–ê–ó–ù–´–ï_–ü–û–ù–û–ñ–ò",
     "itemStack": {
       "id": "minecraft:diamond_leggings",
       "data": 0
     }
   },
   {
-    "name": "¿ÀÃ¿«Õ€≈_¡Œ“»Õ »",
+    "name": "–ê–õ–ú–ê–ó–ù–´–ï_–ë–û–¢–ò–ù–ö–ò",
     "itemStack": {
       "id": "minecraft:diamond_boots",
       "data": 0
     }
   },
   {
-    "name": "«ŒÀŒ“Œ…_ÿÀ≈Ã",
+    "name": "–ó–û–õ–û–¢–û–ô_–®–õ–ï–ú",
     "itemStack": {
       "id": "minecraft:golden_helmet",
       "data": 0
     }
   },
   {
-    "name": "«ŒÀŒ“Œ…_Õ¿√–”ƒÕ",
+    "name": "–ó–û–õ–û–¢–û–ô_–ù–ê–ì–†–£–î–ù",
     "itemStack": {
       "id": "minecraft:golden_chestplate",
       "data": 0
     }
   },
   {
-    "name": "«ŒÀŒ“€≈_œŒÕŒ∆»",
+    "name": "–ó–û–õ–û–¢–´–ï_–ü–û–ù–û–ñ–ò",
     "itemStack": {
       "id": "minecraft:golden_leggings",
       "data": 0
     }
   },
   {
-    "name": "«ŒÀŒ“€≈_¡Œ“»Õ »",
+    "name": "–ó–û–õ–û–¢–´–ï_–ë–û–¢–ò–ù–ö–ò",
     "itemStack": {
       "id": "minecraft:golden_boots",
       "data": 0
     }
   },
   {
-    "name": "—œ≈ “–¿À‹_—“–≈À¿",
+    "name": "–°–ü–ï–ö–¢–†–ê–õ–¨_–°–¢–†–ï–õ–ê",
     "itemStack": {
       "id": "minecraft:spectral_arrow",
       "data": 0
     }
   },
   {
-    "name": "Œ¡–¿¡Œ“¿Õ_—“–≈À¿",
+    "name": "–û–ë–†–ê–ë–û–¢–ê–ù_–°–¢–†–ï–õ–ê",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -6405,7 +6405,7 @@
     }
   },
   {
-    "name": "¬«–€¬Õ¿ﬂ_—“–≈À¿",
+    "name": "–í–ó–†–´–í–ù–ê–Ø_–°–¢–†–ï–õ–ê",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -6464,7 +6464,7 @@
     }
   },
   {
-    "name": "—“–≈À_—_Ã”“Õ_«≈À",
+    "name": "–°–¢–†–ï–õ_–°_–ú–£–¢–ù_–ó–ï–õ",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -6525,7 +6525,7 @@
     }
   },
   {
-    "name": "—“–≈À_—_√”—“_«≈À",
+    "name": "–°–¢–†–ï–õ_–°_–ì–£–°–¢_–ó–ï–õ",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -6584,7 +6584,7 @@
     }
   },
   {
-    "name": "—“–≈À_—_«¿”–_«≈À",
+    "name": "–°–¢–†–ï–õ_–°_–ó–ê–£–†_–ó–ï–õ",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -6645,7 +6645,7 @@
     }
   },
   {
-    "name": "—“–_ÕŒ◊Õ_«–_0:22",
+    "name": "–°–¢–†_–ù–û–ß–ù_–ó–†_0:22",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -6709,7 +6709,7 @@
     }
   },
   {
-    "name": "—“–_ÕŒ◊Õ_«–_1:00",
+    "name": "–°–¢–†_–ù–û–ß–ù_–ó–†_1:00",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -6778,7 +6778,7 @@
     }
   },
   {
-    "name": "—“–_Õ≈¬»ƒ»Ã_0:22",
+    "name": "–°–¢–†_–ù–ï–í–ò–î–ò–ú_0:22",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -6844,7 +6844,7 @@
     }
   },
   {
-    "name": "—“–_Õ≈¬»ƒ»Ã_1:00",
+    "name": "–°–¢–†_–ù–ï–í–ò–î–ò–ú_1:00",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -6915,7 +6915,7 @@
     }
   },
   {
-    "name": "—“–_œ–€√”◊_0:22",
+    "name": "–°–¢–†_–ü–†–´–ì–£–ß_0:22",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -6976,7 +6976,7 @@
     }
   },
   {
-    "name": "—“–_œ–€√”◊_1:00",
+    "name": "–°–¢–†_–ü–†–´–ì–£–ß_1:00",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -7042,7 +7042,7 @@
     }
   },
   {
-    "name": "—“–_œ–€√_II_0:11",
+    "name": "–°–¢–†_–ü–†–´–ì_II_0:11",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -7110,7 +7110,7 @@
     }
   },
   {
-    "name": "—“–_Œ√Õ≈—“_0:22",
+    "name": "–°–¢–†_–û–ì–ù–ï–°–¢_0:22",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -7179,7 +7179,7 @@
     }
   },
   {
-    "name": "—“–_Œ√Õ≈—“_1:00",
+    "name": "–°–¢–†_–û–ì–ù–ï–°–¢_1:00",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -7253,7 +7253,7 @@
     }
   },
   {
-    "name": "—“–_—“–≈Ã»“_0:22",
+    "name": "–°–¢–†_–°–¢–†–ï–ú–ò–¢_0:22",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -7316,7 +7316,7 @@
     }
   },
   {
-    "name": "—“–_—“–≈Ã»“_1:00",
+    "name": "–°–¢–†_–°–¢–†–ï–ú–ò–¢_1:00",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -7384,7 +7384,7 @@
     }
   },
   {
-    "name": "—“–_—“–≈Ã_2_0:11",
+    "name": "–°–¢–†_–°–¢–†–ï–ú_2_0:11",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -7454,7 +7454,7 @@
     }
   },
   {
-    "name": "—“–_«¿Ã≈ƒÀ_0:11",
+    "name": "–°–¢–†_–ó–ê–ú–ï–î–õ_0:11",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -7516,7 +7516,7 @@
     }
   },
   {
-    "name": "—“–_«¿Ã≈ƒÀ_0:30",
+    "name": "–°–¢–†_–ó–ê–ú–ï–î–õ_0:30",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -7583,7 +7583,7 @@
     }
   },
   {
-    "name": "—“–_œŒƒ_ƒ€’_0:22",
+    "name": "–°–¢–†_–ü–û–î_–î–´–•_0:22",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -7652,7 +7652,7 @@
     }
   },
   {
-    "name": "—“–_œŒƒ_ƒ€’_1:00",
+    "name": "–°–¢–†_–ü–û–î_–î–´–•_1:00",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -7726,7 +7726,7 @@
     }
   },
   {
-    "name": "—“–_»—÷≈À≈Õ»ﬂ",
+    "name": "–°–¢–†_–ò–°–¶–ï–õ–ï–ù–ò–Ø",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -7787,7 +7787,7 @@
     }
   },
   {
-    "name": "—“–_»—÷≈À≈Õ»ﬂ_2",
+    "name": "–°–¢–†_–ò–°–¶–ï–õ–ï–ù–ò–Ø_2",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -7855,7 +7855,7 @@
     }
   },
   {
-    "name": "—“–_ÃŒÃ_”–ŒÕ",
+    "name": "–°–¢–†_–ú–û–ú_–£–†–û–ù",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -7914,7 +7914,7 @@
     }
   },
   {
-    "name": "—“–_ÃŒÃ_”–ŒÕ_2",
+    "name": "–°–¢–†_–ú–û–ú_–£–†–û–ù_2",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -7981,7 +7981,7 @@
     }
   },
   {
-    "name": "—“–_Œ“–¿¬_0:05",
+    "name": "–°–¢–†_–û–¢–†–ê–í_0:05",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -8040,7 +8040,7 @@
     }
   },
   {
-    "name": "—“–_Œ“–¿¬_0:11",
+    "name": "–°–¢–†_–û–¢–†–ê–í_0:11",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -8104,7 +8104,7 @@
     }
   },
   {
-    "name": "—“–_Œ“–¿¬_2_0:02",
+    "name": "–°–¢–†_–û–¢–†–ê–í_2_0:02",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -8170,7 +8170,7 @@
     }
   },
   {
-    "name": "—“–_–≈√≈Õ_0:05",
+    "name": "–°–¢–†_–†–ï–ì–ï–ù_0:05",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -8233,7 +8233,7 @@
     }
   },
   {
-    "name": "—“–_–≈√≈Õ_0:11",
+    "name": "–°–¢–†_–†–ï–ì–ï–ù_0:11",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -8301,7 +8301,7 @@
     }
   },
   {
-    "name": "—“–_–≈√≈Õ_2_0:02",
+    "name": "–°–¢–†_–†–ï–ì–ï–ù_2_0:02",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -8371,7 +8371,7 @@
     }
   },
   {
-    "name": "—“–≈À¿_—»À€_0:22",
+    "name": "–°–¢–†–ï–õ–ê_–°–ò–õ–´_0:22",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -8433,7 +8433,7 @@
     }
   },
   {
-    "name": "—“–≈À¿_—»À€_1:00",
+    "name": "–°–¢–†–ï–õ–ê_–°–ò–õ–´_1:00",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -8500,7 +8500,7 @@
     }
   },
   {
-    "name": "—“–_—»À€_2_0:11",
+    "name": "–°–¢–†_–°–ò–õ–´_2_0:11",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -8567,7 +8567,7 @@
     }
   },
   {
-    "name": "—“–≈À¿_—À¿¡_0:11",
+    "name": "–°–¢–†–ï–õ–ê_–°–õ–ê–ë_0:11",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -8629,7 +8629,7 @@
     }
   },
   {
-    "name": "—“–≈À¿_—À¿¡_0:30",
+    "name": "–°–¢–†–ï–õ–ê_–°–õ–ê–ë_0:30",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -8696,7 +8696,7 @@
     }
   },
   {
-    "name": "—“–_”ƒ¿◊»_0:37",
+    "name": "–°–¢–†_–£–î–ê–ß–ò_0:37",
     "itemStack": {
       "id": "minecraft:tipped_arrow",
       "data": 0,
@@ -8754,14 +8754,14 @@
     }
   },
   {
-    "name": "Ÿ»“",
+    "name": "–©–ò–¢",
     "itemStack": {
       "id": "minecraft:shield",
       "data": 0
     }
   },
   {
-    "name": " Õ»√¿_«¿Ÿ»“¿_4",
+    "name": "–ö–ù–ò–ì–ê_–ó–ê–©–ò–¢–ê_4",
     "itemStack": {
       "id": "minecraft:enchanted_book",
       "data": 0,
@@ -8835,7 +8835,7 @@
     }
   },
   {
-    "name": " Õ»√¿_Œ√Õ≈”œŒ–_4",
+    "name": "–ö–ù–ò–ì–ê_–û–ì–ù–ï–£–ü–û–†_4",
     "itemStack": {
       "id": "minecraft:enchanted_book",
       "data": 0,
@@ -8910,7 +8910,7 @@
     }
   },
   {
-    "name": " Õ»√¿_Õ≈¬≈—ŒÃ_4",
+    "name": "–ö–ù–ò–ì–ê_–ù–ï–í–ï–°–û–ú_4",
     "itemStack": {
       "id": "minecraft:enchanted_book",
       "data": 0,
@@ -8985,7 +8985,7 @@
     }
   },
   {
-    "name": " Õ»√¿_¬«–€¬Œ”—_4",
+    "name": "–ö–ù–ò–ì–ê_–í–ó–†–´–í–û–£–°_4",
     "itemStack": {
       "id": "minecraft:enchanted_book",
       "data": 0,
@@ -9060,7 +9060,7 @@
     }
   },
   {
-    "name": " Õ_«¿Ÿ_Œ“_—Õ¿–_4",
+    "name": "–ö–ù_–ó–ê–©_–û–¢_–°–ù–ê–†_4",
     "itemStack": {
       "id": "minecraft:enchanted_book",
       "data": 0,
@@ -9135,7 +9135,7 @@
     }
   },
   {
-    "name": " Õ»√¿_œŒƒ¬_ƒ€’_3",
+    "name": "–ö–ù–ò–ì–ê_–ü–û–î–í_–î–´–•_3",
     "itemStack": {
       "id": "minecraft:enchanted_book",
       "data": 0,
@@ -9210,7 +9210,7 @@
     }
   },
   {
-    "name": " Õ»√¿_œŒƒ¬ŒƒÕ» ",
+    "name": "–ö–ù–ò–ì–ê_–ü–û–î–í–û–î–ù–ò–ö",
     "itemStack": {
       "id": "minecraft:enchanted_book",
       "data": 0,
@@ -9282,7 +9282,7 @@
     }
   },
   {
-    "name": " Õ»√¿_ÿ»œ€_3",
+    "name": "–ö–ù–ò–ì–ê_–®–ò–ü–´_3",
     "itemStack": {
       "id": "minecraft:enchanted_book",
       "data": 0,
@@ -9357,7 +9357,7 @@
     }
   },
   {
-    "name": " Õ»√¿_œŒƒ¬_’Œƒ_3",
+    "name": "–ö–ù–ò–ì–ê_–ü–û–î–í_–•–û–î_3",
     "itemStack": {
       "id": "minecraft:enchanted_book",
       "data": 0,
@@ -9432,7 +9432,7 @@
     }
   },
   {
-    "name": " Õ»√¿_À≈ƒŒ’Œƒ_2",
+    "name": "–ö–ù–ò–ì–ê_–õ–ï–î–û–•–û–î_2",
     "itemStack": {
       "id": "minecraft:enchanted_book",
       "data": 0,
@@ -9506,7 +9506,7 @@
     }
   },
   {
-    "name": " Õ»√¿_Œ—“–Œ“¿_5",
+    "name": "–ö–ù–ò–ì–ê_–û–°–¢–†–û–¢–ê_5",
     "itemStack": {
       "id": "minecraft:enchanted_book",
       "data": 0,
@@ -9581,7 +9581,7 @@
     }
   },
   {
-    "name": " Õ»√¿_Õ≈¡_ ¿–¿_5",
+    "name": "–ö–ù–ò–ì–ê_–ù–ï–ë_–ö–ê–†–ê_5",
     "itemStack": {
       "id": "minecraft:enchanted_book",
       "data": 0,
@@ -9656,7 +9656,7 @@
     }
   },
   {
-    "name": " Õ»√¿_√»¡_Õ¿—_5",
+    "name": "–ö–ù–ò–ì–ê_–ì–ò–ë_–ù–ê–°_5",
     "itemStack": {
       "id": "minecraft:enchanted_book",
       "data": 0,
@@ -9731,7 +9731,7 @@
     }
   },
   {
-    "name": " Õ»√¿_Œ“ƒ¿◊¿_2",
+    "name": "–ö–ù–ò–ì–ê_–û–¢–î–ê–ß–ê_2",
     "itemStack": {
       "id": "minecraft:enchanted_book",
       "data": 0,
@@ -9806,7 +9806,7 @@
     }
   },
   {
-    "name": " Õ»√¿_«¿√_Œ√Õ_2",
+    "name": "–ö–ù–ò–ì–ê_–ó–ê–ì_–û–ì–ù_2",
     "itemStack": {
       "id": "minecraft:enchanted_book",
       "data": 0,
@@ -9881,7 +9881,7 @@
     }
   },
   {
-    "name": " Õ»√¿_ƒŒ¡€◊¿_3",
+    "name": "–ö–ù–ò–ì–ê_–î–û–ë–´–ß–ê_3",
     "itemStack": {
       "id": "minecraft:enchanted_book",
       "data": 0,
@@ -9956,7 +9956,7 @@
     }
   },
   {
-    "name": " Õ»√¿_—»À¿_5",
+    "name": "–ö–ù–ò–ì–ê_–°–ò–õ–ê_5",
     "itemStack": {
       "id": "minecraft:enchanted_book",
       "data": 0,
@@ -10031,7 +10031,7 @@
     }
   },
   {
-    "name": " Õ»√¿_Œ“ »ƒ€¬_2",
+    "name": "–ö–ù–ò–ì–ê_–û–¢–ö–ò–î–´–í_2",
     "itemStack": {
       "id": "minecraft:enchanted_book",
       "data": 0,
@@ -10106,7 +10106,7 @@
     }
   },
   {
-    "name": " Õ»√¿_√Œ–_—“–≈À¿",
+    "name": "–ö–ù–ò–ì–ê_–ì–û–†_–°–¢–†–ï–õ–ê",
     "itemStack": {
       "id": "minecraft:enchanted_book",
       "data": 0,
@@ -10178,7 +10178,7 @@
     }
   },
   {
-    "name": " Õ»√¿_¡≈— ŒÕ≈◊Õ",
+    "name": "–ö–ù–ò–ì–ê_–ë–ï–°–ö–û–ù–ï–ß–ù",
     "itemStack": {
       "id": "minecraft:enchanted_book",
       "data": 0,
@@ -10250,14 +10250,14 @@
     }
   },
   {
-    "name": "—À≈«¿_√¿—“¿",
+    "name": "–°–õ–ï–ó–ê_–ì–ê–°–¢–ê",
     "itemStack": {
       "id": "minecraft:ghast_tear",
       "data": 0
     }
   },
   {
-    "name": "Õ≈—Œ«ƒ¿¬_«≈À‹≈",
+    "name": "–ù–ï–°–û–ó–î–ê–í_–ó–ï–õ–¨–ï",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -10316,7 +10316,7 @@
     }
   },
   {
-    "name": "œ”«€–® _¬Œƒ€",
+    "name": "–ü–£–ó–´–†–Å–ö_–í–û–î–´",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -10375,7 +10375,7 @@
     }
   },
   {
-    "name": "«¿”–ﬂƒÕŒ≈_«≈À‹≈",
+    "name": "–ó–ê–£–†–Ø–î–ù–û–ï_–ó–ï–õ–¨–ï",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -10436,7 +10436,7 @@
     }
   },
   {
-    "name": "√”—“Œ≈_«≈À‹≈",
+    "name": "–ì–£–°–¢–û–ï_–ó–ï–õ–¨–ï",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -10495,7 +10495,7 @@
     }
   },
   {
-    "name": "Ã”“ÕŒ≈_«≈À‹≈",
+    "name": "–ú–£–¢–ù–û–ï_–ó–ï–õ–¨–ï",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -10556,7 +10556,7 @@
     }
   },
   {
-    "name": "«≈À_ÕŒ◊Õ_«–_3:00",
+    "name": "–ó–ï–õ_–ù–û–ß–ù_–ó–†_3:00",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -10620,7 +10620,7 @@
     }
   },
   {
-    "name": "«≈À_ÕŒ◊Õ_«–_8:00",
+    "name": "–ó–ï–õ_–ù–û–ß–ù_–ó–†_8:00",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -10689,7 +10689,7 @@
     }
   },
   {
-    "name": "«≈À_Õ≈¬»ƒ»Ã_3:00",
+    "name": "–ó–ï–õ_–ù–ï–í–ò–î–ò–ú_3:00",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -10755,7 +10755,7 @@
     }
   },
   {
-    "name": "«≈À_Õ≈¬»ƒ»Ã_8:00",
+    "name": "–ó–ï–õ_–ù–ï–í–ò–î–ò–ú_8:00",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -10826,7 +10826,7 @@
     }
   },
   {
-    "name": "«≈À_œ–€√”◊_3:00",
+    "name": "–ó–ï–õ_–ü–†–´–ì–£–ß_3:00",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -10887,7 +10887,7 @@
     }
   },
   {
-    "name": "«≈À_œ–€√”◊_8:00",
+    "name": "–ó–ï–õ_–ü–†–´–ì–£–ß_8:00",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -10953,7 +10953,7 @@
     }
   },
   {
-    "name": "«≈À_œ–€√_2_1:30",
+    "name": "–ó–ï–õ_–ü–†–´–ì_2_1:30",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -11021,7 +11021,7 @@
     }
   },
   {
-    "name": "«≈À_Œ√Õ≈—“_3:00",
+    "name": "–ó–ï–õ_–û–ì–ù–ï–°–¢_3:00",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -11090,7 +11090,7 @@
     }
   },
   {
-    "name": "«≈À_Œ√Õ≈—“_8:00",
+    "name": "–ó–ï–õ_–û–ì–ù–ï–°–¢_8:00",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -11164,7 +11164,7 @@
     }
   },
   {
-    "name": "«≈À_— Œ–Œ—“_3:00",
+    "name": "–ó–ï–õ_–°–ö–û–†–û–°–¢_3:00",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -11227,7 +11227,7 @@
     }
   },
   {
-    "name": "«≈À_— Œ–Œ—“_8:00",
+    "name": "–ó–ï–õ_–°–ö–û–†–û–°–¢_8:00",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -11295,7 +11295,7 @@
     }
   },
   {
-    "name": "«≈À_— Œ–_2_1:30",
+    "name": "–ó–ï–õ_–°–ö–û–†_2_1:30",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -11365,7 +11365,7 @@
     }
   },
   {
-    "name": "«≈À_«¿Ã≈ƒÀ_1:30",
+    "name": "–ó–ï–õ_–ó–ê–ú–ï–î–õ_1:30",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -11427,7 +11427,7 @@
     }
   },
   {
-    "name": "«≈À_«¿Ã≈ƒÀ_4:00",
+    "name": "–ó–ï–õ_–ó–ê–ú–ï–î–õ_4:00",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -11494,7 +11494,7 @@
     }
   },
   {
-    "name": "«≈À_œŒƒ_ƒ€’_3:00",
+    "name": "–ó–ï–õ_–ü–û–î_–î–´–•_3:00",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -11563,7 +11563,7 @@
     }
   },
   {
-    "name": "«≈À_œŒƒ_ƒ€’_8:00",
+    "name": "–ó–ï–õ_–ü–û–î_–î–´–•_8:00",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -11637,7 +11637,7 @@
     }
   },
   {
-    "name": "«≈À_»—÷≈À≈Õ»ﬂ",
+    "name": "–ó–ï–õ_–ò–°–¶–ï–õ–ï–ù–ò–Ø",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -11698,7 +11698,7 @@
     }
   },
   {
-    "name": "«≈À_»—÷≈À≈Õ»ﬂ_2",
+    "name": "–ó–ï–õ_–ò–°–¶–ï–õ–ï–ù–ò–Ø_2",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -11766,7 +11766,7 @@
     }
   },
   {
-    "name": "«≈À_ÃŒÃ_”–ŒÕ¿",
+    "name": "–ó–ï–õ_–ú–û–ú_–£–†–û–ù–ê",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -11825,7 +11825,7 @@
     }
   },
   {
-    "name": "«≈À_ÃŒÃ_”–ŒÕ¿_2",
+    "name": "–ó–ï–õ_–ú–û–ú_–£–†–û–ù–ê_2",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -11892,7 +11892,7 @@
     }
   },
   {
-    "name": "«≈À_Œ“–¿¬À_0:45",
+    "name": "–ó–ï–õ_–û–¢–†–ê–í–õ_0:45",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -11951,7 +11951,7 @@
     }
   },
   {
-    "name": "«≈À_Œ“–¿¬À_1:30",
+    "name": "–ó–ï–õ_–û–¢–†–ê–í–õ_1:30",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -12015,7 +12015,7 @@
     }
   },
   {
-    "name": "«≈À_Œ“–¿¬_2_0:21",
+    "name": "–ó–ï–õ_–û–¢–†–ê–í_2_0:21",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -12081,7 +12081,7 @@
     }
   },
   {
-    "name": "«≈À_–≈√≈Õ_0:45",
+    "name": "–ó–ï–õ_–†–ï–ì–ï–ù_0:45",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -12144,7 +12144,7 @@
     }
   },
   {
-    "name": "«≈À_–≈√≈Õ_1:30",
+    "name": "–ó–ï–õ_–†–ï–ì–ï–ù_1:30",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -12212,7 +12212,7 @@
     }
   },
   {
-    "name": "«≈À_–≈√≈Õ_2_0:22",
+    "name": "–ó–ï–õ_–†–ï–ì–ï–ù_2_0:22",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -12282,7 +12282,7 @@
     }
   },
   {
-    "name": "«≈À_—»À€_3:00",
+    "name": "–ó–ï–õ_–°–ò–õ–´_3:00",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -12344,7 +12344,7 @@
     }
   },
   {
-    "name": "«≈À_—»À€_8:00",
+    "name": "–ó–ï–õ_–°–ò–õ–´_8:00",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -12411,7 +12411,7 @@
     }
   },
   {
-    "name": "«≈À_—»À€_2_1:30",
+    "name": "–ó–ï–õ_–°–ò–õ–´_2_1:30",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -12478,7 +12478,7 @@
     }
   },
   {
-    "name": "«≈À_—À¿¡_1:30",
+    "name": "–ó–ï–õ_–°–õ–ê–ë_1:30",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -12540,7 +12540,7 @@
     }
   },
   {
-    "name": "«≈À_—À¿¡_4:00",
+    "name": "–ó–ï–õ_–°–õ–ê–ë_4:00",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -12607,7 +12607,7 @@
     }
   },
   {
-    "name": "«≈À_”ƒ¿◊»_5:00",
+    "name": "–ó–ï–õ_–£–î–ê–ß–ò_5:00",
     "itemStack": {
       "id": "minecraft:potion",
       "data": 0,
@@ -12665,77 +12665,77 @@
     }
   },
   {
-    "name": "œ”«€–® ",
+    "name": "–ü–£–ó–´–†–Å–ö",
     "itemStack": {
       "id": "minecraft:glass_bottle",
       "data": 0
     }
   },
   {
-    "name": "Ã¿–»Õ_œ¿”◊_√À¿«",
+    "name": "–ú–ê–†–ò–ù_–ü–ê–£–ß_–ì–õ–ê–ó",
     "itemStack": {
       "id": "minecraft:fermented_spider_eye",
       "data": 0
     }
   },
   {
-    "name": "Œ√Õ≈ÕÕ€…_œŒ–ŒÿŒ ",
+    "name": "–û–ì–ù–ï–ù–ù–´–ô_–ü–û–†–û–®–û–ö",
     "itemStack": {
       "id": "minecraft:blaze_powder",
       "data": 0
     }
   },
   {
-    "name": "—√”—“Œ _Ã¿√Ã€",
+    "name": "–°–ì–£–°–¢–û–ö_–ú–ê–ì–ú–´",
     "itemStack": {
       "id": "minecraft:magma_cream",
       "data": 0
     }
   },
   {
-    "name": "«≈À‹≈¬¿– ¿",
+    "name": "–ó–ï–õ–¨–ï–í–ê–†–ö–ê",
     "itemStack": {
       "id": "minecraft:brewing_stand",
       "data": 0
     }
   },
   {
-    "name": " Œ“®À",
+    "name": "–ö–û–¢–Å–õ",
     "itemStack": {
       "id": "minecraft:cauldron",
       "data": 0
     }
   },
   {
-    "name": "—¬≈– ¿ﬁŸ»…_¿–¡”«",
+    "name": "–°–í–ï–†–ö–ê–Æ–©–ò–ô_–ê–†–ë–£–ó",
     "itemStack": {
       "id": "minecraft:speckled_melon",
       "data": 0
     }
   },
   {
-    "name": "«ŒÀŒ“¿ﬂ_ÃŒ– Œ¬‹",
+    "name": "–ó–û–õ–û–¢–ê–Ø_–ú–û–†–ö–û–í–¨",
     "itemStack": {
       "id": "minecraft:golden_carrot",
       "data": 0
     }
   },
   {
-    "name": " –ŒÀ»◊‹ﬂ_À¿œ ¿",
+    "name": "–ö–†–û–õ–ò–ß–¨–Ø_–õ–ê–ü–ö–ê",
     "itemStack": {
       "id": "minecraft:rabbit_foot",
       "data": 0
     }
   },
   {
-    "name": "ƒ–¿ ŒÕ‹≈_ƒ€’¿Õ»≈",
+    "name": "–î–†–ê–ö–û–ù–¨–ï_–î–´–•–ê–ù–ò–ï",
     "itemStack": {
       "id": "minecraft:dragon_breath",
       "data": 0
     }
   },
   {
-    "name": "¬«–_Õ≈—Œ«ƒ_«≈À‹≈",
+    "name": "–í–ó–†_–ù–ï–°–û–ó–î_–ó–ï–õ–¨–ï",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -12794,7 +12794,7 @@
     }
   },
   {
-    "name": "¬«–€¬Õ_œ”«_¬Œƒ€",
+    "name": "–í–ó–†–´–í–ù_–ü–£–ó_–í–û–î–´",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -12853,7 +12853,7 @@
     }
   },
   {
-    "name": "«¿”–_¬«–_«≈À‹≈",
+    "name": "–ó–ê–£–†_–í–ó–†_–ó–ï–õ–¨–ï",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -12914,7 +12914,7 @@
     }
   },
   {
-    "name": "√”—“_¬«–€¬_«≈À‹≈",
+    "name": "–ì–£–°–¢_–í–ó–†–´–í_–ó–ï–õ–¨–ï",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -12973,7 +12973,7 @@
     }
   },
   {
-    "name": "¬«–€¬_Ã”“Õ_«≈À‹≈",
+    "name": "–í–ó–†–´–í_–ú–£–¢–ù_–ó–ï–õ–¨–ï",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -13034,7 +13034,7 @@
     }
   },
   {
-    "name": "¬«–_«_ÕŒ◊_«_3:00",
+    "name": "–í–ó–†_–ó_–ù–û–ß_–ó_3:00",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -13098,7 +13098,7 @@
     }
   },
   {
-    "name": "¬«–_«_ÕŒ◊_«_8:00",
+    "name": "–í–ó–†_–ó_–ù–û–ß_–ó_8:00",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -13167,7 +13167,7 @@
     }
   },
   {
-    "name": "¬«–_«_Õ≈¬»ƒ_3:00",
+    "name": "–í–ó–†_–ó_–ù–ï–í–ò–î_3:00",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -13233,7 +13233,7 @@
     }
   },
   {
-    "name": "¬«–_«_Õ≈¬»ƒ_8:00",
+    "name": "–í–ó–†_–ó_–ù–ï–í–ò–î_8:00",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -13304,7 +13304,7 @@
     }
   },
   {
-    "name": "¬«–_«_œ–€√_3:00",
+    "name": "–í–ó–†_–ó_–ü–†–´–ì_3:00",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -13365,7 +13365,7 @@
     }
   },
   {
-    "name": "¬«–_«_œ–€√_8:00",
+    "name": "–í–ó–†_–ó_–ü–†–´–ì_8:00",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -13431,7 +13431,7 @@
     }
   },
   {
-    "name": "¬«–_«_œ–_2_1:30",
+    "name": "–í–ó–†_–ó_–ü–†_2_1:30",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -13499,7 +13499,7 @@
     }
   },
   {
-    "name": "¬«–_«_Œ√Õ≈—_3:00",
+    "name": "–í–ó–†_–ó_–û–ì–ù–ï–°_3:00",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -13568,7 +13568,7 @@
     }
   },
   {
-    "name": "¬«–_«_Œ√Õ≈—_8:00",
+    "name": "–í–ó–†_–ó_–û–ì–ù–ï–°_8:00",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -13642,7 +13642,7 @@
     }
   },
   {
-    "name": "¬«–_«_— Œ–_3:00",
+    "name": "–í–ó–†_–ó_–°–ö–û–†_3:00",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -13705,7 +13705,7 @@
     }
   },
   {
-    "name": "¬«–_«_— Œ–_8:00",
+    "name": "–í–ó–†_–ó_–°–ö–û–†_8:00",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -13773,7 +13773,7 @@
     }
   },
   {
-    "name": "¬«–_«_— Œ_2_1:30",
+    "name": "–í–ó–†_–ó_–°–ö–û_2_1:30",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -13843,7 +13843,7 @@
     }
   },
   {
-    "name": "¬«–_«_«¿Ã≈ƒ_1:30",
+    "name": "–í–ó–†_–ó_–ó–ê–ú–ï–î_1:30",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -13905,7 +13905,7 @@
     }
   },
   {
-    "name": "¬«–_«_«¿Ã≈ƒ_4:00",
+    "name": "–í–ó–†_–ó_–ó–ê–ú–ï–î_4:00",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -13972,7 +13972,7 @@
     }
   },
   {
-    "name": "¬«–_«_œŒƒ_ƒ_3:00",
+    "name": "–í–ó–†_–ó_–ü–û–î_–î_3:00",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -14041,7 +14041,7 @@
     }
   },
   {
-    "name": "¬«–_«_œŒƒ_ƒ_8:00",
+    "name": "–í–ó–†_–ó_–ü–û–î_–î_8:00",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -14115,7 +14115,7 @@
     }
   },
   {
-    "name": "¬«–_«_»—÷≈À≈Õ»ﬂ",
+    "name": "–í–ó–†_–ó_–ò–°–¶–ï–õ–ï–ù–ò–Ø",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -14176,7 +14176,7 @@
     }
   },
   {
-    "name": "¬«–_«_»—÷≈À≈Õ_2",
+    "name": "–í–ó–†_–ó_–ò–°–¶–ï–õ–ï–ù_2",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -14244,7 +14244,7 @@
     }
   },
   {
-    "name": "¬«–_«_ÃŒÃ_”–ŒÕ¿",
+    "name": "–í–ó–†_–ó_–ú–û–ú_–£–†–û–ù–ê",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -14303,7 +14303,7 @@
     }
   },
   {
-    "name": "¬«–_«_ÃŒÃ_”–ŒÕ_2",
+    "name": "–í–ó–†_–ó_–ú–û–ú_–£–†–û–ù_2",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -14370,7 +14370,7 @@
     }
   },
   {
-    "name": "¬«–_«_Œ“–¿¬_0:45",
+    "name": "–í–ó–†_–ó_–û–¢–†–ê–í_0:45",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -14429,7 +14429,7 @@
     }
   },
   {
-    "name": "¬«–_«_Œ“–¿¬_1:30",
+    "name": "–í–ó–†_–ó_–û–¢–†–ê–í_1:30",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -14493,7 +14493,7 @@
     }
   },
   {
-    "name": "¬«–_«_Œ“–_2_0:21",
+    "name": "–í–ó–†_–ó_–û–¢–†_2_0:21",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -14559,7 +14559,7 @@
     }
   },
   {
-    "name": "¬«–_«_–≈√≈Õ_0:45",
+    "name": "–í–ó–†_–ó_–†–ï–ì–ï–ù_0:45",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -14622,7 +14622,7 @@
     }
   },
   {
-    "name": "¬«–_«_–≈√≈Õ_1:30",
+    "name": "–í–ó–†_–ó_–†–ï–ì–ï–ù_1:30",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -14690,7 +14690,7 @@
     }
   },
   {
-    "name": "¬«–_«_–≈√_2_0:22",
+    "name": "–í–ó–†_–ó_–†–ï–ì_2_0:22",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -14760,7 +14760,7 @@
     }
   },
   {
-    "name": "¬«–_«_—»À€_3:00",
+    "name": "–í–ó–†_–ó_–°–ò–õ–´_3:00",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -14822,7 +14822,7 @@
     }
   },
   {
-    "name": "¬«–_«_—»À€_8:00",
+    "name": "–í–ó–†_–ó_–°–ò–õ–´_8:00",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -14889,7 +14889,7 @@
     }
   },
   {
-    "name": "¬«–_«_—»À_2_1:30",
+    "name": "–í–ó–†_–ó_–°–ò–õ_2_1:30",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -14956,7 +14956,7 @@
     }
   },
   {
-    "name": "¬«–_«_—À¿¡_1:30",
+    "name": "–í–ó–†_–ó_–°–õ–ê–ë_1:30",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -15018,7 +15018,7 @@
     }
   },
   {
-    "name": "¬«–_«_—À¿¡_4:00",
+    "name": "–í–ó–†_–ó_–°–õ–ê–ë_4:00",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -15085,7 +15085,7 @@
     }
   },
   {
-    "name": "¬«–_«≈À_”ƒ_5:00",
+    "name": "–í–ó–†_–ó–ï–õ_–£–î_5:00",
     "itemStack": {
       "id": "minecraft:splash_potion",
       "data": 0,
@@ -15143,7 +15143,7 @@
     }
   },
   {
-    "name": "¬«¬_Õ≈—Œ«ƒ_«≈À‹≈",
+    "name": "–í–ó–í_–ù–ï–°–û–ó–î_–ó–ï–õ–¨–ï",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -15202,7 +15202,7 @@
     }
   },
   {
-    "name": "œ”«_—_¬Œƒ_¬«¬≈—‹",
+    "name": "–ü–£–ó_–°_–í–û–î_–í–ó–í–ï–°–¨",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -15261,7 +15261,7 @@
     }
   },
   {
-    "name": "«¿”–_¬«¬≈ÿ_«≈À‹≈",
+    "name": "–ó–ê–£–†_–í–ó–í–ï–®_–ó–ï–õ–¨–ï",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -15322,7 +15322,7 @@
     }
   },
   {
-    "name": "√”—“_¬«¬≈ÿ_«≈À‹≈",
+    "name": "–ì–£–°–¢_–í–ó–í–ï–®_–ó–ï–õ–¨–ï",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -15381,7 +15381,7 @@
     }
   },
   {
-    "name": "¬«¬≈ÿ_Ã”“Õ_«≈À‹≈",
+    "name": "–í–ó–í–ï–®_–ú–£–¢–ù_–ó–ï–õ–¨–ï",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -15442,7 +15442,7 @@
     }
   },
   {
-    "name": "¬«¬_«_ÕŒ◊_«_0:45",
+    "name": "–í–ó–í_–ó_–ù–û–ß_–ó_0:45",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -15506,7 +15506,7 @@
     }
   },
   {
-    "name": "¬«¬_«_ÕŒ◊_«_2:00",
+    "name": "–í–ó–í_–ó_–ù–û–ß_–ó_2:00",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -15575,7 +15575,7 @@
     }
   },
   {
-    "name": "¬«¬_«_Õ≈¬»ƒ_0:45",
+    "name": "–í–ó–í_–ó_–ù–ï–í–ò–î_0:45",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -15641,7 +15641,7 @@
     }
   },
   {
-    "name": "¬«¬_«_Õ≈¬»ƒ_2:00",
+    "name": "–í–ó–í_–ó_–ù–ï–í–ò–î_2:00",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -15712,7 +15712,7 @@
     }
   },
   {
-    "name": "¬«¬_«_œ–€√_0:45",
+    "name": "–í–ó–í_–ó_–ü–†–´–ì_0:45",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -15773,7 +15773,7 @@
     }
   },
   {
-    "name": "¬«¬_«_œ–€√_2:00",
+    "name": "–í–ó–í_–ó_–ü–†–´–ì_2:00",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -15839,7 +15839,7 @@
     }
   },
   {
-    "name": "¬«¬_«_œ–_2_0:22",
+    "name": "–í–ó–í_–ó_–ü–†_2_0:22",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -15907,7 +15907,7 @@
     }
   },
   {
-    "name": "¬«¬_«_Œ√Õ≈—_0:45",
+    "name": "–í–ó–í_–ó_–û–ì–ù–ï–°_0:45",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -15976,7 +15976,7 @@
     }
   },
   {
-    "name": "¬«¬_«_Œ√Õ≈—_2:00",
+    "name": "–í–ó–í_–ó_–û–ì–ù–ï–°_2:00",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -16050,7 +16050,7 @@
     }
   },
   {
-    "name": "¬«¬_«_— Œ–_0:45",
+    "name": "–í–ó–í_–ó_–°–ö–û–†_0:45",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -16113,7 +16113,7 @@
     }
   },
   {
-    "name": "¬«¬_«_— Œ–_2:00",
+    "name": "–í–ó–í_–ó_–°–ö–û–†_2:00",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -16181,7 +16181,7 @@
     }
   },
   {
-    "name": "¬«¬_«_— Œ_2_0:22",
+    "name": "–í–ó–í_–ó_–°–ö–û_2_0:22",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -16251,7 +16251,7 @@
     }
   },
   {
-    "name": "¬«¬_«_«¿Ã≈ƒ_0:22",
+    "name": "–í–ó–í_–ó_–ó–ê–ú–ï–î_0:22",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -16313,7 +16313,7 @@
     }
   },
   {
-    "name": "¬«¬_«_«¿Ã≈ƒ_1:00",
+    "name": "–í–ó–í_–ó_–ó–ê–ú–ï–î_1:00",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -16380,7 +16380,7 @@
     }
   },
   {
-    "name": "¬«¬_«_œŒƒ_ƒ_0:45",
+    "name": "–í–ó–í_–ó_–ü–û–î_–î_0:45",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -16449,7 +16449,7 @@
     }
   },
   {
-    "name": "¬«¬_«_œŒƒ_ƒ_2:00",
+    "name": "–í–ó–í_–ó_–ü–û–î_–î_2:00",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -16523,7 +16523,7 @@
     }
   },
   {
-    "name": "¬«¬_«_»—÷≈À≈Õ»ﬂ",
+    "name": "–í–ó–í_–ó_–ò–°–¶–ï–õ–ï–ù–ò–Ø",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -16584,7 +16584,7 @@
     }
   },
   {
-    "name": "¬«¬_«_»—÷≈À≈Õ_2",
+    "name": "–í–ó–í_–ó_–ò–°–¶–ï–õ–ï–ù_2",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -16652,7 +16652,7 @@
     }
   },
   {
-    "name": "¬«¬_«_ÃŒÃ_”–ŒÕ¿",
+    "name": "–í–ó–í_–ó_–ú–û–ú_–£–†–û–ù–ê",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -16711,7 +16711,7 @@
     }
   },
   {
-    "name": "¬«¬_«_ÃŒÃ_”–ŒÕ_2",
+    "name": "–í–ó–í_–ó_–ú–û–ú_–£–†–û–ù_2",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -16778,7 +16778,7 @@
     }
   },
   {
-    "name": "¬«¬_«_Œ“–¿¬_0:11",
+    "name": "–í–ó–í_–ó_–û–¢–†–ê–í_0:11",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -16837,7 +16837,7 @@
     }
   },
   {
-    "name": "¬«¬_«_Œ“–¿¬_0:22",
+    "name": "–í–ó–í_–ó_–û–¢–†–ê–í_0:22",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -16901,7 +16901,7 @@
     }
   },
   {
-    "name": "¬«¬_«_Œ“–_2_0:05",
+    "name": "–í–ó–í_–ó_–û–¢–†_2_0:05",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -16967,7 +16967,7 @@
     }
   },
   {
-    "name": "¬«¬_«_–≈√≈Õ_0:11",
+    "name": "–í–ó–í_–ó_–†–ï–ì–ï–ù_0:11",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -17030,7 +17030,7 @@
     }
   },
   {
-    "name": "¬«¬_«_–≈√≈Õ_0:22",
+    "name": "–í–ó–í_–ó_–†–ï–ì–ï–ù_0:22",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -17098,7 +17098,7 @@
     }
   },
   {
-    "name": "¬«¬_«_–≈√_2_0:05",
+    "name": "–í–ó–í_–ó_–†–ï–ì_2_0:05",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -17168,7 +17168,7 @@
     }
   },
   {
-    "name": "¬«¬_«_—»À€_0:45",
+    "name": "–í–ó–í_–ó_–°–ò–õ–´_0:45",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -17230,7 +17230,7 @@
     }
   },
   {
-    "name": "¬«¬_«_—»À€_2:00",
+    "name": "–í–ó–í_–ó_–°–ò–õ–´_2:00",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -17297,7 +17297,7 @@
     }
   },
   {
-    "name": "¬«¬_«_—»À_2_0:22",
+    "name": "–í–ó–í_–ó_–°–ò–õ_2_0:22",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -17364,7 +17364,7 @@
     }
   },
   {
-    "name": "¬«¬_«_—À¿¡_0:22",
+    "name": "–í–ó–í_–ó_–°–õ–ê–ë_0:22",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -17426,7 +17426,7 @@
     }
   },
   {
-    "name": "¬«¬_«_—À¿¡_1:00",
+    "name": "–í–ó–í_–ó_–°–õ–ê–ë_1:00",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -17493,7 +17493,7 @@
     }
   },
   {
-    "name": "¬«¬_«≈À_”ƒ_1:15",
+    "name": "–í–ó–í_–ó–ï–õ_–£–î_1:15",
     "itemStack": {
       "id": "minecraft:lingering_potion",
       "data": 0,
@@ -17551,357 +17551,357 @@
     }
   },
   {
-    "name": "”√ŒÀ‹",
+    "name": "–£–ì–û–õ–¨",
     "itemStack": {
       "id": "minecraft:coal",
       "data": 0
     }
   },
   {
-    "name": "ƒ–≈¬≈—Õ€…_”√ŒÀ‹",
+    "name": "–î–†–ï–í–ï–°–ù–´–ô_–£–ì–û–õ–¨",
     "itemStack": {
       "id": "minecraft:coal",
       "data": 1
     }
   },
   {
-    "name": "¿ÀÃ¿«",
+    "name": "–ê–õ–ú–ê–ó",
     "itemStack": {
       "id": "minecraft:diamond",
       "data": 0
     }
   },
   {
-    "name": "∆≈À≈«Õ€…_—À»“Œ ",
+    "name": "–ñ–ï–õ–ï–ó–ù–´–ô_–°–õ–ò–¢–û–ö",
     "itemStack": {
       "id": "minecraft:iron_ingot",
       "data": 0
     }
   },
   {
-    "name": "«ŒÀŒ“Œ…_—À»“Œ ",
+    "name": "–ó–û–õ–û–¢–û–ô_–°–õ–ò–¢–û–ö",
     "itemStack": {
       "id": "minecraft:gold_ingot",
       "data": 0
     }
   },
   {
-    "name": "œ¿À ¿",
+    "name": "–ü–ê–õ–ö–ê",
     "itemStack": {
       "id": "minecraft:stick",
       "data": 0
     }
   },
   {
-    "name": "Ã»— ¿",
+    "name": "–ú–ò–°–ö–ê",
     "itemStack": {
       "id": "minecraft:bowl",
       "data": 0
     }
   },
   {
-    "name": "Õ»“‹",
+    "name": "–ù–ò–¢–¨",
     "itemStack": {
       "id": "minecraft:string",
       "data": 0
     }
   },
   {
-    "name": "œ≈–Œ",
+    "name": "–ü–ï–†–û",
     "itemStack": {
       "id": "minecraft:feather",
       "data": 0
     }
   },
   {
-    "name": "œŒ–Œ’",
+    "name": "–ü–û–†–û–•",
     "itemStack": {
       "id": "minecraft:gunpowder",
       "data": 0
     }
   },
   {
-    "name": "—≈Ã≈Õ¿_œÿ≈Õ»÷€",
+    "name": "–°–ï–ú–ï–ù–ê_–ü–®–ï–ù–ò–¶–´",
     "itemStack": {
       "id": "minecraft:wheat_seeds",
       "data": 0
     }
   },
   {
-    "name": "œÿ≈Õ»÷¿",
+    "name": "–ü–®–ï–ù–ò–¶–ê",
     "itemStack": {
       "id": "minecraft:wheat",
       "data": 0
     }
   },
   {
-    "name": " –≈Ã≈Õ‹",
+    "name": "–ö–†–ï–ú–ï–ù–¨",
     "itemStack": {
       "id": "minecraft:flint",
       "data": 0
     }
   },
   {
-    "name": " Œ∆¿",
+    "name": "–ö–û–ñ–ê",
     "itemStack": {
       "id": "minecraft:leather",
       "data": 0
     }
   },
   {
-    "name": " »–œ»◊",
+    "name": "–ö–ò–†–ü–ò–ß",
     "itemStack": {
       "id": "minecraft:brick",
       "data": 0
     }
   },
   {
-    "name": "√À»ÕﬂÕ€…_ÿ¿–» ",
+    "name": "–ì–õ–ò–ù–Ø–ù–´–ô_–®–ê–†–ò–ö",
     "itemStack": {
       "id": "minecraft:clay_ball",
       "data": 0
     }
   },
   {
-    "name": "—¿’¿–Õ_“–Œ—“Õ» ",
+    "name": "–°–ê–•–ê–†–ù_–¢–†–û–°–¢–ù–ò–ö",
     "itemStack": {
       "id": "minecraft:reeds",
       "data": 0
     }
   },
   {
-    "name": "ﬂ…÷Œ",
+    "name": "–Ø–ô–¶–û",
     "itemStack": {
       "id": "minecraft:egg",
       "data": 0
     }
   },
   {
-    "name": "—¬≈“Œœ€À‹",
+    "name": "–°–í–ï–¢–û–ü–´–õ–¨",
     "itemStack": {
       "id": "minecraft:glowstone_dust",
       "data": 0
     }
   },
   {
-    "name": "◊≈–Õ»À‹Õ€…_Ã≈ÿŒ ",
+    "name": "–ß–ï–†–ù–ò–õ–¨–ù–´–ô_–ú–ï–®–û–ö",
     "itemStack": {
       "id": "minecraft:dye",
       "data": 0
     }
   },
   {
-    "name": " –¿—Õ_ –¿—»“≈À‹",
+    "name": "–ö–†–ê–°–ù_–ö–†–ê–°–ò–¢–ï–õ–¨",
     "itemStack": {
       "id": "minecraft:dye",
       "data": 1
     }
   },
   {
-    "name": "«≈À≈Õ_ –¿—»“≈À‹",
+    "name": "–ó–ï–õ–ï–ù_–ö–†–ê–°–ò–¢–ï–õ–¨",
     "itemStack": {
       "id": "minecraft:dye",
       "data": 2
     }
   },
   {
-    "name": " ¿ ¿Œ_¡Œ¡€",
+    "name": "–ö–ê–ö–ê–û_–ë–û–ë–´",
     "itemStack": {
       "id": "minecraft:dye",
       "data": 3
     }
   },
   {
-    "name": "À¿«”–»“",
+    "name": "–õ–ê–ó–£–†–ò–¢",
     "itemStack": {
       "id": "minecraft:dye",
       "data": 4
     }
   },
   {
-    "name": "‘»ŒÀ≈“_ –¿—»“≈À‹",
+    "name": "–§–ò–û–õ–ï–¢_–ö–†–ê–°–ò–¢–ï–õ–¨",
     "itemStack": {
       "id": "minecraft:dye",
       "data": 5
     }
   },
   {
-    "name": "¡»–ﬁ«_ –¿—»“≈À‹",
+    "name": "–ë–ò–†–Æ–ó_–ö–†–ê–°–ò–¢–ï–õ–¨",
     "itemStack": {
       "id": "minecraft:dye",
       "data": 6
     }
   },
   {
-    "name": "—¬_—≈–_ –¿—»“≈À‹",
+    "name": "–°–í_–°–ï–†_–ö–†–ê–°–ò–¢–ï–õ–¨",
     "itemStack": {
       "id": "minecraft:dye",
       "data": 7
     }
   },
   {
-    "name": "—≈–€…_ –¿—»“≈À‹",
+    "name": "–°–ï–†–´–ô_–ö–†–ê–°–ò–¢–ï–õ–¨",
     "itemStack": {
       "id": "minecraft:dye",
       "data": 8
     }
   },
   {
-    "name": "–Œ«Œ¬_ –¿—»“≈À‹",
+    "name": "–†–û–ó–û–í_–ö–†–ê–°–ò–¢–ï–õ–¨",
     "itemStack": {
       "id": "minecraft:dye",
       "data": 9
     }
   },
   {
-    "name": "À¿…ÃŒ¬_ –¿—»“≈À‹",
+    "name": "–õ–ê–ô–ú–û–í_–ö–†–ê–°–ò–¢–ï–õ–¨",
     "itemStack": {
       "id": "minecraft:dye",
       "data": 10
     }
   },
   {
-    "name": "∆≈À“€…_ –¿—»“≈À‹",
+    "name": "–ñ–ï–õ–¢–´–ô_–ö–†–ê–°–ò–¢–ï–õ–¨",
     "itemStack": {
       "id": "minecraft:dye",
       "data": 11
     }
   },
   {
-    "name": "√ŒÀ”¡_ –¿—»“≈À‹",
+    "name": "–ì–û–õ–£–ë_–ö–†–ê–°–ò–¢–ï–õ–¨",
     "itemStack": {
       "id": "minecraft:dye",
       "data": 12
     }
   },
   {
-    "name": "œ”–œ”–Õ_ –¿—»“≈À",
+    "name": "–ü–£–†–ü–£–†–ù_–ö–†–ê–°–ò–¢–ï–õ",
     "itemStack": {
       "id": "minecraft:dye",
       "data": 13
     }
   },
   {
-    "name": "Œ–¿Õ∆_ –¿—»“≈À‹",
+    "name": "–û–†–ê–ù–ñ_–ö–†–ê–°–ò–¢–ï–õ–¨",
     "itemStack": {
       "id": "minecraft:dye",
       "data": 14
     }
   },
   {
-    "name": " Œ—“Õ¿ﬂ_Ã” ¿",
+    "name": "–ö–û–°–¢–ù–ê–Ø_–ú–£–ö–ê",
     "itemStack": {
       "id": "minecraft:dye",
       "data": 15
     }
   },
   {
-    "name": "—¿’¿–",
+    "name": "–°–ê–•–ê–†",
     "itemStack": {
       "id": "minecraft:sugar",
       "data": 0
     }
   },
   {
-    "name": "—≈Ã≈Õ¿_“€ ¬€",
+    "name": "–°–ï–ú–ï–ù–ê_–¢–´–ö–í–´",
     "itemStack": {
       "id": "minecraft:pumpkin_seeds",
       "data": 0
     }
   },
   {
-    "name": "—≈Ã≈Õ¿_¿–¡”«¿",
+    "name": "–°–ï–ú–ï–ù–ê_–ê–†–ë–£–ó–ê",
     "itemStack": {
       "id": "minecraft:melon_seeds",
       "data": 0
     }
   },
   {
-    "name": "—“≈–∆≈Õ‹_»‘–»“¿",
+    "name": "–°–¢–ï–†–ñ–ï–ù–¨_–ò–§–†–ò–¢–ê",
     "itemStack": {
       "id": "minecraft:blaze_rod",
       "data": 0
     }
   },
   {
-    "name": "«ŒÀŒ“Œ…_—¿ÃŒ–Œƒ",
+    "name": "–ó–û–õ–û–¢–û–ô_–°–ê–ú–û–†–û–î",
     "itemStack": {
       "id": "minecraft:gold_nugget",
       "data": 0
     }
   },
   {
-    "name": "¿ƒ— »…_Õ¿–Œ—“",
+    "name": "–ê–î–°–ö–ò–ô_–ù–ê–†–û–°–¢",
     "itemStack": {
       "id": "minecraft:nether_wart",
       "data": 0
     }
   },
   {
-    "name": "»«”Ã–”ƒ",
+    "name": "–ò–ó–£–ú–†–£–î",
     "itemStack": {
       "id": "minecraft:emerald",
       "data": 0
     }
   },
   {
-    "name": "«¬≈«ƒ¿_¿ƒ¿",
+    "name": "–ó–í–ï–ó–î–ê_–ê–î–ê",
     "itemStack": {
       "id": "minecraft:nether_star",
       "data": 0
     }
   },
   {
-    "name": "¿ƒ— »…_ »–œ»◊",
+    "name": "–ê–î–°–ö–ò–ô_–ö–ò–†–ü–ò–ß",
     "itemStack": {
       "id": "minecraft:netherbrick",
       "data": 0
     }
   },
   {
-    "name": " ¬¿–÷",
+    "name": "–ö–í–ê–†–¶",
     "itemStack": {
       "id": "minecraft:quartz",
       "data": 0
     }
   },
   {
-    "name": "Œ— ŒÀ_œ–»«Ã¿–»Õ¿",
+    "name": "–û–°–ö–û–õ_–ü–†–ò–ó–ú–ê–†–ò–ù–ê",
     "itemStack": {
       "id": "minecraft:prismarine_shard",
       "data": 0
     }
   },
   {
-    "name": " –»—“¿ÀÀ_œ–»«Ã¿–",
+    "name": "–ö–†–ò–°–¢–ê–õ–õ_–ü–†–ò–ó–ú–ê–†",
     "itemStack": {
       "id": "minecraft:prismarine_crystals",
       "data": 0
     }
   },
   {
-    "name": " –ŒÀ»◊‹ﬂ_ÿ ”– ¿",
+    "name": "–ö–†–û–õ–ò–ß–¨–Ø_–®–ö–£–†–ö–ê",
     "itemStack": {
       "id": "minecraft:rabbit_hide",
       "data": 0
     }
   },
   {
-    "name": "œÀŒƒ_ Œ–”—¿",
+    "name": "–ü–õ–û–î_–ö–û–†–£–°–ê",
     "itemStack": {
       "id": "minecraft:chorus_fruit",
       "data": 0
     }
   },
   {
-    "name": "œ–Œ∆_œÀŒƒ_ Œ–”—¿",
+    "name": "–ü–†–û–ñ_–ü–õ–û–î_–ö–û–†–£–°–ê",
     "itemStack": {
       "id": "minecraft:chorus_fruit_popped",
       "data": 0
     }
   },
   {
-    "name": "—≈Ã≈Õ¿_—¬® À€",
+    "name": "–°–ï–ú–ï–ù–ê_–°–í–Å–ö–õ–´",
     "itemStack": {
       "id": "minecraft:beetroot_seeds",
       "data": 0
