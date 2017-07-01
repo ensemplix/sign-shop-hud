@@ -3,6 +3,7 @@ package ru.ensemplix.shop.render.gui;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.GuiScreen;
 import net.minecraft.client.gui.ScaledResolution;
+import net.minecraft.client.renderer.RenderItem;
 import net.minecraft.item.ItemStack;
 import ru.ensemplix.shop.SignShop;
 import ru.ensemplix.shop.render.text.TextRenderer;
@@ -14,6 +15,7 @@ public class SignShopHudGuiRender extends GuiScreen {
 
     private static final TextRenderer textRenderer = new TextRenderer(20);
     private static final Minecraft minecraft = Minecraft.getMinecraft();
+    private static final RenderItem itemRender = minecraft.getRenderItem();
 
     private static final int BACKGROUND_TOP_PADDING = 60;
     private static final int BACKGROUND_WIDTH = 320;
@@ -65,6 +67,7 @@ public class SignShopHudGuiRender extends GuiScreen {
         glEnable(GL_LIGHTING);
         glEnable(GL_DEPTH_TEST);
         glScalef(itemScale, itemScale, 1.0F);
+
         itemRender.renderItemAndEffectIntoGUI(stack, (centerX - itemSize) / itemScale, 75 / scale / itemScale);
         itemRender.renderItemIntoGUI(stack, (centerX - itemSize) / itemScale, 75 / scale / itemScale);
         glDisable(GL_LIGHTING);

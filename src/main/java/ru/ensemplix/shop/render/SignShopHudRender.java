@@ -39,7 +39,7 @@ public class SignShopHudRender {
 
         RayTraceResult rayTraceResult = player.rayTrace(3, 0);
 
-        if(rayTraceResult == null || rayTraceResult.typeOfHit == BLOCK) {
+        if(rayTraceResult == null || rayTraceResult.typeOfHit != BLOCK) {
             return;
         }
 
