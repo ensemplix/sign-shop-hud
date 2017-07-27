@@ -1,8 +1,7 @@
 package ru.ensemplix.shop.parser;
 
+import net.minecraft.init.Bootstrap;
 import net.minecraft.item.Item;
-import net.minecraft.util.ResourceLocation;
-import net.minecraft.util.registry.RegistryNamespaced;
 import org.junit.Before;
 import org.junit.Test;
 import ru.ensemplix.shop.ShopItem;
@@ -11,22 +10,15 @@ import ru.ensemplix.shop.ShopItemStack;
 import ru.ensemplix.shop.SignShop;
 
 import static org.junit.Assert.*;
-import static org.mockito.ArgumentMatchers.any;
-import static org.mockito.Mockito.mock;
-import static org.mockito.Mockito.when;
 
 public class EnsemplixSignShopParserTest {
 
-    @SuppressWarnings("unchecked")
-    private final RegistryNamespaced<ResourceLocation, Item> itemRegistry = mock(RegistryNamespaced.class);
     private final ShopItemRegistry shopItemRegistry = new ShopItemRegistry();
-
-    private final EnsemplixSignShopParser parser = new EnsemplixSignShopParser(shopItemRegistry, itemRegistry);
+    private final EnsemplixSignShopParser parser = new EnsemplixSignShopParser(shopItemRegistry, Item.REGISTRY);
 
     @Before
     public void setUp() {
-        Item item = mock(Item.class);
-        when(itemRegistry.getObject(any(ResourceLocation.class))).thenReturn(item);
+        Bootstrap.register();
 
         ShopItemStack shopStack = new ShopItemStack("minecraft:stone", 0, null);
         ShopItem shopItem = new ShopItem("КАМЕНЬ", shopStack);

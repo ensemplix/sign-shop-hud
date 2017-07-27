@@ -12,7 +12,7 @@ import ru.ensemplix.shop.render.SignShopHudRender;
 
 import java.nio.file.Path;
 
-@Mod(modid = "signshophud", name = "SignShopHud", version = "1.0.1", acceptedMinecraftVersions = "[1.9]", acceptableRemoteVersions = "*")
+@Mod(modid = "signshophud", name = "SignShopHud", version = "1.0.2", acceptedMinecraftVersions = "[1.12]", acceptableRemoteVersions = "*")
 public class SignShopHudMod {
 
     private Path modPath;

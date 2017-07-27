@@ -8,14 +8,14 @@ buildscript {
     }
 
     dependencies {
-        classpath 'net.minecraftforge.gradle:ForgeGradle:2.2-SNAPSHOT'
+        classpath 'net.minecraftforge.gradle:ForgeGradle:2.3-SNAPSHOT'
     }
 }
 
 apply plugin: 'net.minecraftforge.gradle.forge'
 
 group = 'ru.ensemplix.shop'
-version = '1.0.1'
+version = '1.1'
 
 [compileJava, compileTestJava]*.options*.encoding = 'UTF-8'
 
@@ -36,11 +36,11 @@ configurations {
 }
 
 dependencies {
-    shade 'ru.ensemplix.shop:sign-shop-data-importer:1.0-SNAPSHOT'
+    shade 'ru.ensemplix.shop:sign-shop-data-importer:1.1'
     shade 'ru.ensemplix.shop:sign-shop-price-parser:1.0-SNAPSHOT'
-    shade 'ru.ensemplix.shop:sign-shop-data-core:1.0-SNAPSHOT'
+    shade 'ru.ensemplix.shop:sign-shop-data-core:1.1'
 
-    testCompile 'org.mockito:mockito-core:2.3.0'
+    testCompile 'org.mockito:mockito-core:2.8.47'
     testCompile 'junit:junit:4.12'
 }
 
@@ -55,8 +55,8 @@ jar {
 }
 
 minecraft {
-    version = '1.9-12.16.1.1907'
-    mappings = 'stable_24'
+    version = '1.12-14.21.1.2395'
+    mappings = 'snapshot_20170703'
     runDir = 'run'
 }
 

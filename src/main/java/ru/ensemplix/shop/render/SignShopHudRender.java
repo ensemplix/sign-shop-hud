@@ -34,8 +34,8 @@ public class SignShopHudRender {
             return;
         }
 
-        EntityPlayerSP player = minecraft.thePlayer;
-        WorldClient world = minecraft.theWorld;
+        EntityPlayerSP player = minecraft.player;
+        WorldClient world = minecraft.world;
 
         RayTraceResult rayTraceResult = player.rayTrace(3, 0);
 
