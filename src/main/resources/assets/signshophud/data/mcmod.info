@@ -2,7 +2,7 @@
   "modid": "sign-shop-hud",
   "name": "SignShopHud",
   "description": "Displays sign shop info",
-  "version": "1.0.1",
-  "mcversion": "1.9",
+  "version": "1.1",
+  "mcversion": "1.12",
   "authors": [ "Ensemplix" ],
 }]
