@@ -15,7 +15,7 @@ public class TextRenderer {
     private final StringCache stringCache;
 
     public TextRenderer(int fontSize) {
-        ResourceLocation resource = new ResourceLocation("signshophud", "fonts/MyriadProBold.otf");
+        ResourceLocation resource = new ResourceLocation("signshophud", "fonts/myriadprobold.otf");
         Font font;
 
         try {
