@@ -9,12 +9,14 @@ import ru.ensemplix.shop.render.SignShopHudRender;
 import ru.ensemplix.shop.importer.JsonShopItemImporter;
 import ru.ensemplix.shop.importer.ShopItemImporter;
 import ru.ensemplix.shop.importer.ZipShopItemImporter;
+import ru.ensemplix.shop.render.text.TextRenderer;
 
 import java.nio.file.Path;
 
 @Mod(modid = "signshophud", name = "SignShopHud", version = "1.0.1", acceptedMinecraftVersions = "[1.7.10]", acceptableRemoteVersions = "*")
 public class SignShopHudMod {
 
+    public static final TextRenderer textRenderer = new TextRenderer(20);
     private Path modPath;
 
     @EventHandler
