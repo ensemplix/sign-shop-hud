@@ -1,0 +1,226 @@
+[
+  {
+    "name": "БЕЛЫЙ_ЦЕМЕНТ",
+    "itemStack": {
+      "id": "one_point_twelve_concrete:concrete_powder_white",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОРАНЖЕВ_ЦЕМЕНТ",
+    "itemStack": {
+      "id": "one_point_twelve_concrete:concrete_powder_orange",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПУРПУРН_ЦЕМЕНТ",
+    "itemStack": {
+      "id": "one_point_twelve_concrete:concrete_powder_magenta",
+      "data": 0
+    }
+  },
+  {
+    "name": "ГОЛУБОЙ_ЦЕМЕНТ",
+    "itemStack": {
+      "id": "one_point_twelve_concrete:concrete_powder_lightBlue",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЖЕЛТЫЙ_ЦЕМЕНТ",
+    "itemStack": {
+      "id": "one_point_twelve_concrete:concrete_powder_yellow",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛАЙМОВЫЙ_ЦЕМЕНТ",
+    "itemStack": {
+      "id": "one_point_twelve_concrete:concrete_powder_lime",
+      "data": 0
+    }
+  },
+  {
+    "name": "РОЗОВЫЙ_ЦЕМЕНТ",
+    "itemStack": {
+      "id": "one_point_twelve_concrete:concrete_powder_pink",
+      "data": 0
+    }
+  },
+  {
+    "name": "СЕРЫЙ_ЦЕМЕНТ",
+    "itemStack": {
+      "id": "one_point_twelve_concrete:concrete_powder_gray",
+      "data": 0
+    }
+  },
+  {
+    "name": "СВ_СЕРЫЙ_ЦЕМЕНТ",
+    "itemStack": {
+      "id": "one_point_twelve_concrete:concrete_powder_silver",
+      "data": 0
+    }
+  },
+  {
+    "name": "БИРЮЗОВ_ЦЕМЕНТ",
+    "itemStack": {
+      "id": "one_point_twelve_concrete:concrete_powder_cyan",
+      "data": 0
+    }
+  },
+  {
+    "name": "ФИОЛЕТОВ_ЦЕМЕНТ",
+    "itemStack": {
+      "id": "one_point_twelve_concrete:concrete_powder_purple",
+      "data": 0
+    }
+  },
+  {
+    "name": "СИНИЙ_ЦЕМЕНТ",
+    "itemStack": {
+      "id": "one_point_twelve_concrete:concrete_powder_blue",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОРИЧНЕВ_ЦЕМЕНТ",
+    "itemStack": {
+      "id": "one_point_twelve_concrete:concrete_powder_brown",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗЕЛЕНЫЙ_ЦЕМЕНТ",
+    "itemStack": {
+      "id": "one_point_twelve_concrete:concrete_powder_green",
+      "data": 0
+    }
+  },
+  {
+    "name": "КРАСНЫЙ_ЦЕМЕНТ",
+    "itemStack": {
+      "id": "one_point_twelve_concrete:concrete_powder_red",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЧЕРНЫЙ_ЦЕМЕНТ",
+    "itemStack": {
+      "id": "one_point_twelve_concrete:concrete_powder_black",
+      "data": 0
+    }
+  },
+  {
+    "name": "БЕЛЫЙ_БЕТОН",
+    "itemStack": {
+      "id": "one_point_twelve_concrete:concrete_white",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОРАНЖЕВЫЙ_БЕТОН",
+    "itemStack": {
+      "id": "one_point_twelve_concrete:concrete_orange",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПУРПУРНЫЙ_БЕТОН",
+    "itemStack": {
+      "id": "one_point_twelve_concrete:concrete_magenta",
+      "data": 0
+    }
+  },
+  {
+    "name": "ГОЛУБОЙ_БЕТОН",
+    "itemStack": {
+      "id": "one_point_twelve_concrete:concrete_lightBlue",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЖЕЛТЫЙ_БЕТОН",
+    "itemStack": {
+      "id": "one_point_twelve_concrete:concrete_yellow",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛАЙМОВЫЙ_БЕТОН",
+    "itemStack": {
+      "id": "one_point_twelve_concrete:concrete_lime",
+      "data": 0
+    }
+  },
+  {
+    "name": "РОЗОВЫЙ_БЕТОН",
+    "itemStack": {
+      "id": "one_point_twelve_concrete:concrete_pink",
+      "data": 0
+    }
+  },
+  {
+    "name": "СЕРЫЙ_БЕТОН",
+    "itemStack": {
+      "id": "one_point_twelve_concrete:concrete_gray",
+      "data": 0
+    }
+  },
+  {
+    "name": "СВ_СЕРЫЙ_БЕТОН",
+    "itemStack": {
+      "id": "one_point_twelve_concrete:concrete_silver",
+      "data": 0
+    }
+  },
+  {
+    "name": "БИРЮЗОВЫЙ_БЕТОН",
+    "itemStack": {
+      "id": "one_point_twelve_concrete:concrete_cyan",
+      "data": 0
+    }
+  },
+  {
+    "name": "ФИОЛЕТОВ_БЕТОН",
+    "itemStack": {
+      "id": "one_point_twelve_concrete:concrete_purple",
+      "data": 0
+    }
+  },
+  {
+    "name": "СИНИЙ_БЕТОН",
+    "itemStack": {
+      "id": "one_point_twelve_concrete:concrete_blue",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОРИЧН_БЕТОН",
+    "itemStack": {
+      "id": "one_point_twelve_concrete:concrete_brown",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗЕЛЕНЫЙ_БЕТОН",
+    "itemStack": {
+      "id": "one_point_twelve_concrete:concrete_green",
+      "data": 0
+    }
+  },
+  {
+    "name": "КРАСНЫЙ_БЕТОН",
+    "itemStack": {
+      "id": "one_point_twelve_concrete:concrete_red",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЧЕРНЫЙ_БЕТОН",
+    "itemStack": {
+      "id": "one_point_twelve_concrete:concrete_black",
+      "data": 0
+    }
+  }
+]

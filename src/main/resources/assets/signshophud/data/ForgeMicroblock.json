@@ -1,0 +1,23 @@
+[
+  {
+    "name": "КАМЕННАЯ_ПИЛА",
+    "itemStack": {
+      "id": "ForgeMicroblock:sawStone",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЖЕЛЕЗНАЯ_ПИЛА",
+    "itemStack": {
+      "id": "ForgeMicroblock:sawIron",
+      "data": 0
+    }
+  },
+  {
+    "name": "АЛМАЗНАЯ_ПИЛА",
+    "itemStack": {
+      "id": "ForgeMicroblock:sawDiamond",
+      "data": 0
+    }
+  }
+]

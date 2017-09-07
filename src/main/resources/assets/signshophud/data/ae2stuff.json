@@ -1,0 +1,44 @@
+[
+  {
+    "name": "КОДИРОВЩИК_ШАБЛ",
+    "itemStack": {
+      "id": "ae2stuff:Encoder",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВЫРАЩ_КРИСТАЛЛ",
+    "itemStack": {
+      "id": "ae2stuff:Grower",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПРОД_ВЫСЕКАТЕЛЬ",
+    "itemStack": {
+      "id": "ae2stuff:Inscriber",
+      "data": 0
+    }
+  },
+  {
+    "name": "БЕСПР_СОЕДИНИТ",
+    "itemStack": {
+      "id": "ae2stuff:Wireless",
+      "data": 0
+    }
+  },
+  {
+    "name": "НАСТР_БЕСП_СОЕД",
+    "itemStack": {
+      "id": "ae2stuff:WirelessKit",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВИЗУАЛИЗАТОР",
+    "itemStack": {
+      "id": "ae2stuff:Visualiser",
+      "data": 0
+    }
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "СОЛН_БАТАРЕЯ_НН",
+    "itemStack": {
+      "id": "CompactSolars:CompactSolarBlock",
+      "data": 0
+    }
+  },
+  {
+    "name": "СОЛН_БАТАРЕЯ_СН",
+    "itemStack": {
+      "id": "CompactSolars:CompactSolarBlock",
+      "data": 1
+    }
+  },
+  {
+    "name": "СОЛН_БАТАРЕЯ_ВН",
+    "itemStack": {
+      "id": "CompactSolars:CompactSolarBlock",
+      "data": 2
+    }
+  },
+  {
+    "name": "ЛВСП_ШЛЕМ",
+    "itemStack": {
+      "id": "CompactSolars:solarHatLV",
+      "data": 0
+    }
+  },
+  {
+    "name": "МВСП_ШЛЕМ",
+    "itemStack": {
+      "id": "CompactSolars:solarHatMV",
+      "data": 0
+    }
+  },
+  {
+    "name": "ХВСП_ШЛЕМ",
+    "itemStack": {
+      "id": "CompactSolars:solarHatHV",
+      "data": 0
+    }
+  }
+]
