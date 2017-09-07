@@ -16,7 +16,7 @@ import java.nio.file.Path;
 @Mod(modid = "signshophud", name = "SignShopHud", version = "1.0.1", acceptedMinecraftVersions = "[1.7.10]", acceptableRemoteVersions = "*")
 public class SignShopHudMod {
 
-    public static final TextRenderer textRenderer = new TextRenderer(20);
+    public static TextRenderer textRenderer;
     private Path modPath;
 
     @EventHandler
@@ -26,6 +26,8 @@ public class SignShopHudMod {
 
     @EventHandler
     public void init(FMLInitializationEvent event) {
+        textRenderer = new TextRenderer(20);
+
         ShopItemImporter importer = new ZipShopItemImporter(new JsonShopItemImporter(), "assets/signshophud/data");
         ShopItemRegistry shopItemRegistry = new ShopItemRegistry();
 
