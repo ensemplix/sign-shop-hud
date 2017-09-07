@@ -13,7 +13,7 @@ import ru.ensemplix.shop.render.text.TextRenderer;
 
 import java.nio.file.Path;
 
-@Mod(modid = "signshophud", name = "SignShopHud", version = "1.0.1", acceptedMinecraftVersions = "[1.7.10]", acceptableRemoteVersions = "*")
+@Mod(modid = "signshophud", name = "SignShopHud", version = "1.2", acceptedMinecraftVersions = "[1.7.10]", acceptableRemoteVersions = "*")
 public class SignShopHudMod {
 
     public static TextRenderer textRenderer;
