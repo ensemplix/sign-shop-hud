@@ -25,11 +25,15 @@ public class SignShopHudGuiRender extends GuiScreen {
 
     private final int scale;
     private final int centerX;
+    private final float fontScaleX;
+    private final float fontScaleY;
 
     public SignShopHudGuiRender(SignShop shop) {
         ScaledResolution scaled = new ScaledResolution(minecraft, minecraft.displayWidth, minecraft.displayHeight);
         scale = scaled.getScaleFactor();
         centerX = scaled.getScaledWidth() / 2;
+        fontScaleX = scale != 4 ? 1 : 2;
+        fontScaleY = scale != 4 ? 1F : 0.5F;
 
         drawBackground();
         drawItem(shop.getStack());
@@ -51,19 +55,8 @@ public class SignShopHudGuiRender extends GuiScreen {
     }
 
     private void drawItem(ItemStack stack) {
-        int itemScale;
-        int itemSize;
-
-        switch(scale) {
-            case 1:
-                itemScale = 4;
-                itemSize = 30;
-                break;
-            default:
-                itemScale = 2;
-                itemSize = 15;
-                break;
-        }
+        int itemScale = 4 / scale;
+        int itemSize = 30 / scale;
 
         glPushMatrix();
         glEnable(GL_LIGHTING);
@@ -77,9 +70,16 @@ public class SignShopHudGuiRender extends GuiScreen {
     }
 
     private void drawHeader(String owner, String itemName, int quantity) {
-        textRenderer.drawCenteredString(owner.toUpperCase(), centerX, 148 / scale, 0xFF5DE8ED, false);
-        textRenderer.drawCenteredString(itemName.toUpperCase(), centerX, 175 / scale, 0xFFFFFFFF, false);
-        textRenderer.drawCenteredString(quantity + " ШТ.", centerX, 200 / scale, 0xFFFFFFFF, false);
+        glPushMatrix();
+
+        if(scale == 4) {
+            glScalef(0.5F, 0.5F, 1.0F);
+        }
+
+        textRenderer.drawCenteredString(owner.toUpperCase(), (int) (centerX  * fontScaleX), (int) (148 / scale / fontScaleY), 0xFF5DE8ED, false);
+        textRenderer.drawCenteredString(itemName.toUpperCase(), (int) (centerX * fontScaleX), (int) (175 / scale / fontScaleY), 0xFFFFFFFF, false);
+        textRenderer.drawCenteredString(quantity + " ШТ.", (int) (centerX * fontScaleX), (int) (200 / scale / fontScaleY), 0xFFFFFFFF, false);
+        glPopMatrix();
     }
 
     private void drawPrices(int buy, int sell) {
@@ -87,18 +87,41 @@ public class SignShopHudGuiRender extends GuiScreen {
 
         if(buy > 0 && sell > 0) {
             drawVerticalLine(centerX, 240 / scale, 290 / scale, 0xFFFFFFFF);
-            drawPrice("КУПИТЬ", centerX - 60 / scale, 250 / scale, buy, 0xFF15F745);
-            drawPrice("ПРОДАТЬ", centerX + 70 / scale, 250 / scale, sell, 0xFFF7E415);
+
+            glPushMatrix();
+
+            if(scale == 4) {
+                glScalef(0.5F, 0.5F, 1.0F);
+            }
+
+            drawPrice("КУПИТЬ", (int) ((centerX - 60 / scale) * fontScaleX), (int) (250 / scale / fontScaleY), buy, 0xFF15F745);
+            drawPrice("ПРОДАТЬ", (int) ((centerX + 70 / scale) * fontScaleX), (int) (250 / scale / fontScaleY), sell, 0xFFF7E415);
+
+            glPopMatrix();
         } else if(buy > 0) {
-            drawPrice("КУПИТЬ", centerX,250 / scale, buy, 0xFF15F745);
+            glPushMatrix();
+
+            if(scale == 4) {
+                glScalef(0.5F, 0.5F, 1.0F);
+            }
+
+            drawPrice("КУПИТЬ", (int) (centerX * fontScaleX), (int) (250 / scale / fontScaleY), buy, 0xFF15F745);
+            glPopMatrix();
         } else if(sell > 0) {
-            drawPrice("ПРОДАТЬ", centerX,250 / scale, sell, 0xFFF7E415);
+            glPushMatrix();
+
+            if(scale == 4) {
+                glScalef(0.5F, 0.5F, 1.0F);
+            }
+
+            drawPrice("ПРОДАТЬ", (int) (centerX * fontScaleX), (int) (250 / scale / fontScaleY), sell, 0xFFF7E415);
+            glPopMatrix();
         }
     }
 
     private void drawPrice(String title, int x, int y, int price, int color) {
         textRenderer.drawCenteredString(title, x, y, color, false);
-        textRenderer.drawCenteredString(String.valueOf(price), x, y + 25 / scale, 0xFFFFFFFF, false);
+        textRenderer.drawCenteredString(String.valueOf(price), x, (int) (y + (25 * fontScaleX) / scale), 0xFFFFFFFF, false);
     }
 
 }
