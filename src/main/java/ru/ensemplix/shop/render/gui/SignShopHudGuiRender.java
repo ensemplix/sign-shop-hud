@@ -9,14 +9,13 @@ import net.minecraft.item.ItemStack;
 import org.lwjgl.opengl.GL11;
 import org.lwjgl.opengl.GL12;
 import ru.ensemplix.shop.SignShop;
-import ru.ensemplix.shop.render.text.TextRenderer;
 
 import static org.lwjgl.opengl.GL11.*;
+import static ru.ensemplix.shop.SignShopHudMod.textRenderer;
 
 // Занимается отрисовкой всплывающего окна.
 public class SignShopHudGuiRender extends GuiScreen {
 
-    private static final TextRenderer textRenderer = new TextRenderer(20);
     private static final Minecraft minecraft = Minecraft.getMinecraft();
     private static final RenderItem itemRender = minecraft.getRenderItem();
 
