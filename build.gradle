@@ -27,7 +27,12 @@ repositories {
     mavenCentral()
 
     maven {
-        url 'http://maven.ensemplix.ru/artifactory/Ensemplix/'
+        credentials {
+            username mavenUser
+            password mavenPassword
+        }
+
+        url 'http://dev.ensemplix.ru:8081/artifactory/Ensemplix'
     }
 }
 
