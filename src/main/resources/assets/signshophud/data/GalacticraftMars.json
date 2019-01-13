@@ -1,0 +1,758 @@
+[
+  {
+    "name": "СУНД_СОКР_2_УР",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.treasureT2",
+      "data": 0
+    }
+  },
+  {
+    "name": "СУНД_СОКР_3_УР",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.treasureT3",
+      "data": 0
+    }
+  },
+  {
+    "name": "АСТЕР_КАМ_ТЕМН",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.asteroidsBlock",
+      "data": 0
+    }
+  },
+  {
+    "name": "АСТЕР_КАМЕНЬ",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.asteroidsBlock",
+      "data": 1
+    }
+  },
+  {
+    "name": "АСТЕР_КАМ_СВЕТЛ",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.asteroidsBlock",
+      "data": 2
+    }
+  },
+  {
+    "name": "АСТЕР_АЛЮМ_РУДА",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.asteroidsBlock",
+      "data": 3
+    }
+  },
+  {
+    "name": "ИЛЬМЕНИТОВ_РУДА",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.asteroidsBlock",
+      "data": 4
+    }
+  },
+  {
+    "name": "АСТЕР_ЖЕЛЕЗ_РУДА",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.asteroidsBlock",
+      "data": 5
+    }
+  },
+  {
+    "name": "ДОРОЖКА",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.walkway",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДОРОЖКА_АЛ_ПРОВ",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.walkwayWire",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДОРОЖКА_КИСЛ_ТР",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.walkwayOxygenPipe",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛУЧ_ОТРАЖ_ЭНЕРГ",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.beamReflector",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛУЧ_ПРИЁМН_ЭНЕРГ",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.beamReceiver",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОРОТК_ТЕЛЕПОРТ",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.telepadShort",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛОТНЫЙ_ЛЁД_GC",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.denseIce",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОСН_АСТР_ШАХТЁР",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.minerBase",
+      "data": 0
+    }
+  },
+  {
+    "name": "БАКТЕР_ОСАДОК",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.sludge",
+      "data": 0
+    }
+  },
+  {
+    "name": "МАРС_МЕДН_РУДА",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.mars",
+      "data": 0
+    }
+  },
+  {
+    "name": "МАРС_ОЛОВ_РУДА",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.mars",
+      "data": 1
+    }
+  },
+  {
+    "name": "РУДА_ДЕШ",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.mars",
+      "data": 2
+    }
+  },
+  {
+    "name": "МАРС_ЖЕЛЕЗ_РУДА",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.mars",
+      "data": 3
+    }
+  },
+  {
+    "name": "МАРС_БУЛЫЖНИК",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.mars",
+      "data": 4
+    }
+  },
+  {
+    "name": "МАРС_ПОВ_КАМЕНЬ",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.mars",
+      "data": 5
+    }
+  },
+  {
+    "name": "МАРС_ПОДП_КАМЕН",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.mars",
+      "data": 6
+    }
+  },
+  {
+    "name": "КИРП_МАРС_СОКР",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.mars",
+      "data": 7
+    }
+  },
+  {
+    "name": "БЛОК_ДЕШ",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.mars",
+      "data": 8
+    }
+  },
+  {
+    "name": "МАРС_КАМЕНЬ",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.mars",
+      "data": 9
+    }
+  },
+  {
+    "name": "ПЕЩЕРНЫЕ_ЛИАНЫ",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.cavernVines",
+      "data": 0
+    }
+  },
+  {
+    "name": "КРАСН_ЯЙЦ_СЛАЙМ",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.slimelingEgg",
+      "data": 0
+    }
+  },
+  {
+    "name": "СИН_ЯЙЦО_СЛАЙМ",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.slimelingEgg",
+      "data": 1
+    }
+  },
+  {
+    "name": "ЖЁЛТ_ЯЙЦО_СЛАЙМ",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.slimelingEgg",
+      "data": 2
+    }
+  },
+  {
+    "name": "ЯЙЦО_КРИПЕРА",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.creeperEgg",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТЕРРАФОРМЕР_GC",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.marsMachine",
+      "data": 0
+    }
+  },
+  {
+    "name": "КРИОГЕНН_КАМЕРА",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.marsMachine",
+      "data": 4
+    }
+  },
+  {
+    "name": "КОНТР_ЗАПУСКА",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.marsMachine",
+      "data": 8
+    }
+  },
+  {
+    "name": "СЖИЖИТЕЛЬ_ГАЗА",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.marsMachineT2",
+      "data": 0
+    }
+  },
+  {
+    "name": "СИНТЕЗАТ_МЕТАНА",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.marsMachineT2",
+      "data": 4
+    }
+  },
+  {
+    "name": "ЭЛЕКТРОЛИЗ_ВОДЫ",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.marsMachineT2",
+      "data": 8
+    }
+  },
+  {
+    "name": "СТУП_ИЗ_МАР_БУЛ",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.marsCobblestoneStairs",
+      "data": 0
+    }
+  },
+  {
+    "name": "СТУП_ИЗ_МАР_СОК",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.marsDungeonBricksStairs",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТРУБА_ДЛЯ_ВОДОР",
+    "itemStack": {
+      "id": "GalacticraftMars:tile.hydrogenPipe",
+      "data": 0
+    }
+  },
+  {
+    "name": "КРЮК_GC",
+    "itemStack": {
+      "id": "GalacticraftMars:item.grapple",
+      "data": 0
+    }
+  },
+  {
+    "name": "РАКЕТА_3_УР",
+    "itemStack": {
+      "id": "GalacticraftMars:item.itemTier3Rocket",
+      "data": 0
+    }
+  },
+  {
+    "name": "РАКЕТА_3_УР_Х18",
+    "itemStack": {
+      "id": "GalacticraftMars:item.itemTier3Rocket",
+      "data": 1
+    }
+  },
+  {
+    "name": "РАКЕТА_3_УР_Х36",
+    "itemStack": {
+      "id": "GalacticraftMars:item.itemTier3Rocket",
+      "data": 2
+    }
+  },
+  {
+    "name": "РАКЕТА_3_УР_Х56",
+    "itemStack": {
+      "id": "GalacticraftMars:item.itemTier3Rocket",
+      "data": 3
+    }
+  },
+  {
+    "name": "РАКЕТА_3_УР_ТВ",
+    "itemStack": {
+      "id": "GalacticraftMars:item.itemTier3Rocket",
+      "data": 4
+    }
+  },
+  {
+    "name": "АСТРОНОМ_ШАХТЁР",
+    "itemStack": {
+      "id": "GalacticraftMars:item.itemAstroMiner",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТЕПЛОУСТ_ШЛЕМ",
+    "itemStack": {
+      "id": "GalacticraftMars:item.thermalPadding",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТЕПЛОУСТ_КИРАСА",
+    "itemStack": {
+      "id": "GalacticraftMars:item.thermalPadding",
+      "data": 1
+    }
+  },
+  {
+    "name": "ТЕПЛОУСТ_ПОНОЖИ",
+    "itemStack": {
+      "id": "GalacticraftMars:item.thermalPadding",
+      "data": 2
+    }
+  },
+  {
+    "name": "ТЕПЛОУС_БОТИНКИ",
+    "itemStack": {
+      "id": "GalacticraftMars:item.thermalPadding",
+      "data": 3
+    }
+  },
+  {
+    "name": "СВЕРХПР_ПОКР_3",
+    "itemStack": {
+      "id": "GalacticraftMars:item.itemBasicAsteroids",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПРОЧН_РАКЕТН_ДВ",
+    "itemStack": {
+      "id": "GalacticraftMars:item.itemBasicAsteroids",
+      "data": 1
+    }
+  },
+  {
+    "name": "ПРОЧН_РАКЕТН_СТ",
+    "itemStack": {
+      "id": "GalacticraftMars:item.itemBasicAsteroids",
+      "data": 2
+    }
+  },
+  {
+    "name": "ЖЕЛЕЗН_ОСКОЛОК",
+    "itemStack": {
+      "id": "GalacticraftMars:item.itemBasicAsteroids",
+      "data": 3
+    }
+  },
+  {
+    "name": "ТИТАНОВ_ОСКОЛОК",
+    "itemStack": {
+      "id": "GalacticraftMars:item.itemBasicAsteroids",
+      "data": 4
+    }
+  },
+  {
+    "name": "ТИТАНОВ_СЛИТОК",
+    "itemStack": {
+      "id": "GalacticraftMars:item.itemBasicAsteroids",
+      "data": 5
+    }
+  },
+  {
+    "name": "СЖАТЫЙ_ТИТАН",
+    "itemStack": {
+      "id": "GalacticraftMars:item.itemBasicAsteroids",
+      "data": 6
+    }
+  },
+  {
+    "name": "ТЕПЛОУСТ_ТКАНЬ",
+    "itemStack": {
+      "id": "GalacticraftMars:item.itemBasicAsteroids",
+      "data": 7
+    }
+  },
+  {
+    "name": "ЛУЧЕВОЕ_ЯДРО",
+    "itemStack": {
+      "id": "GalacticraftMars:item.itemBasicAsteroids",
+      "data": 8
+    }
+  },
+  {
+    "name": "КАН_МЕТАНА_GC",
+    "itemStack": {
+      "id": "GalacticraftMars:item.methaneCanisterPartial",
+      "data": 1
+    }
+  },
+  {
+    "name": "КАН_ЖИД_КИСЛ_GC",
+    "itemStack": {
+      "id": "GalacticraftMars:item.canisterPartialLOX",
+      "data": 1
+    }
+  },
+  {
+    "name": "КАН_ЖИД_АЗОТ_GC",
+    "itemStack": {
+      "id": "GalacticraftMars:item.canisterPartialLN2",
+      "data": 1
+    }
+  },
+  {
+    "name": "АТМОСФ_КЛАПАН",
+    "itemStack": {
+      "id": "GalacticraftMars:item.atmosphericValve",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПРОЧ_ГОЛОВН_ОБТ",
+    "itemStack": {
+      "id": "GalacticraftMars:item.heavyNoseCone",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПРИВОД_ОРИОНА",
+    "itemStack": {
+      "id": "GalacticraftMars:item.orionDrive",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТИТАНОВЫЙ_ШЛЕМ",
+    "itemStack": {
+      "id": "GalacticraftMars:item.titanium_helmet",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТИТАНОВ_КИРАСА",
+    "itemStack": {
+      "id": "GalacticraftMars:item.titanium_chestplate",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТИТАНОВ_ПОНОЖИ",
+    "itemStack": {
+      "id": "GalacticraftMars:item.titanium_leggings",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТИТАНОВ_БОТИНКИ",
+    "itemStack": {
+      "id": "GalacticraftMars:item.titanium_boots",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТИТАНОВЫЙ_ТОПОР",
+    "itemStack": {
+      "id": "GalacticraftMars:item.titanium_axe",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТИТАНОВАЯ_КИРКА",
+    "itemStack": {
+      "id": "GalacticraftMars:item.titanium_pickaxe",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТИТАНОВ_ЛОПАТА",
+    "itemStack": {
+      "id": "GalacticraftMars:item.titanium_shovel",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТИТАНОВ_МОТЫГА",
+    "itemStack": {
+      "id": "GalacticraftMars:item.titanium_hoe",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТИТАНОВЫЙ_МЕЧ",
+    "itemStack": {
+      "id": "GalacticraftMars:item.titanium_sword",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВЕДРО_БАКТ_ОСАД",
+    "itemStack": {
+      "id": "GalacticraftMars:item.bucketSludge",
+      "data": 0
+    }
+  },
+  {
+    "name": "РАЗДРОБЛ_УГОЛЬ",
+    "itemStack": {
+      "id": "GalacticraftMars:item.carbonFragments",
+      "data": 0
+    }
+  },
+  {
+    "name": "НЕОБРАБОТАН_ДЕШ",
+    "itemStack": {
+      "id": "GalacticraftMars:item.null",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПАЛКА_ИЗ_ДЕШ",
+    "itemStack": {
+      "id": "GalacticraftMars:item.null",
+      "data": 1
+    }
+  },
+  {
+    "name": "СЛИТОК_ДЕШ",
+    "itemStack": {
+      "id": "GalacticraftMars:item.null",
+      "data": 2
+    }
+  },
+  {
+    "name": "СВЕРХПР_ПОКР_2",
+    "itemStack": {
+      "id": "GalacticraftMars:item.null",
+      "data": 3
+    }
+  },
+  {
+    "name": "СУМКА_СЛАЙМЛИНГ",
+    "itemStack": {
+      "id": "GalacticraftMars:item.null",
+      "data": 4
+    }
+  },
+  {
+    "name": "СЖАТАЯ_ДЕШ",
+    "itemStack": {
+      "id": "GalacticraftMars:item.null",
+      "data": 5
+    }
+  },
+  {
+    "name": "МАНИП_ЖИДКОСТИ",
+    "itemStack": {
+      "id": "GalacticraftMars:item.null",
+      "data": 6
+    }
+  },
+  {
+    "name": "КИРКА_ИЗ_ДЕШ",
+    "itemStack": {
+      "id": "GalacticraftMars:item.deshPick",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛИПК_КИР_ИЗ_ДЕШ",
+    "itemStack": {
+      "id": "GalacticraftMars:item.deshPickSlime",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТОПОР_ИЗ_ДЕШ",
+    "itemStack": {
+      "id": "GalacticraftMars:item.deshAxe",
+      "data": 0
+    }
+  },
+  {
+    "name": "МОТЫГА_ИЗ_ДЕШ",
+    "itemStack": {
+      "id": "GalacticraftMars:item.deshHoe",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛОПАТА_ИЗ_ДЕШ",
+    "itemStack": {
+      "id": "GalacticraftMars:item.deshSpade",
+      "data": 0
+    }
+  },
+  {
+    "name": "МЕЧ_ИЗ_ДЕШ",
+    "itemStack": {
+      "id": "GalacticraftMars:item.deshSword",
+      "data": 0
+    }
+  },
+  {
+    "name": "ШЛЕМ_ИЗ_ДЕШ",
+    "itemStack": {
+      "id": "GalacticraftMars:item.deshHelmet",
+      "data": 0
+    }
+  },
+  {
+    "name": "КИРАСА_ИЗ_ДЕШ",
+    "itemStack": {
+      "id": "GalacticraftMars:item.deshChestplate",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПОНОЖИ_ИЗ_ДЕШ",
+    "itemStack": {
+      "id": "GalacticraftMars:item.deshLeggings",
+      "data": 0
+    }
+  },
+  {
+    "name": "БОТИНКИ_ИЗ_ДЕШ",
+    "itemStack": {
+      "id": "GalacticraftMars:item.deshBoots",
+      "data": 0
+    }
+  },
+  {
+    "name": "РАКЕТА_2_УР",
+    "itemStack": {
+      "id": "GalacticraftMars:item.spaceshipTier2",
+      "data": 0
+    }
+  },
+  {
+    "name": "РАКЕТА_2_УР_Х18",
+    "itemStack": {
+      "id": "GalacticraftMars:item.spaceshipTier2",
+      "data": 1
+    }
+  },
+  {
+    "name": "РАКЕТА_2_УР_Х36",
+    "itemStack": {
+      "id": "GalacticraftMars:item.spaceshipTier2",
+      "data": 2
+    }
+  },
+  {
+    "name": "РАКЕТА_2_УР_Х56",
+    "itemStack": {
+      "id": "GalacticraftMars:item.spaceshipTier2",
+      "data": 3
+    }
+  },
+  {
+    "name": "РАКЕТА_2_УР_ТВ",
+    "itemStack": {
+      "id": "GalacticraftMars:item.spaceshipTier2",
+      "data": 4
+    }
+  },
+  {
+    "name": "ГРУЗ_РАКЕТА_Х18",
+    "itemStack": {
+      "id": "GalacticraftMars:item.spaceshipTier2",
+      "data": 11
+    }
+  },
+  {
+    "name": "ГРУЗ_РАКЕТА_Х36",
+    "itemStack": {
+      "id": "GalacticraftMars:item.spaceshipTier2",
+      "data": 12
+    }
+  },
+  {
+    "name": "ГРУЗ_РАКЕТА_Х56",
+    "itemStack": {
+      "id": "GalacticraftMars:item.spaceshipTier2",
+      "data": 13
+    }
+  },
+  {
+    "name": "ГРУЗ_РАКЕТА_ТВ",
+    "itemStack": {
+      "id": "GalacticraftMars:item.spaceshipTier2",
+      "data": 14
+    }
+  },
+  {
+    "name": "КЛЮЧ_ПОДЗ_2_УР",
+    "itemStack": {
+      "id": "GalacticraftMars:item.key",
+      "data": 0
+    }
+  },
+  {
+    "name": "СХЕМА_NASA_Р3УР",
+    "itemStack": {
+      "id": "GalacticraftMars:item.schematic",
+      "data": 0
+    }
+  },
+  {
+    "name": "СХЕМА_NASA_ГРУЗ",
+    "itemStack": {
+      "id": "GalacticraftMars:item.schematic",
+      "data": 1
+    }
+  },
+  {
+    "name": "СХЕМА_NASA_АШ",
+    "itemStack": {
+      "id": "GalacticraftMars:item.schematic",
+      "data": 2
+    }
+  }
+]

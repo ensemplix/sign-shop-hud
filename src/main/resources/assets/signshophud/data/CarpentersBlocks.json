@@ -1,0 +1,177 @@
+[
+  {
+    "name": "БЛОК_ПЛОТНИКА",
+    "itemStack": {
+      "id": "CarpentersBlocks:blockCarpentersBlock",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗАБОР_ПЛОТНИКА",
+    "itemStack": {
+      "id": "CarpentersBlocks:blockCarpentersBarrier",
+      "data": 0
+    }
+  },
+  {
+    "name": "КНОПКА_ПЛОТНИКА",
+    "itemStack": {
+      "id": "CarpentersBlocks:blockCarpentersButton",
+      "data": 0
+    }
+  },
+  {
+    "name": "СКЛАДН_БЛ_ПЛОТ",
+    "itemStack": {
+      "id": "CarpentersBlocks:blockCarpentersCollapsibleBlock",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДАТЧ_Д_СВ_ПЛОТН",
+    "itemStack": {
+      "id": "CarpentersBlocks:blockCarpentersDaylightSensor",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЦВЕТ_ГОРШ_ПЛОТН",
+    "itemStack": {
+      "id": "CarpentersBlocks:blockCarpentersFlowerPot",
+      "data": 0
+    }
+  },
+  {
+    "name": "РАЗД_ДВЕР_ПЛОТН",
+    "itemStack": {
+      "id": "CarpentersBlocks:blockCarpentersGarageDoor",
+      "data": 0
+    }
+  },
+  {
+    "name": "КАЛИТ_ПЛОТНИКА",
+    "itemStack": {
+      "id": "CarpentersBlocks:blockCarpentersGate",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛЮК_ПЛОТНИКА",
+    "itemStack": {
+      "id": "CarpentersBlocks:blockCarpentersHatch",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛЕСТН_ПЛОТНИКА",
+    "itemStack": {
+      "id": "CarpentersBlocks:blockCarpentersLadder",
+      "data": 0
+    }
+  },
+  {
+    "name": "РЫЧАГ_ПЛОТНИКА",
+    "itemStack": {
+      "id": "CarpentersBlocks:blockCarpentersLever",
+      "data": 0
+    }
+  },
+  {
+    "name": "НАЖ_ПЛАСТ_ПЛОТН",
+    "itemStack": {
+      "id": "CarpentersBlocks:blockCarpentersPressurePlate",
+      "data": 0
+    }
+  },
+  {
+    "name": "СЕЙФ_ПЛОТНИКА",
+    "itemStack": {
+      "id": "CarpentersBlocks:blockCarpentersSafe",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПРЯМ_СКЛОН_ПЛОТ",
+    "itemStack": {
+      "id": "CarpentersBlocks:blockCarpentersSlope",
+      "data": 0
+    }
+  },
+  {
+    "name": "К_ВНУТ_СКЛ_ПЛОТ",
+    "itemStack": {
+      "id": "CarpentersBlocks:blockCarpentersSlope",
+      "data": 1
+    }
+  },
+  {
+    "name": "К_ВНШ_СКЛ_ПЛОТ",
+    "itemStack": {
+      "id": "CarpentersBlocks:blockCarpentersSlope",
+      "data": 2
+    }
+  },
+  {
+    "name": "ПРИЗМ_СКЛ_ПЛОТ",
+    "itemStack": {
+      "id": "CarpentersBlocks:blockCarpentersSlope",
+      "data": 3
+    }
+  },
+  {
+    "name": "ПР_ПЛ_СКЛ_ПЛОТ",
+    "itemStack": {
+      "id": "CarpentersBlocks:blockCarpentersSlope",
+      "data": 4
+    }
+  },
+  {
+    "name": "СТУП_ПЛОТНИКА",
+    "itemStack": {
+      "id": "CarpentersBlocks:blockCarpentersStairs",
+      "data": 0
+    }
+  },
+  {
+    "name": "ФАКЕЛ_ПЛОТНИКА",
+    "itemStack": {
+      "id": "CarpentersBlocks:blockCarpentersTorch",
+      "data": 0
+    }
+  },
+  {
+    "name": "МОЛОТ_ПЛОТНИКА",
+    "itemStack": {
+      "id": "CarpentersBlocks:itemCarpentersHammer",
+      "data": 0
+    }
+  },
+  {
+    "name": "СТАМ_ПЛОТНИКА",
+    "itemStack": {
+      "id": "CarpentersBlocks:itemCarpentersChisel",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛИТК_ПЛОТНИКА",
+    "itemStack": {
+      "id": "CarpentersBlocks:itemCarpentersTile",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДВЕРЬ_ПЛОТНИКА",
+    "itemStack": {
+      "id": "CarpentersBlocks:itemCarpentersDoor",
+      "data": 0
+    }
+  },
+  {
+    "name": "КРОВАТЬ_ПЛОТНИК",
+    "itemStack": {
+      "id": "CarpentersBlocks:itemCarpentersBed",
+      "data": 0
+    }
+  }
+]

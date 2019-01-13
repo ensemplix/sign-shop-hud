@@ -1,0 +1,3134 @@
+﻿[
+  {
+    "name": "РЯБИНОВ_РОСТОК",
+    "itemStack": {
+      "id": "witchery:witchsapling",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОЛЬХОВЫЙ_РОСТОК",
+    "itemStack": {
+      "id": "witchery:witchsapling",
+      "data": 1
+    }
+  },
+  {
+    "name": "БОЯРЫШН_РОСТОК",
+    "itemStack": {
+      "id": "witchery:witchsapling",
+      "data": 2
+    }
+  },
+  {
+    "name": "РЯБИНА",
+    "itemStack": {
+      "id": "witchery:witchlog",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОЛЬХА",
+    "itemStack": {
+      "id": "witchery:witchlog",
+      "data": 1
+    }
+  },
+  {
+    "name": "БОЯРЫШНИК",
+    "itemStack": {
+      "id": "witchery:witchlog",
+      "data": 2
+    }
+  },
+  {
+    "name": "РЯБИНОВ_ЛИСТЬЯ",
+    "itemStack": {
+      "id": "witchery:witchleaves",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОЛЬХОВЫЕ_ЛИСТЬЯ",
+    "itemStack": {
+      "id": "witchery:witchleaves",
+      "data": 1
+    }
+  },
+  {
+    "name": "БОЯРЫШН_ЛИСТЬЯ",
+    "itemStack": {
+      "id": "witchery:witchleaves",
+      "data": 2
+    }
+  },
+  {
+    "name": "ЕЖЕВИКА_ПУСТОТЫ",
+    "itemStack": {
+      "id": "witchery:voidbramble",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЕЖЕВИКА_КРАЯ",
+    "itemStack": {
+      "id": "witchery:bramble",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДИКАЯ_ЕЖЕВИКА",
+    "itemStack": {
+      "id": "witchery:bramble",
+      "data": 1
+    }
+  },
+  {
+    "name": "СВЕРКАЮЩ_СОРНЯК",
+    "itemStack": {
+      "id": "witchery:glintweed",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛИШАЙНИК",
+    "itemStack": {
+      "id": "witchery:spanishmoss",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛАВУЧАЯ_ЛИЛИЯ",
+    "itemStack": {
+      "id": "witchery:leapinglily",
+      "data": 0
+    }
+  },
+  {
+    "name": "РОЗА_ЛОВУШ_ПАУТ",
+    "itemStack": {
+      "id": "witchery:plantmine",
+      "data": 0
+    }
+  },
+  {
+    "name": "РОЗА_ЛОВУШ_ЧЕРН",
+    "itemStack": {
+      "id": "witchery:plantmine",
+      "data": 1
+    }
+  },
+  {
+    "name": "РОЗА_ЛОВУШ_ШИПЫ",
+    "itemStack": {
+      "id": "witchery:plantmine",
+      "data": 2
+    }
+  },
+  {
+    "name": "РОЗА_ЛОВ_РОСТКИ",
+    "itemStack": {
+      "id": "witchery:plantmine",
+      "data": 3
+    }
+  },
+  {
+    "name": "ОД_ЛОВУШК_ПАУТ",
+    "itemStack": {
+      "id": "witchery:plantmine",
+      "data": 4
+    }
+  },
+  {
+    "name": "ОД_ЛОВУШК_ЧЕРН",
+    "itemStack": {
+      "id": "witchery:plantmine",
+      "data": 5
+    }
+  },
+  {
+    "name": "ОД_ЛОВУШКА_ШИПЫ",
+    "itemStack": {
+      "id": "witchery:plantmine",
+      "data": 6
+    }
+  },
+  {
+    "name": "ОД_ЛОВУШ_РОСТКИ",
+    "itemStack": {
+      "id": "witchery:plantmine",
+      "data": 7
+    }
+  },
+  {
+    "name": "КУСТ_ЛОВУШК_П",
+    "itemStack": {
+      "id": "witchery:plantmine",
+      "data": 8
+    }
+  },
+  {
+    "name": "КУСТ_ЛОВУШ_ЧЕРН",
+    "itemStack": {
+      "id": "witchery:plantmine",
+      "data": 9
+    }
+  },
+  {
+    "name": "КУСТ_ЛОВУШ_ШИПЫ",
+    "itemStack": {
+      "id": "witchery:plantmine",
+      "data": 10
+    }
+  },
+  {
+    "name": "КУСТ_ЛОВ_РОСТКИ",
+    "itemStack": {
+      "id": "witchery:plantmine",
+      "data": 11
+    }
+  },
+  {
+    "name": "ЯНТАРНЫЙ_МОХ",
+    "itemStack": {
+      "id": "witchery:embermoss",
+      "data": 0
+    }
+  },
+  {
+    "name": "МУХОЛОВКА",
+    "itemStack": {
+      "id": "witchery:crittersnare",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЩИПУН",
+    "itemStack": {
+      "id": "witchery:grassper",
+      "data": 0
+    }
+  },
+  {
+    "name": "КРОВАВАЯ_РОЗА",
+    "itemStack": {
+      "id": "witchery:bloodrose",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТОНКИЙ_ШЕЛК",
+    "itemStack": {
+      "id": "witchery:somniancotton",
+      "data": 0
+    }
+  },
+  {
+    "name": "WOLF_HEAD",
+    "itemStack": {
+      "id": "witchery:wolfhead",
+      "data": 0
+    }
+  },
+  {
+    "name": "HELLHOUND_HEAD",
+    "itemStack": {
+      "id": "witchery:wolfhead",
+      "data": 1
+    }
+  },
+  {
+    "name": "РЯБИНОВЫЕ_ДОСКИ",
+    "itemStack": {
+      "id": "witchery:witchwood",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОЛЬХОВЫЕ_ДОСКИ",
+    "itemStack": {
+      "id": "witchery:witchwood",
+      "data": 1
+    }
+  },
+  {
+    "name": "БОЯРЫШНИК_ДОСКИ",
+    "itemStack": {
+      "id": "witchery:witchwood",
+      "data": 2
+    }
+  },
+  {
+    "name": "РЯБИН_СТУПЕНЬКИ",
+    "itemStack": {
+      "id": "witchery:stairswoodrowan",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОЛЬХ_СТУПЕНЬКИ",
+    "itemStack": {
+      "id": "witchery:stairswoodalder",
+      "data": 0
+    }
+  },
+  {
+    "name": "БОЯРЫШН_СТУПЕНЬ",
+    "itemStack": {
+      "id": "witchery:stairswoodhawthorn",
+      "data": 0
+    }
+  },
+  {
+    "name": "РЯБИН_ПЛИТА",
+    "itemStack": {
+      "id": "witchery:witchwoodslab",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОЛЬХ_ПЛИТА",
+    "itemStack": {
+      "id": "witchery:witchwoodslab",
+      "data": 1
+    }
+  },
+  {
+    "name": "БОЯР_ПЛИТА",
+    "itemStack": {
+      "id": "witchery:witchwoodslab",
+      "data": 2
+    }
+  },
+  {
+    "name": "РЯБИН_ПЛИТА+",
+    "itemStack": {
+      "id": "witchery:witchwooddoubleslab",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОЛЬХ_ПЛИТА+",
+    "itemStack": {
+      "id": "witchery:witchwooddoubleslab",
+      "data": 1
+    }
+  },
+  {
+    "name": "БОЯР_ПЛИТА+",
+    "itemStack": {
+      "id": "witchery:witchwooddoubleslab",
+      "data": 2
+    }
+  },
+  {
+    "name": "ОБОЛЬСТИТ_ЧЕРЕП",
+    "itemStack": {
+      "id": "witchery:alluringskull",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТОРБА",
+    "itemStack": {
+      "id": "witchery:wickerbundle",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОКРОВАВЛ_ТОРБА",
+    "itemStack": {
+      "id": "witchery:wickerbundle",
+      "data": 1
+    }
+  },
+  {
+    "name": "СТАТУЯ_БОГИНИ",
+    "itemStack": {
+      "id": "witchery:statuegoddess",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЧАСТОК_ИЗ_ДУБА",
+    "itemStack": {
+      "id": "witchery:stockade",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЧАСТОКОЛ_ИЗ_ЕЛИ",
+    "itemStack": {
+      "id": "witchery:stockade",
+      "data": 1
+    }
+  },
+  {
+    "name": "ЧАСТ_ИЗ_БЕРЕЗЫ",
+    "itemStack": {
+      "id": "witchery:stockade",
+      "data": 2
+    }
+  },
+  {
+    "name": "ЧАСТ_ИЗ_ДЖУНГ_Д",
+    "itemStack": {
+      "id": "witchery:stockade",
+      "data": 3
+    }
+  },
+  {
+    "name": "ЧАСТ_ИЗ_РЯБИНЫ",
+    "itemStack": {
+      "id": "witchery:stockade",
+      "data": 4
+    }
+  },
+  {
+    "name": "ЧАСТОК_ИЗ_ОЛЬХИ",
+    "itemStack": {
+      "id": "witchery:stockade",
+      "data": 5
+    }
+  },
+  {
+    "name": "ЧАСТ_ИЗ_БОЯРЫШН",
+    "itemStack": {
+      "id": "witchery:stockade",
+      "data": 6
+    }
+  },
+  {
+    "name": "ЧАСТ_ИЗ_АКАЦИИ",
+    "itemStack": {
+      "id": "witchery:stockade",
+      "data": 7
+    }
+  },
+  {
+    "name": "ЧАСТ_ИЗ_ТЕМ_ДУБ",
+    "itemStack": {
+      "id": "witchery:stockade",
+      "data": 8
+    }
+  },
+  {
+    "name": "ICE_STOCKADE",
+    "itemStack": {
+      "id": "witchery:icestockade",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВЕЧНЫЙ_ЛЕД",
+    "itemStack": {
+      "id": "witchery:perpetualice",
+      "data": 0
+    }
+  },
+  {
+    "name": "ICE_STAIRS",
+    "itemStack": {
+      "id": "witchery:icestairs",
+      "data": 0
+    }
+  },
+  {
+    "name": "ICE_SLAB",
+    "itemStack": {
+      "id": "witchery:iceslab",
+      "data": 0
+    }
+  },
+  {
+    "name": "ICE_SLAB+",
+    "itemStack": {
+      "id": "witchery:icedoubleslab",
+      "data": 0
+    }
+  },
+  {
+    "name": "ICE_FENCE",
+    "itemStack": {
+      "id": "witchery:icefence",
+      "data": 0
+    }
+  },
+  {
+    "name": "ICE_GATE",
+    "itemStack": {
+      "id": "witchery:icefencegate",
+      "data": 0
+    }
+  },
+  {
+    "name": "ICE_PRESS_PLATE",
+    "itemStack": {
+      "id": "witchery:icepressureplate",
+      "data": 0
+    }
+  },
+  {
+    "name": "SN_PRESS_PLATE",
+    "itemStack": {
+      "id": "witchery:snowpressureplate",
+      "data": 0
+    }
+  },
+  {
+    "name": "SNOW_STAIRS",
+    "itemStack": {
+      "id": "witchery:snowstairs",
+      "data": 0
+    }
+  },
+  {
+    "name": "SNOW_SLAB",
+    "itemStack": {
+      "id": "witchery:snowslab",
+      "data": 0
+    }
+  },
+  {
+    "name": "SNOW_SLAB+",
+    "itemStack": {
+      "id": "witchery:snowdoubleslab",
+      "data": 0
+    }
+  },
+  {
+    "name": "INFINITY_EGG",
+    "itemStack": {
+      "id": "witchery:infinityegg",
+      "data": 0
+    }
+  },
+  {
+    "name": "DIRT",
+    "itemStack": {
+      "id": "witchery:pitdirt",
+      "data": 0
+    }
+  },
+  {
+    "name": "GRASS",
+    "itemStack": {
+      "id": "witchery:pitgrass",
+      "data": 0
+    }
+  },
+  {
+    "name": "GARLIC_GARLAND",
+    "itemStack": {
+      "id": "witchery:garlicgarland",
+      "data": 0
+    }
+  },
+  {
+    "name": "BL_STAINED_WOOL",
+    "itemStack": {
+      "id": "witchery:bloodedwool",
+      "data": 0
+    }
+  },
+  {
+    "name": "WHITE_SH_GLASS",
+    "itemStack": {
+      "id": "witchery:shadedglass",
+      "data": 0
+    }
+  },
+  {
+    "name": "ORANGE_SH_GLASS",
+    "itemStack": {
+      "id": "witchery:shadedglass",
+      "data": 1
+    }
+  },
+  {
+    "name": "MAGENT_SH_GLASS",
+    "itemStack": {
+      "id": "witchery:shadedglass",
+      "data": 2
+    }
+  },
+  {
+    "name": "LIGH_BL_SH_GLAS",
+    "itemStack": {
+      "id": "witchery:shadedglass",
+      "data": 3
+    }
+  },
+  {
+    "name": "YELL_SHAD_GLASS",
+    "itemStack": {
+      "id": "witchery:shadedglass",
+      "data": 4
+    }
+  },
+  {
+    "name": "LIME_SHAD_GLASS",
+    "itemStack": {
+      "id": "witchery:shadedglass",
+      "data": 5
+    }
+  },
+  {
+    "name": "PINK_SHAD_GLASS",
+    "itemStack": {
+      "id": "witchery:shadedglass",
+      "data": 6
+    }
+  },
+  {
+    "name": "GRAY_SHAD_GLASS",
+    "itemStack": {
+      "id": "witchery:shadedglass",
+      "data": 7
+    }
+  },
+  {
+    "name": "SILV_SHAD_GLASS",
+    "itemStack": {
+      "id": "witchery:shadedglass",
+      "data": 8
+    }
+  },
+  {
+    "name": "C_SHADED_GLASS",
+    "itemStack": {
+      "id": "witchery:shadedglass",
+      "data": 9
+    }
+  },
+  {
+    "name": "PURPLE_SH_GLASS",
+    "itemStack": {
+      "id": "witchery:shadedglass",
+      "data": 10
+    }
+  },
+  {
+    "name": "BLUE_SHAD_GLASS",
+    "itemStack": {
+      "id": "witchery:shadedglass",
+      "data": 11
+    }
+  },
+  {
+    "name": "BROWN_SH_GLASS",
+    "itemStack": {
+      "id": "witchery:shadedglass",
+      "data": 12
+    }
+  },
+  {
+    "name": "GR_SHADED_GLASS",
+    "itemStack": {
+      "id": "witchery:shadedglass",
+      "data": 13
+    }
+  },
+  {
+    "name": "RED_SHAD_GLASS",
+    "itemStack": {
+      "id": "witchery:shadedglass",
+      "data": 14
+    }
+  },
+  {
+    "name": "BLACK_SH_GLASS",
+    "itemStack": {
+      "id": "witchery:shadedglass",
+      "data": 15
+    }
+  },
+  {
+    "name": "MIRROR_SURFACE",
+    "itemStack": {
+      "id": "witchery:mirrorwall",
+      "data": 0
+    }
+  },
+  {
+    "name": "СУНДУК_ВИЧЕРИ",
+    "itemStack": {
+      "id": "witchery:refillingchest",
+      "data": 0
+    }
+  },
+  {
+    "name": "СУНДУК_ЛИЧА",
+    "itemStack": {
+      "id": "witchery:leechchest",
+      "data": 0
+    }
+  },
+  {
+    "name": "АЛТАРЬ",
+    "itemStack": {
+      "id": "witchery:altar",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОТЕЛ",
+    "itemStack": {
+      "id": "witchery:kettle",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПОЛКА_ДЛЯ_КУКОЛ",
+    "itemStack": {
+      "id": "witchery:poppetshelf",
+      "data": 0
+    }
+  },
+  {
+    "name": "ХРУСТАЛЬНЫЙ_ШАР",
+    "itemStack": {
+      "id": "witchery:crystalball",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПОРТАЛ_МУЧЕНИЙ",
+    "itemStack": {
+      "id": "witchery:tormentportal",
+      "data": 0
+    }
+  },
+  {
+    "name": "КРУТЯЩ_КОЛЕСО",
+    "itemStack": {
+      "id": "witchery:spinningwheel",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЖАРОВНЯ",
+    "itemStack": {
+      "id": "witchery:brazier",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВЕДЬМИНА_ПЕЧЬ",
+    "itemStack": {
+      "id": "witchery:witchesovenidle",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВОРОНКА_ВИЧЕРИ",
+    "itemStack": {
+      "id": "witchery:fumefunnel",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВОРОНК_С_ФИЛЬТР",
+    "itemStack": {
+      "id": "witchery:filteredfumefunnel",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЕРЕГОННЫЙ_КУБ+",
+    "itemStack": {
+      "id": "witchery:distilleryidle",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПУГАЛО",
+    "itemStack": {
+      "id": "witchery:scarecrow",
+      "data": 0
+    }
+  },
+  {
+    "name": "П_ЗАЩИТ_ОТ_ВУДУ",
+    "itemStack": {
+      "id": "witchery:scarecrow",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        96,
+        102,
+        16,
+        8,
+        -9,
+        12,
+        113,
+        14,
+        46,
+        -56,
+        44,
+        -54,
+        44,
+        113,
+        77,
+        75,
+        75,
+        77,
+        46,
+        97,
+        96,
+        96,
+        96,
+        100,
+        0,
+        0,
+        127,
+        86,
+        104,
+        -96,
+        27,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "ПУГАЛО_КРИКУН",
+    "itemStack": {
+      "id": "witchery:scarecrow",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        96,
+        102,
+        16,
+        8,
+        -9,
+        12,
+        113,
+        14,
+        46,
+        -56,
+        44,
+        -54,
+        44,
+        113,
+        77,
+        75,
+        75,
+        77,
+        46,
+        97,
+        0,
+        -119,
+        2,
+        0,
+        -3,
+        52,
+        94,
+        -110,
+        27,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "ПУГАЛО_СТРАЖ",
+    "itemStack": {
+      "id": "witchery:scarecrow",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        96,
+        102,
+        16,
+        8,
+        -9,
+        12,
+        113,
+        14,
+        46,
+        -56,
+        44,
+        -54,
+        44,
+        113,
+        77,
+        75,
+        75,
+        77,
+        46,
+        97,
+        96,
+        96,
+        96,
+        98,
+        0,
+        0,
+        -68,
+        5,
+        69,
+        -117,
+        27,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "ПУГАЛО_ПУТАНИК",
+    "itemStack": {
+      "id": "witchery:scarecrow",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        96,
+        102,
+        16,
+        8,
+        -9,
+        12,
+        113,
+        14,
+        46,
+        -56,
+        44,
+        -54,
+        44,
+        113,
+        77,
+        75,
+        75,
+        77,
+        46,
+        97,
+        96,
+        96,
+        96,
+        97,
+        0,
+        0,
+        58,
+        -94,
+        31,
+        -35,
+        27,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "ПУГАЛ_ХОД_ПРИЗР",
+    "itemStack": {
+      "id": "witchery:scarecrow",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        96,
+        102,
+        16,
+        8,
+        -9,
+        12,
+        113,
+        14,
+        46,
+        -56,
+        44,
+        -54,
+        44,
+        113,
+        77,
+        75,
+        75,
+        77,
+        46,
+        97,
+        96,
+        96,
+        96,
+        101,
+        0,
+        0,
+        123,
+        -109,
+        4,
+        -60,
+        27,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "ФИГУРКА_ДРЕВНЯ",
+    "itemStack": {
+      "id": "witchery:trent",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВЕДЬМ_ЛЕСТНИЦА",
+    "itemStack": {
+      "id": "witchery:witchsladder",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВЕДЬМ_ЛЕСТН_КР",
+    "itemStack": {
+      "id": "witchery:witchsladder",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        96,
+        102,
+        16,
+        8,
+        -9,
+        12,
+        113,
+        14,
+        46,
+        -56,
+        44,
+        -54,
+        44,
+        113,
+        77,
+        75,
+        75,
+        77,
+        46,
+        97,
+        0,
+        -119,
+        2,
+        0,
+        -3,
+        52,
+        94,
+        -110,
+        27,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "СТ_ОТМЕНЕН_ПРИЗ",
+    "itemStack": {
+      "id": "witchery:decurseteleport",
+      "data": 0
+    }
+  },
+  {
+    "name": "СТАТ_РАЗР_ПРОКЛ",
+    "itemStack": {
+      "id": "witchery:decursedirected",
+      "data": 0
+    }
+  },
+  {
+    "name": "СТ_ПОКР_ХОБГОБЛ",
+    "itemStack": {
+      "id": "witchery:statueofworship",
+      "data": 0
+    }
+  },
+  {
+    "name": "WITCH_S_CAULDR",
+    "itemStack": {
+      "id": "witchery:cauldron",
+      "data": 0
+    }
+  },
+  {
+    "name": "WOLF_ALTAR",
+    "itemStack": {
+      "id": "witchery:wolfaltar",
+      "data": 0
+    }
+  },
+  {
+    "name": "SILVER_VAT",
+    "itemStack": {
+      "id": "witchery:silvervat",
+      "data": 0
+    }
+  },
+  {
+    "name": "BEARTRAP",
+    "itemStack": {
+      "id": "witchery:beartrap",
+      "data": 0
+    }
+  },
+  {
+    "name": "WOLFTRAP",
+    "itemStack": {
+      "id": "witchery:wolftrap",
+      "data": 0
+    }
+  },
+  {
+    "name": "SUN_COLLECTOR",
+    "itemStack": {
+      "id": "witchery:daylightcollector",
+      "data": 0
+    }
+  },
+  {
+    "name": "BLOOD_CRUCIBLE",
+    "itemStack": {
+      "id": "witchery:bloodcrucible",
+      "data": 0
+    }
+  },
+  {
+    "name": "КАНДЕЛЯБР",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 0
+    }
+  },
+  {
+    "name": "КУБОК",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 1
+    }
+  },
+  {
+    "name": "ЧАША_НАПОЛНЕНН",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 2
+    }
+  },
+  {
+    "name": "Л_СН_БЫСТР_БЕГ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 3
+    }
+  },
+  {
+    "name": "Л_СН_ЖЕЛЕЗН_КУЛ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 4
+    }
+  },
+  {
+    "name": "ЛОВ_СНОВ_УСКОР",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 5
+    }
+  },
+  {
+    "name": "ЛОВ_СН_КОШМАРЫ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 6
+    }
+  },
+  {
+    "name": "КОСТЯНАЯ_ИГЛА",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 7
+    }
+  },
+  {
+    "name": "МЕТЛА",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 8
+    }
+  },
+  {
+    "name": "ЗАЧАРОВАН_МЕТЛА",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 9
+    }
+  },
+  {
+    "name": "КАМЕНЬ_СИЛЫ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 10
+    }
+  },
+  {
+    "name": "КАМЕНЬ_СИЛЫ_ЗАР",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 11
+    }
+  },
+  {
+    "name": "КАМЕНЬ_ВОЗВРАТА",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 12
+    }
+  },
+  {
+    "name": "МУТАНДИС",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 14
+    }
+  },
+  {
+    "name": "МУТАНД_ЭКСТРЕМ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 15
+    }
+  },
+  {
+    "name": "ИЗВЕСТЬ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 16
+    }
+  },
+  {
+    "name": "ГИПС",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 17
+    }
+  },
+  {
+    "name": "ДРЕВЕСНЫЙ_ПРАХ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 18
+    }
+  },
+  {
+    "name": "ЦВЕТ_БЕЛАДОННЫ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 21
+    }
+  },
+  {
+    "name": "ЦВЕТ_МАНДРАГОРЫ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 22
+    }
+  },
+  {
+    "name": "СЕРДЦЕ_ДЕМОНА",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 23
+    }
+  },
+  {
+    "name": "ШЕРСТЬ_ЛЕТ_МЫШИ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 24
+    }
+  },
+  {
+    "name": "ЯЗЫК_СОБАКИ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 25
+    }
+  },
+  {
+    "name": "КУВШ_ИЗ_МЯГК_ГЛ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 26
+    }
+  },
+  {
+    "name": "ГЛИНЯНЫЙ_КУВШИН",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 27
+    }
+  },
+  {
+    "name": "ВОНЮЧИЙ_ДЫМ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 28
+    }
+  },
+  {
+    "name": "АЛМАЗН_ИСПАРЕН",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 29
+    }
+  },
+  {
+    "name": "КУПОРОСОВ_МАСЛО",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 30
+    }
+  },
+  {
+    "name": "ВЫДОХ_ДЕМОНА",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 31
+    }
+  },
+  {
+    "name": "ДЫХАНИЕ_БОГИНИ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 32
+    }
+  },
+  {
+    "name": "СИЛА_ВОЗРОЖДЕН",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 33
+    }
+  },
+  {
+    "name": "ДУНОВЕНИЕ_МАГИИ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 34
+    }
+  },
+  {
+    "name": "ЗАПАХ_НЕУДАЧИ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 35
+    }
+  },
+  {
+    "name": "БЛАГОУХ_ЧИСТОТЫ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 36
+    }
+  },
+  {
+    "name": "СЛЕЗА_БОГИНИ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 37
+    }
+  },
+  {
+    "name": "АБСОЛЮТНОЕ_ЗЛО",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 38
+    }
+  },
+  {
+    "name": "КАПЛЯ_УДАЧИ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 39
+    }
+  },
+  {
+    "name": "СУП_ИЗ_РЕДСТОУН",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 40
+    }
+  },
+  {
+    "name": "МАЗЬ_ПОЛЕТА",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 41
+    }
+  },
+  {
+    "name": "ПРИЗРАК_СВЕТА",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 42
+    }
+  },
+  {
+    "name": "ДУША_МИРА",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 43
+    }
+  },
+  {
+    "name": "ДУХ_ПОТУСТ_МИРА",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 44
+    }
+  },
+  {
+    "name": "АДСКАЯ_ВРАЖДЕБ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 45
+    }
+  },
+  {
+    "name": "ВЕДЬМ_СБОР_АРОМ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 46
+    }
+  },
+  {
+    "name": "ВЕДЬМОВ_ДИСТИЛЛ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 47
+    }
+  },
+  {
+    "name": "ВЕДЬМ_МАГ_КРУГ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 48
+    }
+  },
+  {
+    "name": "ВЕДЬ_ЗЕЛЬ_И_ОТВ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 49
+    }
+  },
+  {
+    "name": "СЫРАЯ_СВИН+",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 50
+    }
+  },
+  {
+    "name": "ЖАРЕНАЯ_СВИН+",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 51
+    }
+  },
+  {
+    "name": "Д_ДВЕРЬ_ИЗ_РЯБ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 52
+    }
+  },
+  {
+    "name": "Д_ДВЕР_ИЗ_ОЛЬХИ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 53
+    }
+  },
+  {
+    "name": "КЛ_ОТ_РЯБ_ДВЕРИ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 54
+    }
+  },
+  {
+    "name": "КАМЕНЬ+",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 55
+    }
+  },
+  {
+    "name": "ГУСТАЯ_ПАУТИНА",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 56
+    }
+  },
+  {
+    "name": "ЗЕЛЬЕ_ИЗ_ЛИАНЫ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 57
+    }
+  },
+  {
+    "name": "ЗЕЛЬЕ_ИЗ_ПАУТИН",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 58
+    }
+  },
+  {
+    "name": "ЗЕЛЬЕ_ИЗ_КОЛЮЧ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 59
+    }
+  },
+  {
+    "name": "ЗЕЛЬЕ_ИЗ_ЧЕРНИЛ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 60
+    }
+  },
+  {
+    "name": "ЗЕЛЬЕ_ПРОРАЩИВ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 61
+    }
+  },
+  {
+    "name": "ЗЕЛЬЕ_ЭРОЗИИ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 62
+    }
+  },
+  {
+    "name": "ЯГОДЫ_РЯБИНЫ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 63
+    }
+  },
+  {
+    "name": "КАМЕНЬ_НЕКРОМАН",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 64
+    }
+  },
+  {
+    "name": "ЗЕЛЬЕ_ВОЗВЫШЕН",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 65
+    }
+  },
+  {
+    "name": "СПЕКТРАЛЬН_ПЫЛЬ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 66
+    }
+  },
+  {
+    "name": "РОСА_КРАЯ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 67
+    }
+  },
+  {
+    "name": "КЛ_ВОДНОГО_АРТ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 69
+    }
+  },
+  {
+    "name": "СЕМЕЧКО_ТРИФФИД",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 70
+    }
+  },
+  {
+    "name": "ЗЕЛЬЕ_АБСУРДА",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 71
+    }
+  },
+  {
+    "name": "ПРОПИТАНН_КОЖА",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 72
+    }
+  },
+  {
+    "name": "ФИЛЬТР_ЗАПАХОВ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 73
+    }
+  },
+  {
+    "name": "СЕРДЦЕ_КРИПЕРА",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 74
+    }
+  },
+  {
+    "name": "ЗЕЛЬЕ_ЛЮБВИ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 75
+    }
+  },
+  {
+    "name": "ЗЕЛЬЕ_МОРОЗА",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 76
+    }
+  },
+  {
+    "name": "ЗЕЛЬЕ_ГЛУБИН",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 77
+    }
+  },
+  {
+    "name": "СОСУЛЬКА",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 78
+    }
+  },
+  {
+    "name": "ЗАМОРОЖ_СЕРДЦЕ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 79
+    }
+  },
+  {
+    "name": "ДЕМОН_КРОВЬ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 80
+    }
+  },
+  {
+    "name": "ВЕДЬМОВСТВ_ТРАВ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 81
+    }
+  },
+  {
+    "name": "ВЕТВЬ_ЭНТА",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 82
+    }
+  },
+  {
+    "name": "МИСТИЧЕСК_МАЗЬ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 83
+    }
+  },
+  {
+    "name": "РЯБИНОВ_БРЕЛОК",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 84
+    }
+  },
+  {
+    "name": "ОТВ_ИЗ_ЖАБЬ_ЯЗ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 85
+    }
+  },
+  {
+    "name": "ОТВ_ПРОКЛ_ПРЫЖК",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 86
+    }
+  },
+  {
+    "name": "ОТВАР_ПОГРЕБОВ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 87
+    }
+  },
+  {
+    "name": "ОТВАР_ИНФЕКЦИЙ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 88
+    }
+  },
+  {
+    "name": "КРЫЛО_СОВЫ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 89
+    }
+  },
+  {
+    "name": "ЖАБИЙ_КОГОТЬ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 90
+    }
+  },
+  {
+    "name": "ЧЕРВИВОЕ_ЯБЛОКО",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 91
+    }
+  },
+  {
+    "name": "КВАРЦОВАЯ_СФЕРА",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 92
+    }
+  },
+  {
+    "name": "МАСЛО_НЕИЗБЕЖН",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 93
+    }
+  },
+  {
+    "name": "КАМЕНЬ_ПРОРОКА",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 94
+    }
+  },
+  {
+    "name": "НАСТОЙ_СНА",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 95
+    }
+  },
+  {
+    "name": "НАСТ_ПРЕСЛ_ДУХА",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 96
+    }
+  },
+  {
+    "name": "НАСТОЙ_ТРАНЖИРЫ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 97
+    }
+  },
+  {
+    "name": "ЯБЛОКО+",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 98
+    }
+  },
+  {
+    "name": "ПОРВАННЫЙ_ШЕЛК",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 99
+    }
+  },
+  {
+    "name": "СПУТАВШ_НИТЬ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 100
+    }
+  },
+  {
+    "name": "ВЫМУЧЕНН_ПРЯЖА",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 101
+    }
+  },
+  {
+    "name": "ЗОЛОТАЯ_НИТЬ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 102
+    }
+  },
+  {
+    "name": "СЛАДКОЗВ_ГОЛОД",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 103
+    }
+  },
+  {
+    "name": "ЛОВЕЦ_СНОВ_СИЛА",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 104
+    }
+  },
+  {
+    "name": "ОЧИЩЕНН_МОЛОКО",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 105
+    }
+  },
+  {
+    "name": "КНИГА_БИОМОВ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 106
+    }
+  },
+  {
+    "name": "ВЕДЬМОВСТВ_СИМВ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 107
+    }
+  },
+  {
+    "name": "КОНЦ_К_ЛЕТ_МЫШ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 108
+    }
+  },
+  {
+    "name": "ВАРЕВО_ЛЕТ_МЫШ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 109
+    }
+  },
+  {
+    "name": "ДАР_ПРИЧУД_МЫШЛ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 110
+    }
+  },
+  {
+    "name": "ГОРЬКАЯ_ПОЛЫНЬ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 111
+    }
+  },
+  {
+    "name": "ПРИГЛУШЕНН_ДУХ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 112
+    }
+  },
+  {
+    "name": "ЗАГАДАНН_ЖЕЛАН",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 113
+    }
+  },
+  {
+    "name": "КОНЦЕНТР_СТРАХ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 114
+    }
+  },
+  {
+    "name": "НАСТ_ПУСТ_СЛЕЗ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 115
+    }
+  },
+  {
+    "name": "ЗАТ_НАСТ_КАМЕНЬ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 116
+    }
+  },
+  {
+    "name": "ЗАТВ_НАСТ_ЗЕМЛЯ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 117
+    }
+  },
+  {
+    "name": "ЗАТВ_НАСТ_ПЕСОК",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 118
+    }
+  },
+  {
+    "name": "ЗАТВ_НАСТ_ПЕСЧ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 119
+    }
+  },
+  {
+    "name": "ЗАТ_НАСТ_ЭРОЗИЯ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 120
+    }
+  },
+  {
+    "name": "ОСНОВА_ЗАЧ_НАСТ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 121
+    }
+  },
+  {
+    "name": "ЗАЧ_НАСТ_ПАРЕН",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 122
+    }
+  },
+  {
+    "name": "ЗАЧ_МОГИЛЬ_НАСТ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 123
+    }
+  },
+  {
+    "name": "НАСТОЙ_ОТКРЫТИЙ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 124
+    }
+  },
+  {
+    "name": "НАСТОЙ_ЗАМЕЩЕН",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 125
+    }
+  },
+  {
+    "name": "ЗАСТЫВШИЙ_ДУХ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 126
+    }
+  },
+  {
+    "name": "ВЕДЬ_КОЛД_И_ИД",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 127
+    }
+  },
+  {
+    "name": "МОГИЛЬНЫЙ_ПРАХ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 128
+    }
+  },
+  {
+    "name": "ЧЕРЕП_БИНКИ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 129
+    }
+  },
+  {
+    "name": "КАТАЛИЗ_РАССЕИВ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 130
+    }
+  },
+  {
+    "name": "РАССЕИВАЮЩ_КОЖА",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 131
+    }
+  },
+  {
+    "name": "ДЕРЕВЯННЫЙ_БОЛТ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 132
+    }
+  },
+  {
+    "name": "РАССЕИВАЮЩ_БОЛТ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 133
+    }
+  },
+  {
+    "name": "КОСТЯНОЙ_БОЛТ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 134
+    }
+  },
+  {
+    "name": "РАСЩЕПЛЯЮЩ_БОЛТ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 135
+    }
+  },
+  {
+    "name": "ДУША_ДЕМ_ГОЛОДА",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 136
+    }
+  },
+  {
+    "name": "ДУША_ДЕМ_ПЕЧАЛИ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 137
+    }
+  },
+  {
+    "name": "ДУША_ДЕМ_СТРАХА",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 138
+    }
+  },
+  {
+    "name": "ДУША_ДЕМОНА_МУЧ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 139
+    }
+  },
+  {
+    "name": "ДЕМОН_КОНТРАКТ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 140
+    }
+  },
+  {
+    "name": "МУЧЕНИЕ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 141
+    }
+  },
+  {
+    "name": "ЖИВОЕ_ПЛАМЯ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 142
+    }
+  },
+  {
+    "name": "УСТОЙЧИВ_К_ОГНЮ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 143
+    }
+  },
+  {
+    "name": "ИСПАРЕНИЕ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 144
+    }
+  },
+  {
+    "name": "ОГНЕНН_КАСАНИЕ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 145
+    }
+  },
+  {
+    "name": "ПЛАВЯЩ_ФАКЕЛ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 146
+    }
+  },
+  {
+    "name": "КОБОЛЬДИТ_ПЫЛЬ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 148
+    }
+  },
+  {
+    "name": "КОБОЛЬД_САМОРОД",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 149
+    }
+  },
+  {
+    "name": "КОБОЛЬД_СЛИТОК",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 150
+    }
+  },
+  {
+    "name": "ПЕНТАКЛЬ",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 151
+    }
+  },
+  {
+    "name": "ICE_DOOR",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 152
+    }
+  },
+  {
+    "name": "ANOINTING_PASTE",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 153
+    }
+  },
+  {
+    "name": "SUBD_VILLAGE_SP",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 154
+    }
+  },
+  {
+    "name": "SILVER_BOLT",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 155
+    }
+  },
+  {
+    "name": "WOLFSBANE",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 156
+    }
+  },
+  {
+    "name": "SILVER_DEPOSITS",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 157
+    }
+  },
+  {
+    "name": "RAW_LAMBCHOP",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 158
+    }
+  },
+  {
+    "name": "COOKED_LAMBCHOP",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 159
+    }
+  },
+  {
+    "name": "TORN_PAGE",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 160
+    }
+  },
+  {
+    "name": "WOVEN_CRUOR",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 161
+    }
+  },
+  {
+    "name": "WOODEN_STAKE",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 162
+    }
+  },
+  {
+    "name": "WARM_BLOOD",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 163
+    }
+  },
+  {
+    "name": "LILITH_S_BLOOD",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 164
+    }
+  },
+  {
+    "name": "HEART_OF_GOLD",
+    "itemStack": {
+      "id": "witchery:ingredient",
+      "data": 165
+    }
+  },
+  {
+    "name": "Н_ДЛЯ_СБОРА_ДНК",
+    "itemStack": {
+      "id": "witchery:taglockkit",
+      "data": 0
+    }
+  },
+  {
+    "name": "КУКЛА",
+    "itemStack": {
+      "id": "witchery:poppet",
+      "data": 0
+    }
+  },
+  {
+    "name": "КУКЛ_З_ОТ_ЗЕМЛИ",
+    "itemStack": {
+      "id": "witchery:poppet",
+      "data": 1
+    }
+  },
+  {
+    "name": "КУКЛА_З_ОТ_ВОДЫ",
+    "itemStack": {
+      "id": "witchery:poppet",
+      "data": 2
+    }
+  },
+  {
+    "name": "КУКЛА_З_ОТ_ОГНЯ",
+    "itemStack": {
+      "id": "witchery:poppet",
+      "data": 3
+    }
+  },
+  {
+    "name": "КУКЛА_З_ОТ_ГОЛ",
+    "itemStack": {
+      "id": "witchery:poppet",
+      "data": 4
+    }
+  },
+  {
+    "name": "КУКЛА_ЗАЩ_ИНСТР",
+    "itemStack": {
+      "id": "witchery:poppet",
+      "data": 5
+    }
+  },
+  {
+    "name": "КУКЛ_З_ОТ_СМЕРТ",
+    "itemStack": {
+      "id": "witchery:poppet",
+      "data": 6
+    }
+  },
+  {
+    "name": "КУКЛА_З_ОТ_ВУДУ",
+    "itemStack": {
+      "id": "witchery:poppet",
+      "data": 7
+    }
+  },
+  {
+    "name": "КУКЛА_ВУДУ",
+    "itemStack": {
+      "id": "witchery:poppet",
+      "data": 8
+    }
+  },
+  {
+    "name": "ВАМПИРИЧ_КУКЛА",
+    "itemStack": {
+      "id": "witchery:poppet",
+      "data": 9
+    }
+  },
+  {
+    "name": "КУКЛА_ЗАЩИТ_КУК",
+    "itemStack": {
+      "id": "witchery:poppet",
+      "data": 10
+    }
+  },
+  {
+    "name": "КУКЛА_ЗАЩ_БРОНИ",
+    "itemStack": {
+      "id": "witchery:poppet",
+      "data": 11
+    }
+  },
+  {
+    "name": "УНИВЕРСАЛ_АНТИД",
+    "itemStack": {
+      "id": "witchery:potion",
+      "data": 0
+    }
+  },
+  {
+    "name": "COFFIN",
+    "itemStack": {
+      "id": "witchery:coffin",
+      "data": 0
+    }
+  },
+  {
+    "name": "MEATY_STEW",
+    "itemStack": {
+      "id": "witchery:stew",
+      "data": 0
+    }
+  },
+  {
+    "name": "RAW_MEATY_STEW",
+    "itemStack": {
+      "id": "witchery:stewraw",
+      "data": 0
+    }
+  },
+  {
+    "name": "MIRROR",
+    "itemStack": {
+      "id": "witchery:mirror",
+      "data": 0
+    }
+  },
+  {
+    "name": "РИТУАЛЬНЫЙ_МЕЛ",
+    "itemStack": {
+      "id": "witchery:chalkritual",
+      "data": 0
+    }
+  },
+  {
+    "name": "МЕЛ_ПОТУСТ_МИРА",
+    "itemStack": {
+      "id": "witchery:chalkotherwhere",
+      "data": 0
+    }
+  },
+  {
+    "name": "АДСКИЙ_МЕЛ",
+    "itemStack": {
+      "id": "witchery:chalkinfernal",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗОЛОТОЙ_МЕЛ",
+    "itemStack": {
+      "id": "witchery:chalkheart",
+      "data": 0
+    }
+  },
+  {
+    "name": "БОЛЛИН",
+    "itemStack": {
+      "id": "witchery:boline",
+      "data": 0
+    }
+  },
+  {
+    "name": "АРТАНА",
+    "itemStack": {
+      "id": "witchery:arthana",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОПЬЕ_ОХОТНИКА",
+    "itemStack": {
+      "id": "witchery:huntsmanspear",
+      "data": 0
+    }
+  },
+  {
+    "name": "АРБ_ОХ_НА_ВЕДЬМ",
+    "itemStack": {
+      "id": "witchery:handbow",
+      "data": 0
+    }
+  },
+  {
+    "name": "РУКА_СМЕРТИ",
+    "itemStack": {
+      "id": "witchery:deathshand",
+      "data": 0
+    }
+  },
+  {
+    "name": "SILVER_SWORD",
+    "itemStack": {
+      "id": "witchery:silversword",
+      "data": 0
+    }
+  },
+  {
+    "name": "CANE_SWORD",
+    "itemStack": {
+      "id": "witchery:canesword",
+      "data": 0
+    }
+  },
+  {
+    "name": "РУКА_ВЕДЬМЫ",
+    "itemStack": {
+      "id": "witchery:witchhand",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТАЛИСМАН_КРУГА",
+    "itemStack": {
+      "id": "witchery:circletalisman",
+      "data": 0
+    }
+  },
+  {
+    "name": "Т_КРУГА_МАЛ_РИТ",
+    "itemStack": {
+      "id": "witchery:circletalisman",
+      "data": 1
+    }
+  },
+  {
+    "name": "Т_КРУГА_М_ПОТУС",
+    "itemStack": {
+      "id": "witchery:circletalisman",
+      "data": 2
+    }
+  },
+  {
+    "name": "Т_КРУГА_М_АДСК",
+    "itemStack": {
+      "id": "witchery:circletalisman",
+      "data": 3
+    }
+  },
+  {
+    "name": "Т_КРУГА_СРЕДН_Р",
+    "itemStack": {
+      "id": "witchery:circletalisman",
+      "data": 8
+    }
+  },
+  {
+    "name": "Т_КРУГА_СРЕДН_П",
+    "itemStack": {
+      "id": "witchery:circletalisman",
+      "data": 16
+    }
+  },
+  {
+    "name": "Т_КР_СРЕДН_АДСК",
+    "itemStack": {
+      "id": "witchery:circletalisman",
+      "data": 24
+    }
+  },
+  {
+    "name": "Т_КРУГА_БОЛЬШ_Р",
+    "itemStack": {
+      "id": "witchery:circletalisman",
+      "data": 64
+    }
+  },
+  {
+    "name": "Т_КРУГА_БОЛЬШ_П",
+    "itemStack": {
+      "id": "witchery:circletalisman",
+      "data": 128
+    }
+  },
+  {
+    "name": "Т_КР_БОЛЬШ_АДСК",
+    "itemStack": {
+      "id": "witchery:circletalisman",
+      "data": 192
+    }
+  },
+  {
+    "name": "МИСТИЧЕСКИЙ_ОТР",
+    "itemStack": {
+      "id": "witchery:mysticbranch",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВОД_ПРОРИЦАТЕЛЬ",
+    "itemStack": {
+      "id": "witchery:divinerwater",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛАВ_ПРОРИЦАТЕЛЬ",
+    "itemStack": {
+      "id": "witchery:divinerlava",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДАР_ПОН_ЖИВОТН",
+    "itemStack": {
+      "id": "witchery:polynesiacharm",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДАР_ДЬЯВОЛЬС_ОБ",
+    "itemStack": {
+      "id": "witchery:devilstonguecharm",
+      "data": 0
+    }
+  },
+  {
+    "name": "МУТИРОВАВШ_СУК",
+    "itemStack": {
+      "id": "witchery:mutator",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВОШЬ_ПАРАЗИТ",
+    "itemStack": {
+      "id": "witchery:louse",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗАПЛ_СУМК_ДЛЯ_В",
+    "itemStack": {
+      "id": "witchery:brewbag",
+      "data": 0
+    }
+  },
+  {
+    "name": "СПЕКТ_КАМЕНЬ",
+    "itemStack": {
+      "id": "witchery:spectralstone",
+      "data": 0
+    }
+  },
+  {
+    "name": "СПЕК_КАМ_ПРИЗ",
+    "itemStack": {
+      "id": "witchery:spectralstone",
+      "data": 17
+    }
+  },
+  {
+    "name": "СПЕК_КАМ_БАНЬ",
+    "itemStack": {
+      "id": "witchery:spectralstone",
+      "data": 18
+    }
+  },
+  {
+    "name": "СПЕК_КАМ_ПОЛТ",
+    "itemStack": {
+      "id": "witchery:spectralstone",
+      "data": 19
+    }
+  },
+  {
+    "name": "КОМП_ПОЛК_ДЛЯ_К",
+    "itemStack": {
+      "id": "witchery:shelfcompass",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОБОЛЬДИТ_КИРКА",
+    "itemStack": {
+      "id": "witchery:kobolditepickaxe",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПОСОХ_УДВОЕНИЯ",
+    "itemStack": {
+      "id": "witchery:dupstaff",
+      "data": 0
+    }
+  },
+  {
+    "name": "BREW_OF_COMBUST",
+    "itemStack": {
+      "id": "witchery:brew.fuel",
+      "data": 0
+    }
+  },
+  {
+    "name": "BR_OF_ENDL_WAT",
+    "itemStack": {
+      "id": "witchery:brew.water",
+      "data": 0
+    }
+  },
+  {
+    "name": "B_OF_B_EXTEN_ED",
+    "itemStack": {
+      "id": "witchery:bookbiomes2",
+      "data": 0
+    }
+  },
+  {
+    "name": "BIOME_BEACH",
+    "itemStack": {
+      "id": "witchery:biomenote",
+      "data": 0
+    }
+  },
+  {
+    "name": "WITCHES_BREWS",
+    "itemStack": {
+      "id": "witchery:cauldronbook",
+      "data": 0
+    }
+  },
+  {
+    "name": "LEONARD_URN_1",
+    "itemStack": {
+      "id": "witchery:leonardsurn",
+      "data": 0
+    }
+  },
+  {
+    "name": "LEONARD_URN_2",
+    "itemStack": {
+      "id": "witchery:leonardsurn",
+      "data": 1
+    }
+  },
+  {
+    "name": "LEONARD_URN_3",
+    "itemStack": {
+      "id": "witchery:leonardsurn",
+      "data": 2
+    }
+  },
+  {
+    "name": "LEONARD_URN_4",
+    "itemStack": {
+      "id": "witchery:leonardsurn",
+      "data": 3
+    }
+  },
+  {
+    "name": "PLAYER_COMPASS",
+    "itemStack": {
+      "id": "witchery:playercompass",
+      "data": 0
+    }
+  },
+  {
+    "name": "MOON_CHARM",
+    "itemStack": {
+      "id": "witchery:mooncharm",
+      "data": 0
+    }
+  },
+  {
+    "name": "HOR_OF_THE_HUNT",
+    "itemStack": {
+      "id": "witchery:hornofthehunt",
+      "data": 0
+    }
+  },
+  {
+    "name": "CR_BAT_WOLF_TOK",
+    "itemStack": {
+      "id": "witchery:wolftoken",
+      "data": 0
+    }
+  },
+  {
+    "name": "GLASS_GOBLET",
+    "itemStack": {
+      "id": "witchery:glassgoblet",
+      "data": 0
+    }
+  },
+  {
+    "name": "SUN_GRENADE",
+    "itemStack": {
+      "id": "witchery:sungrenade",
+      "data": 0
+    }
+  },
+  {
+    "name": "OBS_OF_AN_IM",
+    "itemStack": {
+      "id": "witchery:vampirebook",
+      "data": 0
+    }
+  },
+  {
+    "name": "OBS_OF_AN_IM+",
+    "itemStack": {
+      "id": "witchery:vampirebook",
+      "data": 9
+    }
+  },
+  {
+    "name": "DUPLIC_GRENADE",
+    "itemStack": {
+      "id": "witchery:dupgrenade",
+      "data": 0
+    }
+  },
+  {
+    "name": "ШЛЯПА_ВЕДЬМЫ",
+    "itemStack": {
+      "id": "witchery:witchhat",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОЛПАК_БАБЫ_ЯГИ",
+    "itemStack": {
+      "id": "witchery:babashat",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВЕДЬМИН_БАЛАХОН",
+    "itemStack": {
+      "id": "witchery:witchrobe",
+      "data": 0
+    }
+  },
+  {
+    "name": "БАЛ_НЕКРОМАНТА",
+    "itemStack": {
+      "id": "witchery:necromancerrobe",
+      "data": 0
+    }
+  },
+  {
+    "name": "КУСАЮЩИЙ_РЕМЕНЬ",
+    "itemStack": {
+      "id": "witchery:bitingbelt",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛАЯЩИЙ_РЕМЕНЬ",
+    "itemStack": {
+      "id": "witchery:barkbelt",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОНЬКИ",
+    "itemStack": {
+      "id": "witchery:iceslippers",
+      "data": 0
+    }
+  },
+  {
+    "name": "РУБИНОВ_ТАПОЧКИ",
+    "itemStack": {
+      "id": "witchery:rubyslippers",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛЕТЕН_БОТИНКИ",
+    "itemStack": {
+      "id": "witchery:seepingshoes",
+      "data": 0
+    }
+  },
+  {
+    "name": "ШЛ_ОХ_НА_ВЕДЬМ",
+    "itemStack": {
+      "id": "witchery:hunterhat",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛ_ОХ_НА_ВЕДЬМ",
+    "itemStack": {
+      "id": "witchery:huntercoat",
+      "data": 0
+    }
+  },
+  {
+    "name": "ШТ_ОХ_НА_ВЕДЬМ",
+    "itemStack": {
+      "id": "witchery:hunterlegs",
+      "data": 0
+    }
+  },
+  {
+    "name": "Б_ОХОТ_НА_ВЕДЬМ",
+    "itemStack": {
+      "id": "witchery:hunterboots",
+      "data": 0
+    }
+  },
+  {
+    "name": "WIT_HUNT_H_SILV",
+    "itemStack": {
+      "id": "witchery:hunterhatsilvered",
+      "data": 0
+    }
+  },
+  {
+    "name": "WIT_HUNT_C_SILV",
+    "itemStack": {
+      "id": "witchery:huntercoatsilvered",
+      "data": 0
+    }
+  },
+  {
+    "name": "W_HUNT_TR_SILV",
+    "itemStack": {
+      "id": "witchery:hunterlegssilvered",
+      "data": 0
+    }
+  },
+  {
+    "name": "WIT_HUNT_B_SILV",
+    "itemStack": {
+      "id": "witchery:hunterbootssilvered",
+      "data": 0
+    }
+  },
+  {
+    "name": "WIT_HUNT_DAWN_H",
+    "itemStack": {
+      "id": "witchery:hunterhatgarlicked",
+      "data": 0
+    }
+  },
+  {
+    "name": "WIT_HUNT_DAWN_C",
+    "itemStack": {
+      "id": "witchery:huntercoatgarlicked",
+      "data": 0
+    }
+  },
+  {
+    "name": "W_HUNT_DAWN_TR",
+    "itemStack": {
+      "id": "witchery:hunterlegsgarlicked",
+      "data": 0
+    }
+  },
+  {
+    "name": "WIT_HUNT_DAWN_B",
+    "itemStack": {
+      "id": "witchery:hunterbootsgarlicked",
+      "data": 0
+    }
+  },
+  {
+    "name": "КАПЮШОН_СМЕРТИ",
+    "itemStack": {
+      "id": "witchery:deathscowl",
+      "data": 0
+    }
+  },
+  {
+    "name": "РОБА_СМЕРТИ",
+    "itemStack": {
+      "id": "witchery:deathsrobe",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОБУВЬ_СМЕРТИ",
+    "itemStack": {
+      "id": "witchery:deathsfeet",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОЛЧАН_МОГА",
+    "itemStack": {
+      "id": "witchery:quiverofmog",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПОЯС_ГУЛГА",
+    "itemStack": {
+      "id": "witchery:gurdleofgulg",
+      "data": 0
+    }
+  },
+  {
+    "name": "TWISTING_BAND",
+    "itemStack": {
+      "id": "witchery:kobolditehelm",
+      "data": 0
+    }
+  },
+  {
+    "name": "EARMUFFS",
+    "itemStack": {
+      "id": "witchery:earmuffs",
+      "data": 0
+    }
+  },
+  {
+    "name": "VAMPIRE_TOP_HAT",
+    "itemStack": {
+      "id": "witchery:vampirehat",
+      "data": 0
+    }
+  },
+  {
+    "name": "VAMPIRE_HELMET",
+    "itemStack": {
+      "id": "witchery:vampirehelmet",
+      "data": 0
+    }
+  },
+  {
+    "name": "VAMPIRE_DRESS_C",
+    "itemStack": {
+      "id": "witchery:vampirecoat",
+      "data": 0
+    }
+  },
+  {
+    "name": "VAMP_DR_JACK_L",
+    "itemStack": {
+      "id": "witchery:vampirecoat_female",
+      "data": 0
+    }
+  },
+  {
+    "name": "VAMPIRE_CH_COAT",
+    "itemStack": {
+      "id": "witchery:vampirechaincoat",
+      "data": 0
+    }
+  },
+  {
+    "name": "VAMPIR_CH_C_LAD",
+    "itemStack": {
+      "id": "witchery:vampirechaincoat_female",
+      "data": 0
+    }
+  },
+  {
+    "name": "VAMPIRE_TROUSER",
+    "itemStack": {
+      "id": "witchery:vampirelegs",
+      "data": 0
+    }
+  },
+  {
+    "name": "VAMPIR_SKIRT_TR",
+    "itemStack": {
+      "id": "witchery:vampirelegs_kilt",
+      "data": 0
+    }
+  },
+  {
+    "name": "VAMP_OXF_BOOTS",
+    "itemStack": {
+      "id": "witchery:vampireboots",
+      "data": 0
+    }
+  },
+  {
+    "name": "СЕМЕНА_БЕЛАДОНН",
+    "itemStack": {
+      "id": "witchery:seedsbelladonna",
+      "data": 0
+    }
+  },
+  {
+    "name": "СЕМЕНА_МАНДРАГ",
+    "itemStack": {
+      "id": "witchery:seedsmandrake",
+      "data": 0
+    }
+  },
+  {
+    "name": "СЕМЕНА_ВОДН_АРТ",
+    "itemStack": {
+      "id": "witchery:seedsartichoke",
+      "data": 0
+    }
+  },
+  {
+    "name": "СЕМЕНА_ПОДСНЕЖН",
+    "itemStack": {
+      "id": "witchery:seedssnowbell",
+      "data": 0
+    }
+  },
+  {
+    "name": "С_ГОРЬК_ПОЛЫНИ",
+    "itemStack": {
+      "id": "witchery:seedswormwood",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛУКОВИЦА_МАЙНДР",
+    "itemStack": {
+      "id": "witchery:seedsmindrake",
+      "data": 0
+    }
+  },
+  {
+    "name": "WOLFSBANE_SEEDS",
+    "itemStack": {
+      "id": "witchery:seedswolfsbane",
+      "data": 0
+    }
+  },
+  {
+    "name": "GARLIC",
+    "itemStack": {
+      "id": "witchery:garlic",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВЕДРО_ДУХОВ",
+    "itemStack": {
+      "id": "witchery:bucketspirit",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВЕДРО_ПУСТ_СЛЕЗ",
+    "itemStack": {
+      "id": "witchery:buckethollowtears",
+      "data": 0
+    }
+  }
+]

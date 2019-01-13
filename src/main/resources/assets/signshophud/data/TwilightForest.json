@@ -1,0 +1,3075 @@
+[
+  {
+    "name": "СУМЕРЕЧНЫЙ_ДУБ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFLog",
+      "data": 0
+    }
+  },
+  {
+    "name": "СУМЕРЕЧН_СОСНА",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFLog",
+      "data": 1
+    }
+  },
+  {
+    "name": "СУМЕРЕЧН_БЕРЁЗА",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFLog",
+      "data": 2
+    }
+  },
+  {
+    "name": "ТЁМНОЕ_ДЕРЕВО",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFLog",
+      "data": 3
+    }
+  },
+  {
+    "name": "КОРНИ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFRoots",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗАМШЕЛЫЕ_КОРНИ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFRoots",
+      "data": 1
+    }
+  },
+  {
+    "name": "ЛИСТВА_СУМ_ДУБА",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFLeaves",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛИСТВ_СУМ_СОСНЫ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFLeaves",
+      "data": 1
+    }
+  },
+  {
+    "name": "ЛИСТВ_С_БЕРЁЗЫ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFLeaves",
+      "data": 2
+    }
+  },
+  {
+    "name": "РАЗНОЦВ_ЛИСТВА",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFLeaves",
+      "data": 3
+    }
+  },
+  {
+    "name": "СВЕТЛЯЧОК",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFFirefly",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЦИКАДА",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFCicada",
+      "data": 0
+    }
+  },
+  {
+    "name": "КАМЕНЬ_ЛАБИРИНТ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFMazestone",
+      "data": 0
+    }
+  },
+  {
+    "name": "КЛАД_ИЗ_КАМНЯ_Л",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFMazestone",
+      "data": 1
+    }
+  },
+  {
+    "name": "ГЛАДК_Л_КЛАДКА",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFMazestone",
+      "data": 2
+    }
+  },
+  {
+    "name": "ДЕК_ЛАБ_КЛАДКА",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFMazestone",
+      "data": 3
+    }
+  },
+  {
+    "name": "ПОТР_ЛАБ_КЛАДКА",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFMazestone",
+      "data": 4
+    }
+  },
+  {
+    "name": "ЗАМШ_ЛАБ_КЛАДКА",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFMazestone",
+      "data": 5
+    }
+  },
+  {
+    "name": "УЗОРЧ_Л_КЛАДКА",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFMazestone",
+      "data": 6
+    }
+  },
+  {
+    "name": "ДВ_УЗОР_Л_КЛАДК",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFMazestone",
+      "data": 7
+    }
+  },
+  {
+    "name": "ХЕДЖА",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFHedge",
+      "data": 0
+    }
+  },
+  {
+    "name": "БАНОЧК_СО_СВЕТЛ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFFireflyJar",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПОКРОВ_МХА",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFPlant",
+      "data": 3
+    }
+  },
+  {
+    "name": "ЧЕТЫРЁХЛ_КЛЕВЕР",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFPlant",
+      "data": 4
+    }
+  },
+  {
+    "name": "СВЕРКАЮЩ_ТРАВА",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFPlant",
+      "data": 8
+    }
+  },
+  {
+    "name": "СВЕТОГРИБ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFPlant",
+      "data": 9
+    }
+  },
+  {
+    "name": "ЛЕСНАЯ_ТРАВА",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFPlant",
+      "data": 10
+    }
+  },
+  {
+    "name": "МЁРТВЫЙ_КУСТ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFPlant",
+      "data": 11
+    }
+  },
+  {
+    "name": "ФАКЕЛОНТ_РОСТОК",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFPlant",
+      "data": 13
+    }
+  },
+  {
+    "name": "ВИСЯЧИЕ_КОРНИ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFPlant",
+      "data": 14
+    }
+  },
+  {
+    "name": "АНТИ_ВЕРСТАК",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFUncraftingTable",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДЫМОВОЙ_БЛОК",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFFireJet",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОГНЕННЫЙ_БЛОК",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFFireJet",
+      "data": 8
+    }
+  },
+  {
+    "name": "ПРИРУЧЁНН_ДЫМОК",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFFireJet",
+      "data": 1
+    }
+  },
+  {
+    "name": "ЗАКЛЮЧЁН_ОГОНЁК",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFFireJet",
+      "data": 11
+    }
+  },
+  {
+    "name": "НАГАКАМЕНЬ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFNagastone",
+      "data": 1
+    }
+  },
+  {
+    "name": "НАГАКАМЕНЬ+",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFNagastone",
+      "data": 13
+    }
+  },
+  {
+    "name": "САЖ_СУМЕР_ДУБА",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFSapling",
+      "data": 0
+    }
+  },
+  {
+    "name": "САЖ_СУМЕР_СОСНЫ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFSapling",
+      "data": 1
+    }
+  },
+  {
+    "name": "САЖ_СУМ_БЕРЁЗЫ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFSapling",
+      "data": 2
+    }
+  },
+  {
+    "name": "САЖ_ТЁМН_ДЕРЕВА",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFSapling",
+      "data": 3
+    }
+  },
+  {
+    "name": "С_БОЛЬШ_С_ДУБА",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFSapling",
+      "data": 4
+    }
+  },
+  {
+    "name": "САЖ_ДЕРЕВА_ВРЕМ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFSapling",
+      "data": 5
+    }
+  },
+  {
+    "name": "САЖ_МУДР_ДЕРЕВА",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFSapling",
+      "data": 6
+    }
+  },
+  {
+    "name": "САЖ_ДЕРЕВА_ШАХТ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFSapling",
+      "data": 7
+    }
+  },
+  {
+    "name": "САЖ_СОРТ_ДЕРЕВА",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFSapling",
+      "data": 8
+    }
+  },
+  {
+    "name": "САЖ_РАЗН_ДЕРЕВА",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFSapling",
+      "data": 9
+    }
+  },
+  {
+    "name": "ГУСЕНИЦА",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFMoonworm",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДЕРЕВО_ВРЕМЕНИ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFMagicLog",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗАГАДОЧН_ДЕРЕВО",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFMagicLog",
+      "data": 1
+    }
+  },
+  {
+    "name": "ДЕРЕВО_ШАХТЁРА",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFMagicLog",
+      "data": 2
+    }
+  },
+  {
+    "name": "ПРАВИЛЬН_ДЕРЕВО",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFMagicLog",
+      "data": 3
+    }
+  },
+  {
+    "name": "ЛИСТВ_ДЕРЕВА_ВР",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFMagicLeaves",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛИСТВ_МУДР_ДЕР",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFMagicLeaves",
+      "data": 1
+    }
+  },
+  {
+    "name": "ЛИСТВА_ШАХТЁРА",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFMagicLeaves",
+      "data": 2
+    }
+  },
+  {
+    "name": "ЛИСТВА_СОРТИРОВ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFMagicLeaves",
+      "data": 3
+    }
+  },
+  {
+    "name": "ЯДРО_ДЕР_ВРЕМ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFMagicLogSpecial",
+      "data": 0
+    }
+  },
+  {
+    "name": "МУДРОЕ_ДЕРЕВО",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFMagicLogSpecial",
+      "data": 1
+    }
+  },
+  {
+    "name": "ЯДРО_ДЕРЕВ_ШАХТ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFMagicLogSpecial",
+      "data": 2
+    }
+  },
+  {
+    "name": "ЯДРО_ДЕРЕВ_СОРТ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFMagicLogSpecial",
+      "data": 3
+    }
+  },
+  {
+    "name": "ПЛАН_ТЁМН_БАШНИ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFTowerStone",
+      "data": 0
+    }
+  },
+  {
+    "name": "Б_ПЛ_ТЁМН_БАШНИ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFTowerStone",
+      "data": 1
+    }
+  },
+  {
+    "name": "ТР_ПЛ_ТЁМН_БАШН",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFTowerStone",
+      "data": 2
+    }
+  },
+  {
+    "name": "З_ПЛ_ТЁМН_БАШН",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFTowerStone",
+      "data": 3
+    }
+  },
+  {
+    "name": "ИНФ_ПЛ_ТЁМ_БАШН",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFTowerStone",
+      "data": 4
+    }
+  },
+  {
+    "name": "ВОССТАНАВЛ_БЛОК",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFTowerDevice",
+      "data": 0
+    }
+  },
+  {
+    "name": "ИСЧЕЗАЮЩИЙ_БЛОК",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFTowerDevice",
+      "data": 2
+    }
+  },
+  {
+    "name": "ЗАБЛ_ВОССТ_БЛОК",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFTowerDevice",
+      "data": 4
+    }
+  },
+  {
+    "name": "РАЗБЛ_ВОССТ_БЛ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFTowerDevice",
+      "data": 5
+    }
+  },
+  {
+    "name": "СТРОИТЕЛЬ_БАШНИ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFTowerDevice",
+      "data": 6
+    }
+  },
+  {
+    "name": "АНТИСТРОИТЕЛЬ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFTowerDevice",
+      "data": 9
+    }
+  },
+  {
+    "name": "ЛОВУШ_ДЛЯ_ГАСТА",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFTowerDevice",
+      "data": 10
+    }
+  },
+  {
+    "name": "КАРМИН_РЕАКТОР",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFTowerDevice",
+      "data": 12
+    }
+  },
+  {
+    "name": "КРЕПКИЙ_ЩИТ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFShield",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТРОФЕЙН_ПЬЕДЕСТ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFTrophyPedestal",
+      "data": 0
+    }
+  },
+  {
+    "name": "АКТ_ТР_ПЬЕДЕСТ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFTrophyPedestal",
+      "data": 15
+    }
+  },
+  {
+    "name": "БЛОК_АВРОРЫ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFAuroraBrick",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПОДЗЕМН_КИРПИЧИ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFUnderBrick",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПОТР_ПОЗД_КИРП",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFUnderBrick",
+      "data": 1
+    }
+  },
+  {
+    "name": "ЗАМШ_ПОДЗ_КИРП",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFUnderBrick",
+      "data": 2
+    }
+  },
+  {
+    "name": "ШИПЫ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFThorns",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗЕЛЁНЫЕ_ШИПЫ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFThorns",
+      "data": 1
+    }
+  },
+  {
+    "name": "ИСТЛЕВШИЕ_ШИПЫ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFBurntThorns",
+      "data": 0
+    }
+  },
+  {
+    "name": "ШИПАСТАЯ_РОЗА",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFThornRose",
+      "data": 0
+    }
+  },
+  {
+    "name": "THORN_LEAVES",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFLeaves3",
+      "data": 0
+    }
+  },
+  {
+    "name": "БОБОВЫЕ_ЛИСТЬЯ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFLeaves3",
+      "data": 1
+    }
+  },
+  {
+    "name": "ВЛАЖН_К_СМЕРТИ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFDeadrock",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПОТР_КАМ_СМЕРТИ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFDeadrock",
+      "data": 1
+    }
+  },
+  {
+    "name": "КАМЕНЬ_СМЕРТИ",
+    "itemStack": {
+      "id": "TwilightForest:tile.TFDeadrock",
+      "data": 2
+    }
+  },
+  {
+    "name": "ЛИСТВ_ТЁМН_ДЕР",
+    "itemStack": {
+      "id": "TwilightForest:tile.DarkLeaves",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОЛОННА_АВРОРЫ",
+    "itemStack": {
+      "id": "TwilightForest:tile.AuroraPillar",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛИТА_АВРОРЫ",
+    "itemStack": {
+      "id": "TwilightForest:tile.AuroraSlab",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛИТА_АВРОРЫ+",
+    "itemStack": {
+      "id": "TwilightForest:tile.AuroraDoubleSlab",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТРОЛЛЬШТЕИН",
+    "itemStack": {
+      "id": "TwilightForest:tile.TrollSteinn",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПРОЗРАЧН_ОБЛАКО",
+    "itemStack": {
+      "id": "TwilightForest:tile.WispyCloud",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВЗБЫТОЕ_ОБЛАКО",
+    "itemStack": {
+      "id": "TwilightForest:tile.FluffyCloud",
+      "data": 0
+    }
+  },
+  {
+    "name": "ГИГАНТСК_БУЛЫЖН",
+    "itemStack": {
+      "id": "TwilightForest:tile.GiantCobble",
+      "data": 0
+    }
+  },
+  {
+    "name": "ГИГАНТСК_ДЕРЕВО",
+    "itemStack": {
+      "id": "TwilightForest:tile.GiantLog",
+      "data": 0
+    }
+  },
+  {
+    "name": "ГИГАНТСК_ЛИСТЬЯ",
+    "itemStack": {
+      "id": "TwilightForest:tile.GiantLeaves",
+      "data": 0
+    }
+  },
+  {
+    "name": "ГИГАНТСК_ОБСИД",
+    "itemStack": {
+      "id": "TwilightForest:tile.GiantObsidian",
+      "data": 0
+    }
+  },
+  {
+    "name": "АНБЕОНОВ_ПОЧВА",
+    "itemStack": {
+      "id": "TwilightForest:tile.UberousSoil",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОГРОМН_СТЕБЕЛЬ",
+    "itemStack": {
+      "id": "TwilightForest:tile.HugeStalk",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТРОЛЛОВИДР",
+    "itemStack": {
+      "id": "TwilightForest:tile.TrollVidr",
+      "data": 0
+    }
+  },
+  {
+    "name": "СПЕЛЫЙ_ТРОЛЛЬБ",
+    "itemStack": {
+      "id": "TwilightForest:tile.UnripeTrollBer",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТРОЛЛЬБЕР",
+    "itemStack": {
+      "id": "TwilightForest:tile.TrollBer",
+      "data": 0
+    }
+  },
+  {
+    "name": "BLOCK_OF_KNIGHT",
+    "itemStack": {
+      "id": "TwilightForest:tile.KnightmetalBlock",
+      "data": 0
+    }
+  },
+  {
+    "name": "HUGE_LILY_PAD",
+    "itemStack": {
+      "id": "TwilightForest:tile.HugeLilyPad",
+      "data": 0
+    }
+  },
+  {
+    "name": "HUGE_WATER_LILY",
+    "itemStack": {
+      "id": "TwilightForest:tile.HugeWaterLily",
+      "data": 0
+    }
+  },
+  {
+    "name": "SLIDE_TRAP",
+    "itemStack": {
+      "id": "TwilightForest:tile.Slider",
+      "data": 0
+    }
+  },
+  {
+    "name": "SLIDE_TRAP_1",
+    "itemStack": {
+      "id": "TwilightForest:tile.Slider",
+      "data": 1
+    }
+  },
+  {
+    "name": "SLIDE_TRAP_2",
+    "itemStack": {
+      "id": "TwilightForest:tile.Slider",
+      "data": 2
+    }
+  },
+  {
+    "name": "SLIDE_TRAP_3",
+    "itemStack": {
+      "id": "TwilightForest:tile.Slider",
+      "data": 3
+    }
+  },
+  {
+    "name": "CASTLE_BRICK",
+    "itemStack": {
+      "id": "TwilightForest:tile.CastleBrick",
+      "data": 0
+    }
+  },
+  {
+    "name": "WORN_CAST_BRICK",
+    "itemStack": {
+      "id": "TwilightForest:tile.CastleBrick",
+      "data": 1
+    }
+  },
+  {
+    "name": "CR_CASTLE_BRICK",
+    "itemStack": {
+      "id": "TwilightForest:tile.CastleBrick",
+      "data": 2
+    }
+  },
+  {
+    "name": "CASTLE_R_TILE",
+    "itemStack": {
+      "id": "TwilightForest:tile.CastleBrick",
+      "data": 3
+    }
+  },
+  {
+    "name": "P_CAST_RUNE_BR",
+    "itemStack": {
+      "id": "TwilightForest:tile.CastleMagic",
+      "data": 0
+    }
+  },
+  {
+    "name": "BL_CAST_RUNE_BR",
+    "itemStack": {
+      "id": "TwilightForest:tile.CastleMagic",
+      "data": 1
+    }
+  },
+  {
+    "name": "YEL_CAS_RUNE_BR",
+    "itemStack": {
+      "id": "TwilightForest:tile.CastleMagic",
+      "data": 2
+    }
+  },
+  {
+    "name": "V_CAST_RUNE_BR",
+    "itemStack": {
+      "id": "TwilightForest:tile.CastleMagic",
+      "data": 3
+    }
+  },
+  {
+    "name": "V_FORCE_FIELD",
+    "itemStack": {
+      "id": "TwilightForest:tile.ForceField",
+      "data": 0
+    }
+  },
+  {
+    "name": "PINK_FORC_FIELD",
+    "itemStack": {
+      "id": "TwilightForest:tile.ForceField",
+      "data": 1
+    }
+  },
+  {
+    "name": "OR_FORCE_FIELD",
+    "itemStack": {
+      "id": "TwilightForest:tile.ForceField",
+      "data": 2
+    }
+  },
+  {
+    "name": "GR_FORCE_FIELD",
+    "itemStack": {
+      "id": "TwilightForest:tile.ForceField",
+      "data": 3
+    }
+  },
+  {
+    "name": "BL_FORCE_FIELD",
+    "itemStack": {
+      "id": "TwilightForest:tile.ForceField",
+      "data": 4
+    }
+  },
+  {
+    "name": "СЕРДЦЕ_НАГИ",
+    "itemStack": {
+      "id": "TwilightForest:item.nagaScale",
+      "data": 0
+    }
+  },
+  {
+    "name": "Н_ИЗ_СЕРД_НАГ",
+    "itemStack": {
+      "id": "TwilightForest:item.plateNaga",
+      "data": 0
+    }
+  },
+  {
+    "name": "П_ИЗ_СЕРД_НАГИ",
+    "itemStack": {
+      "id": "TwilightForest:item.legsNaga",
+      "data": 0
+    }
+  },
+  {
+    "name": "СУМЕРЕЧН_ПОСОХ",
+    "itemStack": {
+      "id": "TwilightForest:item.scepterTwilight",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПОСОХ_СМЕРТИ",
+    "itemStack": {
+      "id": "TwilightForest:item.scepterLifeDrain",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПОСОХ_МЁРТВЫХ",
+    "itemStack": {
+      "id": "TwilightForest:item.scepterZombie",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОПРЕДЕЛИТЕЛ_РУД",
+    "itemStack": {
+      "id": "TwilightForest:item.oreMeter",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВОРОНЬЕ_ПЕРО",
+    "itemStack": {
+      "id": "TwilightForest:item.tfFeather",
+      "data": 0
+    }
+  },
+  {
+    "name": "МАГИЧЕСКОЕ_ПЕРО",
+    "itemStack": {
+      "id": "TwilightForest:item.magicMapFocus",
+      "data": 0
+    }
+  },
+  {
+    "name": "МАГИЧЕСКОЕ_ЯДРО",
+    "itemStack": {
+      "id": "TwilightForest:item.mazeMapFocus",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗАМШЕЛЫЙ_КОРЕНЬ",
+    "itemStack": {
+      "id": "TwilightForest:item.liveRoot",
+      "data": 0
+    }
+  },
+  {
+    "name": "МАГИЧЕСК_МАТЕР",
+    "itemStack": {
+      "id": "TwilightForest:item.ironwoodRaw",
+      "data": 0
+    }
+  },
+  {
+    "name": "МЕТАЛЛ_ДРЕВНИХ",
+    "itemStack": {
+      "id": "TwilightForest:item.ironwoodIngot",
+      "data": 0
+    }
+  },
+  {
+    "name": "ШЛЕМ_ДРЕВНИХ",
+    "itemStack": {
+      "id": "TwilightForest:item.ironwoodHelm",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        96,
+        73,
+        -51,
+        75,
+        -50,
+        -32,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        1,
+        -47,
+        76,
+        -103,
+        41,
+        12,
+        108,
+        12,
+        12,
+        0,
+        -98,
+        -77,
+        -104,
+        30,
+        32,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "НАГРУДН_ДРЕВНИХ",
+    "itemStack": {
+      "id": "TwilightForest:item.ironwoodPlate",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        96,
+        73,
+        -51,
+        75,
+        -50,
+        -32,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        1,
+        -47,
+        76,
+        -103,
+        41,
+        64,
+        1,
+        6,
+        0,
+        44,
+        -49,
+        21,
+        26,
+        32,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "ПОНОЖИ_ДРЕВНИХ",
+    "itemStack": {
+      "id": "TwilightForest:item.ironwoodLegs",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        96,
+        73,
+        -51,
+        75,
+        -50,
+        -32,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        1,
+        -47,
+        76,
+        -103,
+        41,
+        64,
+        1,
+        6,
+        0,
+        44,
+        -49,
+        21,
+        26,
+        32,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "БОТИНКИ_ДРЕВНИХ",
+    "itemStack": {
+      "id": "TwilightForest:item.ironwoodBoots",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        96,
+        73,
+        -51,
+        75,
+        -50,
+        -32,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        1,
+        -47,
+        76,
+        -103,
+        41,
+        12,
+        76,
+        12,
+        12,
+        0,
+        66,
+        27,
+        -111,
+        25,
+        32,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "МЕЧ_ДРЕВНИХ",
+    "itemStack": {
+      "id": "TwilightForest:item.ironwoodSword",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        96,
+        73,
+        -51,
+        75,
+        -50,
+        -32,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        1,
+        -47,
+        76,
+        -103,
+        41,
+        12,
+        -62,
+        12,
+        12,
+        0,
+        5,
+        -46,
+        117,
+        4,
+        32,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "ЛОПАТА_ДРЕВНИХ",
+    "itemStack": {
+      "id": "TwilightForest:item.ironwoodShovel",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        96,
+        73,
+        -51,
+        75,
+        -50,
+        -32,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        1,
+        -47,
+        76,
+        -103,
+        41,
+        12,
+        74,
+        12,
+        12,
+        0,
+        -94,
+        93,
+        -36,
+        33,
+        32,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "КИРКА_ДРЕВНИХ",
+    "itemStack": {
+      "id": "TwilightForest:item.ironwoodPick",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        96,
+        73,
+        -51,
+        75,
+        -50,
+        -32,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        1,
+        -47,
+        76,
+        -103,
+        41,
+        12,
+        10,
+        12,
+        12,
+        0,
+        -52,
+        -119,
+        88,
+        34,
+        32,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "ТОПОР_ДРЕВНИХ",
+    "itemStack": {
+      "id": "TwilightForest:item.ironwoodAxe",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        96,
+        73,
+        -51,
+        75,
+        -50,
+        -32,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        1,
+        -47,
+        76,
+        -103,
+        41,
+        12,
+        -54,
+        12,
+        12,
+        0,
+        -107,
+        55,
+        30,
+        32,
+        32,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "МОТЫГА_ДРЕВНИХ",
+    "itemStack": {
+      "id": "TwilightForest:item.ironwoodHoe",
+      "data": 0
+    }
+  },
+  {
+    "name": "ФАКЕЛОНТ",
+    "itemStack": {
+      "id": "TwilightForest:item.torchberries",
+      "data": 0
+    }
+  },
+  {
+    "name": "СЫРАЯ_ОЛЕНЯТИНА",
+    "itemStack": {
+      "id": "TwilightForest:item.venisonRaw",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОЛЕНИЙ_СТЕЙК",
+    "itemStack": {
+      "id": "TwilightForest:item.venisonCooked",
+      "data": 0
+    }
+  },
+  {
+    "name": "МЯСО_ГИДРЫ",
+    "itemStack": {
+      "id": "TwilightForest:item.hydraChop",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОГНЕННАЯ_КРОВЬ",
+    "itemStack": {
+      "id": "TwilightForest:item.fieryBlood",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТРОФЕЙ_ГИДРЫ",
+    "itemStack": {
+      "id": "TwilightForest:item.trophy",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТРОФЕЙ_НАГИ",
+    "itemStack": {
+      "id": "TwilightForest:item.trophy",
+      "data": 1
+    }
+  },
+  {
+    "name": "ТР_СУМЕРЕЧ_ЛИЧА",
+    "itemStack": {
+      "id": "TwilightForest:item.trophy",
+      "data": 2
+    }
+  },
+  {
+    "name": "ТРОФ_ТЁМН_ГАСТА",
+    "itemStack": {
+      "id": "TwilightForest:item.trophy",
+      "data": 3
+    }
+  },
+  {
+    "name": "SNOW_Q_TROPHY",
+    "itemStack": {
+      "id": "TwilightForest:item.trophy",
+      "data": 4
+    }
+  },
+  {
+    "name": "ОГНЕННЫЙ_СЛИТОК",
+    "itemStack": {
+      "id": "TwilightForest:item.fieryIngot",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОГНЕННЫЙ_ШЛЕМ",
+    "itemStack": {
+      "id": "TwilightForest:item.fieryHelm",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОГНЕНН_НАГРУДН",
+    "itemStack": {
+      "id": "TwilightForest:item.fieryPlate",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОГНЕННЫЕ_ПОНОЖИ",
+    "itemStack": {
+      "id": "TwilightForest:item.fieryLegs",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОГНЕНН_БОТИНКИ",
+    "itemStack": {
+      "id": "TwilightForest:item.fieryBoots",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОГНЕННЫЙ_МЕЧ",
+    "itemStack": {
+      "id": "TwilightForest:item.fierySword",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОГНЕННАЯ_КИРКА",
+    "itemStack": {
+      "id": "TwilightForest:item.fieryPick",
+      "data": 0
+    }
+  },
+  {
+    "name": "МАГ_ЛИСТ",
+    "itemStack": {
+      "id": "TwilightForest:item.steeleafIngot",
+      "data": 0
+    }
+  },
+  {
+    "name": "ШЛ_ИЗ_МАГ_ЛИСТ",
+    "itemStack": {
+      "id": "TwilightForest:item.steeleafHelm",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        96,
+        73,
+        -51,
+        75,
+        -50,
+        -32,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        97,
+        96,
+        98,
+        98,
+        96,
+        -54,
+        76,
+        97,
+        96,
+        97,
+        96,
+        0,
+        0,
+        -13,
+        -36,
+        43,
+        -10,
+        32,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "НАГ_ИЗ_МАГ_ЛИСТ",
+    "itemStack": {
+      "id": "TwilightForest:item.steeleafPlate",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        96,
+        73,
+        -51,
+        75,
+        -50,
+        -32,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        97,
+        96,
+        98,
+        98,
+        96,
+        -54,
+        76,
+        97,
+        96,
+        102,
+        96,
+        0,
+        0,
+        118,
+        -54,
+        100,
+        -13,
+        32,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "ПОН_ИЗ_МАГ_ЛИСТ",
+    "itemStack": {
+      "id": "TwilightForest:item.steeleafLegs",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        96,
+        73,
+        -51,
+        75,
+        -50,
+        -32,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        97,
+        96,
+        98,
+        98,
+        96,
+        -54,
+        76,
+        97,
+        96,
+        100,
+        96,
+        0,
+        0,
+        24,
+        30,
+        -32,
+        -16,
+        32,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "БОТ_ИЗ_МАГ_ЛИСТ",
+    "itemStack": {
+      "id": "TwilightForest:item.steeleafBoots",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        96,
+        73,
+        -51,
+        75,
+        -50,
+        -32,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        97,
+        96,
+        98,
+        98,
+        96,
+        -54,
+        76,
+        97,
+        96,
+        98,
+        96,
+        0,
+        0,
+        65,
+        -96,
+        -90,
+        -14,
+        32,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "МЕЧ_ИЗ_МАГ_ЛИСТ",
+    "itemStack": {
+      "id": "TwilightForest:item.steeleafSword",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        96,
+        73,
+        -51,
+        75,
+        -50,
+        -32,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        97,
+        96,
+        98,
+        98,
+        96,
+        -54,
+        76,
+        97,
+        16,
+        101,
+        96,
+        0,
+        0,
+        -76,
+        21,
+        -49,
+        -21,
+        32,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "ЛОП_ИЗ_МАГ_ЛИСТ",
+    "itemStack": {
+      "id": "TwilightForest:item.steeleafShovel",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        96,
+        73,
+        -51,
+        75,
+        -50,
+        -32,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        97,
+        96,
+        98,
+        98,
+        96,
+        -54,
+        76,
+        97,
+        80,
+        96,
+        96,
+        0,
+        0,
+        -49,
+        50,
+        111,
+        -55,
+        32,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "КИР_ИЗ_МАГ_ЛИСТ",
+    "itemStack": {
+      "id": "TwilightForest:item.steeleafPick",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        96,
+        73,
+        -51,
+        75,
+        -50,
+        -32,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        97,
+        96,
+        98,
+        98,
+        96,
+        -54,
+        76,
+        97,
+        80,
+        102,
+        96,
+        0,
+        0,
+        -106,
+        -116,
+        41,
+        -53,
+        32,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "ТОП_ИЗ_МАГ_ЛИСТ",
+    "itemStack": {
+      "id": "TwilightForest:item.steeleafAxe",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        96,
+        73,
+        -51,
+        75,
+        -50,
+        -32,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        97,
+        96,
+        98,
+        98,
+        96,
+        -54,
+        76,
+        97,
+        80,
+        96,
+        96,
+        0,
+        0,
+        -49,
+        50,
+        111,
+        -55,
+        32,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "МОТ_ИЗ_МАГ_ЛИСТ",
+    "itemStack": {
+      "id": "TwilightForest:item.steeleafHoe",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТОПОР_МИНОТАВРА",
+    "itemStack": {
+      "id": "TwilightForest:item.minotaurAxe",
+      "data": 0
+    }
+  },
+  {
+    "name": "КИРКА_ЛАБИРИНТА",
+    "itemStack": {
+      "id": "TwilightForest:item.mazebreakerPick",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        96,
+        73,
+        -51,
+        75,
+        -50,
+        -32,
+        98,
+        96,
+        96,
+        96,
+        102,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        97,
+        96,
+        97,
+        98,
+        96,
+        -54,
+        76,
+        97,
+        80,
+        96,
+        -128,
+        -14,
+        -103,
+        33,
+        124,
+        37,
+        24,
+        -97,
+        9,
+        -62,
+        87,
+        102,
+        96,
+        0,
+        0,
+        -71,
+        54,
+        91,
+        -47,
+        64,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "ПОРОШ_ТРАНСФОРМ",
+    "itemStack": {
+      "id": "TwilightForest:item.transformPowder",
+      "data": 0
+    }
+  },
+  {
+    "name": "МЯСО_МИНОТАВРА",
+    "itemStack": {
+      "id": "TwilightForest:item.meefRaw",
+      "data": 0
+    }
+  },
+  {
+    "name": "СТЕЙК_ИЗ_МИНОТ",
+    "itemStack": {
+      "id": "TwilightForest:item.meefSteak",
+      "data": 0
+    }
+  },
+  {
+    "name": "СУП_ИЗ_МИНОТАВР",
+    "itemStack": {
+      "id": "TwilightForest:item.meefStroganoff",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВАФЛИ",
+    "itemStack": {
+      "id": "TwilightForest:item.mazeWafer",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПУСТ_МАГ_КАРТА",
+    "itemStack": {
+      "id": "TwilightForest:item.emptyMagicMap",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПУСТ_КАРТА_ЛАБ",
+    "itemStack": {
+      "id": "TwilightForest:item.emptyMazeMap",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПУСТ_ШАХТ_КАРТА",
+    "itemStack": {
+      "id": "TwilightForest:item.emptyOreMap",
+      "data": 0
+    }
+  },
+  {
+    "name": "РУДНЫЙ_МАГНИТ",
+    "itemStack": {
+      "id": "TwilightForest:item.oreMagnet",
+      "data": 0
+    }
+  },
+  {
+    "name": "РОГ",
+    "itemStack": {
+      "id": "TwilightForest:item.crumbleHorn",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВЕЕР_ПОЛЁТА",
+    "itemStack": {
+      "id": "TwilightForest:item.peacockFan",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОРОЛЕВА_ГУСЕН",
+    "itemStack": {
+      "id": "TwilightForest:item.moonwormQueen",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЧАРМ_ЖИЗНИ_I",
+    "itemStack": {
+      "id": "TwilightForest:item.charmOfLife1",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЧАРМ_ЖИЗНИ_II",
+    "itemStack": {
+      "id": "TwilightForest:item.charmOfLife2",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЧАРМ_ИНВЕНТ_I",
+    "itemStack": {
+      "id": "TwilightForest:item.charmOfKeeping1",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЧАРМ_ИНВЕНТ_II",
+    "itemStack": {
+      "id": "TwilightForest:item.charmOfKeeping2",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЧАРМ_ИНВЕНТ_III",
+    "itemStack": {
+      "id": "TwilightForest:item.charmOfKeeping3",
+      "data": 0
+    }
+  },
+  {
+    "name": "КЛЮЧ_ОТ_БАШНИ",
+    "itemStack": {
+      "id": "TwilightForest:item.towerKey",
+      "data": 0
+    }
+  },
+  {
+    "name": "БУРОВАЯ_ЭССЕНЦ",
+    "itemStack": {
+      "id": "TwilightForest:item.borerEssence",
+      "data": 0
+    }
+  },
+  {
+    "name": "КАРМИНИТ",
+    "itemStack": {
+      "id": "TwilightForest:item.carminite",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОБРАЗЕЦ_115",
+    "itemStack": {
+      "id": "TwilightForest:item.experiment115",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОСК_КОР_МЕТАЛЛА",
+    "itemStack": {
+      "id": "TwilightForest:item.armorShards",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОРОЛЕВ_МЕТАЛЛ",
+    "itemStack": {
+      "id": "TwilightForest:item.knightMetal",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОСК_КОР_МЕТАЛЛ",
+    "itemStack": {
+      "id": "TwilightForest:item.shardCluster",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОРОЛЕВСК_ШЛЕМ",
+    "itemStack": {
+      "id": "TwilightForest:item.knightlyHelm",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОРОЛЕВ_НАГРУДН",
+    "itemStack": {
+      "id": "TwilightForest:item.knightlyPlate",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОРОЛЕВ_ПОНОЖИ",
+    "itemStack": {
+      "id": "TwilightForest:item.knightlyLegs",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОРОЛЕВ_БОТИНКИ",
+    "itemStack": {
+      "id": "TwilightForest:item.knightlyBoots",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОРОЛЕВСКИЙ_МЕЧ",
+    "itemStack": {
+      "id": "TwilightForest:item.knightlySword",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОРОЛЕВСК_КИРКА",
+    "itemStack": {
+      "id": "TwilightForest:item.knightlyPick",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОРОЛЕВСК_ТОПОР",
+    "itemStack": {
+      "id": "TwilightForest:item.knightlyAxe",
+      "data": 0
+    }
+  },
+  {
+    "name": "ШЛЕМ_ФАНТОМА",
+    "itemStack": {
+      "id": "TwilightForest:item.phantomHelm",
+      "data": 0
+    }
+  },
+  {
+    "name": "НАГРУДН_ФАНТОМА",
+    "itemStack": {
+      "id": "TwilightForest:item.phantomPlate",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛАМПА_ОГНЯ",
+    "itemStack": {
+      "id": "TwilightForest:item.lampOfCinders",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОГНЕННЫЕ_СЛЁЗЫ",
+    "itemStack": {
+      "id": "TwilightForest:item.fieryTears",
+      "data": 0
+    }
+  },
+  {
+    "name": "МЕХ_АЛЬМО_ЙЕТИ",
+    "itemStack": {
+      "id": "TwilightForest:item.alphaFur",
+      "data": 0
+    }
+  },
+  {
+    "name": "ШАПКА_ЙЕТИ",
+    "itemStack": {
+      "id": "TwilightForest:item.yetiHelm",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        96,
+        73,
+        -51,
+        75,
+        -50,
+        -32,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        97,
+        96,
+        98,
+        98,
+        96,
+        -54,
+        76,
+        1,
+        10,
+        48,
+        0,
+        0,
+        47,
+        116,
+        34,
+        -15,
+        32,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "КУРТКА_ЙЕТИ",
+    "itemStack": {
+      "id": "TwilightForest:item.yetiPlate",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        96,
+        73,
+        -51,
+        75,
+        -50,
+        -32,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        97,
+        96,
+        98,
+        98,
+        96,
+        -54,
+        76,
+        1,
+        10,
+        48,
+        0,
+        0,
+        47,
+        116,
+        34,
+        -15,
+        32,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "ШТАНЫ_ЙЕТИ",
+    "itemStack": {
+      "id": "TwilightForest:item.yetiLegs",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        96,
+        73,
+        -51,
+        75,
+        -50,
+        -32,
+        98,
+        96,
+        96,
+        96,
+        100,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        97,
+        96,
+        98,
+        98,
+        96,
+        -54,
+        76,
+        1,
+        10,
+        48,
+        0,
+        0,
+        47,
+        116,
+        34,
+        -15,
+        32,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "БОТИНКИ_ЙЕТИ",
+    "itemStack": {
+      "id": "TwilightForest:item.yetiBoots",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        -32,
+        100,
+        96,
+        73,
+        -51,
+        75,
+        -50,
+        -32,
+        98,
+        96,
+        96,
+        96,
+        98,
+        98,
+        96,
+        -50,
+        41,
+        -53,
+        1,
+        -47,
+        76,
+        -103,
+        41,
+        32,
+        1,
+        8,
+        -97,
+        5,
+        -62,
+        103,
+        98,
+        96,
+        0,
+        0,
+        42,
+        -125,
+        -91,
+        -37,
+        48,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "СНЕЖНАЯ_БОМБА",
+    "itemStack": {
+      "id": "TwilightForest:item.iceBomb",
+      "data": 0
+    }
+  },
+  {
+    "name": "АРТИЧЕСКИЙ_МЕХ",
+    "itemStack": {
+      "id": "TwilightForest:item.arcticFur",
+      "data": 0
+    }
+  },
+  {
+    "name": "МЕХОВОЙ_КАПЮШОН",
+    "itemStack": {
+      "id": "TwilightForest:item.arcticHelm",
+      "data": 0
+    }
+  },
+  {
+    "name": "МЕХОВАЯ_КУРТКА",
+    "itemStack": {
+      "id": "TwilightForest:item.arcticPlate",
+      "data": 0
+    }
+  },
+  {
+    "name": "МЕХОВЫЕ_ШТАНЫ",
+    "itemStack": {
+      "id": "TwilightForest:item.arcticLegs",
+      "data": 0
+    }
+  },
+  {
+    "name": "МЕХОВЫЕ_БОТИНКИ",
+    "itemStack": {
+      "id": "TwilightForest:item.arcticBoots",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВОЛШЕБН_СЕМЕНА",
+    "itemStack": {
+      "id": "TwilightForest:item.magicBeans",
+      "data": 0
+    }
+  },
+  {
+    "name": "КИРКА_ГИГАНТА",
+    "itemStack": {
+      "id": "TwilightForest:item.giantPick",
+      "data": 0
+    }
+  },
+  {
+    "name": "МЕЧ_ГИГАНТА",
+    "itemStack": {
+      "id": "TwilightForest:item.giantSword",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТРОЙНОЙ_ЛУК",
+    "itemStack": {
+      "id": "TwilightForest:item.tripleBow",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛУК_ИСКАТЕЛЯ",
+    "itemStack": {
+      "id": "TwilightForest:item.seekerBow",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛЕДЯНОЙ_ЛУК",
+    "itemStack": {
+      "id": "TwilightForest:item.iceBow",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЭНДЕР_ЛУК",
+    "itemStack": {
+      "id": "TwilightForest:item.enderBow",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛЕДЯНОЙ_МЕЧ",
+    "itemStack": {
+      "id": "TwilightForest:item.iceSword",
+      "data": 0
+    }
+  },
+  {
+    "name": "СТЕКЛЯННЫЙ_МЕЧ",
+    "itemStack": {
+      "id": "TwilightForest:item.glassSword",
+      "data": 0
+    }
+  },
+  {
+    "name": "KNIGHTMET_LOOP",
+    "itemStack": {
+      "id": "TwilightForest:item.knightmetalRing",
+      "data": 0
+    }
+  },
+  {
+    "name": "BLOCK_AND_CHAIN",
+    "itemStack": {
+      "id": "TwilightForest:item.chainBlock",
+      "data": 0
+    }
+  },
+  {
+    "name": "TAL_OF_THE_CUBE",
+    "itemStack": {
+      "id": "TwilightForest:item.cubeTalisman",
+      "data": 0
+    }
+  },
+  {
+    "name": "CUBE_OF_ANNIHIL",
+    "itemStack": {
+      "id": "TwilightForest:item.cubeOfAnnihilation",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПРИЗВ_СУЩ_КАБ",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 177
+    }
+  },
+  {
+    "name": "ПРИЗВ_СУЩ_БАР",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 178
+    }
+  },
+  {
+    "name": "ПРИЗВ_СУЩ_ОЛЕНЬ",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 179
+    }
+  },
+  {
+    "name": "ПРИЗВ_СУЩ_ШАХТ",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 180
+    }
+  },
+  {
+    "name": "ПРИЗВ_С_МАЛЕН_П",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 181
+    }
+  },
+  {
+    "name": "ПРИЗВ_СУЩ_НАГА",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 182
+    }
+  },
+  {
+    "name": "ПРИЗВ_СУЩЕСТ_ДР",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 184
+    }
+  },
+  {
+    "name": "ПРИЗВ_С_ЗЛ_ВОЛК",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 185
+    }
+  },
+  {
+    "name": "ПРИЗВ_СУЩ_ПРИЗР",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 186
+    }
+  },
+  {
+    "name": "ПРИЗВ_СУЩ_ЗЕЛ_П",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 187
+    }
+  },
+  {
+    "name": "ПРИЗВ_СУЩ_ГИДРА",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 189
+    }
+  },
+  {
+    "name": "ПРИЗВ_С_СУМ_ЛИЧ",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 190
+    }
+  },
+  {
+    "name": "ПРИЗВ_СУЩ_PENG",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 191
+    }
+  },
+  {
+    "name": "ПР_С_ЛЕСН_ПТИЦА",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 194
+    }
+  },
+  {
+    "name": "ПР_С_ЛЕСН_БЕЛКА",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 195
+    }
+  },
+  {
+    "name": "ПРИЗВ_С_ЛЕСН_КР",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 196
+    }
+  },
+  {
+    "name": "ПРИЗВ_С_ЛЕСН_В",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 197
+    }
+  },
+  {
+    "name": "ПРИЗВ_С_КОБОЛЬ",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 199
+    }
+  },
+  {
+    "name": "ПРИЗВ_СУЩ_МОСК",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 202
+    }
+  },
+  {
+    "name": "ПРИЗВ_СУЩ_ЧЕРН",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 203
+    }
+  },
+  {
+    "name": "ПРИЗВ_СУЩ_МИН",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 204
+    }
+  },
+  {
+    "name": "ПРИЗВ_С_КОР_МИН",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 205
+    }
+  },
+  {
+    "name": "ПРИЗВ_С_ОГН_ЖУК",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 206
+    }
+  },
+  {
+    "name": "ПРИЗВ_С_СЛИЗН_Ж",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 207
+    }
+  },
+  {
+    "name": "ПРИЗВ_С_ЛАБ_СЛ",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 209
+    }
+  },
+  {
+    "name": "ПР_С_ШАХТ_ПОДР",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 210
+    }
+  },
+  {
+    "name": "ПРИЗВ_С_К_ВОЛК",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 211
+    }
+  },
+  {
+    "name": "ПРИЗВ_С_КОРОЛ_П",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 212
+    }
+  },
+  {
+    "name": "ПРИЗВ_СУЩ_СВЕТЛ",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 213
+    }
+  },
+  {
+    "name": "ПР_С_МИНИ_ГАСТ",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 214
+    }
+  },
+  {
+    "name": "ПР_С_ТЁМН_ГАСТ",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 217
+    }
+  },
+  {
+    "name": "ПРИЗВ_С_ГОБЛ_Р",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 222
+    }
+  },
+  {
+    "name": "ПРИЗВ_СУЩ_ШЛ_КР",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 223
+    }
+  },
+  {
+    "name": "ПРИЗВ_С_ПРИЗР_Р",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 224
+    }
+  },
+  {
+    "name": "ПРИЗВ_СУЩ_ЙЕТИ",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 225
+    }
+  },
+  {
+    "name": "ПР_С_АЛЬМО_ЙЕТИ",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 226
+    }
+  },
+  {
+    "name": "ПР_С_СНЕЖН_ВОЛК",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 227
+    }
+  },
+  {
+    "name": "ПР_С_СНЕЖН_СТР",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 228
+    }
+  },
+  {
+    "name": "ПРИЗВ_С_СНЕЖН_К",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 231
+    }
+  },
+  {
+    "name": "ПРИЗВ_С_П_ТРОЛЛ",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 232
+    }
+  },
+  {
+    "name": "ПРИЗВ_С_Г_ШАХТ",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 233
+    }
+  },
+  {
+    "name": "ПРИЗВ_С_БР_ГИГ",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 234
+    }
+  },
+  {
+    "name": "ПРИЗВ_С_Л_КРИСТ",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 235
+    }
+  },
+  {
+    "name": "ПРИЗВ_С_ADH_NYI",
+    "itemStack": {
+      "id": "TwilightForest:item.tfspawnegg",
+      "data": 237
+    }
+  }
+]

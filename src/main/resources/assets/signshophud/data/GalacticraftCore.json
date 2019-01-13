@@ -1,0 +1,1368 @@
+[
+  {
+    "name": "НЕОЧИЩЕНН_НЕФТЬ",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.crudeOilStill",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТОПЛИВО",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.fuel",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВЗЛЁТН_ПЛОЩАДКА",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.landingPad",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗАПР_ПЛ_Д_БАГГИ",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.landingPad",
+      "data": 1
+    }
+  },
+  {
+    "name": "КИСЛОРОДН_СБОРЩ",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.oxygenCollector",
+      "data": 0
+    }
+  },
+  {
+    "name": "КИСЛОР_КОМПРЕСС",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.oxygenCompressor",
+      "data": 0
+    }
+  },
+  {
+    "name": "КИСЛОР_ДЕКОМПР",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.oxygenCompressor",
+      "data": 4
+    }
+  },
+  {
+    "name": "РАСПР_КИСЛ_ПУЗ",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.distributor",
+      "data": 0
+    }
+  },
+  {
+    "name": "УПЛОТ_КИСЛОРОДА",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.sealer",
+      "data": 0
+    }
+  },
+  {
+    "name": "КИСЛОР_ДАТЧИК",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.oxygenDetector",
+      "data": 0
+    }
+  },
+  {
+    "name": "КИСЛОРОДН_ТРУБА",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.oxygenPipe",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОЧИСТИТ_ЗАВОД",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.refinery",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗАГРУЗЧ_ТОПЛИВА",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.fuelLoader",
+      "data": 0
+    }
+  },
+  {
+    "name": "ГРУЗОВ_ЗАГРУЗЧ",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.cargo",
+      "data": 0
+    }
+  },
+  {
+    "name": "ГРУЗОВ_РАЗГРУЗЧ",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.cargo",
+      "data": 4
+    }
+  },
+  {
+    "name": "ВЕРСТАК_NASA",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.rocketWorkbench",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДЕК_ОЛОВ_БЛОК_1",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.gcBlockCore",
+      "data": 3
+    }
+  },
+  {
+    "name": "ДЕК_ОЛОВ_БЛОК_2",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.gcBlockCore",
+      "data": 4
+    }
+  },
+  {
+    "name": "МЕДНАЯ_РУДА_GC",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.gcBlockCore",
+      "data": 5
+    }
+  },
+  {
+    "name": "ОЛОВЯН_РУДА_GC",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.gcBlockCore",
+      "data": 6
+    }
+  },
+  {
+    "name": "АЛЮМИН_РУДА_GC",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.gcBlockCore",
+      "data": 7
+    }
+  },
+  {
+    "name": "КРЕМН_РУДА_GC",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.gcBlockCore",
+      "data": 8
+    }
+  },
+  {
+    "name": "МЕДНЫЙ_БЛОК_GC",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.gcBlockCore",
+      "data": 9
+    }
+  },
+  {
+    "name": "ОЛОВЯН_БЛОК_GC",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.gcBlockCore",
+      "data": 10
+    }
+  },
+  {
+    "name": "АЛЮМИН_БЛОК_GC",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.gcBlockCore",
+      "data": 11
+    }
+  },
+  {
+    "name": "БЛОК_МЕТЕОР_ЖЕЛ",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.gcBlockCore",
+      "data": 12
+    }
+  },
+  {
+    "name": "КАРК_ВОЗД_ШЛЮЗА",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.airLockFrame",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОНТ_ВОЗД_ШЛЮЗА",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.airLockFrame",
+      "data": 1
+    }
+  },
+  {
+    "name": "ГЕРМ_АЛЮМ_ПРОВ",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.enclosed",
+      "data": 14
+    }
+  },
+  {
+    "name": "ГЕРМ_ТОЛС_АЛ_ПР",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.enclosed",
+      "data": 15
+    }
+  },
+  {
+    "name": "ГЕРМ_КИСЛ_ТРУБА",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.enclosed",
+      "data": 1
+    }
+  },
+  {
+    "name": "ГЕРМ_МЕДН_ПРОВ",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.enclosed",
+      "data": 2
+    }
+  },
+  {
+    "name": "ГЕРМ_ЗОЛ_ПРОВ",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.enclosed",
+      "data": 3
+    }
+  },
+  {
+    "name": "ГЕРМ_ВВ_ПРОВ",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.enclosed",
+      "data": 4
+    }
+  },
+  {
+    "name": "ГЕРМ_СТВ_ПРОВ",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.enclosed",
+      "data": 5
+    }
+  },
+  {
+    "name": "ГЕРМ_ОЛОВ_ПРОВ",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.enclosed",
+      "data": 6
+    }
+  },
+  {
+    "name": "ГЕРМ_МЭ_ПРОВ",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.enclosed",
+      "data": 13
+    }
+  },
+  {
+    "name": "СУНДУК_С_ПАРАШ",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.parachest",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОСН_СОЛН_ПАНЕЛЬ",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.solar",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПРОДВ_СОЛН_ПАН",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.solar",
+      "data": 4
+    }
+  },
+  {
+    "name": "КОММУН_ТАРЕЛКА",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.dish",
+      "data": 0
+    }
+  },
+  {
+    "name": "УГОЛЬНЫЙ_ГЕНЕР",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.machine",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОМПРЕССОР_GC",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.machine",
+      "data": 12
+    }
+  },
+  {
+    "name": "ЭЛЕКТР_КОМПРЕСС",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.machine2",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПРОИЗВ_МИКРОСХ",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.machine2",
+      "data": 4
+    }
+  },
+  {
+    "name": "МОДУЛЬ_ХР_КИСЛ",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.machine2",
+      "data": 8
+    }
+  },
+  {
+    "name": "МОДУЛЬ_ХР_ЭНЕРГ",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.machineTiered",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЭЛЕКТРОПЕЧЬ_GC",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.machineTiered",
+      "data": 4
+    }
+  },
+  {
+    "name": "ЭНЕРГЕТ_МАССИВ",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.machineTiered",
+      "data": 8
+    }
+  },
+  {
+    "name": "ЭЛЕКТР_ДУГ_ПЕЧЬ",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.machineTiered",
+      "data": 12
+    }
+  },
+  {
+    "name": "АЛЮМ_ПРОВОД",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.aluminumWire",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТОЛСТ_АЛЮМ_ПРОВ",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.aluminumWire",
+      "data": 1
+    }
+  },
+  {
+    "name": "ФАКЕЛ_ИЗ_СВКАМН",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.glowstoneTorch",
+      "data": 0
+    }
+  },
+  {
+    "name": "УПАВШ_МЕТЕОРИТ",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.fallenMeteor",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛУН_МЕДНАЯ_РУДА",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.moonBlock",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛУН_ОЛОВЯН_РУДА",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.moonBlock",
+      "data": 1
+    }
+  },
+  {
+    "name": "СЫРНАЯ_РУДА",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.moonBlock",
+      "data": 2
+    }
+  },
+  {
+    "name": "ЛУННЫЙ_ГРУНТ",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.moonBlock",
+      "data": 3
+    }
+  },
+  {
+    "name": "ЛУННЫЙ_КАМЕНЬ",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.moonBlock",
+      "data": 4
+    }
+  },
+  {
+    "name": "ЛУННЫЙ_ДЁРН",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.moonBlock",
+      "data": 5
+    }
+  },
+  {
+    "name": "КИРП_ЛУН_СОКРОВ",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.moonBlock",
+      "data": 14
+    }
+  },
+  {
+    "name": "БЛОК_СЫРА",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.cheeseBlock",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВРАЩ_ДВИГАТЕЛЬ",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.spinThruster",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЭКРАН_ОТОБРАЖЕН",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.viewScreen",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТЕЛЕМЕТРИЧ_БЛОК",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.telemetry",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДУГОВАЯ_ЛАМПА",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.arclamp",
+      "data": 0
+    }
+  },
+  {
+    "name": "СУНД_С_СОКРОВИЩ",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.treasureChest",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОЛОВЯН_СТУП_1",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.tinStairs1",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОЛОВЯН_СТУП_2",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.tinStairs2",
+      "data": 0
+    }
+  },
+  {
+    "name": "СТУП_ИЗ_ЛУН_КАМ",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.moonStoneStairs",
+      "data": 0
+    }
+  },
+  {
+    "name": "СТУП_ИЗ_ЛУН_СОК",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.moonBricksStairs",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОЛОВЯН_СТЕНА_1",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.wallGC",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОЛОВЯН_СТЕНА_2",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.wallGC",
+      "data": 1
+    }
+  },
+  {
+    "name": "СТЕН_ИЗ_ЛУН_КАМ",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.wallGC",
+      "data": 2
+    }
+  },
+  {
+    "name": "СТЕН_ИЗ_ЛУН_СОК",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.wallGC",
+      "data": 3
+    }
+  },
+  {
+    "name": "СТЕН_ИЗ_МАР_БУЛ",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.wallGC",
+      "data": 4
+    }
+  },
+  {
+    "name": "СТЕН_ИЗ_МАР_СОК",
+    "itemStack": {
+      "id": "GalacticraftCore:tile.wallGC",
+      "data": 5
+    }
+  },
+  {
+    "name": "ОЛОВЯН_ПЛИТА_1",
+    "itemStack": {
+      "id": "GalacticraftCore:slabGCHalf",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОЛОВЯН_ПЛИТА_2",
+    "itemStack": {
+      "id": "GalacticraftCore:slabGCHalf",
+      "data": 1
+    }
+  },
+  {
+    "name": "ПЛИТ_ИЗ_ЛУН_КАМ",
+    "itemStack": {
+      "id": "GalacticraftCore:slabGCHalf",
+      "data": 2
+    }
+  },
+  {
+    "name": "ПЛИТ_ИЗ_ЛУН_СОК",
+    "itemStack": {
+      "id": "GalacticraftCore:slabGCHalf",
+      "data": 3
+    }
+  },
+  {
+    "name": "ПЛИТ_ИЗ_МАР_БУЛ",
+    "itemStack": {
+      "id": "GalacticraftCore:slabGCHalf",
+      "data": 4
+    }
+  },
+  {
+    "name": "ПЛИТ_ИЗ_МАР_СОК",
+    "itemStack": {
+      "id": "GalacticraftCore:slabGCHalf",
+      "data": 5
+    }
+  },
+  {
+    "name": "ВЕДРО_НЕФТИ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.bucketOil",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВЕДРО_ТОПЛИВА",
+    "itemStack": {
+      "id": "GalacticraftCore:item.bucketFuel",
+      "data": 0
+    }
+  },
+  {
+    "name": "РАКЕТА_1_УР",
+    "itemStack": {
+      "id": "GalacticraftCore:item.spaceship",
+      "data": 0
+    }
+  },
+  {
+    "name": "РАКЕТА_1_УР_Х18",
+    "itemStack": {
+      "id": "GalacticraftCore:item.spaceship",
+      "data": 1
+    }
+  },
+  {
+    "name": "РАКЕТА_1_УР_Х36",
+    "itemStack": {
+      "id": "GalacticraftCore:item.spaceship",
+      "data": 2
+    }
+  },
+  {
+    "name": "РАКЕТА_1_УР_Х56",
+    "itemStack": {
+      "id": "GalacticraftCore:item.spaceship",
+      "data": 3
+    }
+  },
+  {
+    "name": "РАКЕТА_1_УР_ТВ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.spaceship",
+      "data": 4
+    }
+  },
+  {
+    "name": "КИСЛОРОДН_МАСКА",
+    "itemStack": {
+      "id": "GalacticraftCore:item.oxygenMask",
+      "data": 0
+    }
+  },
+  {
+    "name": "КИСЛОРОД_ОБОРУД",
+    "itemStack": {
+      "id": "GalacticraftCore:item.oxygenGear",
+      "data": 0
+    }
+  },
+  {
+    "name": "МАЛ_КИСЛ_БАЛЛ+",
+    "itemStack": {
+      "id": "GalacticraftCore:item.oxygenTankLightFull",
+      "data": 0
+    }
+  },
+  {
+    "name": "МАЛ_КИСЛ_БАЛЛ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.oxygenTankLightFull",
+      "data": 900
+    }
+  },
+  {
+    "name": "СР_КИСЛ_БАЛЛ+",
+    "itemStack": {
+      "id": "GalacticraftCore:item.oxygenTankMedFull",
+      "data": 0
+    }
+  },
+  {
+    "name": "СР_КИСЛ_БАЛЛ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.oxygenTankMedFull",
+      "data": 1800
+    }
+  },
+  {
+    "name": "БОЛ_КИСЛ_БАЛЛ+",
+    "itemStack": {
+      "id": "GalacticraftCore:item.oxygenTankHeavyFull",
+      "data": 0
+    }
+  },
+  {
+    "name": "БОЛ_КИСЛ_БАЛЛ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.oxygenTankHeavyFull",
+      "data": 2700
+    }
+  },
+  {
+    "name": "СЕНСОРНЫЕ_ЛИНЗЫ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.sensorLens",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОЧКИ_С_СЕНСОР",
+    "itemStack": {
+      "id": "GalacticraftCore:item.sensorGlasses",
+      "data": 0
+    }
+  },
+  {
+    "name": "СВЕРХПРОЧ_КИРКА",
+    "itemStack": {
+      "id": "GalacticraftCore:item.steel_pickaxe",
+      "data": 0
+    }
+  },
+  {
+    "name": "СВЕРХПРОЧ_ТОПОР",
+    "itemStack": {
+      "id": "GalacticraftCore:item.steel_axe",
+      "data": 0
+    }
+  },
+  {
+    "name": "СВЕРХПР_МОТЫГА",
+    "itemStack": {
+      "id": "GalacticraftCore:item.steel_hoe",
+      "data": 0
+    }
+  },
+  {
+    "name": "СВЕРХПР_ЛОПАТА",
+    "itemStack": {
+      "id": "GalacticraftCore:item.steel_shovel",
+      "data": 0
+    }
+  },
+  {
+    "name": "СВЕРХПРОЧ_МЕЧ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.steel_sword",
+      "data": 0
+    }
+  },
+  {
+    "name": "СВЕРХПРОЧ_ШЛЕМ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.steel_helmet",
+      "data": 0
+    }
+  },
+  {
+    "name": "СВЕРХПР_НАГРУДН",
+    "itemStack": {
+      "id": "GalacticraftCore:item.steel_chestplate",
+      "data": 0
+    }
+  },
+  {
+    "name": "СВЕРХПР_ПОНОЖИ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.steel_leggings",
+      "data": 0
+    }
+  },
+  {
+    "name": "СВЕРХПР_БОТИНКИ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.steel_boots",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОЛОВЯН_КАНИСТРА",
+    "itemStack": {
+      "id": "GalacticraftCore:item.canister",
+      "data": 0
+    }
+  },
+  {
+    "name": "МЕДНАЯ_КАНИСТРА",
+    "itemStack": {
+      "id": "GalacticraftCore:item.canister",
+      "data": 1
+    }
+  },
+  {
+    "name": "ВЕНТИЛЯЦ_КЛАПАН",
+    "itemStack": {
+      "id": "GalacticraftCore:item.airVent",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВЕНТИЛЯТОР",
+    "itemStack": {
+      "id": "GalacticraftCore:item.airFan",
+      "data": 0
+    }
+  },
+  {
+    "name": "КИСЛОР_КОНЦЕНТР",
+    "itemStack": {
+      "id": "GalacticraftCore:item.oxygenConcentrator",
+      "data": 0
+    }
+  },
+  {
+    "name": "РАКЕТН_ДВ_1_УР",
+    "itemStack": {
+      "id": "GalacticraftCore:item.engine",
+      "data": 0
+    }
+  },
+  {
+    "name": "УСКОРИТЕЛЬ_1_УР",
+    "itemStack": {
+      "id": "GalacticraftCore:item.engine",
+      "data": 1
+    }
+  },
+  {
+    "name": "СВЕРХПРОЧН_ПОКР",
+    "itemStack": {
+      "id": "GalacticraftCore:item.heavyPlating",
+      "data": 0
+    }
+  },
+  {
+    "name": "ГОЛОВН_ОБТЕКАТ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.noseCone",
+      "data": 0
+    }
+  },
+  {
+    "name": "РАКЕТН_СТАБИЛИЗ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.rocketFins",
+      "data": 0
+    }
+  },
+  {
+    "name": "СТАЛЬНОЙ_ШЕСТ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.steelPole",
+      "data": 0
+    }
+  },
+  {
+    "name": "ХОЛСТ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.canvas",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПОЛН_КАН_НЕФТИ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.oilCanisterPartial",
+      "data": 1
+    }
+  },
+  {
+    "name": "ПУСТ_ЖИДК_КАН",
+    "itemStack": {
+      "id": "GalacticraftCore:item.oilCanisterPartial",
+      "data": 1001
+    }
+  },
+  {
+    "name": "ПОЛН_КАН_ТОПЛ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.fuelCanisterPartial",
+      "data": 1
+    }
+  },
+  {
+    "name": "СХЕМА_NASA_БАГГИ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.schematic",
+      "data": 0
+    }
+  },
+  {
+    "name": "СХЕМА_NASA_Р2УР",
+    "itemStack": {
+      "id": "GalacticraftCore:item.schematic",
+      "data": 1
+    }
+  },
+  {
+    "name": "КЛЮЧ_ПОДЗ_1_УР",
+    "itemStack": {
+      "id": "GalacticraftCore:item.key",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОЛЕСО_БАГГИ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.buggymat",
+      "data": 0
+    }
+  },
+  {
+    "name": "СИДЕНЬЕ_БАГГИ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.buggymat",
+      "data": 1
+    }
+  },
+  {
+    "name": "КОНТЕЙНЕР_БАГГИ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.buggymat",
+      "data": 2
+    }
+  },
+  {
+    "name": "БАГГИ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.buggy",
+      "data": 0
+    }
+  },
+  {
+    "name": "БАГГИ_Х18",
+    "itemStack": {
+      "id": "GalacticraftCore:item.buggy",
+      "data": 1
+    }
+  },
+  {
+    "name": "БАГГИ_Х36",
+    "itemStack": {
+      "id": "GalacticraftCore:item.buggy",
+      "data": 2
+    }
+  },
+  {
+    "name": "БАГГИ_Х54",
+    "itemStack": {
+      "id": "GalacticraftCore:item.buggy",
+      "data": 3
+    }
+  },
+  {
+    "name": "ОДИНОЧН_СОЛ_МОД",
+    "itemStack": {
+      "id": "GalacticraftCore:item.basicItem",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЦЕЛАЯ_СОЛН_ПАН",
+    "itemStack": {
+      "id": "GalacticraftCore:item.basicItem",
+      "data": 1
+    }
+  },
+  {
+    "name": "НЕОЧИЩ_КРЕМНИЙ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.basicItem",
+      "data": 2
+    }
+  },
+  {
+    "name": "МЕДН_СЛИТОК_GC",
+    "itemStack": {
+      "id": "GalacticraftCore:item.basicItem",
+      "data": 3
+    }
+  },
+  {
+    "name": "ОЛОВ_СЛИТОК_GC",
+    "itemStack": {
+      "id": "GalacticraftCore:item.basicItem",
+      "data": 4
+    }
+  },
+  {
+    "name": "АЛЮМ_СЛИТОК_GC",
+    "itemStack": {
+      "id": "GalacticraftCore:item.basicItem",
+      "data": 5
+    }
+  },
+  {
+    "name": "СЖАТАЯ_МЕДЬ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.basicItem",
+      "data": 6
+    }
+  },
+  {
+    "name": "СЖАТОЕ_ОЛОВО",
+    "itemStack": {
+      "id": "GalacticraftCore:item.basicItem",
+      "data": 7
+    }
+  },
+  {
+    "name": "СЖАТЫЙ_АЛЮМИНИЙ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.basicItem",
+      "data": 8
+    }
+  },
+  {
+    "name": "СЖАТАЯ_СТАЛЬ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.basicItem",
+      "data": 9
+    }
+  },
+  {
+    "name": "СЖАТАЯ_БРОНЗА",
+    "itemStack": {
+      "id": "GalacticraftCore:item.basicItem",
+      "data": 10
+    }
+  },
+  {
+    "name": "СЖАТОЕ_ЖЕЛЕЗО",
+    "itemStack": {
+      "id": "GalacticraftCore:item.basicItem",
+      "data": 11
+    }
+  },
+  {
+    "name": "СИН_СОЛН_ПП_ПЛ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.basicItem",
+      "data": 12
+    }
+  },
+  {
+    "name": "ОСНОВН_ПП_ПЛАСТ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.basicItem",
+      "data": 13
+    }
+  },
+  {
+    "name": "ПРОДВ_ПП_ПЛАСТ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.basicItem",
+      "data": 14
+    }
+  },
+  {
+    "name": "КОНСЕРВ_ЕДА_ЯБЛ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.basicItem",
+      "data": 15
+    }
+  },
+  {
+    "name": "КОНСЕРВ_ЕДА_МОР",
+    "itemStack": {
+      "id": "GalacticraftCore:item.basicItem",
+      "data": 16
+    }
+  },
+  {
+    "name": "КОНСЕРВ_ЕДА_АРБ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.basicItem",
+      "data": 17
+    }
+  },
+  {
+    "name": "КОНСЕРВ_ЕДА_КАР",
+    "itemStack": {
+      "id": "GalacticraftCore:item.basicItem",
+      "data": 18
+    }
+  },
+  {
+    "name": "ЧАСТОТН_МОДУЛЬ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.basicItem",
+      "data": 19
+    }
+  },
+  {
+    "name": "ТЕПЛ_КОНТРОЛЛЕР",
+    "itemStack": {
+      "id": "GalacticraftCore:item.basicItem",
+      "data": 20
+    }
+  },
+  {
+    "name": "АККУМУЛЯТОР_GC",
+    "itemStack": {
+      "id": "GalacticraftCore:item.battery",
+      "data": 100,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        96,
+        101,
+        -32,
+        78,
+        -51,
+        73,
+        77,
+        46,
+        41,
+        -54,
+        76,
+        -50,
+        44,
+        -87,
+        100,
+        0,
+        1,
+        0,
+        65,
+        -4,
+        30,
+        121,
+        22,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "АККУМУЛЯТОР_GC+",
+    "itemStack": {
+      "id": "GalacticraftCore:item.battery",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        96,
+        101,
+        -32,
+        78,
+        -51,
+        73,
+        77,
+        46,
+        41,
+        -54,
+        76,
+        -50,
+        44,
+        -87,
+        116,
+        -53,
+        74,
+        96,
+        96,
+        0,
+        0,
+        -17,
+        -115,
+        -31,
+        -78,
+        22,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "БЕСКОНЕЧН_АККУМ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.infiniteBattery",
+      "data": 0
+    }
+  },
+  {
+    "name": "БЕСК_ПОДАЧ_КИСЛ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.infiniteOxygen",
+      "data": 0
+    }
+  },
+  {
+    "name": "БРОС_МЕТЕОР_КУС",
+    "itemStack": {
+      "id": "GalacticraftCore:item.null",
+      "data": 0
+    }
+  },
+  {
+    "name": "БРОС_МЕТ_ПОДЖ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.null",
+      "data": 1
+    }
+  },
+  {
+    "name": "ОБЫЧН_ГАЕЧ_КЛЮЧ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.standardWrench",
+      "data": 0
+    }
+  },
+  {
+    "name": "СЫРОК",
+    "itemStack": {
+      "id": "GalacticraftCore:item.cheeseCurd",
+      "data": 0
+    }
+  },
+  {
+    "name": "НЕОБ_МЕТ_ЖЕЛЕЗО",
+    "itemStack": {
+      "id": "GalacticraftCore:item.meteoricIronRaw",
+      "data": 0
+    }
+  },
+  {
+    "name": "СЛИТ_МЕТ_ЖЕЛЕЗА",
+    "itemStack": {
+      "id": "GalacticraftCore:item.meteoricIronIngot",
+      "data": 0
+    }
+  },
+  {
+    "name": "СЖАТ_МЕТ_ЖЕЛЕЗО",
+    "itemStack": {
+      "id": "GalacticraftCore:item.meteoricIronIngot",
+      "data": 1
+    }
+  },
+  {
+    "name": "ФЛАГ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.flag",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПАРАШЮТ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.parachute",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЧЁРНЫЙ_ПАРАШЮТ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.parachute",
+      "data": 1
+    }
+  },
+  {
+    "name": "СВ_СИН_ПАРАШЮТ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.parachute",
+      "data": 2
+    }
+  },
+  {
+    "name": "ЛАЙМОВ_ПАРАШЮТ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.parachute",
+      "data": 3
+    }
+  },
+  {
+    "name": "КОРИЧН_ПАРАШЮТ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.parachute",
+      "data": 4
+    }
+  },
+  {
+    "name": "СИНИЙ_ПАРАШЮТ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.parachute",
+      "data": 5
+    }
+  },
+  {
+    "name": "СЕРЫЙ_ПАРАШЮТ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.parachute",
+      "data": 6
+    }
+  },
+  {
+    "name": "ЗЕЛЁНЫЙ_ПАРАШЮТ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.parachute",
+      "data": 7
+    }
+  },
+  {
+    "name": "СВ_СЕР_ПАРАШЮТ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.parachute",
+      "data": 8
+    }
+  },
+  {
+    "name": "СИРЕНЕВ_ПАРАШЮТ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.parachute",
+      "data": 9
+    }
+  },
+  {
+    "name": "ОРАНЖЕВ_ПАРАШЮТ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.parachute",
+      "data": 10
+    }
+  },
+  {
+    "name": "РОЗОВЫЙ_ПАРАШЮТ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.parachute",
+      "data": 11
+    }
+  },
+  {
+    "name": "ФИОЛЕТ_ПАРАШЮТ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.parachute",
+      "data": 12
+    }
+  },
+  {
+    "name": "КРАСНЫЙ_ПАРАШЮТ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.parachute",
+      "data": 13
+    }
+  },
+  {
+    "name": "БИРЮЗОВ_ПАРАШЮТ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.parachute",
+      "data": 14
+    }
+  },
+  {
+    "name": "ЖЁЛТЫЙ_ПАРАШЮТ",
+    "itemStack": {
+      "id": "GalacticraftCore:item.parachute",
+      "data": 15
+    }
+  }
+]

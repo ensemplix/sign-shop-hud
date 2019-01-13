@@ -1,0 +1,1030 @@
+[
+  {
+    "name": "ЭФИР_КРИСТАЛЛ",
+    "itemStack": {
+      "id": "ThaumicHorizons:synthNode",
+      "data": 0
+    }
+  },
+  {
+    "name": "АЛХИМИТ",
+    "itemStack": {
+      "id": "ThaumicHorizons:alchemite",
+      "data": 0
+    }
+  },
+  {
+    "name": "ГЕНЕРАТОР_ВИС",
+    "itemStack": {
+      "id": "ThaumicHorizons:visDynamo",
+      "data": 0
+    }
+  },
+  {
+    "name": "ГЕНЕРАТ_ЭССЕНЦ",
+    "itemStack": {
+      "id": "ThaumicHorizons:essentiaDynamo",
+      "data": 0
+    }
+  },
+  {
+    "name": "МОНИТОР_УЗЛА",
+    "itemStack": {
+      "id": "ThaumicHorizons:nodeMonitor",
+      "data": 0
+    }
+  },
+  {
+    "name": "СИТО_ДУШИ",
+    "itemStack": {
+      "id": "ThaumicHorizons:soulSieve",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВДОХНОВИТЕЛЬ",
+    "itemStack": {
+      "id": "ThaumicHorizons:inspiratron",
+      "data": 0
+    }
+  },
+  {
+    "name": "КУЗНИЦА_ДУШ",
+    "itemStack": {
+      "id": "ThaumicHorizons:soulforge",
+      "data": 0
+    }
+  },
+  {
+    "name": "БАНКА_ДУША",
+    "itemStack": {
+      "id": "ThaumicHorizons:soulJar",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        96,
+        100,
+        96,
+        -53,
+        44,
+        14,
+        -50,
+        47,
+        -51,
+        97,
+        100,
+        0,
+        0,
+        94,
+        -67,
+        115,
+        54,
+        14,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "СЕРОПРЕОБРАЗОВ",
+    "itemStack": {
+      "id": "ThaumicHorizons:bloodInfuser",
+      "data": 0
+    }
+  },
+  {
+    "name": "МАЯК_ДУШ",
+    "itemStack": {
+      "id": "ThaumicHorizons:soulBeacon",
+      "data": 0
+    }
+  },
+  {
+    "name": "МОД_РУН_МАТРИЦА",
+    "itemStack": {
+      "id": "ThaumicHorizons:modMatrix",
+      "data": 0
+    }
+  },
+  {
+    "name": "ШОКОЛАДНЫЙ_БЛОК",
+    "itemStack": {
+      "id": "ThaumicHorizons:chocolate",
+      "data": 0
+    }
+  },
+  {
+    "name": "УСИЛ_ТРАНСДУКЦ",
+    "itemStack": {
+      "id": "ThaumicHorizons:transductionAmplifier",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТЕЛЕОЛОГ_РЕКОМ",
+    "itemStack": {
+      "id": "ThaumicHorizons:recombinator",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОСЛАБИТЕЛЬ_ВИХР",
+    "itemStack": {
+      "id": "ThaumicHorizons:vortexStabilizer",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛОСКОСТ_ВИХРЬ",
+    "itemStack": {
+      "id": "ThaumicHorizons:vortexTH",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛ_В_Т_Д_КР",
+    "itemStack": {
+      "id": "ThaumicHorizons:vortexTH",
+      "data": 1
+    }
+  },
+  {
+    "name": "ГРАНИЦА_ПЛОСК",
+    "itemStack": {
+      "id": "ThaumicHorizons:voidTH",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОБЛАКО",
+    "itemStack": {
+      "id": "ThaumicHorizons:cloudTH",
+      "data": 0
+    }
+  },
+  {
+    "name": "ГРОЗОВОЕ_ОБЛАКО",
+    "itemStack": {
+      "id": "ThaumicHorizons:cloudTH",
+      "data": 2
+    }
+  },
+  {
+    "name": "КИСЛОТ_ОБЛАКО",
+    "itemStack": {
+      "id": "ThaumicHorizons:cloudTH",
+      "data": 3
+    }
+  },
+  {
+    "name": "ОПУХ_ОБЛАКО",
+    "itemStack": {
+      "id": "ThaumicHorizons:cloudTH",
+      "data": 5
+    }
+  },
+  {
+    "name": "СПОР_ОБЛАКО",
+    "itemStack": {
+      "id": "ThaumicHorizons:cloudTH",
+      "data": 8
+    }
+  },
+  {
+    "name": "ПЛАЗМО_ОБЛАКО",
+    "itemStack": {
+      "id": "ThaumicHorizons:cloudGlowingTH",
+      "data": 1
+    }
+  },
+  {
+    "name": "ЛИТОЕ_ОБЛАКО",
+    "itemStack": {
+      "id": "ThaumicHorizons:cloudGlowingTH",
+      "data": 4
+    }
+  },
+  {
+    "name": "ОБЛАКО_ВИС",
+    "itemStack": {
+      "id": "ThaumicHorizons:cloudGlowingTH",
+      "data": 6
+    }
+  },
+  {
+    "name": "СИМВОЛ_ОБЛАКО",
+    "itemStack": {
+      "id": "ThaumicHorizons:cloudGlowingTH",
+      "data": 7
+    }
+  },
+  {
+    "name": "ВРАЖД_ОБЛАКО",
+    "itemStack": {
+      "id": "ThaumicHorizons:cloudGlowingTH",
+      "data": 9
+    }
+  },
+  {
+    "name": "ГЛЫБА_МОЗГОВ",
+    "itemStack": {
+      "id": "ThaumicHorizons:brainTH",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЫЛЬ",
+    "itemStack": {
+      "id": "ThaumicHorizons:dustTH",
+      "data": 0
+    }
+  },
+  {
+    "name": "ГЛАЗНОЙ_КЛАСТЕР",
+    "itemStack": {
+      "id": "ThaumicHorizons:eyeTH",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОСТЬ_БЛОК",
+    "itemStack": {
+      "id": "ThaumicHorizons:boneTH",
+      "data": 0
+    }
+  },
+  {
+    "name": "ГЛЫБА_ПЛОТИ",
+    "itemStack": {
+      "id": "ThaumicHorizons:fleshTH",
+      "data": 0
+    }
+  },
+  {
+    "name": "МЕТАЛЛИЧЕСК_ШИП",
+    "itemStack": {
+      "id": "ThaumicHorizons:spikeTH",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДЕРЕВЯННЫЙ_ШИП",
+    "itemStack": {
+      "id": "ThaumicHorizons:spikeWoodTH",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗУБ",
+    "itemStack": {
+      "id": "ThaumicHorizons:spikeToothTH",
+      "data": 0
+    }
+  },
+  {
+    "name": "БЕЛ_КРИСТАЛЛ",
+    "itemStack": {
+      "id": "ThaumicHorizons:crystalTH",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОРАНЖ_КРИСТАЛЛ",
+    "itemStack": {
+      "id": "ThaumicHorizons:crystalTH",
+      "data": 1
+    }
+  },
+  {
+    "name": "ПУРПУР_КРИСТАЛЛ",
+    "itemStack": {
+      "id": "ThaumicHorizons:crystalTH",
+      "data": 2
+    }
+  },
+  {
+    "name": "ГОЛУБ_КРИСТАЛЛ",
+    "itemStack": {
+      "id": "ThaumicHorizons:crystalTH",
+      "data": 3
+    }
+  },
+  {
+    "name": "ЖЕЛТ_КРИСТАЛЛ",
+    "itemStack": {
+      "id": "ThaumicHorizons:crystalTH",
+      "data": 4
+    }
+  },
+  {
+    "name": "ЛАЙМ_КРИСТАЛЛ",
+    "itemStack": {
+      "id": "ThaumicHorizons:crystalTH",
+      "data": 5
+    }
+  },
+  {
+    "name": "РОЗ_КРИСТАЛЛ",
+    "itemStack": {
+      "id": "ThaumicHorizons:crystalTH",
+      "data": 6
+    }
+  },
+  {
+    "name": "СЕРЫЙ_КРИСТАЛЛ",
+    "itemStack": {
+      "id": "ThaumicHorizons:crystalTH",
+      "data": 7
+    }
+  },
+  {
+    "name": "СВ_СЕР_КРИСТ",
+    "itemStack": {
+      "id": "ThaumicHorizons:crystalTH",
+      "data": 8
+    }
+  },
+  {
+    "name": "БИРЮЗ_КРИСТАЛЛ",
+    "itemStack": {
+      "id": "ThaumicHorizons:crystalTH",
+      "data": 9
+    }
+  },
+  {
+    "name": "ФИОЛ_КРИСТАЛЛ",
+    "itemStack": {
+      "id": "ThaumicHorizons:crystalTH",
+      "data": 10
+    }
+  },
+  {
+    "name": "СИН_КРИСТАЛЛ",
+    "itemStack": {
+      "id": "ThaumicHorizons:crystalTH",
+      "data": 11
+    }
+  },
+  {
+    "name": "КОРИЧН_КРИСТАЛЛ",
+    "itemStack": {
+      "id": "ThaumicHorizons:crystalTH",
+      "data": 12
+    }
+  },
+  {
+    "name": "ЗЕЛЕН_КРИСТАЛЛ",
+    "itemStack": {
+      "id": "ThaumicHorizons:crystalTH",
+      "data": 13
+    }
+  },
+  {
+    "name": "КРАСН_КРИСТАЛЛ",
+    "itemStack": {
+      "id": "ThaumicHorizons:crystalTH",
+      "data": 14
+    }
+  },
+  {
+    "name": "ЧЕРНЫЙ_КРИСТАЛЛ",
+    "itemStack": {
+      "id": "ThaumicHorizons:crystalTH",
+      "data": 15
+    }
+  },
+  {
+    "name": "НАСЫЩ_КРИСТАЛЛ",
+    "itemStack": {
+      "id": "ThaumicHorizons:crystalDeep",
+      "data": 0
+    }
+  },
+  {
+    "name": "ИЗНАЧАЛ_ИСКОП",
+    "itemStack": {
+      "id": "ThaumicHorizons:leviathanTH",
+      "data": 0
+    }
+  },
+  {
+    "name": "KEYSTONE_RECEPT",
+    "itemStack": {
+      "id": "ThaumicHorizons:slotTH",
+      "data": 0
+    }
+  },
+  {
+    "name": "ИНКУБАЦ_ЯЙЦО",
+    "itemStack": {
+      "id": "ThaumicHorizons:eggIncubated",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛИНЗА_ОЗАРЕНИЯ",
+    "itemStack": {
+      "id": "ThaumicHorizons:lensFire",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛИНЗА_ПОДВ_ЭХО",
+    "itemStack": {
+      "id": "ThaumicHorizons:lensWater",
+      "data": 0
+    }
+  },
+  {
+    "name": "КИРЛИАН_ЛИНЗА",
+    "itemStack": {
+      "id": "ThaumicHorizons:lensAir",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛИНЗА_ИСЧЕЗНОВ",
+    "itemStack": {
+      "id": "ThaumicHorizons:lensEarth",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛИНЗА_ИЗУЧЕНИЯ",
+    "itemStack": {
+      "id": "ThaumicHorizons:lensOrderEntropy",
+      "data": 0
+    }
+  },
+  {
+    "name": "СУМКА_ДЛЯ_ЛИНЗ",
+    "itemStack": {
+      "id": "ThaumicHorizons:lensCase",
+      "data": 0
+    }
+  },
+  {
+    "name": "НАБАЛД_СМИР",
+    "itemStack": {
+      "id": "ThaumicHorizons:focusContainment",
+      "data": 0
+    }
+  },
+  {
+    "name": "НАБАЛД_ИССУШ",
+    "itemStack": {
+      "id": "ThaumicHorizons:focusLiquefaction",
+      "data": 0
+    }
+  },
+  {
+    "name": "НАБАЛД_РАСЩЕПЛ",
+    "itemStack": {
+      "id": "ThaumicHorizons:focusDisintegration",
+      "data": 0
+    }
+  },
+  {
+    "name": "НАБАЛД_ОЗ_ЧЕРН",
+    "itemStack": {
+      "id": "ThaumicHorizons:focusIllumination",
+      "data": 0
+    }
+  },
+  {
+    "name": "НАБАЛД_ОЗ_КРАС",
+    "itemStack": {
+      "id": "ThaumicHorizons:focusIllumination",
+      "data": 1
+    }
+  },
+  {
+    "name": "НАБАЛД_ОЗ_ЗЕЛ",
+    "itemStack": {
+      "id": "ThaumicHorizons:focusIllumination",
+      "data": 2
+    }
+  },
+  {
+    "name": "НАБАЛД_ОЗ_КОРИ",
+    "itemStack": {
+      "id": "ThaumicHorizons:focusIllumination",
+      "data": 3
+    }
+  },
+  {
+    "name": "НАБАЛД_ОЗ_СИНИЙ",
+    "itemStack": {
+      "id": "ThaumicHorizons:focusIllumination",
+      "data": 4
+    }
+  },
+  {
+    "name": "НАБАЛД_ОЗ_ФИОЛ",
+    "itemStack": {
+      "id": "ThaumicHorizons:focusIllumination",
+      "data": 5
+    }
+  },
+  {
+    "name": "НАБАЛД_ОЗ_ГОЛУБ",
+    "itemStack": {
+      "id": "ThaumicHorizons:focusIllumination",
+      "data": 6
+    }
+  },
+  {
+    "name": "НАБАЛД_ОЗ_СЕРЕБ",
+    "itemStack": {
+      "id": "ThaumicHorizons:focusIllumination",
+      "data": 7
+    }
+  },
+  {
+    "name": "НАБАЛД_ОЗ_СЕРЫЙ",
+    "itemStack": {
+      "id": "ThaumicHorizons:focusIllumination",
+      "data": 8
+    }
+  },
+  {
+    "name": "НАБАЛД_ОЗ_РОЗОВ",
+    "itemStack": {
+      "id": "ThaumicHorizons:focusIllumination",
+      "data": 9
+    }
+  },
+  {
+    "name": "НАБАЛД_ОЗ_ЛАЙМ",
+    "itemStack": {
+      "id": "ThaumicHorizons:focusIllumination",
+      "data": 10
+    }
+  },
+  {
+    "name": "НАБАЛД_ОЗ_ЖЕЛТ",
+    "itemStack": {
+      "id": "ThaumicHorizons:focusIllumination",
+      "data": 11
+    }
+  },
+  {
+    "name": "НАБАЛД_ОЗ_ГОЛ+",
+    "itemStack": {
+      "id": "ThaumicHorizons:focusIllumination",
+      "data": 12
+    }
+  },
+  {
+    "name": "НАБАЛД_ОЗ_ФИО+",
+    "itemStack": {
+      "id": "ThaumicHorizons:focusIllumination",
+      "data": 13
+    }
+  },
+  {
+    "name": "НАБАЛД_ОЗ_ОРАНЖ",
+    "itemStack": {
+      "id": "ThaumicHorizons:focusIllumination",
+      "data": 14
+    }
+  },
+  {
+    "name": "НАБАЛД_ОЗ_БЕЛЫЙ",
+    "itemStack": {
+      "id": "ThaumicHorizons:focusIllumination",
+      "data": 15
+    }
+  },
+  {
+    "name": "НАБАЛД_ВДОХНОВ",
+    "itemStack": {
+      "id": "ThaumicHorizons:focusAnimation",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗЕРКАЛЬН_АМУЛЕТ",
+    "itemStack": {
+      "id": "ThaumicHorizons:amuletMirror",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПУСТОЙ_ШПРИЦ",
+    "itemStack": {
+      "id": "ThaumicHorizons:syringeEmpty",
+      "data": 0
+    }
+  },
+  {
+    "name": "ШПРИЦ_С_КРОВЬЮ",
+    "itemStack": {
+      "id": "ThaumicHorizons:syringeBlood",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВЗРЫВ_ПУЗЫРЬ",
+    "itemStack": {
+      "id": "ThaumicHorizons:syringeBlood",
+      "data": 1
+    }
+  },
+  {
+    "name": "ИНЪЕКТОР",
+    "itemStack": {
+      "id": "ThaumicHorizons:injector",
+      "data": 0
+    }
+  },
+  {
+    "name": "ФИГУРК_МЕРТВЕЦА",
+    "itemStack": {
+      "id": "ThaumicHorizons:corpseEffigy",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПИТАТЕЛЬНАЯ_СМ",
+    "itemStack": {
+      "id": "ThaumicHorizons:nutrients",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛИТКА_ШОКОЛАДА",
+    "itemStack": {
+      "id": "ThaumicHorizons:barChocolate",
+      "data": 0
+    }
+  },
+  {
+    "name": "ШОКОЛАД_МОЛОКО",
+    "itemStack": {
+      "id": "ThaumicHorizons:bucketChocolate",
+      "data": 0
+    }
+  },
+  {
+    "name": "ШОКОЛАД_МОРОЖ",
+    "itemStack": {
+      "id": "ThaumicHorizons:iceCream",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЧЕРНИЛЬН_ЯЙЦО",
+    "itemStack": {
+      "id": "ThaumicHorizons:inkEgg",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПОЗОЛОЧЕНН_ЯЙЦО",
+    "itemStack": {
+      "id": "ThaumicHorizons:goldEgg",
+      "data": 0
+    }
+  },
+  {
+    "name": "РТУТН_КОНЕЧН",
+    "itemStack": {
+      "id": "ThaumicHorizons:infusionCheat",
+      "data": 1
+    }
+  },
+  {
+    "name": "ТАУМ_КОГТИ",
+    "itemStack": {
+      "id": "ThaumicHorizons:infusionCheat",
+      "data": 2
+    }
+  },
+  {
+    "name": "ПРОБУЖД_КРОВЬ",
+    "itemStack": {
+      "id": "ThaumicHorizons:infusionCheat",
+      "data": 3
+    }
+  },
+  {
+    "name": "АЛМАЗНАЯ_ПЛОТЬ",
+    "itemStack": {
+      "id": "ThaumicHorizons:infusionCheat",
+      "data": 4
+    }
+  },
+  {
+    "name": "СЕРДЦЕ_КРАЯ",
+    "itemStack": {
+      "id": "ThaumicHorizons:infusionCheat",
+      "data": 5
+    }
+  },
+  {
+    "name": "УДАРН_ОБОЛОЧКА",
+    "itemStack": {
+      "id": "ThaumicHorizons:infusionCheat",
+      "data": 6
+    }
+  },
+  {
+    "name": "ВНУШИТ_ВЕРНОСТИ",
+    "itemStack": {
+      "id": "ThaumicHorizons:infusionCheat",
+      "data": 7
+    }
+  },
+  {
+    "name": "РУНИЧЕСК_ШКУРА",
+    "itemStack": {
+      "id": "ThaumicHorizons:infusionCheat",
+      "data": 8
+    }
+  },
+  {
+    "name": "ДРЕВНИЕ_КЛЫКИ",
+    "itemStack": {
+      "id": "ThaumicHorizons:infusionCheat",
+      "data": 9
+    }
+  },
+  {
+    "name": "ПОРТАТИВНОСТЬ",
+    "itemStack": {
+      "id": "ThaumicHorizons:infusionCheat",
+      "data": 10
+    }
+  },
+  {
+    "name": "ДЛЯ_СЕБЯ_Р_К",
+    "itemStack": {
+      "id": "ThaumicHorizons:infusionSelfCheat",
+      "data": 1
+    }
+  },
+  {
+    "name": "ДЛЯ_СЕБЯ_М_П",
+    "itemStack": {
+      "id": "ThaumicHorizons:infusionSelfCheat",
+      "data": 2
+    }
+  },
+  {
+    "name": "ДЛЯ_СЕБЯ_П_К",
+    "itemStack": {
+      "id": "ThaumicHorizons:infusionSelfCheat",
+      "data": 3
+    }
+  },
+  {
+    "name": "ДЛЯ_СЕБЯ_А_П",
+    "itemStack": {
+      "id": "ThaumicHorizons:infusionSelfCheat",
+      "data": 4
+    }
+  },
+  {
+    "name": "ДЛЯ_СЕБЯ_С_С",
+    "itemStack": {
+      "id": "ThaumicHorizons:infusionSelfCheat",
+      "data": 5
+    }
+  },
+  {
+    "name": "ДЛЯ_СЕБЯ_С_П",
+    "itemStack": {
+      "id": "ThaumicHorizons:infusionSelfCheat",
+      "data": 6
+    }
+  },
+  {
+    "name": "ДЛЯ_СЕБЯ_Д_А",
+    "itemStack": {
+      "id": "ThaumicHorizons:infusionSelfCheat",
+      "data": 7
+    }
+  },
+  {
+    "name": "ДЛЯ_СЕБЯ_Д_О",
+    "itemStack": {
+      "id": "ThaumicHorizons:infusionSelfCheat",
+      "data": 8
+    }
+  },
+  {
+    "name": "ДЛЯ_СЕБЯ_П_В",
+    "itemStack": {
+      "id": "ThaumicHorizons:infusionSelfCheat",
+      "data": 9
+    }
+  },
+  {
+    "name": "ДЛЯ_СЕБЯ_Ш_Х",
+    "itemStack": {
+      "id": "ThaumicHorizons:infusionSelfCheat",
+      "data": 10
+    }
+  },
+  {
+    "name": "СУИЦИД_ИНЪЕКЦИЯ",
+    "itemStack": {
+      "id": "ThaumicHorizons:suicidePill",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПОРОШОК_ВДОХНОВ",
+    "itemStack": {
+      "id": "ThaumicHorizons:golemPowder",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛОДК_ИЗ_В_ДРЕВ",
+    "itemStack": {
+      "id": "ThaumicHorizons:boatGreatwood",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТАУМ_ЛОДКА",
+    "itemStack": {
+      "id": "ThaumicHorizons:boatThaumium",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПОЛЫЙ_ЗАМЫК",
+    "itemStack": {
+      "id": "ThaumicHorizons:keystoneTH",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛОСК_ТОННЕЛЬ",
+    "itemStack": {
+      "id": "ThaumicHorizons:planarConduit",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОДН_КРИСТ_ЖЕЗЛ",
+    "itemStack": {
+      "id": "ThaumicHorizons:wandCastingDisposable",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        77,
+        -116,
+        65,
+        10,
+        -128,
+        48,
+        12,
+        4,
+        23,
+        -94,
+        80,
+        -4,
+        101,
+        52,
+        65,
+        2,
+        98,
+        106,
+        90,
+        -1,
+        -28,
+        51,
+        109,
+        81,
+        -63,
+        -37,
+        -20,
+        -64,
+        -20,
+        4,
+        16,
+        6,
+        62,
+        78,
+        6,
+        -8,
+        34,
+        -116,
+        85,
+        35,
+        62,
+        -74,
+        117,
+        -73,
+        -46,
+        57,
+        -127,
+        22,
+        -50,
+        -104,
+        -60,
+        74,
+        -10,
+        -62,
+        -13,
+        -90,
+        -51,
+        -124,
+        -53,
+        -33,
+        -76,
+        27,
+        15,
+        -15,
+        39,
+        77,
+        89,
+        67,
+        -84,
+        -38,
+        59,
+        -119,
+        53,
+        58,
+        -31,
+        6,
+        -89,
+        46,
+        4,
+        90,
+        111,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "ИН_КРИСТ_ЖЕЗЛ",
+    "itemStack": {
+      "id": "ThaumicHorizons:crystalWand",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗАПОЛН_БЕЗДНЫ",
+    "itemStack": {
+      "id": "ThaumicHorizons:voidPutty",
+      "data": 0
+    }
+  },
+  {
+    "name": "НЕИДЕНТ_МЯСО",
+    "itemStack": {
+      "id": "ThaumicHorizons:meatTH",
+      "data": 0
+    }
+  },
+  {
+    "name": "НЕИД_ЖАР_МЯСО",
+    "itemStack": {
+      "id": "ThaumicHorizons:meatCookedTH",
+      "data": 0
+    }
+  },
+  {
+    "name": "НЕИД_МЯСН_САМОР",
+    "itemStack": {
+      "id": "ThaumicHorizons:meatNuggetTH",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОТКРЫВАТ_УЗЛА",
+    "itemStack": {
+      "id": "ThaumicHorizons:nodeCheat",
+      "data": 0
+    }
+  }
+]

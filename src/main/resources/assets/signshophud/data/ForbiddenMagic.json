@@ -1,0 +1,429 @@
+  [
+  {
+    "name": "КЛЕТКА_ГНЕВА",
+    "itemStack": {
+      "id": "ForbiddenMagic:WrathCage",
+      "data": 0
+    }
+  },
+  {
+    "name": "МРАЧНАЯ_РОЗА",
+    "itemStack": {
+      "id": "ForbiddenMagic:InkFlower",
+      "data": 0
+    }
+  },
+  {
+    "name": "БЛОК_ЗВЁЗД_АДА",
+    "itemStack": {
+      "id": "ForbiddenMagic:StarBlock",
+      "data": 0
+    }
+  },
+  {
+    "name": "МРАЧН_КУСТ_РОЗ",
+    "itemStack": {
+      "id": "ForbiddenMagic:UmbralBush",
+      "data": 0
+    }
+  },
+  {
+    "name": "TAIN_LOG",
+    "itemStack": {
+      "id": "ForbiddenMagic:TaintLog",
+      "data": 0
+    }
+  },
+  {
+    "name": "TAIN_PLANKS",
+    "itemStack": {
+      "id": "ForbiddenMagic:TaintPlank",
+      "data": 0
+    }
+  },
+  {
+    "name": "TAIN_LEAVES",
+    "itemStack": {
+      "id": "ForbiddenMagic:TaintLeaves",
+      "data": 0
+    }
+  },
+  {
+    "name": "TAIN_SAPLING",
+    "itemStack": {
+      "id": "ForbiddenMagic:TaintSapling",
+      "data": 0
+    }
+  },
+  {
+    "name": "TAIN_STONE",
+    "itemStack": {
+      "id": "ForbiddenMagic:TaintBlock",
+      "data": 0
+    }
+  },
+  {
+    "name": "TAIN_S_BRICK",
+    "itemStack": {
+      "id": "ForbiddenMagic:TaintBlock",
+      "data": 1
+    }
+  },
+  {
+    "name": "ОСКОЛ_ГНЕВА",
+    "itemStack": {
+      "id": "ForbiddenMagic:NetherShard",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОСКОЛ_ЗАВИСТИ",
+    "itemStack": {
+      "id": "ForbiddenMagic:NetherShard",
+      "data": 1
+    }
+  },
+  {
+    "name": "ОСКОЛ_ЗАРАЗЫ",
+    "itemStack": {
+      "id": "ForbiddenMagic:NetherShard",
+      "data": 2
+    }
+  },
+  {
+    "name": "ОСКОЛ_ГОРДОСТИ",
+    "itemStack": {
+      "id": "ForbiddenMagic:NetherShard",
+      "data": 3
+    }
+  },
+  {
+    "name": "ОСКОЛ_СТРАСТИ",
+    "itemStack": {
+      "id": "ForbiddenMagic:NetherShard",
+      "data": 4
+    }
+  },
+  {
+    "name": "ОСКОЛ_ЛЕНИ",
+    "itemStack": {
+      "id": "ForbiddenMagic:NetherShard",
+      "data": 5
+    }
+  },
+  {
+    "name": "ОСКОЛ_ЖАДНОСТИ",
+    "itemStack": {
+      "id": "ForbiddenMagic:NetherShard",
+      "data": 6
+    }
+  },
+  {
+    "name": "ОСКОЛ_ПРОЖОРЛИВ",
+    "itemStack": {
+      "id": "ForbiddenMagic:GluttonyShard",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛОПАТА_ОЧИСТИТ",
+    "itemStack": {
+      "id": "ForbiddenMagic:TaintShovel",
+      "data": 0
+    }
+  },
+  {
+    "name": "КИРКА_ИСКАЖ",
+    "itemStack": {
+      "id": "ForbiddenMagic:TaintPickaxe",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТАУМ_ТОРТ",
+    "itemStack": {
+      "id": "ForbiddenMagic:ArcaneCakeItem",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТОП_СОБ_ЧЕРЕПОВ",
+    "itemStack": {
+      "id": "ForbiddenMagic:SkullAxe",
+      "data": 0
+    }
+  },
+  {
+    "name": "ХАМЕЛЕОН_КИРКА",
+    "itemStack": {
+      "id": "ForbiddenMagic:MorphPickaxe",
+      "data": 0
+    }
+  },
+  {
+    "name": "ХАМЕЛЕОН_МЕЧ",
+    "itemStack": {
+      "id": "ForbiddenMagic:MorphSword",
+      "data": 0
+    }
+  },
+  {
+    "name": "ХАМЕЛЕОН_ЛОПАТ",
+    "itemStack": {
+      "id": "ForbiddenMagic:MorphShovel",
+      "data": 0
+    }
+  },
+  {
+    "name": "ХАМЕЛЕОН_ТОПОР",
+    "itemStack": {
+      "id": "ForbiddenMagic:MorphAxe",
+      "data": 0
+    }
+  },
+  {
+    "name": "АДСКИЕ_ВИЛЫ",
+    "itemStack": {
+      "id": "ForbiddenMagic:DiabolistFork",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗАРАЖ_СТЕРЖЕНЬ",
+    "itemStack": {
+      "id": "ForbiddenMagic:WandCores",
+      "data": 0
+    }
+  },
+  {
+    "name": "АДСК_СТЕРЖЕНЬ",
+    "itemStack": {
+      "id": "ForbiddenMagic:WandCores",
+      "data": 1
+    }
+  },
+  {
+    "name": "ДРЕВН_СТЕРЖЕНЬ",
+    "itemStack": {
+      "id": "ForbiddenMagic:WandCores",
+      "data": 2
+    }
+  },
+  {
+    "name": "КРОВ_СТЕРЖЕНЬ",
+    "itemStack": {
+      "id": "ForbiddenMagic:WandCores",
+      "data": 3
+    }
+  },
+  {
+    "name": "ВЕДЬМ_СТЕРЖЕНЬ",
+    "itemStack": {
+      "id": "ForbiddenMagic:WandCores",
+      "data": 4
+    }
+  },
+  {
+    "name": "PROFANE_ROD",
+    "itemStack": {
+      "id": "ForbiddenMagic:WandCores",
+      "data": 5
+    }
+  },
+  {
+    "name": "ИНЕРТ_КР_СТЕРЖ",
+    "itemStack": {
+      "id": "ForbiddenMagic:WandCores",
+      "data": 6
+    }
+  },
+  {
+    "name": "СТ_ИЗ_ЖИВ_ДРЕВ",
+    "itemStack": {
+      "id": "ForbiddenMagic:WandCores",
+      "data": 7
+    }
+  },
+  {
+    "name": "Б_С_ИЗ_ЖИВ_ДРЕВ",
+    "itemStack": {
+      "id": "ForbiddenMagic:WandCores",
+      "data": 8
+    }
+  },
+  {
+    "name": "КР_ЯДРО_ПОСОХ",
+    "itemStack": {
+      "id": "ForbiddenMagic:WandCores",
+      "data": 9
+    }
+  },
+  {
+    "name": "ВЕД_ЯДРО_ПОСОХ",
+    "itemStack": {
+      "id": "ForbiddenMagic:WandCores",
+      "data": 10
+    }
+  },
+  {
+    "name": "СТЕРЖ_ИЗ_ДРЕВ_М",
+    "itemStack": {
+      "id": "ForbiddenMagic:WandCores",
+      "data": 11
+    }
+  },
+  {
+    "name": "Б_СТ_ИЗ_ДРЕВ_М",
+    "itemStack": {
+      "id": "ForbiddenMagic:WandCores",
+      "data": 12
+    }
+  },
+  {
+    "name": "ЯДРО_ПОС_ИЗ_Д_М",
+    "itemStack": {
+      "id": "ForbiddenMagic:WandCores",
+      "data": 13
+    }
+  },
+  {
+    "name": "АЛХИМ_НАКОНЕЧН",
+    "itemStack": {
+      "id": "ForbiddenMagic:WandCaps",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВИНТ_НАКОНЕЧН",
+    "itemStack": {
+      "id": "ForbiddenMagic:WandCaps",
+      "data": 1
+    }
+  },
+  {
+    "name": "TERRASTEEL_CAP",
+    "itemStack": {
+      "id": "ForbiddenMagic:WandCaps",
+      "data": 2
+    }
+  },
+  {
+    "name": "МАНАСТ_НАКОНЕЧН",
+    "itemStack": {
+      "id": "ForbiddenMagic:WandCaps",
+      "data": 3
+    }
+  },
+  {
+    "name": "ИНЕРТ_МАН_НАКОН",
+    "itemStack": {
+      "id": "ForbiddenMagic:WandCaps",
+      "data": 4
+    }
+  },
+  {
+    "name": "ЭЛЕМ_НАКОНЕЧН",
+    "itemStack": {
+      "id": "ForbiddenMagic:WandCaps",
+      "data": 5
+    }
+  },
+  {
+    "name": "ИНЕРТ_ЭЛЕМ_НАК",
+    "itemStack": {
+      "id": "ForbiddenMagic:WandCaps",
+      "data": 6
+    }
+  },
+  {
+    "name": "ИЗУМРУ_ФРАГМЕНТ",
+    "itemStack": {
+      "id": "ForbiddenMagic:FMResource",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТЕНЕВ_ЧЕРНИЛА",
+    "itemStack": {
+      "id": "ForbiddenMagic:FMResource",
+      "data": 1
+    }
+  },
+  {
+    "name": "САМОРОД_МАНАСТ",
+    "itemStack": {
+      "id": "ForbiddenMagic:FMResource",
+      "data": 2
+    }
+  },
+  {
+    "name": "ОСКОЛ_ЗАР_КРОВИ",
+    "itemStack": {
+      "id": "ForbiddenMagic:FMResource",
+      "data": 3
+    }
+  },
+  {
+    "name": "ЭЛЕМЕНТ_САМОРОД",
+    "itemStack": {
+      "id": "ForbiddenMagic:FMResource",
+      "data": 4
+    }
+  },
+  {
+    "name": "КР_ЧЕРН_С_ПЕРОМ",
+    "itemStack": {
+      "id": "ForbiddenMagic:Crystalwell",
+      "data": 0
+    }
+  },
+  {
+    "name": "PR_SCRIB_TOOLS",
+    "itemStack": {
+      "id": "ForbiddenMagic:Primewell",
+      "data": 0
+    }
+  },
+  {
+    "name": "ХЛЫСТ",
+    "itemStack": {
+      "id": "ForbiddenMagic:RidingCrop",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОШЕЙНИК_БОЛИ",
+    "itemStack": {
+      "id": "ForbiddenMagic:SubCollar",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОЛЬЦО_НАСЫЩЕН",
+    "itemStack": {
+      "id": "ForbiddenMagic:RingNutrition",
+      "data": 0
+    }
+  },
+  {
+    "name": "TAINTED_FRUIT",
+    "itemStack": {
+      "id": "ForbiddenMagic:TaintFruit",
+      "data": 0
+    }
+  },
+  {
+    "name": "HEXCOAL",
+    "itemStack": {
+      "id": "ForbiddenMagic:TaintCoal",
+      "data": 0
+    }
+  },
+  {
+    "name": "НАБАЛД_БЛИНК",
+    "itemStack": {
+      "id": "ForbiddenMagic:BlinkFocus",
+      "data": 0
+    }
+  }
+]

@@ -1,0 +1,2102 @@
+[
+  {
+    "name": "КАРКАС_СУНДУК",
+    "itemStack": {
+      "id": "BiblioCraft:tile.BiblioFramedChest",
+      "data": 0
+    }
+  },
+  {
+    "name": "Д_МЕБЕЛЬ_ПАН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioPaneler",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЕЛ_МЕБЕЛЬ_ПАН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioPaneler",
+      "data": 1
+    }
+  },
+  {
+    "name": "Б_МЕБЕЛЬ_ПАН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioPaneler",
+      "data": 2
+    }
+  },
+  {
+    "name": "ТРОП_МЕБЕЛЬ_ПАН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioPaneler",
+      "data": 3
+    }
+  },
+  {
+    "name": "АКАЦ_МЕБЕЛЬ_ПАН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioPaneler",
+      "data": 4
+    }
+  },
+  {
+    "name": "Т_Д_МЕБЕЛЬ_ПАН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioPaneler",
+      "data": 5
+    }
+  },
+  {
+    "name": "КАР_МЕБЕЛЬ_ПАН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioPaneler",
+      "data": 6
+    }
+  },
+  {
+    "name": "БЕЛ_ПЕЧ_МАШ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioTypewriter",
+      "data": 0
+    }
+  },
+  {
+    "name": "СВ_СР_ПЕЧ_МАШ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioTypewriter",
+      "data": 1
+    }
+  },
+  {
+    "name": "СЕР_ПЕЧ_МАШ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioTypewriter",
+      "data": 2
+    }
+  },
+  {
+    "name": "ЧЁРН_ПЕЧ_МАШ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioTypewriter",
+      "data": 3
+    }
+  },
+  {
+    "name": "КРАСН_ПЕЧ_МАШ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioTypewriter",
+      "data": 4
+    }
+  },
+  {
+    "name": "ОРАНЖ_ПЕЧ_МАШ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioTypewriter",
+      "data": 5
+    }
+  },
+  {
+    "name": "ЖЁЛТ_ПЕЧ_МАШ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioTypewriter",
+      "data": 6
+    }
+  },
+  {
+    "name": "ЛАЙМ_ПЕЧ_МАШ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioTypewriter",
+      "data": 7
+    }
+  },
+  {
+    "name": "ЗЕЛЁН_ПЕЧ_МАШ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioTypewriter",
+      "data": 8
+    }
+  },
+  {
+    "name": "БИРЮЗ_ПЕЧ_МАШ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioTypewriter",
+      "data": 9
+    }
+  },
+  {
+    "name": "СВ_СИН_ПЕЧ_МАШ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioTypewriter",
+      "data": 10
+    }
+  },
+  {
+    "name": "СИН_ПЕЧ_МАШ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioTypewriter",
+      "data": 11
+    }
+  },
+  {
+    "name": "ФИОЛ_ПЕЧ_МАШ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioTypewriter",
+      "data": 12
+    }
+  },
+  {
+    "name": "СИРЕН_ПЕЧ_МАШ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioTypewriter",
+      "data": 13
+    }
+  },
+  {
+    "name": "РОЗОВ_ПЕЧ_МАШ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioTypewriter",
+      "data": 14
+    }
+  },
+  {
+    "name": "КОРИЧН_ПЕЧ_МАШ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioTypewriter",
+      "data": 15
+    }
+  },
+  {
+    "name": "ДУБОВЫЕ_ЧАСЫ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioClock",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЕЛОВЫЕ_ЧАСЫ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioClock",
+      "data": 1
+    }
+  },
+  {
+    "name": "БЕРЁЗ_ЧАСЫ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioClock",
+      "data": 2
+    }
+  },
+  {
+    "name": "ТРОП_ЧАСЫ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioClock",
+      "data": 3
+    }
+  },
+  {
+    "name": "АКАЦ_ЧАСЫ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioClock",
+      "data": 4
+    }
+  },
+  {
+    "name": "ТЁМН_Д_ЧАСЫ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioClock",
+      "data": 5
+    }
+  },
+  {
+    "name": "КАРКАС_ЧАСЫ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioClock",
+      "data": 6
+    }
+  },
+  {
+    "name": "ДУБ_КАРТ_РАМ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioFlatPainting",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЕЛОВ_КАРТ_РАМ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioFlatPainting",
+      "data": 1
+    }
+  },
+  {
+    "name": "БЕРЁЗ_КАРТ_РАМ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioFlatPainting",
+      "data": 2
+    }
+  },
+  {
+    "name": "ТРОП_КАРТ_РАМ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioFlatPainting",
+      "data": 3
+    }
+  },
+  {
+    "name": "АКАЦ_КАРТ_РАМ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioFlatPainting",
+      "data": 4
+    }
+  },
+  {
+    "name": "Т_ДУБ_КАРТ_РАМ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioFlatPainting",
+      "data": 5
+    }
+  },
+  {
+    "name": "КАР_КАРТ_РАМ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioFlatPainting",
+      "data": 6
+    }
+  },
+  {
+    "name": "ДУБ_КАРТ_РАМ+",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioSimplePainting",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЕЛОВ_КАРТ_РАМ+",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioSimplePainting",
+      "data": 1
+    }
+  },
+  {
+    "name": "БЕРЁЗ_КАРТ_РАМ+",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioSimplePainting",
+      "data": 2
+    }
+  },
+  {
+    "name": "ТРОП_КАРТ_РАМ+",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioSimplePainting",
+      "data": 3
+    }
+  },
+  {
+    "name": "АКАЦ_КАРТ_РАМ+",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioSimplePainting",
+      "data": 4
+    }
+  },
+  {
+    "name": "Т_ДУБ_КАРТ_РАМ+",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioSimplePainting",
+      "data": 5
+    }
+  },
+  {
+    "name": "КАР_КАРТ_РАМ+",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioSimplePainting",
+      "data": 6
+    }
+  },
+  {
+    "name": "ДУБ_КАРТ_РАМ++",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioMiddlePainting",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЕЛ_КАРТ_РАМ++",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioMiddlePainting",
+      "data": 1
+    }
+  },
+  {
+    "name": "БЕР_КАРТ_РАМ++",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioMiddlePainting",
+      "data": 2
+    }
+  },
+  {
+    "name": "ТРОП_КАРТ_РАМ++",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioMiddlePainting",
+      "data": 3
+    }
+  },
+  {
+    "name": "АКАЦ_КАРТ_РАМ++",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioMiddlePainting",
+      "data": 4
+    }
+  },
+  {
+    "name": "Т_Д_КАРТ_РАМ++",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioMiddlePainting",
+      "data": 5
+    }
+  },
+  {
+    "name": "КАР_КАРТ_РАМ++",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioMiddlePainting",
+      "data": 6
+    }
+  },
+  {
+    "name": "ДУБ_К_Р_КОМП",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioFancyPainting",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЕЛ_К_Р_КОМП",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioFancyPainting",
+      "data": 1
+    }
+  },
+  {
+    "name": "БЕРЁЗ_К_Р_КОМП",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioFancyPainting",
+      "data": 2
+    }
+  },
+  {
+    "name": "ТРОП_К_Р_КОМП",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioFancyPainting",
+      "data": 3
+    }
+  },
+  {
+    "name": "АКАЦ_К_Р_КОМП",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioFancyPainting",
+      "data": 4
+    }
+  },
+  {
+    "name": "Т_ДУБ_К_Р_КОМП",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioFancyPainting",
+      "data": 5
+    }
+  },
+  {
+    "name": "КАР_К_Р_КОМП",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioFancyPainting",
+      "data": 6
+    }
+  },
+  {
+    "name": "ДУБ_К_Р_БЕЗ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioBorderlessPainting",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЕЛ_К_Р_БЕЗ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioBorderlessPainting",
+      "data": 1
+    }
+  },
+  {
+    "name": "БЕРЁЗ_К_Р_БЕЗ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioBorderlessPainting",
+      "data": 2
+    }
+  },
+  {
+    "name": "ТРОП_К_Р_БЕЗ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioBorderlessPainting",
+      "data": 3
+    }
+  },
+  {
+    "name": "АКАЦ_К_Р_БЕЗ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioBorderlessPainting",
+      "data": 4
+    }
+  },
+  {
+    "name": "Т_ДУБ_К_Р_БЕЗ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioBorderlessPainting",
+      "data": 5
+    }
+  },
+  {
+    "name": "КАР_К_Р_БЕЗ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioBorderlessPainting",
+      "data": 6
+    }
+  },
+  {
+    "name": "КАРТИНН_СТАНОК",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioPaintPress",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЬЕДЕСТ_БЕЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioSwordPedestal",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЬЕДЕСТ_ОРАНДЖ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioSwordPedestal",
+      "data": 1
+    }
+  },
+  {
+    "name": "ПЬЕДЕСТ_СИРЕН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioSwordPedestal",
+      "data": 2
+    }
+  },
+  {
+    "name": "ПЬЕДЕСТ_СВ_СИН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioSwordPedestal",
+      "data": 3
+    }
+  },
+  {
+    "name": "ПЬЕДЕСТ_ЖЁЛТ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioSwordPedestal",
+      "data": 4
+    }
+  },
+  {
+    "name": "ПЬЕДЕСТ_ЛАЙМ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioSwordPedestal",
+      "data": 5
+    }
+  },
+  {
+    "name": "ПЬЕДЕСТ_РОЗОВ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioSwordPedestal",
+      "data": 6
+    }
+  },
+  {
+    "name": "ПЬЕДЕСТ_СЕРЫЙ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioSwordPedestal",
+      "data": 7
+    }
+  },
+  {
+    "name": "ПЬЕДЕСТ_СВ_СЕР",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioSwordPedestal",
+      "data": 8
+    }
+  },
+  {
+    "name": "ПЬЕДЕСТ_БИРЮЗ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioSwordPedestal",
+      "data": 9
+    }
+  },
+  {
+    "name": "ПЬЕДЕСТ_ФИОЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioSwordPedestal",
+      "data": 10
+    }
+  },
+  {
+    "name": "ПЬЕДЕСТ_СИН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioSwordPedestal",
+      "data": 11
+    }
+  },
+  {
+    "name": "ПЬЕДЕСТ_КОРИЧ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioSwordPedestal",
+      "data": 12
+    }
+  },
+  {
+    "name": "ПЬЕДЕСТ_ЗЕЛЁН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioSwordPedestal",
+      "data": 13
+    }
+  },
+  {
+    "name": "ПЬЕДЕСТ_КРАСН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioSwordPedestal",
+      "data": 14
+    }
+  },
+  {
+    "name": "ПЬЕДЕСТ_ЧЁРН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioSwordPedestal",
+      "data": 15
+    }
+  },
+  {
+    "name": "ДУБ_КР_ТАБЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioFancySign",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЕЛ_КР_ТАБЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioFancySign",
+      "data": 1
+    }
+  },
+  {
+    "name": "БЕР_КР_ТАБЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioFancySign",
+      "data": 2
+    }
+  },
+  {
+    "name": "ТРОП_КР_ТАБЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioFancySign",
+      "data": 3
+    }
+  },
+  {
+    "name": "АКАЦ_КР_ТАБЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioFancySign",
+      "data": 4
+    }
+  },
+  {
+    "name": "Т_ДУБ_КР_ТАБЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioFancySign",
+      "data": 5
+    }
+  },
+  {
+    "name": "КАРК_КР_ТАБЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioFancySign",
+      "data": 6
+    }
+  },
+  {
+    "name": "ДУБ_КР_ВЕРСТ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioWorkbench",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЕЛ_КР_ВЕРСТ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioWorkbench",
+      "data": 1
+    }
+  },
+  {
+    "name": "БЕР_КР_ВЕРСТ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioWorkbench",
+      "data": 2
+    }
+  },
+  {
+    "name": "ТРОП_КР_ВЕРСТ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioWorkbench",
+      "data": 3
+    }
+  },
+  {
+    "name": "АКАЦ_КР_ВЕРСТ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioWorkbench",
+      "data": 4
+    }
+  },
+  {
+    "name": "Т_ДУБ_КР_ВЕРСТ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioWorkbench",
+      "data": 5
+    }
+  },
+  {
+    "name": "КАРК_КР_ВЕРСТ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioWorkbench",
+      "data": 6
+    }
+  },
+  {
+    "name": "НАСТ_ЗВОНОК",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioBell",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДУБ_КНИЖ_ШКАФ",
+    "itemStack": {
+      "id": "BiblioCraft:Bibliotheca",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЕЛОВ_КНИЖ_ШКАФ",
+    "itemStack": {
+      "id": "BiblioCraft:Bibliotheca",
+      "data": 1
+    }
+  },
+  {
+    "name": "БЕРЁЗ_КНИЖ_ШКАФ",
+    "itemStack": {
+      "id": "BiblioCraft:Bibliotheca",
+      "data": 2
+    }
+  },
+  {
+    "name": "ТРОП_КНИЖ_ШКАФ",
+    "itemStack": {
+      "id": "BiblioCraft:Bibliotheca",
+      "data": 3
+    }
+  },
+  {
+    "name": "АКАЦ_КНИЖ_ШКАФ",
+    "itemStack": {
+      "id": "BiblioCraft:Bibliotheca",
+      "data": 4
+    }
+  },
+  {
+    "name": "Т_Д_КНИЖ_ШКАФ",
+    "itemStack": {
+      "id": "BiblioCraft:Bibliotheca",
+      "data": 5
+    }
+  },
+  {
+    "name": "КАР_КНИЖ_ШКАФ",
+    "itemStack": {
+      "id": "BiblioCraft:Bibliotheca",
+      "data": 6
+    }
+  },
+  {
+    "name": "ДУБ_КНИЖ_ШКАЦ",
+    "itemStack": {
+      "id": "BiblioCraft:BookcaseFilled",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЕЛОВ_КНИЖ_ШКАЦ",
+    "itemStack": {
+      "id": "BiblioCraft:BookcaseFilled",
+      "data": 1
+    }
+  },
+  {
+    "name": "БЕРЁЗ_КНИЖ_ШКАЦ",
+    "itemStack": {
+      "id": "BiblioCraft:BookcaseFilled",
+      "data": 2
+    }
+  },
+  {
+    "name": "ТРОП_КНИЖ_ШКАЦ",
+    "itemStack": {
+      "id": "BiblioCraft:BookcaseFilled",
+      "data": 3
+    }
+  },
+  {
+    "name": "АКАЦ_КНИЖ_ШКАЦ",
+    "itemStack": {
+      "id": "BiblioCraft:BookcaseFilled",
+      "data": 4
+    }
+  },
+  {
+    "name": "Т_Б_КНИЖ_ШКАЦ",
+    "itemStack": {
+      "id": "BiblioCraft:BookcaseFilled",
+      "data": 5
+    }
+  },
+  {
+    "name": "КАР_КНИЖ_ШКАЦ",
+    "itemStack": {
+      "id": "BiblioCraft:BookcaseFilled",
+      "data": 6
+    }
+  },
+  {
+    "name": "ДУБ_ПОЛ_Д_ЗЕЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioPotionShelf",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЕЛОВ_ПОЛ_Д_ЗЕЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioPotionShelf",
+      "data": 1
+    }
+  },
+  {
+    "name": "БЕРЁЗ_ПОЛ_Д_ЗЕЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioPotionShelf",
+      "data": 2
+    }
+  },
+  {
+    "name": "АКАЦ_ПОЛ_Д_ЗЕЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioPotionShelf",
+      "data": 4
+    }
+  },
+  {
+    "name": "КАР_ПОЛ_Д_ЗЕЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioPotionShelf",
+      "data": 6
+    }
+  },
+  {
+    "name": "ДУБ_ПОЛКА",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioShelf",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЕЛОВ_ПОЛКА",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioShelf",
+      "data": 1
+    }
+  },
+  {
+    "name": "БЕРЁЗ_ПОЛКА",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioShelf",
+      "data": 2
+    }
+  },
+  {
+    "name": "ТРОП_ПОЛКА",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioShelf",
+      "data": 3
+    }
+  },
+  {
+    "name": "АКАЦ_ПОЛКА",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioShelf",
+      "data": 4
+    }
+  },
+  {
+    "name": "Т_ДУБ_ПОЛКА",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioShelf",
+      "data": 5
+    }
+  },
+  {
+    "name": "КАРКАС_ПОЛКА",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioShelf",
+      "data": 6
+    }
+  },
+  {
+    "name": "ДУБ_СТ_Д_ИНСТР",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioRack",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЕЛ_СТ_Д_ИНСТР",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioRack",
+      "data": 1
+    }
+  },
+  {
+    "name": "БЕР_СТ_Д_ИНСТР",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioRack",
+      "data": 2
+    }
+  },
+  {
+    "name": "АКАЦ_СТ_Д_ИНСТР",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioRack",
+      "data": 4
+    }
+  },
+  {
+    "name": "КАР_СТ_Д_ИНСТР",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioRack",
+      "data": 6
+    }
+  },
+  {
+    "name": "ДУБ_ВИТРИНА",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioCase",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЕЛОВ_ВИТРИНА",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioCase",
+      "data": 1
+    }
+  },
+  {
+    "name": "БЕРЁЗ_ВИТРИНА",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioCase",
+      "data": 2
+    }
+  },
+  {
+    "name": "ТРОП_ВИТРИНА",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioCase",
+      "data": 3
+    }
+  },
+  {
+    "name": "АКАЦ_ВИТРИНА",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioCase",
+      "data": 4
+    }
+  },
+  {
+    "name": "Т_ДУБ_ВИТРИНА",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioCase",
+      "data": 5
+    }
+  },
+  {
+    "name": "КАРКАС_ВИТРИНА",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioCase",
+      "data": 6
+    }
+  },
+  {
+    "name": "ДУБ_БИРКА",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLabel",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЕЛОВ_БИРКА",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLabel",
+      "data": 1
+    }
+  },
+  {
+    "name": "БЕРЁЗ_БИРКА",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLabel",
+      "data": 2
+    }
+  },
+  {
+    "name": "ТРОП_БИРКА",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLabel",
+      "data": 3
+    }
+  },
+  {
+    "name": "АКАЦ_БИРКА",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLabel",
+      "data": 4
+    }
+  },
+  {
+    "name": "Т_ДУБ_БИРКА",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLabel",
+      "data": 5
+    }
+  },
+  {
+    "name": "КАРКАС_БИРКА",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLabel",
+      "data": 6
+    }
+  },
+  {
+    "name": "ДУБОВ_ПИСЬ_СТОЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioDesk",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЕЛОВ_ПИСЬ_СТОЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioDesk",
+      "data": 1
+    }
+  },
+  {
+    "name": "БЕРЁЗ_ПИСЬ_СТОЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioDesk",
+      "data": 2
+    }
+  },
+  {
+    "name": "ТРОП_ПИСЬ_СТОЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioDesk",
+      "data": 3
+    }
+  },
+  {
+    "name": "АКАЦ_ПИСЬ_СТОЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioDesk",
+      "data": 4
+    }
+  },
+  {
+    "name": "Т_ДУБ_ПИСЬ_СТОЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioDesk",
+      "data": 5
+    }
+  },
+  {
+    "name": "КАРКАС_П_СТОЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioDesk",
+      "data": 6
+    }
+  },
+  {
+    "name": "ДУБОВЫЙ_СТОЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioTable",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЕЛОВЫЙ_СТОЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioTable",
+      "data": 1
+    }
+  },
+  {
+    "name": "БЕРЁЗОВЫЙ_СТОЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioTable",
+      "data": 2
+    }
+  },
+  {
+    "name": "ТРОПИЧЕСК_СТОЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioTable",
+      "data": 3
+    }
+  },
+  {
+    "name": "АКАЦ_СТОЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioTable",
+      "data": 4
+    }
+  },
+  {
+    "name": "ТЁМН_ДУБ_СТОЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioTable",
+      "data": 5
+    }
+  },
+  {
+    "name": "КАРКАС_СТОЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioTable",
+      "data": 6
+    }
+  },
+  {
+    "name": "СТОЙК_ДЛЯ_БРОНИ",
+    "itemStack": {
+      "id": "BiblioCraft:Armor Stand",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТИПОГРАФ_СТОЛ",
+    "itemStack": {
+      "id": "BiblioCraft:Typesetting Machine",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЕЧАТ_СТАНОК",
+    "itemStack": {
+      "id": "BiblioCraft:Printing Press",
+      "data": 0
+    }
+  },
+  {
+    "name": "БАНКА_ДЛЯ_ПЕЧ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioStuffs",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОБЕД_ТАРЕЛКА",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioStuffs",
+      "data": 2
+    }
+  },
+  {
+    "name": "СТОЙК_ДЛЯ_ПЛАСТ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioStuffs",
+      "data": 3
+    }
+  },
+  {
+    "name": "ДУБ_Р_Д_КАРТ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioMapFrames",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЕЛОВ_Р_Д_КАРТ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioMapFrames",
+      "data": 1
+    }
+  },
+  {
+    "name": "БЕРЁЗ_Р_Д_КАРТ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioMapFrames",
+      "data": 2
+    }
+  },
+  {
+    "name": "АКАЦ_Р_Д_КАРТ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioMapFrames",
+      "data": 4
+    }
+  },
+  {
+    "name": "КАР_Р_Д_КАРТ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioMapFrames",
+      "data": 6
+    }
+  },
+  {
+    "name": "ДУБОВЫЙ_СТУЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioSeats",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЕЛОВЫЙ_СТУЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioSeats",
+      "data": 1
+    }
+  },
+  {
+    "name": "БЕРЁЗОВЫЙ_СТУЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioSeats",
+      "data": 2
+    }
+  },
+  {
+    "name": "ТРОПИЧЕСК_СТУЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioSeats",
+      "data": 3
+    }
+  },
+  {
+    "name": "АКАЦ_СТУЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioSeats",
+      "data": 4
+    }
+  },
+  {
+    "name": "ТЁМН_ДУБ_СТУЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioSeats",
+      "data": 5
+    }
+  },
+  {
+    "name": "КАРКАС_СТУЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioSeats",
+      "data": 6
+    }
+  },
+  {
+    "name": "СКЛАД_КАТАЛОГ",
+    "itemStack": {
+      "id": "BiblioCraft:item.StockroomCatalog",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОТВЕС",
+    "itemStack": {
+      "id": "BiblioCraft:item.PlumbLine",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПИЛА",
+    "itemStack": {
+      "id": "BiblioCraft:item.FramingSaw",
+      "data": 0
+    }
+  },
+  {
+    "name": "КАРКАС_ДОСКА",
+    "itemStack": {
+      "id": "BiblioCraft:item.FramingBoard",
+      "data": 0
+    }
+  },
+  {
+    "name": "КАРКАС_ЛИСТ",
+    "itemStack": {
+      "id": "BiblioCraft:item.FramingSheet",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТЕСТЕР_ИМЁН",
+    "itemStack": {
+      "id": "BiblioCraft:item.TesterItem",
+      "data": 0
+    }
+  },
+  {
+    "name": "АТЛАС",
+    "itemStack": {
+      "id": "BiblioCraft:item.AtlasBook",
+      "data": 0
+    }
+  },
+  {
+    "name": "СТРАНИЦА_АТЛАСА",
+    "itemStack": {
+      "id": "BiblioCraft:item.AtlasPlate",
+      "data": 0
+    }
+  },
+  {
+    "name": "ХОЛСТ_ДЛЯ_РИС",
+    "itemStack": {
+      "id": "BiblioCraft:item.PaintingCanvas",
+      "data": 0
+    }
+  },
+  {
+    "name": "БОЛ_ПИС_КНИГА",
+    "itemStack": {
+      "id": "BiblioCraft:item.BigBook",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВЫРЕЗАНН_КНИГА",
+    "itemStack": {
+      "id": "BiblioCraft:item.SlottedBook",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОЛОВОРОТ",
+    "itemStack": {
+      "id": "BiblioCraft:item.HandDrill",
+      "data": 0
+    }
+  },
+  {
+    "name": "МЕРН_ЛЕНТА",
+    "itemStack": {
+      "id": "BiblioCraft:item.tapeMeasure",
+      "data": 0
+    }
+  },
+  {
+    "name": "КАТ_МЕРН_ЛЕНТЫ",
+    "itemStack": {
+      "id": "BiblioCraft:item.tape",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЕЧАТ_РАМА",
+    "itemStack": {
+      "id": "BiblioCraft:item.BiblioChase",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЕЧАТ_ФОРМА",
+    "itemStack": {
+      "id": "BiblioCraft:item.PrintPlate",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗАЧАР_ФОРМА",
+    "itemStack": {
+      "id": "BiblioCraft:item.EnchantedPlate",
+      "data": 0
+    }
+  },
+  {
+    "name": "КР_КАМ_ТОМ_I",
+    "itemStack": {
+      "id": "BiblioCraft:item.BiblioRedBook",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОЧКИ_ДЛЯ_ЧТЕНИЯ",
+    "itemStack": {
+      "id": "BiblioCraft:item.BiblioGlasses",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОКРАШЕННЫЕ_ОЧКИ",
+    "itemStack": {
+      "id": "BiblioCraft:item.BiblioGlasses",
+      "data": 1
+    }
+  },
+  {
+    "name": "МОНОКЛЬ",
+    "itemStack": {
+      "id": "BiblioCraft:item.BiblioGlasses",
+      "data": 2
+    }
+  },
+  {
+    "name": "ШУРУПОВЁРТ",
+    "itemStack": {
+      "id": "BiblioCraft:item.BiblioDrill",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗАМОК_И_КЛЮЧ",
+    "itemStack": {
+      "id": "BiblioCraft:item.BiblioCreativeLock",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛАН_С_З_ДЛЯ_Б",
+    "itemStack": {
+      "id": "BiblioCraft:item.BiblioClipboard",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДУБОВАЯ_СПИНКА",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЕЛОВАЯ_СПИНКА",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack",
+      "data": 1
+    }
+  },
+  {
+    "name": "БЕРЁЗОВ_СПИНКА",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack",
+      "data": 2
+    }
+  },
+  {
+    "name": "ТРОП_СПИНКА",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack",
+      "data": 3
+    }
+  },
+  {
+    "name": "АКАЦ_СПИНКА",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack",
+      "data": 4
+    }
+  },
+  {
+    "name": "ТЁМН_ДУБ_СПИНКА",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack",
+      "data": 5
+    }
+  },
+  {
+    "name": "КАРКАС_СПИНКА",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack",
+      "data": 6
+    }
+  },
+  {
+    "name": "ДУБОВ_СПИНКА_2",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack2",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЕЛОВАЯ_СПИНКА_2",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack2",
+      "data": 1
+    }
+  },
+  {
+    "name": "БЕРЁЗ_СПИНКА_2",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack2",
+      "data": 2
+    }
+  },
+  {
+    "name": "ТРОП_СПИНКА_2",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack2",
+      "data": 3
+    }
+  },
+  {
+    "name": "АКАЦ_СПИНКА_2",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack2",
+      "data": 4
+    }
+  },
+  {
+    "name": "Т_ДУБ_СПИНКА_2",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack2",
+      "data": 5
+    }
+  },
+  {
+    "name": "КАРКАС_СПИНКА_2",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack2",
+      "data": 6
+    }
+  },
+  {
+    "name": "ДУБОВ_СПИНКА_3",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack3",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЕЛОВ_СПИНКА_3",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack3",
+      "data": 1
+    }
+  },
+  {
+    "name": "БЕРЁЗ_СПИНКА_3",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack3",
+      "data": 2
+    }
+  },
+  {
+    "name": "ТРОП_СПИНКА_3",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack3",
+      "data": 3
+    }
+  },
+  {
+    "name": "АКАЦ_СПИНКА_3",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack3",
+      "data": 4
+    }
+  },
+  {
+    "name": "Т_ДУБ_СПИНКА_3",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack3",
+      "data": 5
+    }
+  },
+  {
+    "name": "КАРКАС_СПИНКА_3",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack3",
+      "data": 6
+    }
+  },
+  {
+    "name": "ДУБОВ_СПИНКА_4",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack4",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЕЛОВ_СПИНКА_4",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack4",
+      "data": 1
+    }
+  },
+  {
+    "name": "БЕРЁЗ_СПИНКА_4",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack4",
+      "data": 2
+    }
+  },
+  {
+    "name": "ТРОП_СПИНКА_4",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack4",
+      "data": 3
+    }
+  },
+  {
+    "name": "АКАЦ_СПИНКА_4",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack4",
+      "data": 4
+    }
+  },
+  {
+    "name": "Т_ДУБ_СПИНКА_4",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack4",
+      "data": 5
+    }
+  },
+  {
+    "name": "КАРКАС_СПИНКА_4",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack4",
+      "data": 6
+    }
+  },
+  {
+    "name": "ДУБОВ_СПИНКА_5",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack5",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЕЛОВ_СПИНКА_5",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack5",
+      "data": 1
+    }
+  },
+  {
+    "name": "БЕРЁЗ_СПИНКА_5",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack5",
+      "data": 2
+    }
+  },
+  {
+    "name": "ТРОП_СПИНКА_5",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack5",
+      "data": 3
+    }
+  },
+  {
+    "name": "АКАЦ_СПИНКА_5",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack5",
+      "data": 4
+    }
+  },
+  {
+    "name": "Т_ДУБ_СПИНКА_5",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack5",
+      "data": 5
+    }
+  },
+  {
+    "name": "КАРКАС_СПИНКА_5",
+    "itemStack": {
+      "id": "BiblioCraft:item.seatBack5",
+      "data": 6
+    }
+  },
+  {
+    "name": "ЦИРКУЛЬ",
+    "itemStack": {
+      "id": "BiblioCraft:item.BiblioMapTool",
+      "data": 0
+    }
+  },
+  {
+    "name": "КООРДИНАТ_КОМП",
+    "itemStack": {
+      "id": "BiblioCraft:item.BiblioWayPointCompass",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗОЛ_ФОН_БЕЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLantern",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗОЛ_ФОН_СВ_СР",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLantern",
+      "data": 1
+    }
+  },
+  {
+    "name": "ЗОЛ_ФОН_СЕР",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLantern",
+      "data": 2
+    }
+  },
+  {
+    "name": "ЗОЛ_ФОН_ЧЁРН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLantern",
+      "data": 3
+    }
+  },
+  {
+    "name": "ЗОЛ_ФОН_КРАСН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLantern",
+      "data": 4
+    }
+  },
+  {
+    "name": "ЗОЛ_ФОН_ОРАНДЖ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLantern",
+      "data": 5
+    }
+  },
+  {
+    "name": "ЗОЛ_ФОН_ЖЁЛТ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLantern",
+      "data": 6
+    }
+  },
+  {
+    "name": "ЗОЛ_ФОН_ЛАЙМ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLantern",
+      "data": 7
+    }
+  },
+  {
+    "name": "ЗОЛ_ФОН_ЗЕЛЁН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLantern",
+      "data": 8
+    }
+  },
+  {
+    "name": "ЗОЛ_ФОН_БИРЮЗ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLantern",
+      "data": 9
+    }
+  },
+  {
+    "name": "ЗОЛ_ФОН_СВ_СИН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLantern",
+      "data": 10
+    }
+  },
+  {
+    "name": "ЗОЛ_ФОН_СИН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLantern",
+      "data": 11
+    }
+  },
+  {
+    "name": "ЗОЛ_ФОН_ФИОЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLantern",
+      "data": 12
+    }
+  },
+  {
+    "name": "ЗОЛ_ФОН_СИРЕН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLantern",
+      "data": 13
+    }
+  },
+  {
+    "name": "ЗОЛ_ФОН_РОЗОВ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLantern",
+      "data": 14
+    }
+  },
+  {
+    "name": "ЗОЛ_ФОН_КОРИЧН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLantern",
+      "data": 15
+    }
+  },
+  {
+    "name": "ЖЕЛ_ФОН_БЕЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioIronLantern",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЖЕЛ_ФОН_СВ_СР",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioIronLantern",
+      "data": 1
+    }
+  },
+  {
+    "name": "ЖЕЛ_ФОН_СЕР",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioIronLantern",
+      "data": 2
+    }
+  },
+  {
+    "name": "ЖЕЛ_ФОН_ЧЁРН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioIronLantern",
+      "data": 3
+    }
+  },
+  {
+    "name": "ЖЕЛ_ФОН_КРАСН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioIronLantern",
+      "data": 4
+    }
+  },
+  {
+    "name": "ЖЕЛ_ФОН_ОРАНДЖ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioIronLantern",
+      "data": 5
+    }
+  },
+  {
+    "name": "ЖЕЛ_ФОН_ЖЁЛТ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioIronLantern",
+      "data": 6
+    }
+  },
+  {
+    "name": "ЖЕЛ_ФОН_ЛАЙМ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioIronLantern",
+      "data": 7
+    }
+  },
+  {
+    "name": "ЖЕЛ_ФОН_ЗЕЛЁН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioIronLantern",
+      "data": 8
+    }
+  },
+  {
+    "name": "ЖЕЛ_ФОН_БИРЮЗ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioIronLantern",
+      "data": 9
+    }
+  },
+  {
+    "name": "ЖЕЛ_ФОН_СВ_СИН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioIronLantern",
+      "data": 10
+    }
+  },
+  {
+    "name": "ЖЕЛ_ФОН_СИН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioIronLantern",
+      "data": 11
+    }
+  },
+  {
+    "name": "ЖЕЛ_ФОН_ФИОЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioIronLantern",
+      "data": 12
+    }
+  },
+  {
+    "name": "ЖЕЛ_ФОН_СИРЕН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioIronLantern",
+      "data": 13
+    }
+  },
+  {
+    "name": "ЖЕЛ_ФОН_РОЗОВ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioIronLantern",
+      "data": 14
+    }
+  },
+  {
+    "name": "ЖЕЛ_ФОН_КОРИЧН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioIronLantern",
+      "data": 15
+    }
+  },
+  {
+    "name": "ЗОЛ_СВЕТ_БЕЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLamp",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗОЛ_СВЕТ_СВ_СР",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLamp",
+      "data": 1
+    }
+  },
+  {
+    "name": "ЗОЛ_СВЕТ_СЕР",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLamp",
+      "data": 2
+    }
+  },
+  {
+    "name": "ЗОЛ_СВЕТ_ЧЁРН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLamp",
+      "data": 3
+    }
+  },
+  {
+    "name": "ЗОЛ_СВЕТ_КРАСН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLamp",
+      "data": 4
+    }
+  },
+  {
+    "name": "ЗОЛ_СВЕТ_ОРАНДЖ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLamp",
+      "data": 5
+    }
+  },
+  {
+    "name": "ЗОЛ_СВЕТ_ЖЁЛТ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLamp",
+      "data": 6
+    }
+  },
+  {
+    "name": "ЗОЛ_СВЕТ_ЛАЙМ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLamp",
+      "data": 7
+    }
+  },
+  {
+    "name": "ЗОЛ_СВЕТ_ЗЕЛЁН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLamp",
+      "data": 8
+    }
+  },
+  {
+    "name": "ЗОЛ_СВЕТ_БИРЮЗ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLamp",
+      "data": 9
+    }
+  },
+  {
+    "name": "ЗОЛ_СВЕТ_СВ_СИ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLamp",
+      "data": 10
+    }
+  },
+  {
+    "name": "ЗОЛ_СВЕТ_СИНИЙ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLamp",
+      "data": 11
+    }
+  },
+  {
+    "name": "ЗОЛ_СВЕТ_ФИОЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLamp",
+      "data": 12
+    }
+  },
+  {
+    "name": "ЗОЛ_СВЕТ_СИРЕН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLamp",
+      "data": 13
+    }
+  },
+  {
+    "name": "ЗОЛ_СВЕТ_РОЗОВ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLamp",
+      "data": 14
+    }
+  },
+  {
+    "name": "ЗОЛ_СВЕТ_КОРИЧН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioLamp",
+      "data": 15
+    }
+  },
+  {
+    "name": "ЖЕЛ_СВЕТ_БЕЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioIronLamp",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЖЕЛ_СВЕТ_СВ_СР",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioIronLamp",
+      "data": 1
+    }
+  },
+  {
+    "name": "ЖЕЛ_СВЕТ_СЕР",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioIronLamp",
+      "data": 2
+    }
+  },
+  {
+    "name": "ЖЕЛ_СВЕТ_ЧЁРН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioIronLamp",
+      "data": 3
+    }
+  },
+  {
+    "name": "ЖЕЛ_СВЕТ_КРАСН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioIronLamp",
+      "data": 4
+    }
+  },
+  {
+    "name": "ЖЕЛ_СВЕТ_ОРАНДЖ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioIronLamp",
+      "data": 5
+    }
+  },
+  {
+    "name": "ЖЕЛ_СВЕТ_ЖЁЛТ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioIronLamp",
+      "data": 6
+    }
+  },
+  {
+    "name": "ЖЕЛ_СВЕТ_ЛАЙМ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioIronLamp",
+      "data": 7
+    }
+  },
+  {
+    "name": "ЖЕЛ_СВЕТ_ЗЕЛЁН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioIronLamp",
+      "data": 8
+    }
+  },
+  {
+    "name": "ЖЕЛ_СВЕТ_БИРЮЗ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioIronLamp",
+      "data": 9
+    }
+  },
+  {
+    "name": "ЖЕЛ_СВЕТ_СВ_СИН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioIronLamp",
+      "data": 10
+    }
+  },
+  {
+    "name": "ЖЕЛ_СВЕТ_СИНИЙ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioIronLamp",
+      "data": 11
+    }
+  },
+  {
+    "name": "ЖЕЛ_СВЕТ_ФИОЛ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioIronLamp",
+      "data": 12
+    }
+  },
+  {
+    "name": "ЖЕЛ_СВЕТ_СИРЕН",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioIronLamp",
+      "data": 13
+    }
+  },
+  {
+    "name": "ЖЕЛ_СВЕТ_РОЗОВ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioIronLamp",
+      "data": 14
+    }
+  },
+  {
+    "name": "ЖЕЛ_СВЕТ_КОРИЧ",
+    "itemStack": {
+      "id": "BiblioCraft:BiblioIronLamp",
+      "data": 15
+    }
+  }
+]
