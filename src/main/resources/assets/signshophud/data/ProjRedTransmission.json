@@ -1,0 +1,373 @@
+[
+  {
+    "name": "ПР_ИЗ_КРАСН_СПЛ",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 0
+    }
+  },
+  {
+    "name": "БЕЛЫЙ_ИЗОЛ_ПРОВ",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 1
+    }
+  },
+  {
+    "name": "ОРАНЖ_ИЗОЛ_ПРОВ",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 2
+    }
+  },
+  {
+    "name": "СИРЕН_ИЗОЛ_ПРОВ",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 3
+    }
+  },
+  {
+    "name": "СВЕТЛ_СИН_ИЗ_ПР",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 4
+    }
+  },
+  {
+    "name": "ЖЁЛТ_ИЗОЛ_ПРОВ",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 5
+    }
+  },
+  {
+    "name": "ЛАЙМ_ИЗОЛ_ПРОВ",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 6
+    }
+  },
+  {
+    "name": "РОЗОВ_ИЗОЛ_ПРОВ",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 7
+    }
+  },
+  {
+    "name": "СЕРЫЙ_ИЗОЛ_ПРОВ",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 8
+    }
+  },
+  {
+    "name": "СВЕТЛ_СЕР_ИЗ_ПР",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 9
+    }
+  },
+  {
+    "name": "БИРЮЗ_ИЗОЛ_ПРОВ",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 10
+    }
+  },
+  {
+    "name": "Ф_ИЗОЛИРОВ_ПРОВ",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 11
+    }
+  },
+  {
+    "name": "СИНИЙ_ИЗОЛ_ПРОВ",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 12
+    }
+  },
+  {
+    "name": "КОРИЧ_ИЗОЛ_ПРОВ",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 13
+    }
+  },
+  {
+    "name": "ЗЕЛЁН_ИЗОЛ_ПРОВ",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 14
+    }
+  },
+  {
+    "name": "КРАСН_ИЗОЛ_ПРОВ",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 15
+    }
+  },
+  {
+    "name": "ЧЁРН_ИЗОЛ_ПРОВ",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 16
+    }
+  },
+  {
+    "name": "ШИНА",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 17
+    }
+  },
+  {
+    "name": "БЕЛАЯ_ШИНА",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 18
+    }
+  },
+  {
+    "name": "ОРАНЖЕВАЯ_ШИНА",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 19
+    }
+  },
+  {
+    "name": "СИРЕНЕВАЯ_ШИНА",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 20
+    }
+  },
+  {
+    "name": "СВЕТЛО_СИН_ШИНА",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 21
+    }
+  },
+  {
+    "name": "ЖЁЛТАЯ_ШИНА",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 22
+    }
+  },
+  {
+    "name": "ЛАЙМОВАЯ_ШИНА",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 23
+    }
+  },
+  {
+    "name": "РОЗОВАЯ_ШИНА",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 24
+    }
+  },
+  {
+    "name": "СЕРАЯ_ШИНА",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 25
+    }
+  },
+  {
+    "name": "СВЕТЛО_СЕР_ШИНА",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 26
+    }
+  },
+  {
+    "name": "БИРЮЗОВАЯ_ШИНА",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 27
+    }
+  },
+  {
+    "name": "ФИОЛЕТОВАЯ_ШИНА",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 28
+    }
+  },
+  {
+    "name": "СИНЯЯ_ШИНА",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 29
+    }
+  },
+  {
+    "name": "КОРИЧНЕВАЯ_ШИНА",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 30
+    }
+  },
+  {
+    "name": "ЗЕЛЁНАЯ_ШИНА",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 31
+    }
+  },
+  {
+    "name": "КРАСНАЯ_ШИНА",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 32
+    }
+  },
+  {
+    "name": "ЧЁРНАЯ_ШИНА",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 33
+    }
+  },
+  {
+    "name": "ЛИН_ЭЛЕКТР_100В",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.wire",
+      "data": 34
+    }
+  },
+  {
+    "name": "ИЗ_П_В_БЕЛ_ОБОЛ",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.framewire",
+      "data": 1
+    }
+  },
+  {
+    "name": "ИЗ_П_В_ОРАНЖ_ОБ",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.framewire",
+      "data": 2
+    }
+  },
+  {
+    "name": "ИЗ_П_В_СИР_ОБОЛ",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.framewire",
+      "data": 3
+    }
+  },
+  {
+    "name": "ИЗ_ПР_В_СВ_С_ОБ",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.framewire",
+      "data": 4
+    }
+  },
+  {
+    "name": "ИЗ_ПР_В_ЖЁЛТ_ОБ",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.framewire",
+      "data": 5
+    }
+  },
+  {
+    "name": "ИЗ_ПР_В_ЛАЙМ_ОБ",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.framewire",
+      "data": 6
+    }
+  },
+  {
+    "name": "ИЗ_П_В_РОЗ_ОБОЛ",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.framewire",
+      "data": 7
+    }
+  },
+  {
+    "name": "ИЗ_П_В_СЕР_ОБОЛ",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.framewire",
+      "data": 8
+    }
+  },
+  {
+    "name": "ИЗ_ПР_В_С_С_ОБ+",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.framewire",
+      "data": 9
+    }
+  },
+  {
+    "name": "ИЗ_П_В_БИР_ОБОЛ",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.framewire",
+      "data": 10
+    }
+  },
+  {
+    "name": "ИЗ_П_В_Ф_ОБОЛОЧ",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.framewire",
+      "data": 11
+    }
+  },
+  {
+    "name": "ИЗ_П_В_СИН_ОБОЛ",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.framewire",
+      "data": 12
+    }
+  },
+  {
+    "name": "ИЗ_П_В_КОРИЧ_ОБ",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.framewire",
+      "data": 13
+    }
+  },
+  {
+    "name": "ИЗ_П_В_ЗЕЛ_ОБОЛ",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.framewire",
+      "data": 14
+    }
+  },
+  {
+    "name": "ИЗ_П_В_КРАСН_ОБ",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.framewire",
+      "data": 15
+    }
+  },
+  {
+    "name": "ИЗ_ПР_В_ЧЁРН_ОБ",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.framewire",
+      "data": 16
+    }
+  },
+  {
+    "name": "ШИНА_В_ОБОЛОЧКЕ",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.framewire",
+      "data": 17
+    }
+  },
+  {
+    "name": "Л_ЭЛ_100В_В_ОБ",
+    "itemStack": {
+      "id": "ProjRed|Transmission:projectred.transmission.framewire",
+      "data": 34
+    }
+  }
+]

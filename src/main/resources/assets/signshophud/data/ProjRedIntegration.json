@@ -1,0 +1,247 @@
+[
+  {
+    "name": "ИЛИ_ГЕЙТ",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 0
+    }
+  },
+  {
+    "name": "ИЛИ_НЕ_ГЕЙТ",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 1
+    }
+  },
+  {
+    "name": "НЕ_ГЕЙТ",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 2
+    }
+  },
+  {
+    "name": "И_ГЕЙТ",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 3
+    }
+  },
+  {
+    "name": "И_НЕ_ГЕЙТ",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 4
+    }
+  },
+  {
+    "name": "ГЕЙТ_ИСКЛЮЧ_ИЛИ",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 5
+    }
+  },
+  {
+    "name": "ГЕЙТ_ИСКЛ_ИЛИ_НЕ",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 6
+    }
+  },
+  {
+    "name": "УСИЛИВАЮЩ_ГЕЙТ",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 7
+    }
+  },
+  {
+    "name": "МУЛЬТИПЛЕКСОР",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 8
+    }
+  },
+  {
+    "name": "ФОРМИР_ИМПУЛЬСА",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 9
+    }
+  },
+  {
+    "name": "ПОВТОРИТЕЛЬ_PR",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 10
+    }
+  },
+  {
+    "name": "РАНДОМИЗАТОР",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 11
+    }
+  },
+  {
+    "name": "RS_ТРИГГЕР",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 12
+    }
+  },
+  {
+    "name": "ТУМБЛ_T_ТРИГГЕР",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 13
+    }
+  },
+  {
+    "name": "D_ТРИГГЕР",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 14
+    }
+  },
+  {
+    "name": "ДАТЧИК_СВЕТА",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 15
+    }
+  },
+  {
+    "name": "ДАТЧИК_ДОЖДЯ",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 16
+    }
+  },
+  {
+    "name": "ТАЙМЕР",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 17
+    }
+  },
+  {
+    "name": "ГЕНЕРАТ_ПОСЛЕД",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 18
+    }
+  },
+  {
+    "name": "СЧЁТЧИК",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 19
+    }
+  },
+  {
+    "name": "ЗАПОМИН_ЭЛЕМЕНТ",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 20
+    }
+  },
+  {
+    "name": "СИНХРОНИЗАТОР",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 21
+    }
+  },
+  {
+    "name": "ПРИЁМОПЕР_ШИНЫ",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 22
+    }
+  },
+  {
+    "name": "НУЛЕВОЙ_ЭЛЕМЕНТ",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 23
+    }
+  },
+  {
+    "name": "ИНВЕРТ_ЭЛЕМЕНТ",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 24
+    }
+  },
+  {
+    "name": "БУФЕРН_ЭЛЕМЕНТ",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 25
+    }
+  },
+  {
+    "name": "КОМПАРАТОР_PR",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 26
+    }
+  },
+  {
+    "name": "И_ЭЛЕМЕНТ",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 27
+    }
+  },
+  {
+    "name": "РАНДОМИЗАТ_ШИНЫ",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 28
+    }
+  },
+  {
+    "name": "КОНВЕРТЕР_ШИНЫ",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 29
+    }
+  },
+  {
+    "name": "ПАН_ВВОДА_ШИНЫ",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 30
+    }
+  },
+  {
+    "name": "РЕГИСТР",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 31
+    }
+  },
+  {
+    "name": "ГЕЙТ_СЕГМЕН_ИНД",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 32
+    }
+  },
+  {
+    "name": "ДЕКОДИР_РАНДОМ",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 33
+    }
+  },
+  {
+    "name": "IC_GATE",
+    "itemStack": {
+      "id": "ProjRed|Integration:projectred.integration.gate",
+      "data": 34
+    }
+  }
+]

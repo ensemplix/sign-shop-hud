@@ -1,0 +1,1234 @@
+[
+  {
+    "name": "БЕЛАЯ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lamp",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОРАНЖЕВАЯ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lamp",
+      "data": 1
+    }
+  },
+  {
+    "name": "СИРЕНЕВАЯ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lamp",
+      "data": 2
+    }
+  },
+  {
+    "name": "СВЕТЛ_СИН_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lamp",
+      "data": 3
+    }
+  },
+  {
+    "name": "ЖЁЛТАЯ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lamp",
+      "data": 4
+    }
+  },
+  {
+    "name": "ЛАЙМОВАЯ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lamp",
+      "data": 5
+    }
+  },
+  {
+    "name": "РОЗОВАЯ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lamp",
+      "data": 6
+    }
+  },
+  {
+    "name": "СЕРАЯ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lamp",
+      "data": 7
+    }
+  },
+  {
+    "name": "СВЕТЛ_СЕР_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lamp",
+      "data": 8
+    }
+  },
+  {
+    "name": "БИРЮЗОВАЯ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lamp",
+      "data": 9
+    }
+  },
+  {
+    "name": "ФИОЛЕТОВ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lamp",
+      "data": 10
+    }
+  },
+  {
+    "name": "СИНЯЯ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lamp",
+      "data": 11
+    }
+  },
+  {
+    "name": "КОРИЧНЕВ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lamp",
+      "data": 12
+    }
+  },
+  {
+    "name": "ЗЕЛЁНАЯ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lamp",
+      "data": 13
+    }
+  },
+  {
+    "name": "КРАСНАЯ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lamp",
+      "data": 14
+    }
+  },
+  {
+    "name": "ЧЁРНАЯ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lamp",
+      "data": 15
+    }
+  },
+  {
+    "name": "ИНВЕР_БЕЛ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lamp",
+      "data": 16
+    }
+  },
+  {
+    "name": "ИНВ_ОРАНЖ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lamp",
+      "data": 17
+    }
+  },
+  {
+    "name": "ИНВЕР_СИР_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lamp",
+      "data": 18
+    }
+  },
+  {
+    "name": "ИН_СВЕТ_С_ЛАМП+",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lamp",
+      "data": 19
+    }
+  },
+  {
+    "name": "ИНВЕР_ЖЁЛ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lamp",
+      "data": 20
+    }
+  },
+  {
+    "name": "ИНВЕР_ЛАЙМ_ЛАМП",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lamp",
+      "data": 21
+    }
+  },
+  {
+    "name": "ИНВЕР_РОЗ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lamp",
+      "data": 22
+    }
+  },
+  {
+    "name": "ИНВЕР_СЕР_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lamp",
+      "data": 23
+    }
+  },
+  {
+    "name": "ИНВ_СВЕТ_С_ЛАМП",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lamp",
+      "data": 24
+    }
+  },
+  {
+    "name": "ИНВЕР_БИР_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lamp",
+      "data": 25
+    }
+  },
+  {
+    "name": "ИНВЕРТОР_Ф_ЛАМП",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lamp",
+      "data": 26
+    }
+  },
+  {
+    "name": "ИНВЕР_СИН_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lamp",
+      "data": 27
+    }
+  },
+  {
+    "name": "ИНВ_КОРИЧ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lamp",
+      "data": 28
+    }
+  },
+  {
+    "name": "ИНВЕР_ЗЕЛ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lamp",
+      "data": 29
+    }
+  },
+  {
+    "name": "ИНВ_КРАСН_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lamp",
+      "data": 30
+    }
+  },
+  {
+    "name": "ИНВЕР_ЧЁРН_ЛАМП",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lamp",
+      "data": 31
+    }
+  },
+  {
+    "name": "БЕЛЫЙ_ФОНАРЬ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lantern",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОРАНЖЕВ_ФОНАРЬ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lantern",
+      "data": 1
+    }
+  },
+  {
+    "name": "СИРЕНЕВ_ФОНАРЬ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lantern",
+      "data": 2
+    }
+  },
+  {
+    "name": "СВЕТ_СИН_ФОНАРЬ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lantern",
+      "data": 3
+    }
+  },
+  {
+    "name": "ЖЁЛТЫЙ_ФОНАРЬ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lantern",
+      "data": 4
+    }
+  },
+  {
+    "name": "ЛАЙМОВЫЙ_ФОНАРЬ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lantern",
+      "data": 5
+    }
+  },
+  {
+    "name": "РОЗОВЫЙ_ФОНАРЬ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lantern",
+      "data": 6
+    }
+  },
+  {
+    "name": "СЕРЫЙ_ФОНАРЬ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lantern",
+      "data": 7
+    }
+  },
+  {
+    "name": "СВЕТ_СЕР_ФОНАРЬ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lantern",
+      "data": 8
+    }
+  },
+  {
+    "name": "БИРЮЗОВ_ФОНАРЬ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lantern",
+      "data": 9
+    }
+  },
+  {
+    "name": "ФИОЛЕТОВ_ФОНАРЬ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lantern",
+      "data": 10
+    }
+  },
+  {
+    "name": "СИНИЙ_ФОНАРЬ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lantern",
+      "data": 11
+    }
+  },
+  {
+    "name": "КОРИЧНЕВ_ФОНАРЬ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lantern",
+      "data": 12
+    }
+  },
+  {
+    "name": "ЗЕЛЁНЫЙ_ФОНАРЬ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lantern",
+      "data": 13
+    }
+  },
+  {
+    "name": "КРАСНЫЙ_ФОНАРЬ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lantern",
+      "data": 14
+    }
+  },
+  {
+    "name": "ЧЁРНЫЙ_ФОНАРЬ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lantern",
+      "data": 15
+    }
+  },
+  {
+    "name": "ИНВ_БЕЛ_ФОНАРЬ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lantern.inv",
+      "data": 0
+    }
+  },
+  {
+    "name": "ИНВ_ОРАН_ФОНАРЬ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lantern.inv",
+      "data": 1
+    }
+  },
+  {
+    "name": "ИНВ_СИР_ФОНАРЬ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lantern.inv",
+      "data": 2
+    }
+  },
+  {
+    "name": "ИНВ_СВЕТЛ_С_ФОН",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lantern.inv",
+      "data": 3
+    }
+  },
+  {
+    "name": "ИНВ_ЖЁЛТ_ФОНАРЬ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lantern.inv",
+      "data": 4
+    }
+  },
+  {
+    "name": "ИНВ_ЛАЙМ_ФОНАРЬ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lantern.inv",
+      "data": 5
+    }
+  },
+  {
+    "name": "ИНВ_РОЗ_ФОНАРЬ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lantern.inv",
+      "data": 6
+    }
+  },
+  {
+    "name": "ИНВ_СЕР_ФОНАРЬ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lantern.inv",
+      "data": 7
+    }
+  },
+  {
+    "name": "ИНВ_СВЕТ_С_ФОН+",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lantern.inv",
+      "data": 8
+    }
+  },
+  {
+    "name": "ИНВ_БИР_ФОНАРЬ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lantern.inv",
+      "data": 9
+    }
+  },
+  {
+    "name": "ИНВЕРТ_Ф_ФОНАРЬ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lantern.inv",
+      "data": 10
+    }
+  },
+  {
+    "name": "ИНВЕРТ_СИН_ФОН",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lantern.inv",
+      "data": 11
+    }
+  },
+  {
+    "name": "ИНВ_КОРИЧ_ФОН",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lantern.inv",
+      "data": 12
+    }
+  },
+  {
+    "name": "ИНВ_ЗЕЛ_ФОНАРЬ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lantern.inv",
+      "data": 13
+    }
+  },
+  {
+    "name": "ИНВ_КРАС_ФОНАРЬ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lantern.inv",
+      "data": 14
+    }
+  },
+  {
+    "name": "ИНВ_ЧЁРН_ФОНАРЬ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lantern.inv",
+      "data": 15
+    }
+  },
+  {
+    "name": "БЕЛЫЙ_СВЕТИЛЬН",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.fixture",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОРАНЖ_СВЕТИЛЬН",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.fixture",
+      "data": 1
+    }
+  },
+  {
+    "name": "СИРЕН_СВЕТИЛЬН",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.fixture",
+      "data": 2
+    }
+  },
+  {
+    "name": "СВЕТЛО_СИН_СВЕТ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.fixture",
+      "data": 3
+    }
+  },
+  {
+    "name": "ЖЁЛТЫЙ_СВЕТИЛЬН",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.fixture",
+      "data": 4
+    }
+  },
+  {
+    "name": "ЛАЙМ_СВЕТИЛЬН",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.fixture",
+      "data": 5
+    }
+  },
+  {
+    "name": "РОЗОВ_СВЕТИЛЬН",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.fixture",
+      "data": 6
+    }
+  },
+  {
+    "name": "СЕРЫЙ_СВЕТИЛЬН",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.fixture",
+      "data": 7
+    }
+  },
+  {
+    "name": "СВЕТЛО_СЕР_СВЕТ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.fixture",
+      "data": 8
+    }
+  },
+  {
+    "name": "БИРЮЗ_СВЕТИЛЬН",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.fixture",
+      "data": 9
+    }
+  },
+  {
+    "name": "ФИОЛЕТ_СВЕТИЛЬН",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.fixture",
+      "data": 10
+    }
+  },
+  {
+    "name": "СИНИЙ_СВЕТИЛЬН",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.fixture",
+      "data": 11
+    }
+  },
+  {
+    "name": "КОРИЧН_СВЕТИЛЬН",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.fixture",
+      "data": 12
+    }
+  },
+  {
+    "name": "ЗЕЛЁН_СВЕТИЛЬН",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.fixture",
+      "data": 13
+    }
+  },
+  {
+    "name": "КРАСН_СВЕТИЛЬН",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.fixture",
+      "data": 14
+    }
+  },
+  {
+    "name": "ЧЁРН_СВЕТИЛЬН",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.fixture",
+      "data": 15
+    }
+  },
+  {
+    "name": "ИНВЕРТ_БЕЛ_СВЕТ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.fixture.inv",
+      "data": 0
+    }
+  },
+  {
+    "name": "ИНВЕРТ_ОРАНЖ_СВ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.fixture.inv",
+      "data": 1
+    }
+  },
+  {
+    "name": "ИНВЕРТ_СИР_СВЕТ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.fixture.inv",
+      "data": 2
+    }
+  },
+  {
+    "name": "ИНВ_СВЛО_СИН_СВ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.fixture.inv",
+      "data": 3
+    }
+  },
+  {
+    "name": "ИНВЕРТ_ЖЁЛ_СВЕТ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.fixture.inv",
+      "data": 4
+    }
+  },
+  {
+    "name": "ИНВЕР_ЛАЙМ_СВЕТ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.fixture.inv",
+      "data": 5
+    }
+  },
+  {
+    "name": "ИНВЕРТ_РОЗ_СВЕТ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.fixture.inv",
+      "data": 6
+    }
+  },
+  {
+    "name": "ИНВЕРТ_СЕР_СВЕТ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.fixture.inv",
+      "data": 7
+    }
+  },
+  {
+    "name": "ИНВ_СВЕТ_СЕР_СВ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.fixture.inv",
+      "data": 8
+    }
+  },
+  {
+    "name": "ИНВЕРТ_БИР_СВЕТ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.fixture.inv",
+      "data": 9
+    }
+  },
+  {
+    "name": "ИНВЕР_Ф_СВЕТИЛЬ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.fixture.inv",
+      "data": 10
+    }
+  },
+  {
+    "name": "ИНВЕРТ_СИН_СВЕТ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.fixture.inv",
+      "data": 11
+    }
+  },
+  {
+    "name": "ИНВЕРТ_КОРИЧ_СВ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.fixture.inv",
+      "data": 12
+    }
+  },
+  {
+    "name": "ИНВЕРТ_ЗЕЛ_СВЕТ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.fixture.inv",
+      "data": 13
+    }
+  },
+  {
+    "name": "ИНВЕРТ_КРАСН_СВ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.fixture.inv",
+      "data": 14
+    }
+  },
+  {
+    "name": "ИНВЕР_ЧЁРН_СВЕТ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.fixture.inv",
+      "data": 15
+    }
+  },
+  {
+    "name": "БЕЛ_ЗАЩИЩ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОРАНЖ_ЗАЩ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp",
+      "data": 1
+    }
+  },
+  {
+    "name": "СИР_ЗАЩИЩ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp",
+      "data": 2
+    }
+  },
+  {
+    "name": "СВЕТЛ_С_З_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp",
+      "data": 3
+    }
+  },
+  {
+    "name": "ЖЁЛ_ЗАЩИЩ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp",
+      "data": 4
+    }
+  },
+  {
+    "name": "ЛАЙМ_ЗАЩИЩ_ЛАМП",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp",
+      "data": 5
+    }
+  },
+  {
+    "name": "РОЗ_ЗАЩИЩ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp",
+      "data": 6
+    }
+  },
+  {
+    "name": "СЕР_ЗАЩИЩ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp",
+      "data": 7
+    }
+  },
+  {
+    "name": "СВЕТ_С_З_ЛАМПА+",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp",
+      "data": 8
+    }
+  },
+  {
+    "name": "БИР_ЗАЩИЩ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp",
+      "data": 9
+    }
+  },
+  {
+    "name": "Ф_ЗАЩИЩЁНН_ЛАМП",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp",
+      "data": 10
+    }
+  },
+  {
+    "name": "СИН_ЗАЩИЩ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp",
+      "data": 11
+    }
+  },
+  {
+    "name": "КОРИЧ_ЗАЩ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp",
+      "data": 12
+    }
+  },
+  {
+    "name": "ЗЕЛ_ЗАЩИЩ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp",
+      "data": 13
+    }
+  },
+  {
+    "name": "КРАСН_ЗАЩ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp",
+      "data": 14
+    }
+  },
+  {
+    "name": "ЧЁРН_ЗАЩИЩ_ЛАМП",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp",
+      "data": 15
+    }
+  },
+  {
+    "name": "ИНВ_Б_ЗАЩ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp.inv",
+      "data": 0
+    }
+  },
+  {
+    "name": "ИНВ_ОРАН_З_ЛАМП",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp.inv",
+      "data": 1
+    }
+  },
+  {
+    "name": "ИН_С_ЗАЩ_ЛАМПА+",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp.inv",
+      "data": 2
+    }
+  },
+  {
+    "name": "ИНВ_СВ_С_З_ЛАМП",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp.inv",
+      "data": 3
+    }
+  },
+  {
+    "name": "ИНВ_ЖЁЛТ_З_ЛАМП",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp.inv",
+      "data": 4
+    }
+  },
+  {
+    "name": "ИНВ_ЛАЙМ_З_ЛАМП",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp.inv",
+      "data": 5
+    }
+  },
+  {
+    "name": "ИНВ_Р_ЗАЩ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp.inv",
+      "data": 6
+    }
+  },
+  {
+    "name": "ИНВ_С_ЗАЩ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp.inv",
+      "data": 7
+    }
+  },
+  {
+    "name": "ИН_СВ_С_З_ЛАМП+",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp.inv",
+      "data": 8
+    }
+  },
+  {
+    "name": "ИН_Б_ЗАЩ_ЛАМПА+",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp.inv",
+      "data": 9
+    }
+  },
+  {
+    "name": "ИНВ_Ф_ЗАЩ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp.inv",
+      "data": 10
+    }
+  },
+  {
+    "name": "ИН_С_ЗАЩ_ЛАМП++",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp.inv",
+      "data": 11
+    }
+  },
+  {
+    "name": "ИНВ_К_ЗАЩ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp.inv",
+      "data": 12
+    }
+  },
+  {
+    "name": "ИНВ_З_ЗАЩ_ЛАМПА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp.inv",
+      "data": 13
+    }
+  },
+  {
+    "name": "ИНВ_КРАС_З_ЛАМП",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp.inv",
+      "data": 14
+    }
+  },
+  {
+    "name": "ИНВ_ЧЁРН_З_ЛАМП",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp.inv",
+      "data": 15
+    }
+  },
+  {
+    "name": "Б_ЛАМПА_В_КЛЕТК",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp2",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОР_ЛАМП_В_КЛЕТК",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp2",
+      "data": 1
+    }
+  },
+  {
+    "name": "С_ЛАМП_В_КЛЕТКЕ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp2",
+      "data": 2
+    }
+  },
+  {
+    "name": "СВ_С_ЛАМ_В_КЛЕТ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp2",
+      "data": 3
+    }
+  },
+  {
+    "name": "ЖЁЛ_ЛАМП_В_КЛЕТ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp2",
+      "data": 4
+    }
+  },
+  {
+    "name": "ЛАЙМ_ЛАМ_В_КЛЕТ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp2",
+      "data": 5
+    }
+  },
+  {
+    "name": "Р_ЛАМП_В_КЛЕТКЕ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp2",
+      "data": 6
+    }
+  },
+  {
+    "name": "С_ЛАМП_В_КЛЕТК+",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp2",
+      "data": 7
+    }
+  },
+  {
+    "name": "СВ_С_ЛАМ_В_КЛ+",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp2",
+      "data": 8
+    }
+  },
+  {
+    "name": "Б_ЛАМП_В_КЛЕТКЕ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp2",
+      "data": 9
+    }
+  },
+  {
+    "name": "Ф_ЛАМП_В_КЛЕТКЕ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp2",
+      "data": 10
+    }
+  },
+  {
+    "name": "С_ЛАМП_В_КЛЕТ++",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp2",
+      "data": 11
+    }
+  },
+  {
+    "name": "К_ЛАМП_В_КЛЕТКЕ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp2",
+      "data": 12
+    }
+  },
+  {
+    "name": "З_ЛАМП_В_КЛЕТКЕ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp2",
+      "data": 13
+    }
+  },
+  {
+    "name": "КР_ЛАМП_В_КЛЕТК",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp2",
+      "data": 14
+    }
+  },
+  {
+    "name": "ЧЁРН_ЛАМ_В_КЛЕТ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp2",
+      "data": 15
+    }
+  },
+  {
+    "name": "ИНВ_Б_ЛАМП_В_КЛ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp2.inv",
+      "data": 0
+    }
+  },
+  {
+    "name": "ИНВ_ОР_ЛАМ_В_КЛ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp2.inv",
+      "data": 1
+    }
+  },
+  {
+    "name": "ИН_С_ЛАМ_В_КЛ++",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp2.inv",
+      "data": 2
+    }
+  },
+  {
+    "name": "ИНВ_СВ_С_Л_В_КЛ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp2.inv",
+      "data": 3
+    }
+  },
+  {
+    "name": "ИНВ_Ж_ЛАМП_В_КЛ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp2.inv",
+      "data": 4
+    }
+  },
+  {
+    "name": "ИНВ_Л_ЛАМП_В_КЛ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp2.inv",
+      "data": 5
+    }
+  },
+  {
+    "name": "ИНВ_Р_ЛАМП_В_КЛ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp2.inv",
+      "data": 6
+    }
+  },
+  {
+    "name": "ИНВ_С_ЛАМ_В_КЛ+",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp2.inv",
+      "data": 7
+    }
+  },
+  {
+    "name": "ИН_СВ_С_Л_В_КЛ+",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp2.inv",
+      "data": 8
+    }
+  },
+  {
+    "name": "ИН_Б_ЛАМП_В_КЛ+",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp2.inv",
+      "data": 9
+    }
+  },
+  {
+    "name": "ИНВ_Ф_ЛАМП_В_КЛ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp2.inv",
+      "data": 10
+    }
+  },
+  {
+    "name": "ИНВ_С_ЛАМП_В_КЛ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp2.inv",
+      "data": 11
+    }
+  },
+  {
+    "name": "ИНВ_К_ЛАМП_В_КЛ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp2.inv",
+      "data": 12
+    }
+  },
+  {
+    "name": "ИНВ_З_ЛАМП_В_КЛ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp2.inv",
+      "data": 13
+    }
+  },
+  {
+    "name": "ИНВ_КР_ЛАМП_В_КЛ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp2.inv",
+      "data": 14
+    }
+  },
+  {
+    "name": "ИНВ_Ч_ЛАМП_В_КЛ",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.cagelamp2.inv",
+      "data": 15
+    }
+  },
+  {
+    "name": "БЕЛ_СВЕТ_КНОПКА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lightbutton",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОРАНЖ_СВ_КНОПКА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lightbutton",
+      "data": 1
+    }
+  },
+  {
+    "name": "СИР_СВЕТ_КНОПКА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lightbutton",
+      "data": 2
+    }
+  },
+  {
+    "name": "СВЕТ_С_СВ_КНОПК",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lightbutton",
+      "data": 3
+    }
+  },
+  {
+    "name": "ЖЁЛТ_СВЕТ_КНОПК",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lightbutton",
+      "data": 4
+    }
+  },
+  {
+    "name": "ЛАЙМ_СВЕТ_КНОПК",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lightbutton",
+      "data": 5
+    }
+  },
+  {
+    "name": "РОЗ_СВЕТ_КНОПКА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lightbutton",
+      "data": 6
+    }
+  },
+  {
+    "name": "СЕР_СВЕТ_КНОПКА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lightbutton",
+      "data": 7
+    }
+  },
+  {
+    "name": "СВЕТ_С_СВ_КНОП+",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lightbutton",
+      "data": 8
+    }
+  },
+  {
+    "name": "БИР_СВЕТ_КНОПКА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lightbutton",
+      "data": 9
+    }
+  },
+  {
+    "name": "Ф_СВЕТЯЩ_КНОПКА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lightbutton",
+      "data": 10
+    }
+  },
+  {
+    "name": "СИН_СВЕТ_КНОПКА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lightbutton",
+      "data": 11
+    }
+  },
+  {
+    "name": "КОРИЧН_СВ_КНОПК",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lightbutton",
+      "data": 12
+    }
+  },
+  {
+    "name": "ЗЕЛ_СВЕТ_КНОПКА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lightbutton",
+      "data": 13
+    }
+  },
+  {
+    "name": "КРАСН_СВ_КНОПКА",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lightbutton",
+      "data": 14
+    }
+  },
+  {
+    "name": "ЧЁРН_СВЕТ_КНОПК",
+    "itemStack": {
+      "id": "ProjRed|Illumination:projectred.illumination.lightbutton",
+      "data": 15
+    }
+  }
+]

@@ -1,0 +1,450 @@
+[
+  {
+    "name": "ПЕЧАТНАЯ_ПЛАТА",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТОКОПРОВОД_ПЛАТ",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 1
+    }
+  },
+  {
+    "name": "ПЛАТ_С_ПРОВОДАМ",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 2
+    }
+  },
+  {
+    "name": "ПЛАТА_С_ШИНОЙ",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 3
+    }
+  },
+  {
+    "name": "АНОД",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 4
+    }
+  },
+  {
+    "name": "КАТОД",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 5
+    }
+  },
+  {
+    "name": "УКАЗАТЕЛЬ",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 6
+    }
+  },
+  {
+    "name": "КРЕМНИЕВЫЙ_ЧИП",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 7
+    }
+  },
+  {
+    "name": "ЗАРЯЖ_КРЕМН_ЧИП",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 8
+    }
+  },
+  {
+    "name": "ОСНОВНАЯ_ПЛАТА",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 9
+    }
+  },
+  {
+    "name": "СЛ_КРАСН_СПЛАВА",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 10
+    }
+  },
+  {
+    "name": "КРЕМН_МОНОКРИСТ",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 11
+    }
+  },
+  {
+    "name": "КРЕМНИЙ",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 12
+    }
+  },
+  {
+    "name": "НАПОЛНЕНН_КРЕМН",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 13
+    }
+  },
+  {
+    "name": "ЗАРЯЖЕНН_КРЕМН",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 14
+    }
+  },
+  {
+    "name": "ДВИГАТЕЛЬ",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 15
+    }
+  },
+  {
+    "name": "МЕДНАЯ_КАТУШКА",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 16
+    }
+  },
+  {
+    "name": "ЖЕЛЕЗН_КАТУШКА",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 17
+    }
+  },
+  {
+    "name": "ЗОЛОТАЯ_КАТУШКА",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 18
+    }
+  },
+  {
+    "name": "БЕЛАЯ_СВЕТОПЫЛЬ",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 19
+    }
+  },
+  {
+    "name": "ОРАНЖ_СВЕТОПЫЛЬ",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 20
+    }
+  },
+  {
+    "name": "СИРЕН_СВЕТОПЫЛЬ",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 21
+    }
+  },
+  {
+    "name": "СВЕТЛ_СИН_СВЕТ",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 22
+    }
+  },
+  {
+    "name": "ЖЁЛТ_СВЕТОПЫЛЬ",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 23
+    }
+  },
+  {
+    "name": "ЛАЙМ_СВЕТОПЫЛЬ",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 24
+    }
+  },
+  {
+    "name": "РОЗОВ_СВЕТОПЫЛЬ",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 25
+    }
+  },
+  {
+    "name": "СЕРАЯ_СВЕТОПЫЛЬ",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 26
+    }
+  },
+  {
+    "name": "СВЕТЛ_СЕР_СВЕТ",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 27
+    }
+  },
+  {
+    "name": "БИРЮЗ_СВЕТОПЫЛЬ",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 28
+    }
+  },
+  {
+    "name": "ФИОЛ_СВЕТОПЫЛЬ",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 29
+    }
+  },
+  {
+    "name": "СИНЯЯ_СВЕТОПЫЛЬ",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 30
+    }
+  },
+  {
+    "name": "КОРИЧ_СВЕТОПЫЛЬ",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 31
+    }
+  },
+  {
+    "name": "ЗЕЛЁН_СВЕТОПЫЛЬ",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 32
+    }
+  },
+  {
+    "name": "КРАСН_СВЕТОПЫЛЬ",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 33
+    }
+  },
+  {
+    "name": "ЧЁРН_СВЕТОПЫЛЬ",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 34
+    }
+  },
+  {
+    "name": "WOVEN_CLOTH",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 35
+    }
+  },
+  {
+    "name": "SAIL",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 36
+    }
+  },
+  {
+    "name": "РУБИН",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 37
+    }
+  },
+  {
+    "name": "САПФИР",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 38
+    }
+  },
+  {
+    "name": "ПЕРИДОТ",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 39
+    }
+  },
+  {
+    "name": "RED_IR_COMPOUND",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 40
+    }
+  },
+  {
+    "name": "SAND_C_COMPOUND",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 41
+    }
+  },
+  {
+    "name": "RED_SIL_COMPOUN",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 42
+    }
+  },
+  {
+    "name": "GLOWING_SIL_COM",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 43
+    }
+  },
+  {
+    "name": "NULL_LOG_ROUT_C",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 44
+    }
+  },
+  {
+    "name": "NULL_LOG_UPGR_C",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 45
+    }
+  },
+  {
+    "name": "УЛУЧШЕНИЕ_LX",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 46
+    }
+  },
+  {
+    "name": "УЛУЧШЕНИЕ_LY",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 47
+    }
+  },
+  {
+    "name": "УЛУЧШЕНИЕ_LZ",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 48
+    }
+  },
+  {
+    "name": "УЛУЧШЕНИЕ_RX",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 49
+    }
+  },
+  {
+    "name": "УЛУЧШЕНИЕ_RY",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 50
+    }
+  },
+  {
+    "name": "УЛУЧШЕНИЕ_RZ",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 51
+    }
+  },
+  {
+    "name": "МЕДН_СЛИТОК_PR",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 52
+    }
+  },
+  {
+    "name": "ОЛОВ_СЛИТОК_PR",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 53
+    }
+  },
+  {
+    "name": "СЕРЕБ_СЛИТОК_PR",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 54
+    }
+  },
+  {
+    "name": "СЛ_ЭЛЕКТР_СПЛАВ",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 55
+    }
+  },
+  {
+    "name": "ЭЛЕКТРОТИН",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 56
+    }
+  },
+  {
+    "name": "ЭЛЕКТ_СПЛ_ЖЕЛЕЗ",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 57
+    }
+  },
+  {
+    "name": "ЭЛЕКТ_СПЛ_КРЕМН",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 58
+    }
+  },
+  {
+    "name": "ЭЛЕКТРИЧ_КРЕМН",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.part",
+      "data": 59
+    }
+  },
+  {
+    "name": "ВОЛОКА",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.drawplate",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОТВЁРТКА",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.screwdriver",
+      "data": 0
+    }
+  },
+  {
+    "name": "ОТЛАДЧ_ПРОВОДОВ",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.wiredebugger",
+      "data": 0
+    }
+  },
+  {
+    "name": "КАРТА_ПАМЯТИ_PR",
+    "itemStack": {
+      "id": "ProjRed|Core:projectred.core.datacard",
+      "data": 0
+    }
+  }
+]

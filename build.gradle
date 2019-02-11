@@ -42,9 +42,9 @@ configurations {
 }
 
 dependencies {
-    shade 'ru.ensemplix.shop:sign-shop-data-importer:1.0-SNAPSHOT'
+    shade 'ru.ensemplix.shop:sign-shop-data-importer:1.1.1'
     shade 'ru.ensemplix.shop:sign-shop-price-parser:1.0-SNAPSHOT'
-    shade 'ru.ensemplix.shop:sign-shop-data-core:1.0-SNAPSHOT'
+    shade 'ru.ensemplix.shop:sign-shop-data-core:1.1.1'
 
     testCompile 'org.mockito:mockito-core:2.3.0'
     testCompile 'junit:junit:4.12'

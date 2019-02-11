@@ -1,0 +1,2624 @@
+[
+  {
+    "name": "РУДА_ИСТ_КВАРЦА",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.OreQuartz",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗАР_РУДА_ИСТ_КВ",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.OreQuartzCharged",
+      "data": 0
+    }
+  },
+  {
+    "name": "БЛОК_ИСТ_КВАРЦА",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockQuartz",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОЛ_ИСТ_КВАРЦА",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockQuartzPillar",
+      "data": 0
+    }
+  },
+  {
+    "name": "РЕЗН_БЛ_ИСТ_КВ",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockQuartzChiseled",
+      "data": 0
+    }
+  },
+  {
+    "name": "КВАРЦЕВ_СТЕКЛО",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockQuartzGlass",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЭН_КВАРЦ_СТЕКЛО",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockQuartzLamp",
+      "data": 0
+    }
+  },
+  {
+    "name": "СВЕТ_ИЗ_ЗАР_КВ",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockQuartzTorch",
+      "data": 0
+    }
+  },
+  {
+    "name": "ИЗМЕНЧИВЫЙ_БЛОК",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockFluix",
+      "data": 0
+    }
+  },
+  {
+    "name": "НЕБЕСНЫЙ_КАМЕНЬ",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockSkyStone",
+      "data": 0
+    }
+  },
+  {
+    "name": "БЛ_НЕБЕСН_КАМНЯ",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockSkyStone",
+      "data": 1
+    }
+  },
+  {
+    "name": "КИРП_НЕБ_КАМНЯ",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockSkyStone",
+      "data": 2
+    }
+  },
+  {
+    "name": "М_КИРП_НЕБ_КАМН",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockSkyStone",
+      "data": 3
+    }
+  },
+  {
+    "name": "СУНДУК_ИЗ_НК",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockSkyChest",
+      "data": 0
+    }
+  },
+  {
+    "name": "СУНДУК_ИЗ_БЛ_НК",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockSkyChest",
+      "data": 1
+    }
+  },
+  {
+    "name": "МЕТЕОР_КОМПАС",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockSkyCompass",
+      "data": 0
+    }
+  },
+  {
+    "name": "КВАРЦ_ДРОБИТЕЛЬ",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockGrinder",
+      "data": 0
+    }
+  },
+  {
+    "name": "ДЕРЕВ_РУКОЯТКА",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockCrank",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВЫСЕКАТЕЛЬ",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockInscriber",
+      "data": 0
+    }
+  },
+  {
+    "name": "МЭ_БЕСПРОВ_ТД",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockWireless",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗАРЯДНИК",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockCharger",
+      "data": 0
+    }
+  },
+  {
+    "name": "МАЛЕНЬК_ДИНАМИТ",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockTinyTNT",
+      "data": 0
+    }
+  },
+  {
+    "name": "МЭ_ТЕРМ_БЕЗОП",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockSecurity",
+      "data": 0
+    }
+  },
+  {
+    "name": "МЭ_КВАНТ_КОЛЬЦО",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockQuantumRing",
+      "data": 0
+    }
+  },
+  {
+    "name": "МЭ_КАМ_КВ_СВЯЗИ",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockQuantumLinkChamber",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПРОСТРАН_ПИЛОН",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockSpatialPylon",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПР_ПОРТ_ВВ_ВЫВ",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockSpatialIOPort",
+      "data": 0
+    }
+  },
+  {
+    "name": "МЭ_КОНТРОЛЛЕР",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockController",
+      "data": 0
+    }
+  },
+  {
+    "name": "МЭ_НАКОПИТЕЛЬ",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockDrive",
+      "data": 0
+    }
+  },
+  {
+    "name": "МЭ_СУНДУК",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockChest",
+      "data": 0
+    }
+  },
+  {
+    "name": "МЭ_ИНТЕРФЕЙС",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockInterface",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВЕРСТАК_ДЛЯ_ЯЧ",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockCellWorkbench",
+      "data": 0
+    }
+  },
+  {
+    "name": "МЭ_ПОРТ_ВВ_ВЫВ",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockIOPort",
+      "data": 0
+    }
+  },
+  {
+    "name": "КОНДЕНС_МАТЕРИИ",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockCondenser",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПРИЁМЩ_ЭНЕРГИИ",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockEnergyAcceptor",
+      "data": 0
+    }
+  },
+  {
+    "name": "ВИБРАЦ_КАМЕРА",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockVibrationChamber",
+      "data": 0
+    }
+  },
+  {
+    "name": "УСК_РОСТА_КРИСТ",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockQuartzGrowthAccelerator",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЭНЕРГЕТ_ЯЧЕЙКА",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockEnergyCell",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЭНЕРГЕТ_ЯЧЕЙКА+",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockEnergyCell",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        96,
+        99,
+        16,
+        -56,
+        -52,
+        43,
+        73,
+        45,
+        -54,
+        75,
+        -52,
+        -15,
+        77,
+        -84,
+        8,
+        -56,
+        47,
+        79,
+        45,
+        114,
+        -28,
+        -56,
+        98,
+        0,
+        1,
+        54,
+        6,
+        17,
+        -104,
+        -108,
+        115,
+        105,
+        81,
+        81,
+        106,
+        94,
+        9,
+        -118,
+        52,
+        3,
+        0,
+        10,
+        -64,
+        94,
+        -89,
+        62,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "ПЛОТН_ЭНЕРГ_ЯЧ",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockDenseEnergyCell",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛОТН_ЭНЕРГ_ЯЧ+",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockDenseEnergyCell",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        96,
+        99,
+        16,
+        -56,
+        -52,
+        43,
+        73,
+        45,
+        -54,
+        75,
+        -52,
+        -15,
+        77,
+        -84,
+        8,
+        -56,
+        47,
+        79,
+        45,
+        114,
+        -76,
+        -56,
+        98,
+        0,
+        1,
+        54,
+        6,
+        17,
+        -104,
+        -108,
+        115,
+        105,
+        81,
+        81,
+        106,
+        94,
+        9,
+        -118,
+        52,
+        3,
+        0,
+        77,
+        98,
+        72,
+        118,
+        62,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "ТВОРЧ_ЭНЕРГ_ЯЧ",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockCreativeEnergyCell",
+      "data": 0
+    }
+  },
+  {
+    "name": "БЛОК_СОЗДАНИЯ",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockCraftingUnit",
+      "data": 0
+    }
+  },
+  {
+    "name": "БЛОК_ОБРАБ_СОЗД",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockCraftingUnit",
+      "data": 1
+    }
+  },
+  {
+    "name": "1К_ХРАН_СОЗД",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockCraftingStorage",
+      "data": 0
+    }
+  },
+  {
+    "name": "4К_ХРАН_СОЗД",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockCraftingStorage",
+      "data": 1
+    }
+  },
+  {
+    "name": "16К_ХРАН_СОЗД",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockCraftingStorage",
+      "data": 2
+    }
+  },
+  {
+    "name": "64К_ХРАН_СОЗД",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockCraftingStorage",
+      "data": 3
+    }
+  },
+  {
+    "name": "МОНИТОР_СОЗД",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockCraftingMonitor",
+      "data": 0
+    }
+  },
+  {
+    "name": "МОЛЕК_СБОРЩИК",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockMolecularAssembler",
+      "data": 0
+    }
+  },
+  {
+    "name": "СВЕТИЛ_ОБН_СВЕТ",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.BlockLightDetector",
+      "data": 0
+    }
+  },
+  {
+    "name": "СТУП_ИЗ_НК",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.SkyStoneStairBlock",
+      "data": 0
+    }
+  },
+  {
+    "name": "СТУП_ИЗ_БЛ_НК",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.SkyStoneBlockStairBlock",
+      "data": 0
+    }
+  },
+  {
+    "name": "СТУП_ИЗ_КИРП_НК",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.SkyStoneBrickStairBlock",
+      "data": 0
+    }
+  },
+  {
+    "name": "СТУП_МАЛ_КИР_НК",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.SkyStoneSmallBrickStairBlock",
+      "data": 0
+    }
+  },
+  {
+    "name": "ИЗМЕНЧИВЫЕ_СТУП",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.FluixStairBlock",
+      "data": 0
+    }
+  },
+  {
+    "name": "СТУП_ИЗ_ИК",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.QuartzStairBlock",
+      "data": 0
+    }
+  },
+  {
+    "name": "СТУП_ИЗ_РЕЗ_ИК",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.ChiseledQuartzStairBlock",
+      "data": 0
+    }
+  },
+  {
+    "name": "СТУП_ИЗ_КОЛ_ИК",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.QuartzPillarStairBlock",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛИТА_ИЗ_НК",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.SkyStoneSlabBlock",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛИТА_ИЗ_БЛ_НК",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.SkyStoneBlockSlabBlock",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛИТ_ИЗ_КИРП_НК",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.SkyStoneBrickSlabBlock",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛ_МАЛ_КИРП_НК",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.SkyStoneSmallBrickSlabBlock",
+      "data": 0
+    }
+  },
+  {
+    "name": "ИЗМЕНЧИВ_ПЛИТА",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.FluixSlabBlock",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛИТ_ИЗ_ИСТ_КВ",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.QuartzSlabBlock",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛИТ_ИЗ_РЕЗН_ИК",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.ChiseledQuartzSlabBlock",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЛИТ_ИЗ_КОЛ_ИК",
+    "itemStack": {
+      "id": "appliedenergistics2:tile.QuartzPillarSlabBlock",
+      "data": 0
+    }
+  },
+  {
+    "name": "ТОПОР_ИЗ_ИК",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ToolCertusQuartzAxe",
+      "data": 0
+    }
+  },
+  {
+    "name": "МОТЫГА_ИЗ_ИК",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ToolCertusQuartzHoe",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЛОПАТА_ИЗ_ИК",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ToolCertusQuartzSpade",
+      "data": 0
+    }
+  },
+  {
+    "name": "КИРКА_ИЗ_ИК",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ToolCertusQuartzPickaxe",
+      "data": 0
+    }
+  },
+  {
+    "name": "МЕЧ_ИЗ_ИК",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ToolCertusQuartzSword",
+      "data": 0
+    }
+  },
+  {
+    "name": "ГАЕЧ_КЛЮЧ_ИЗ_ИК",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ToolCertusQuartzWrench",
+      "data": 0
+    }
+  },
+  {
+    "name": "НОЖ_ИЗ_ИК",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ToolCertusQuartzCuttingKnife",
+      "data": 0
+    }
+  },
+  {
+    "name": "КВАРЦЕВЫЙ_ТОПОР",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ToolNetherQuartzAxe",
+      "data": 0
+    }
+  },
+  {
+    "name": "КВАРЦЕВ_МОТЫГА",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ToolNetherQuartzHoe",
+      "data": 0
+    }
+  },
+  {
+    "name": "КВАРЦЕВ_ЛОПАТА",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ToolNetherQuartzSpade",
+      "data": 0
+    }
+  },
+  {
+    "name": "КВАРЦЕВАЯ_КИРКА",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ToolNetherQuartzPickaxe",
+      "data": 0
+    }
+  },
+  {
+    "name": "КВАРЦЕВЫЙ_МЕЧ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ToolNetherQuartzSword",
+      "data": 0
+    }
+  },
+  {
+    "name": "КВАРЦ_ГАЕЧ_КЛЮЧ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ToolNetherQuartzWrench",
+      "data": 0
+    }
+  },  
+  {
+    "name": "КВАРЦЕВЫЙ_НОЖ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ToolNetherQuartzCuttingKnife",
+      "data": 0
+    }
+  },
+  {
+    "name": "БЕСПРОВОД_ТЕРМ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ToolWirelessTerminal",
+      "data": 0
+    }
+  },
+  {
+    "name": "БЕСПРОВОД_ТЕРМ+",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ToolWirelessTerminal",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        96,
+        99,
+        16,
+        -56,
+        -52,
+        43,
+        73,
+        45,
+        -54,
+        75,
+        -52,
+        -15,
+        77,
+        -84,
+        8,
+        -56,
+        47,
+        79,
+        45,
+        114,
+        -76,
+        -56,
+        98,
+        0,
+        1,
+        54,
+        6,
+        17,
+        -104,
+        -108,
+        115,
+        105,
+        81,
+        81,
+        106,
+        94,
+        9,
+        -118,
+        52,
+        3,
+        0,
+        77,
+        98,
+        72,
+        118,
+        62,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "БИОМЕТРИЧ_КАРТА",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ToolBiometricCard",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        96,
+        0,
+        0,
+        120,
+        63,
+        -7,
+        78,
+        4,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "ЗАРЯЖЕНН_ПОСОХ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ToolChargedStaff",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗАРЯЖЕНН_ПОСОХ+",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ToolChargedStaff",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        96,
+        99,
+        16,
+        -56,
+        -52,
+        43,
+        73,
+        45,
+        -54,
+        75,
+        -52,
+        -15,
+        77,
+        -84,
+        8,
+        -56,
+        47,
+        79,
+        45,
+        114,
+        -40,
+        -17,
+        -64,
+        0,
+        2,
+        108,
+        12,
+        34,
+        48,
+        41,
+        -25,
+        -46,
+        -94,
+        -94,
+        -44,
+        -68,
+        18,
+        20,
+        105,
+        6,
+        0,
+        63,
+        -93,
+        91,
+        79,
+        62,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "МАТЕРИАЛ_ПУШКА",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ToolMassCannon",
+      "data": 0
+    }
+  },
+  {
+    "name": "МАТЕРИАЛ_ПУШКА+",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ToolMassCannon",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        96,
+        99,
+        16,
+        -56,
+        -52,
+        43,
+        73,
+        45,
+        -54,
+        75,
+        -52,
+        -15,
+        77,
+        -84,
+        8,
+        -56,
+        47,
+        79,
+        45,
+        114,
+        -28,
+        -56,
+        98,
+        0,
+        1,
+        54,
+        6,
+        17,
+        -104,
+        -108,
+        115,
+        105,
+        81,
+        81,
+        106,
+        94,
+        9,
+        -118,
+        52,
+        3,
+        0,
+        10,
+        -64,
+        94,
+        -89,
+        62,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "КАРТА_ПАМЯТИ_AE",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ToolMemoryCard",
+      "data": 0
+    }
+  },
+  {
+    "name": "СЕТЕВ_ИНСТРУМ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ToolNetworkTool",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЕРЕНОС_ЯЧЕЙКА",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ToolPortableCell",
+      "data": 0
+    }
+  },
+  {
+    "name": "ПЕРЕНОС_ЯЧЕЙКА+",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ToolPortableCell",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        96,
+        99,
+        16,
+        -56,
+        -52,
+        43,
+        73,
+        45,
+        -54,
+        75,
+        -52,
+        -15,
+        77,
+        -84,
+        8,
+        -56,
+        47,
+        79,
+        45,
+        114,
+        -72,
+        -36,
+        -63,
+        0,
+        2,
+        108,
+        12,
+        34,
+        48,
+        41,
+        -25,
+        -46,
+        -94,
+        -94,
+        -44,
+        -68,
+        18,
+        20,
+        105,
+        6,
+        0,
+        115,
+        -17,
+        45,
+        -57,
+        62,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "ТВОР_МЭ_ЯЧ_ХРАН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemCreativeStorageCell",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЯЧ_ПРЕДСТАВЛ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemViewCell",
+      "data": 0
+    }
+  },
+  {
+    "name": "1К_МЭ_ЯЧ_ХРАН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemBasicStorageCell.1k",
+      "data": 0
+    }
+  },
+  {
+    "name": "4К_МЭ_ЯЧ_ХРАН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemBasicStorageCell.4k",
+      "data": 0
+    }
+  },
+  {
+    "name": "16К_МЭ_ЯЧ_ХРАН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemBasicStorageCell.16k",
+      "data": 0
+    }
+  },
+  {
+    "name": "64К_МЭ_ЯЧ_ХРАН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemBasicStorageCell.64k",
+      "data": 0
+    }
+  },
+  {
+    "name": "2_ПР_ЯЧ_ХРАН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemSpatialStorageCell.2Cubed",
+      "data": 0
+    }
+  },
+  {
+    "name": "16_ПР_ЯЧ_ХРАН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemSpatialStorageCell.16Cubed",
+      "data": 0
+    }
+  },
+  {
+    "name": "128_ПР_ЯЧ_ХРАН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemSpatialStorageCell.128Cubed",
+      "data": 0
+    }
+  },
+  {
+    "name": "СЕМЯ_ИСТ_КВАРЦА",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemCrystalSeed",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        96,
+        102,
+        -32,
+        40,
+        40,
+        -54,
+        79,
+        47,
+        74,
+        45,
+        46,
+        102,
+        0,
+        1,
+        0,
+        -110,
+        -106,
+        118,
+        41,
+        19,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "СЕМ_КВ_НИЖ_МИРА",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemCrystalSeed",
+      "data": 600,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        96,
+        102,
+        -32,
+        40,
+        40,
+        -54,
+        79,
+        47,
+        74,
+        45,
+        46,
+        102,
+        96,
+        96,
+        -118,
+        96,
+        0,
+        0,
+        -96,
+        -107,
+        -112,
+        88,
+        19,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "ИЗМЕНЧИВОЕ_СЕМЯ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemCrystalSeed",
+      "data": 1200,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        96,
+        102,
+        -32,
+        40,
+        40,
+        -54,
+        79,
+        47,
+        74,
+        45,
+        46,
+        102,
+        96,
+        96,
+        -39,
+        -64,
+        0,
+        0,
+        -10,
+        -112,
+        -70,
+        -54,
+        19,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "КОДИРОВАНН_ШАБЛ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemEncodedPattern",
+      "data": 0
+    }
+  },
+  {
+    "name": "АППЛИКАТ_ЦВЕТА",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ToolColorApplicator",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        96,
+        0,
+        0,
+        120,
+        63,
+        -7,
+        78,
+        4,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "АППЛИКАТ_ЦВЕТА+",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ToolColorApplicator",
+      "data": 0,
+      "state": [
+        31,
+        -117,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -29,
+        98,
+        96,
+        96,
+        99,
+        16,
+        -56,
+        -52,
+        43,
+        73,
+        45,
+        -54,
+        75,
+        -52,
+        -15,
+        77,
+        -84,
+        8,
+        -56,
+        47,
+        79,
+        45,
+        114,
+        -72,
+        -36,
+        -63,
+        0,
+        2,
+        108,
+        12,
+        34,
+        48,
+        41,
+        -25,
+        -46,
+        -94,
+        -94,
+        -44,
+        -68,
+        18,
+        20,
+        105,
+        6,
+        0,
+        115,
+        -17,
+        45,
+        -57,
+        62,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "ШК_БЕЛЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemPaintBall",
+      "data": 0
+    }
+  },
+  {
+    "name": "ШК_ОРАНЖЕВЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemPaintBall",
+      "data": 1
+    }
+  },
+  {
+    "name": "ШК_СИРЕНЕВЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemPaintBall",
+      "data": 2
+    }
+  },
+  {
+    "name": "ШК_СВЕТЛО_СИНИЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemPaintBall",
+      "data": 3
+    }
+  },
+  {
+    "name": "ШК_ЖЕЛТЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemPaintBall",
+      "data": 4
+    }
+  },
+  {
+    "name": "ШК_ЛАЙМОВЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemPaintBall",
+      "data": 5
+    }
+  },
+  {
+    "name": "ШК_РОЗОВЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemPaintBall",
+      "data": 6
+    }
+  },
+  {
+    "name": "ШК_СЕРЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemPaintBall",
+      "data": 7
+    }
+  },
+  {
+    "name": "ШК_СВЕТЛО_СЕРЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemPaintBall",
+      "data": 8
+    }
+  },
+  {
+    "name": "ШК_БИРЮЗОВЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemPaintBall",
+      "data": 9
+    }
+  },
+  {
+    "name": "ШК_ФИОЛЕТОВЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemPaintBall",
+      "data": 10
+    }
+  },
+  {
+    "name": "ШК_СИНИЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemPaintBall",
+      "data": 11
+    }
+  },
+  {
+    "name": "ШК_КОРИЧНЕВЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemPaintBall",
+      "data": 12
+    }
+  },
+  {
+    "name": "ШК_ЗЕЛЕНЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemPaintBall",
+      "data": 13
+    }
+  },
+  {
+    "name": "ШК_КРАСНЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemPaintBall",
+      "data": 14
+    }
+  },
+  {
+    "name": "ШК_ЧЁРНЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemPaintBall",
+      "data": 15
+    }
+  },
+  {
+    "name": "ШК_ЛЮМ_БЕЛЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemPaintBall",
+      "data": 20
+    }
+  },
+  {
+    "name": "ШК_ЛЮМ_ОРАНЖЕВ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemPaintBall",
+      "data": 21
+    }
+  },
+  {
+    "name": "ШК_ЛЮМ_СИРЕНЕВ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemPaintBall",
+      "data": 22
+    }
+  },
+  {
+    "name": "ШК_ЛЮМ_СВ_СИНИЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemPaintBall",
+      "data": 23
+    }
+  },
+  {
+    "name": "ШК_ЛЮМ_ЖЕЛТЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemPaintBall",
+      "data": 24
+    }
+  },
+  {
+    "name": "ШК_ЛЮМ_ЛАЙМОВЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemPaintBall",
+      "data": 25
+    }
+  },
+  {
+    "name": "ШК_ЛЮМ_РОЗОВЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemPaintBall",
+      "data": 26
+    }
+  },
+  {
+    "name": "ШК_ЛЮМ_СЕРЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemPaintBall",
+      "data": 27
+    }
+  },
+  {
+    "name": "ШК_ЛЮМ_СВ_СЕРЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemPaintBall",
+      "data": 28
+    }
+  },
+  {
+    "name": "ШК_ЛЮМ_БИРЮЗОВ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemPaintBall",
+      "data": 29
+    }
+  },
+  {
+    "name": "ШК_ЛЮМ_ФИОЛЕТОВ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemPaintBall",
+      "data": 30
+    }
+  },
+  {
+    "name": "ШК_ЛЮМ_СИНИЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemPaintBall",
+      "data": 31
+    }
+  },
+  {
+    "name": "ШК_ЛЮМ_КОРИЧНЕВ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemPaintBall",
+      "data": 32
+    }
+  },
+  {
+    "name": "ШК_ЛЮМ_ЗЕЛЕНЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemPaintBall",
+      "data": 33
+    }
+  },
+  {
+    "name": "ШК_ЛЮМ_КРАСНЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemPaintBall",
+      "data": 34
+    }
+  },
+  {
+    "name": "ШК_ЛЮМ_ЧЁРНЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemPaintBall",
+      "data": 35
+    }
+  },
+  {
+    "name": "ПРОДВИНУТ_КАРТА",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 28
+    }
+  },
+  {
+    "name": "ЯДРО_ИСТРЕБЛЕН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 44
+    }
+  },
+  {
+    "name": "БАЗОВАЯ_КАРТА",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 25
+    }
+  },
+  {
+    "name": "ПУСТОЙ_ШАБЛОН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 52
+    }
+  },
+  {
+    "name": "ВЫЧИСЛИТ_ПРОЦ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 23
+    }
+  },
+  {
+    "name": "ВЫЧИСЛИТ_ПРЕСС",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 13
+    }
+  },
+  {
+    "name": "ОТП_ВЫЧ_КОНТУР",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 16
+    }
+  },
+  {
+    "name": "КАРТА_ЁМКОСТИ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 27
+    }
+  },
+  {
+    "name": "КАРТА_СОЗДАНИЯ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 53
+    }
+  },
+  {
+    "name": "КАРТА_НЕЧЁТКОСТ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 29
+    }
+  },
+  {
+    "name": "КАРТА_ИНВЕРТИР",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 31
+    }
+  },
+  {
+    "name": "КАРТА_КР_КАМНЯ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 26
+    }
+  },
+  {
+    "name": "КАРТА_УСКОРЕНИЯ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 30
+    }
+  },
+  {
+    "name": "128_ПРОСТР_КОМП",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 34
+    }
+  },
+  {
+    "name": "16_ПРОСТР_КОМП",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 33
+    }
+  },
+  {
+    "name": "16К_МЭ_КОМП_ХР",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 37
+    }
+  },
+  {
+    "name": "1К_МЭ_КОМП_ХР",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 35
+    }
+  },
+  {
+    "name": "2_ПРОСТР_КОМП",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 32
+    }
+  },
+  {
+    "name": "4К_МЭ_КОМП_ХР",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 36
+    }
+  },
+  {
+    "name": "64К_МЭ_КОМП_ХР",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 38
+    }
+  },
+  {
+    "name": "КРИСТ_ИСТ_КВАРЦ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 0
+    }
+  },
+  {
+    "name": "ЗАР_КРИС_ИСТ_КВ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 1
+    }
+  },
+  {
+    "name": "ПЫЛЬ_ИСТ_КВАРЦА",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 2
+    }
+  },
+  {
+    "name": "МЭ_КОРПУС_ЯЧ_ХР",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 39
+    }
+  },
+  {
+    "name": "ПЫЛЬ_КРАЯ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 46
+    }
+  },
+  {
+    "name": "ИНЖЕНЕРНЫЙ_ПРОЦ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 24
+    }
+  },
+  {
+    "name": "ИНЖЕНЕРН_ПРЕСС",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 14
+    }
+  },
+  {
+    "name": "ОТП_ИНЖ_КОНТУР",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 17
+    }
+  },
+  {
+    "name": "МУКА",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 4
+    }
+  },
+  {
+    "name": "ИЗМЕНЧ_КРИСТАЛЛ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 7
+    }
+  },
+  {
+    "name": "ИЗМЕНЧИВАЯ_ПЫЛЬ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 8
+    }
+  },
+  {
+    "name": "ИЗМЕНЧ_ЖЕМЧУЖ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 9
+    }
+  },
+  {
+    "name": "ЯДРО_ФОРМИРОВАН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 43
+    }
+  },
+  {
+    "name": "ЖЕЛЕЗН_САМОРОД+",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 50
+    }
+  },
+  {
+    "name": "ЛОГИЧЕСКИЙ_ПРОЦ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 22
+    }
+  },
+  {
+    "name": "ЛОГИЧЕСК_ПРЕСС",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 15
+    }
+  },
+  {
+    "name": "ОТП_ЛОГ_КОНТУР",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 18
+    }
+  },
+  {
+    "name": "ШАРИК_МАТЕРИИ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 6
+    }
+  },
+  {
+    "name": "ИМЕНУЮЩИЙ_ПРЕСС",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 21
+    }
+  },
+  {
+    "name": "КВАРЦЕВАЯ_ПЫЛЬ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 3
+    }
+  },
+  {
+    "name": "ЧИСТ_КРИСТ_ИК",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 10
+    }
+  },
+  {
+    "name": "ЧИСТ_ИЗМ_КРИСТ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 12
+    }
+  },
+  {
+    "name": "ЧИСТ_КР_КВАР_НМ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 11
+    }
+  },
+  {
+    "name": "КВАН_ЗАПУТ_СИНГ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 48
+    }
+  },
+  {
+    "name": "КРЕМНИЕВ_ПРЕСС",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 19
+    }
+  },
+  {
+    "name": "ОТП_КРЕМНИЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 20
+    }
+  },
+  {
+    "name": "СИНГУЛЯРНОСТЬ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 47
+    }
+  },
+  {
+    "name": "ПЫЛЬ_НЕБ_КАМНЯ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 45
+    }
+  },
+  {
+    "name": "БЕСПР_ПРИЁМНИК",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 41
+    }
+  },
+  {
+    "name": "БЕСПР_УСИЛИТЕЛЬ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 42
+    }
+  },
+  {
+    "name": "ДЕРЕВ_ШЕСТЕРНЯ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "data": 40
+    }
+  },
+  {
+    "name": "ПЛОСК_ИСТРЕБЛЕН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 300
+    }
+  },
+  {
+    "name": "КАБЕЛЬНЫЙ_ЯКОРЬ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 120
+    }
+  },
+  {
+    "name": "МЭ_З_КАБ_БЕЛЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 20
+    }
+  },
+  {
+    "name": "МЭ_З_КАБ_ОРАНЖ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 21
+    }
+  },
+  {
+    "name": "МЭ_З_КАБ_СИРЕН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 22
+    }
+  },
+  {
+    "name": "МЭ_З_КАБ_СВ_СИН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 23
+    }
+  },
+  {
+    "name": "МЭ_З_КАБ_ЖЁЛТЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 24
+    }
+  },
+  {
+    "name": "МЭ_З_КАБ_ЛАЙМОВ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 25
+    }
+  },
+  {
+    "name": "МЭ_З_КАБ_РОЗОВ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 26
+    }
+  },
+  {
+    "name": "МЭ_З_КАБ_СЕРЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 27
+    }
+  },
+  {
+    "name": "МЭ_З_КАБ_СВ_СЕР",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 28
+    }
+  },
+  {
+    "name": "МЭ_З_КАБ_БИРЮЗ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 29
+    }
+  },
+  {
+    "name": "МЭ_З_КАБ_ФИОЛЕТ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 30
+    }
+  },
+  {
+    "name": "МЭ_З_КАБ_СИНИЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 31
+    }
+  },
+  {
+    "name": "МЭ_З_КАБ_КОРИЧН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 32
+    }
+  },
+  {
+    "name": "МЭ_З_КАБ_ЗЕЛЕН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 33
+    }
+  },
+  {
+    "name": "МЭ_З_КАБ_КРАСН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 34
+    }
+  },
+  {
+    "name": "МЭ_З_КАБ_ЧЁРНЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 35
+    }
+  },
+  {
+    "name": "МЭ_З_КАБ_ИЗМЕНЧ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 36
+    }
+  },
+  {
+    "name": "МЭ_П_КАБ_БЕЛЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 60
+    }
+  },
+  {
+    "name": "МЭ_П_КАБ_ОРАНЖ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 61
+    }
+  },
+  {
+    "name": "МЭ_П_КАБ_СИРЕН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 62
+    }
+  },
+  {
+    "name": "МЭ_П_КАБ_СВ_СИН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 63
+    }
+  },
+  {
+    "name": "МЭ_П_КАБ_ЖЁЛТЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 64
+    }
+  },
+  {
+    "name": "МЭ_П_КАБ_ЛАЙМОВ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 65
+    }
+  },
+  {
+    "name": "МЭ_П_КАБ_РОЗОВ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 66
+    }
+  },
+  {
+    "name": "МЭ_П_КАБ_СЕРЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 67
+    }
+  },
+  {
+    "name": "МЭ_П_КАБ_СВ_СЕР",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 68
+    }
+  },
+  {
+    "name": "МЭ_П_КАБ_БИРЮЗ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 69
+    }
+  },
+  {
+    "name": "МЭ_П_КАБ_ФИОЛЕТ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 70
+    }
+  },
+  {
+    "name": "МЭ_П_КАБ_СИНИЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 71
+    }
+  },
+  {
+    "name": "МЭ_П_КАБ_КОРИЧН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 72
+    }
+  },
+  {
+    "name": "МЭ_П_КАБ_ЗЕЛЕН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 73
+    }
+  },
+  {
+    "name": "МЭ_П_КАБ_КРАСН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 74
+    }
+  },
+  {
+    "name": "МЭ_П_КАБ_ЧЁРНЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 75
+    }
+  },
+  {
+    "name": "МЭ_П_КАБ_ИЗМЕНЧ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 76
+    }
+  },
+  {
+    "name": "МЭ_С_КАБ_БЕЛЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 0
+    }
+  },
+  {
+    "name": "МЭ_С_КАБ_ОРАНЖ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 1
+    }
+  },
+  {
+    "name": "МЭ_С_КАБ_СИРЕН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 2
+    }
+  },
+  {
+    "name": "МЭ_С_КАБ_СВ_СИН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 3
+    }
+  },
+  {
+    "name": "МЭ_С_КАБ_ЖЁЛТЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 4
+    }
+  },
+  {
+    "name": "МЭ_С_КАБ_ЛАЙМОВ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 5
+    }
+  },
+  {
+    "name": "МЭ_С_КАБ_РОЗОВ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 6
+    }
+  },
+  {
+    "name": "МЭ_С_КАБ_СЕРЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 7
+    }
+  },
+  {
+    "name": "МЭ_С_КАБ_СВ_СЕР",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 8
+    }
+  },
+  {
+    "name": "МЭ_С_КАБ_БИРЮЗ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 9
+    }
+  },
+  {
+    "name": "МЭ_С_КАБ_ФИОЛЕТ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 10
+    }
+  },
+  {
+    "name": "МЭ_С_КАБ_СИНИЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 11
+    }
+  },
+  {
+    "name": "МЭ_С_КАБ_КОРИЧН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 12
+    }
+  },
+  {
+    "name": "МЭ_С_КАБ_ЗЕЛЕН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 13
+    }
+  },
+  {
+    "name": "МЭ_С_КАБ_КРАСН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 14
+    }
+  },
+  {
+    "name": "МЭ_С_КАБ_ЧЁРНЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 15
+    }
+  },
+  {
+    "name": "МЭ_С_КАБ_ИЗМЕНЧ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 16
+    }
+  },
+  {
+    "name": "МЭ_У_КАБ_БЕЛЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 40
+    }
+  },
+  {
+    "name": "МЭ_У_КАБ_ОРАНЖ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 41
+    }
+  },
+  {
+    "name": "МЭ_У_КАБ_СИРЕН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 42
+    }
+  },
+  {
+    "name": "МЭ_У_КАБ_СВ_СИН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 43
+    }
+  },
+  {
+    "name": "МЭ_У_КАБ_ЖЁЛТЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 44
+    }
+  },
+  {
+    "name": "МЭ_У_КАБ_ЛАЙМОВ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 45
+    }
+  },
+  {
+    "name": "МЭ_У_КАБ_РОЗОВ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 46
+    }
+  },
+  {
+    "name": "МЭ_У_КАБ_СЕРЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 47
+    }
+  },
+  {
+    "name": "МЭ_У_КАБ_СВ_СЕР",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 48
+    }
+  },
+  {
+    "name": "МЭ_У_КАБ_БИРЮЗ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 49
+    }
+  },
+  {
+    "name": "МЭ_У_КАБ_ФИОЛЕТ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 50
+    }
+  },
+  {
+    "name": "МЭ_У_КАБ_СИНИЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 51
+    }
+  },
+  {
+    "name": "МЭ_У_КАБ_КОРИЧН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 52
+    }
+  },
+  {
+    "name": "МЭ_У_КАБ_ЗЕЛЕН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 53
+    }
+  },
+  {
+    "name": "МЭ_У_КАБ_КРАСН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 54
+    }
+  },
+  {
+    "name": "МЭ_У_КАБ_ЧЁРНЫЙ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 55
+    }
+  },
+  {
+    "name": "МЭ_У_КАБ_ИЗМЕНЧ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 56
+    }
+  },
+  {
+    "name": "МЭ_МОН_ПРЕОБРАЗ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 420
+    }
+  },
+  {
+    "name": "МЭ_ТЕРМ_СОЗДАН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 360
+    }
+  },
+  {
+    "name": "ТЁМН_ОСВ_ПАНЕЛЬ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 200
+    }
+  },
+  {
+    "name": "МЭ_ШИНА_ЭКСПОРТ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 260
+    }
+  },
+  {
+    "name": "ПЛОСК_ФОРМИРОВ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 320
+    }
+  },
+  {
+    "name": "ПЛОСК_ШЕЛК_ИСТР",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 301
+    }
+  },
+  {
+    "name": "МЭ_ШИНА_ИМПОРТА",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 240
+    }
+  },
+  {
+    "name": "МЭ_ИНТЕРФЕЙС_ПЛ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 440
+    }
+  },
+  {
+    "name": "МЭ_ТЕРМ_ИНТЕРФ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 480
+    }
+  },
+  {
+    "name": "МЭ_ИНВ_ШИН_ПЕР",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 100
+    }
+  },
+  {
+    "name": "МЭ_ИЗЛУЧ_УРОВНЯ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 280
+    }
+  },
+  {
+    "name": "ЯРК_ОСВ_ПАНЕЛЬ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 160
+    }
+  },
+  {
+    "name": "ТУННЕЛЬ_ТТ_EU",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 465
+    }
+  },
+  {
+    "name": "ТУННЕЛЬ_ТТ_ПРЕД",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 462
+    }
+  },
+  {
+    "name": "ТУННЕЛЬ_ТТ_СВЕТ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 467
+    }
+  },
+  {
+    "name": "ТУННЕЛЬ_ТТ_ЖИДК",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 463
+    }
+  },
+  {
+    "name": "ТУННЕЛЬ_ТТ_МЭ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 460
+    }
+  },
+  {
+    "name": "ТУННЕЛЬ_ТТ_RF",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 466
+    }
+  },
+  {
+    "name": "ТУННЕЛЬ_ТТ_КР_К",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 461
+    }
+  },
+  {
+    "name": "МЭ_ТЕРМ_ШАБЛОН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 340
+    }
+  },
+  {
+    "name": "КВ_ОПТ_ВОЛОКНО",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 140
+    }
+  },
+  {
+    "name": "ОСВ_ПАНЕЛЬ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 180
+    }
+  },
+  {
+    "name": "МЭ_ШИНА_ХРАНЕН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 220
+    }
+  },
+  {
+    "name": "МЭ_МОНИТ_ХРАНЕН",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 400
+    }
+  },
+  {
+    "name": "МЭ_ТЕРМИНАЛ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 380
+    }
+  },
+  {
+    "name": "МЭ_ШИНА_ПЕРЕКЛ",
+    "itemStack": {
+      "id": "appliedenergistics2:item.ItemMultiPart",
+      "data": 80
+    }
+  }
+]
